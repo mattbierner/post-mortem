@@ -1,0 +1,20 @@
+{
+  "name": "post-mortem",
+  "version": "1.0.0",
+  "description": "WIP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbierner/post-mortem.git"
+  },
+  "keywords": [],
+  "author": "Matt Bierner <mattbierner@gmail.com> (http://mattbierner.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattbierner/post-mortem/issues"
+  },
+  "homepage": "https://github.com/mattbierner/post-mortem#readme"
+}

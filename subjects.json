@@ -1,0 +1,27 @@
+[
+    {
+        "name": "David Bowie",
+        "date_of_death": "10 January, 2016",
+        "first_death_edit": 699199631
+    },
+    {
+        "name": "Michael Jackson",
+        "first_death_edit": 298631851,
+        "date_of_death": "June 25, 2009"
+    },
+    {
+        "name": "Ronald Reagan",
+        "first_death_edit": 3956776,
+        "date_of_death": "June 5, 2004"
+    },
+    {
+        "name": "Osama bin Laden",
+        "first_death_edit": 426996509,
+        "date_of_death": "May 2, 2011"
+    },
+    {
+        "name": "Prince (musician)",
+        "first_death_edit": 716414868,
+        "date_of_death": "April 21, 2016"
+    }
+]
