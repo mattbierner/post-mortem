@@ -25,12 +25,6 @@ body {
     height: 100%;
 }
 
-.page {
-    max-width: 600px;
-    margin: 0 auto;
-}
-
-
 .timeline {
     height: 80px;
     border-top: 1px solid rgba(0, 0, 0, 0.4);
@@ -63,4 +57,14 @@ body {
 .scrubber {
     border: 1px solid black;
     height: 100%;
+}
+
+
+
+.revision-info {
+    width: 300px;
+    position: absolute;
+    top: 0;
+    margin-left: calc(-300px - 30px);
+    background: blue;
 }

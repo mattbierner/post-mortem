@@ -5,6 +5,7 @@ import styled from 'styled-components';
 import Timeline from "./timeline";
 import Page from "./page";
 import Subject from "./subject";
+import RevisionInfo from "./revision_info";
 
 const SPAN = 1000 * 60 * 60 * 24 * 7
 
@@ -65,7 +66,10 @@ class Index extends React.Component<null, IndexState> {
                         <option value="db">David Bowie</option>
                     </select>
                 </header>
-                <Page subject={this.state.subject} revision={this.state.revision} />
+                <article style={{ width: '100%', flex: 1, position: 'relative', maxWidth: '600px', margin: '0 auto' }}>
+                    <Page subject={this.state.subject} revision={this.state.revision} />
+                    <RevisionInfo subject={this.state.subject} revision={this.state.revision} />
+                </article>
                 <Timeline subject={this.state.subject} progress={this.state.progress} onDrag={this.onDrag.bind(this)} />
             </Container>
         )

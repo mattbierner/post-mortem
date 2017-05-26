@@ -54,12 +54,14 @@ export interface Revision {
 export default class Subject {
     private constructor(
         private readonly _revisions: Revision[]
-    ) {
-
-    }
+    ) { }
 
     public get revisions(): Revision[] {
         return this._revisions;
+    }
+
+    public getRevision(revisionId: string): Revision | undefined {
+        return this._revisions.find(x => '' + x.revid === revisionId);
     }
 
     public static create(): Promise<Subject> {
