@@ -31,3 +31,4 @@ server
 
 data/
 *.pyc
+.vscode/.ropeproject

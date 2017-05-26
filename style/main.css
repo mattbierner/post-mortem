@@ -1,0 +1,47 @@
+
+html,
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#content,
+#index {
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+#index {
+    height: 100%;
+}
+
+.page {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+.timeline {
+    position: relative;
+    height: 80px;
+    background: pink;
+}
+.timeline li {
+    list-style: none;
+    pointer-events: none;
+}
+
+.scrubber {
+    border: 1px solid black;
+    height: 100%;
+}

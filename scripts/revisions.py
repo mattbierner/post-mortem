@@ -6,7 +6,9 @@ BATCH_SIZE = 'max'
 
 
 def get_revisions(title, count=1, **kwargs):
-    """Get revisions of an article"""
+    """
+    Get revisions of an article
+    """
     response = wikipedia_api.make_request(
         action='query',
         prop='revisions',
@@ -26,7 +28,9 @@ def get_revisions(title, count=1, **kwargs):
 
 
 def get_forward_revisions(title, revision_id, time_delta):
-    """Get all revisions of an article after revision_id"""
+    """
+    Get all revisions of an article after revision_id
+    """
     start, _ = get_revisions(title, rvstartid=revision_id, count=1)
     start_time = wikipedia_api.iso_to_datetime(start[0]['timestamp'])
     end_time = start_time + time_delta
@@ -51,7 +55,9 @@ def get_forward_revisions(title, revision_id, time_delta):
 
 
 def get_backward_revisions(title, revision_id, time_delta):
-    """Get all revisions of an article leading up to revision_id"""
+    """
+    Get all revisions of an article leading up to revision_id
+    """
     start, _ = get_revisions(title, rvstartid=revision_id, count=1)
     start_time = wikipedia_api.iso_to_datetime(start[0]['timestamp'])
     end_time = start_time - time_delta
