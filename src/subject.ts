@@ -31,11 +31,6 @@ const loadSubjectJson = (name: string): Promise<Revision[]> => {
             }
         });
 
-        const start = revisions[0].timestamp
-        for (const revision of revisions) {
-            revision.delta = revision.timestamp.diff(start);
-        }
-
         return revisions;
     })
 };
@@ -52,9 +47,21 @@ export interface Revision {
 }
 
 export default class Subject {
-    private constructor(
-        private readonly _revisions: Revision[]
-    ) { }
+    private readonly _revisions: Revision[] = []
+    public readonly base: Revision
+
+    private constructor(revisions: Revision[]) {
+        // revision 0 is actually starting content
+        // revision 1 is first death revision
+        this.base = revisions[0]
+        this._revisions = revisions.slice(1)
+
+        // Set delta
+        const start = this._revisions[0].timestamp
+        for (const revision of this._revisions) {
+            revision.delta = revision.timestamp.diff(start)
+        }
+    }
 
     public get revisions(): Revision[] {
         return this._revisions;

@@ -54,6 +54,10 @@ body {
     background: rgba(0, 0, 0, 0.5);
 }
 
+.revision-marker.current-revision:before {
+    background: red;
+}
+
 .scrubber {
     border: 1px solid black;
     height: 100%;

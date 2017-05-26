@@ -18,8 +18,8 @@ const getContent = (url: string): Promise<string> => {
     })
 }
 
-const getRevisionContent = (): Promise<string> =>
-    getContent('./data/content/David Bowie/699199631.html');
+const getBaseContent = (subject: Subject): Promise<string> =>
+    getContent(`./data/content/David Bowie/${subject.base.revid}.html`);
 
 
 const getDiffContent = (revision: string): Promise<string> =>
@@ -55,9 +55,12 @@ export default class Page extends React.Component<PageProps, PageState> {
     constructor(props: PageProps) {
         super(props);
 
-        this.baseContent = getRevisionContent();
         this.state = {
             pageContent: undefined
+        }
+
+        if (this.props.subject) {
+            this.baseContent = getBaseContent(this.props.subject);
         }
 
         if (props.revision) {
@@ -66,6 +69,10 @@ export default class Page extends React.Component<PageProps, PageState> {
     }
 
     componentWillReceiveProps(newProps: PageProps) {
+        if (newProps.subject !== this.props.subject) {
+            this.baseContent = getBaseContent(newProps.subject);
+        }
+
         if (newProps.revision !== this.props.revision) {
             this.updateRevision(newProps.revision);
         }

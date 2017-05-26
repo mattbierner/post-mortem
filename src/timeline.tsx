@@ -5,16 +5,17 @@ import Subject, { Revision } from './subject'
 
 const SPAN = 1000 * 60 * 60 * 24 * 7
 
-class RevisionMarker extends React.Component<{ revision: Revision }, null> {
+class RevisionMarker extends React.Component<{ revision: Revision, isCurrent: boolean }, null> {
     render() {
-        const distrib = 20;
+        const distrib = 20
+        const style: any = {
+            position: 'absolute',
+            left: this.props.revision.delta / SPAN * 100 + '%',
+            marginTop: Math.round(-distrib + Math.random() * (distrib * 2)) + 'px'
+        }
         return <li
-            className='revision-marker'
-            style={{
-                position: 'absolute',
-                left: this.props.revision.delta / SPAN * 100 + '%',
-                marginTop: Math.round(-distrib + Math.random() * (distrib * 2)) + 'px'
-            }} />
+            className={'revision-marker ' + (this.props.isCurrent ? 'current-revision' : '')}
+            style={style} />
     }
 }
 
@@ -29,6 +30,8 @@ class TimelineScrubber extends React.Component<{ progress: number }, null> {
 
 interface TimelineProps {
     subject?: Subject
+    currentRevision?: string
+
     progress: number
     onDrag: (progress: number) => void
 }
@@ -84,7 +87,10 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
 
         if (this.props.subject) {
             for (const revision of this.props.subject.revisions) {
-                revisions.push(<RevisionMarker revision={revision} key={revision.revid} />);
+                revisions.push(<RevisionMarker
+                    revision={revision}
+                    isCurrent={revision.revid + '' === this.props.currentRevision}
+                    key={revision.revid} />);
             }
         }
 

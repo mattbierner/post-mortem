@@ -70,7 +70,11 @@ class Index extends React.Component<null, IndexState> {
                     <Page subject={this.state.subject} revision={this.state.revision} />
                     <RevisionInfo subject={this.state.subject} revision={this.state.revision} />
                 </article>
-                <Timeline subject={this.state.subject} progress={this.state.progress} onDrag={this.onDrag.bind(this)} />
+                <Timeline
+                    subject={this.state.subject}
+                    progress={this.state.progress}
+                    onDrag={this.onDrag.bind(this)}
+                    currentRevision={this.state.revision} />
             </Container>
         )
     }

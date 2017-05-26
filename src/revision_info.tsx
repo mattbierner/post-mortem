@@ -44,6 +44,9 @@ export default class RevisionInfo extends React.Component<PageProps, null> {
                     <br />
                     After First Death Edit
                 </h3>
+                <p>
+                    {revision.comment}
+                </p>
             </div>
         )
     }
