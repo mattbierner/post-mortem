@@ -7,9 +7,14 @@ const SPAN = 1000 * 60 * 60 * 24 * 7
 
 class RevisionMarker extends React.Component<{ revision: Revision }, null> {
     render() {
-        return <li>
-            <b style={{ position: 'absolute', top: '0', left: this.props.revision.delta / SPAN * 100 + '%' }}>X</b>
-        </li>
+        const distrib = 20;
+        return <li
+            className='revision-marker'
+            style={{
+                position: 'absolute',
+                left: this.props.revision.delta / SPAN * 100 + '%',
+                marginTop: Math.round(-distrib + Math.random() * (distrib * 2)) + 'px'
+            }} />
     }
 }
 
@@ -46,7 +51,7 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
             return;
         this.setState({ dragging: true })
         const progress = this.getProgressFromMouseEvent(event);
-        //  this.props.onDrag(progress);
+        this.props.onDrag(progress);
     }
 
     onMouseUp(event: React.MouseEvent<Timeline>) {
@@ -83,7 +88,11 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
             }
         }
 
-        return <div className="timeline" onMouseDown={this.onMouseDown.bind(this)} onMouseUp={this.onMouseUp.bind(this)} onMouseMove={this.onMouseMove.bind(this)}>
+        return <div
+            className="timeline"
+            onMouseDown={this.onMouseDown.bind(this)}
+            onMouseUp={this.onMouseUp.bind(this)}
+            onMouseMove={this.onMouseMove.bind(this)}>
             <ol>{revisions}</ol>
             <TimelineScrubber progress={this.props.progress} />
         </div>

@@ -26,19 +26,38 @@ body {
 }
 
 .page {
-    max-width: 1000px;
+    max-width: 600px;
     margin: 0 auto;
 }
 
 
 .timeline {
-    position: relative;
     height: 80px;
-    background: pink;
+    border-top: 1px solid rgba(0, 0, 0, 0.4);
+    position: relative;
+
 }
+.timeline ol {
+    margin: 40px 8px;
+    position: relative;
+    height: 100%;
+}
+
 .timeline li {
     list-style: none;
     pointer-events: none;
+  
+}
+
+.revision-marker:before {
+    content: '';
+    display: block;
+    width: 10px;
+    height: 10px;
+    margin-left: -5px;
+    margin-top: -5px;
+    border-radius: 99px;
+    background: rgba(0, 0, 0, 0.5);
 }
 
 .scrubber {

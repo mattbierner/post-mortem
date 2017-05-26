@@ -17729,8 +17729,12 @@ var RevisionMarker = (function (_super) {
         return _super !== null && _super.apply(this, arguments) || this;
     }
     RevisionMarker.prototype.render = function () {
-        return React.createElement("li", null,
-            React.createElement("b", { style: { position: 'absolute', top: '0', left: this.props.revision.delta / SPAN * 100 + '%' } }, "X"));
+        var distrib = 20;
+        return React.createElement("li", { className: 'revision-marker', style: {
+                position: 'absolute',
+                left: this.props.revision.delta / SPAN * 100 + '%',
+                marginTop: Math.round(-distrib + Math.random() * (distrib * 2)) + 'px'
+            } });
     };
     return RevisionMarker;
 }(React.Component));
@@ -17758,7 +17762,7 @@ var Timeline = (function (_super) {
             return;
         this.setState({ dragging: true });
         var progress = this.getProgressFromMouseEvent(event);
-        //  this.props.onDrag(progress);
+        this.props.onDrag(progress);
     };
     Timeline.prototype.onMouseUp = function (event) {
         if (!this.state.dragging)
