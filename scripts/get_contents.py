@@ -6,7 +6,7 @@ from datetime import timedelta
 import parse as parse
 
 
-parser = argparse.ArgumentParser(description='Get revisions.')
+parser = argparse.ArgumentParser(description='Get revisions')
 parser.add_argument('input_file')
 parser.add_argument('out_dir')
 

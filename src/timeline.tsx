@@ -22,10 +22,6 @@ class MarkerPositioner {
             table.push({ weight: count + 1 - i, id: -i * step })
         }
 
-
-        const diff = 1000 * 60 * 60
-
-
         for (const r of revisions) {
             const d = rwc(table)
             this.positions.set(r.revid, d)
@@ -119,7 +115,7 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
     }
 
     private getProgressFromMouseEvent(event: React.MouseEvent<Timeline>) {
-        const node = ReactDOM.findDOMNode(this);
+        const node = ReactDOM.findDOMNode(this).getElementsByClassName('timeline-content')[0];
         const rect = node.getBoundingClientRect();
         const progress = Math.max(0, Math.min(1.0, (event.pageX - rect.left) / rect.width));
         return progress
@@ -139,12 +135,14 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
         }
 
         return <div
-            className="timeline"
+            className='timeline'
             onMouseDown={this.onMouseDown.bind(this)}
             onMouseUp={this.onMouseUp.bind(this)}
             onMouseMove={this.onMouseMove.bind(this)}>
-            <ol>{revisions}</ol>
-            <TimelineScrubber progress={this.props.progress} />
+            <div className='timeline-content'>
+                <ol>{revisions}</ol>
+                <TimelineScrubber progress={this.props.progress} />
+            </div>
         </div>
     }
 }

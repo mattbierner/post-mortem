@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import timedelta
 from matplotlib.dates import DateFormatter, DayLocator, epoch2num
 import matplotlib.pyplot as plt
 import numpy as np

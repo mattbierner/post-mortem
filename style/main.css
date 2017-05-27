@@ -40,3 +40,30 @@ body {
     margin: 0 auto;
 }
 
+
+
+@media only screen and (max-width: 1200px)  {
+    .wrapper {
+        padding-left: 200px;
+    }
+}
+
+@media only screen and (max-width: 1000px)  {
+    .wrapper {
+        max-width: 500px;
+        padding-left: 240px;
+    }
+}
+
+@media only screen and (max-width: 900px)  {
+    .wrapper {
+        padding-left: 300px;
+    }
+}
+
+@media only screen and (max-width: 800px)  {
+    .wrapper {
+        padding-left: 0;
+        max-width: 600px;
+    }
+}

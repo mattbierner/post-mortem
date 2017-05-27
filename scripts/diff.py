@@ -22,7 +22,7 @@ from bs4 import BeautifulSoup
 
 def diff_html(original_content, input_file):
     """
-    Generate a html diff between two html files by adding 
+    Generate a html diff between two html files by adding
     `<ins>` and `<del>` tags.
     """
     with codecs.open(input_file, 'r', 'utf-8') as right:
@@ -35,10 +35,10 @@ def diff_html(original_content, input_file):
     soup = BeautifulSoup(content, 'lxml')
 
     # Remove link: additions
-    for a in soup.findAll(['a', 'ins', 'del']):
-        if a.text and re.search(r'\sLink:\s.+$', a.text.encode('utf-8'), re.MULTILINE | re.UNICODE):
+    for a in soup.findAll(['a']):
+        if a.text and re.search(r'\bLink:\s.+$', a.text.encode('utf-8'), re.MULTILINE | re.UNICODE):
             a.string = re.sub(
-                r'\sLink:\s.+$', u'', a.text, re.MULTILINE | re.UNICODE)
+                r'\bLink:\s.+$', u'', a.text, re.MULTILINE | re.UNICODE)
 
     # Remove empty tags
     for ins in soup.findAll(['ins', 'del']):

@@ -19,11 +19,11 @@ const getContent = (url: string): Promise<string> => {
 }
 
 const getBaseContent = (subject: Subject): Promise<string> =>
-    getContent(`./data/content/David Bowie/${subject.base.revid}.html`);
+    getContent(`./data/content/${subject.name}/${subject.base.revid}.html`);
 
 
-const getDiffContent = (revision: string): Promise<string> =>
-    getContent(`./data/diff/David Bowie/${revision}.diff`);
+const getDiffContent = (subject: Subject, revision: string): Promise<string> =>
+    getContent(`./data/diff/${subject.name}/${revision}.diff`);
 
 
 interface PageProps {
@@ -60,11 +60,11 @@ export default class Page extends React.Component<PageProps, PageState> {
         }
 
         if (this.props.subject) {
-            this.baseContent = getBaseContent(this.props.subject);
-        }
+            this.baseContent = getBaseContent(this.props.subject)
 
-        if (props.revision) {
-            this.updateRevision(props.revision);
+            if (props.revision) {
+                this.updateRevision(this.props.subject, props.revision)
+            }
         }
     }
 
@@ -74,13 +74,13 @@ export default class Page extends React.Component<PageProps, PageState> {
         }
 
         if (newProps.revision !== this.props.revision) {
-            this.updateRevision(newProps.revision);
+            this.updateRevision(newProps.subject, newProps.revision);
         }
     }
 
-    private async updateRevision(revision: string): Promise<void> {
+    private async updateRevision(subject: Subject, revision: string): Promise<void> {
         const base = await this.baseContent
-        const patch = diff.parsePatch(await getDiffContent(revision))[0]
+        const patch = diff.parsePatch(await getDiffContent(subject, revision))[0]
         if (revision === this.props.revision) {
             const r = applyPatch(patch, base);
             this._iframe.contentWindow.postMessage(r, '*');
