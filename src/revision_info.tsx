@@ -1,23 +1,20 @@
-import * as React from "react";
-import styled from 'styled-components';
-import Subject, { Revision } from "./subject";
-import * as moment from 'moment';
+import * as React from "react"
+import * as moment from 'moment'
+import { Subject, Revision } from './subject'
 
 interface PageProps {
-    subject?: Subject;
-    revision: string;
+    subject?: Subject
+    revision: string
 }
 
-const Duration = styled.span`
-    white-space: pre;
-    font-family: monospace;
-`
-
-const DurationUnit = styled.span`
-    font-weigth: bold;
-    font-size: 0.6em;
-    font-family: sans-serif;
-`
+class Duration extends React.Component<{ value: number, unit: string }, null> {
+    render() {
+        return <span>
+            <span className='duration-value'>{pad2(this.props.value)}</span>
+            <span className='duration-unit'>{this.props.unit}</span>
+        </span>
+    }
+}
 
 const pad2 = (num: number) => {
     const str = '' + num;
@@ -34,16 +31,13 @@ export default class RevisionInfo extends React.Component<PageProps, null> {
 
         return (
             <div className="revision-info">
-                <p>{revision.timestamp.format('MMMM Do YYYY, h:mm:ss a')}</p>
-
-                <h3>
-                    <Duration>{pad2(delta.days())} <DurationUnit>days</DurationUnit> </Duration>
-                    <Duration>{pad2(delta.hours())} <DurationUnit>hours</DurationUnit> </Duration>
-                    <Duration>{pad2(delta.minutes())} <DurationUnit>minutes</DurationUnit> </Duration>
-                    <Duration>{pad2(delta.seconds())} <DurationUnit>seconds</DurationUnit> </Duration>
-                    <br />
-                    After First Death Edit
-                </h3>
+                <div className='duration'>
+                    <Duration value={delta.days()} unit='days' />
+                    <Duration value={delta.hours()} unit='hours' />
+                    <Duration value={delta.minutes()} unit='minutes' />
+                    <Duration value={delta.seconds()} unit='seconds' />
+                </div>
+                <p className='duration-label'>After First Death Edit</p>
                 <p>
                     {revision.comment}
                 </p>

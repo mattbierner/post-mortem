@@ -1,7 +1,7 @@
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
 
-import Subject, { Revision } from './subject'
+import { Subject, Revision } from './subject'
 
 const SPAN = 1000 * 60 * 60 * 24 * 7
 

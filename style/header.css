@@ -1,0 +1,46 @@
+#index > header {
+    text-align: center;
+}
+
+#index > header > div {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    position: absolute;
+    align-items: center;
+
+    top: 0;
+    margin-left: calc(-300px - 30px);
+}
+
+
+#index > header > div > * {
+    display: block;
+
+}
+
+#index > header .logo {
+    height: 120px;
+    padding-bottom: 0.8em;
+}
+
+#index > header nav {
+    display: flex;
+    flex-direction: row;
+    padding: 0.4em 0;
+    padding-bottom: 1em;
+}
+
+#index > header nav a {
+    display: block;
+    margin: 0 1em;
+}
+
+@media only screen and (max-width: 1000px)  {
+    #index > header > div {
+        width: 100%;
+        position: initial;
+        margin-left: 0;
+        text-align: center;
+    }
+}

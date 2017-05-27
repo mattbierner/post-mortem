@@ -4,8 +4,9 @@ import styled from 'styled-components';
 
 import Timeline from "./timeline";
 import Page from "./page";
-import Subject from "./subject";
+import { Subject, SubjectInfo, getSubjectInfo } from "./subject";
 import RevisionInfo from "./revision_info";
+import SubjectSelector from "./subject_selector";
 
 const SPAN = 1000 * 60 * 60 * 24 * 7
 
@@ -19,25 +20,39 @@ const Container = styled.div`
 `
 
 interface IndexState {
+    subjectInfo?: SubjectInfo[]
     subject?: Subject
     revision?: string
     progress: number
 }
 
 class Index extends React.Component<null, IndexState> {
+
     constructor() {
-        super();
+        super()
+
+        const subjects = getSubjectInfo()
+
         this.state = {
-            progress: 0
+            progress: 0,
+            subjectInfo: subjects
         }
 
-        Subject.create().then(subject => {
+        this.setSubject(subjects[0].name)
+    }
+
+    private setSubject(subjectName: string): void {
+        Subject.create(subjectName).then(subject => {
             this.setState({
                 subject,
                 revision: '' + subject.revisions[0].revid
             })
-            this.updateRevision(this.state.progress, subject);
+            this.updateRevision(this.state.progress, subject)
         })
+    }
+
+    private onSelectedSubjectChanged(subjectName: string): void {
+        this.setSubject(subjectName)
     }
 
     private onDrag(progress: number) {
@@ -60,13 +75,20 @@ class Index extends React.Component<null, IndexState> {
     render() {
         return (
             <Container id="index">
-                <header>
-                    <img alt="Post Mortem" src="assets/logo.svg" />
-                    <select>
-                        <option value="db">David Bowie</option>
-                    </select>
+                <header className='wrapper'>
+                    <div>
+                        <img className='logo' alt="Post Mortem" src='assets/logo.svg' />
+                        <nav>
+                            <a href="#">About</a>
+                            <a href="#">Source</a>
+                        </nav>
+                        <SubjectSelector
+                            subjects={this.state.subjectInfo}
+                            currentSubject={this.state.subject}
+                            onChange={this.onSelectedSubjectChanged.bind(this)} />
+                    </div>
                 </header>
-                <article style={{ width: '100%', flex: 1, position: 'relative', maxWidth: '600px', margin: '0 auto' }}>
+                <article className="wrapper" style={{ flex: 1 }}>
                     <Page subject={this.state.subject} revision={this.state.revision} />
                     <RevisionInfo subject={this.state.subject} revision={this.state.revision} />
                 </article>

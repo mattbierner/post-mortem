@@ -1,0 +1,42 @@
+.revision-info {
+    width: 300px;
+    position: absolute;
+    top: 200px;
+    margin-left: calc(-300px - 30px);
+}
+
+
+.duration {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+
+.duration-label {
+    margin-top: 0.2em;
+}
+
+.duration > * {
+    display: block;
+    padding: 0 0.4em;
+}
+
+.duration-value {
+    white-space: pre;
+    font-family: monospace;
+    font-size: 1.8em;
+}
+
+.duration-unit {
+    font-weight: bold;
+    font-size: 0.7em;
+    font-style: italic;
+}
+
+@media only screen and (max-width: 800px)  {
+    .revision-info {
+        display: none;
+    }
+}
+

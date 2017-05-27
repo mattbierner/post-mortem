@@ -17641,7 +17641,8 @@ var Page = (function (_super) {
     };
     Page.prototype.render = function () {
         var _this = this;
-        return (React.createElement("iframe", { className: "page", sandbox: "allow-scripts allow-popups", frameBorder: "0", width: "100%", height: "100%", style: { width: '100%', flex: 1 }, srcDoc: page, ref: function (element) { _this._iframe = element; }, onLoad: this.onLoad.bind(this) }));
+        return (React.createElement("div", { className: 'page' },
+            React.createElement("iframe", { sandbox: 'allow-scripts allow-popups', frameBorder: '0', width: '100%', height: '100%', style: { flex: 1 }, srcDoc: page, ref: function (element) { _this._iframe = element; }, onLoad: this.onLoad.bind(this) })));
     };
     Page.prototype.onLoad = function () {
         this._iframe.contentWindow.postMessage(this.state.pageContent, '*');
@@ -17682,8 +17683,9 @@ var loadSubjectJson = function (name) {
     });
 };
 var Subject = (function () {
-    function Subject(revisions) {
+    function Subject(name, revisions) {
         this._revisions = [];
+        this.name = name;
         // revision 0 is actually starting content
         // revision 1 is first death revision
         this.base = revisions[0];
@@ -17705,15 +17707,16 @@ var Subject = (function () {
     Subject.prototype.getRevision = function (revisionId) {
         return this._revisions.find(function (x) { return '' + x.revid === revisionId; });
     };
-    Subject.create = function () {
-        return loadSubjectJson('David Bowie')
-            .then(function (revisions) {
-            return new Subject(revisions);
-        });
+    Subject.create = function (name) {
+        return loadSubjectJson(name)
+            .then(function (revisions) { return new Subject(name, revisions); });
     };
     return Subject;
 }());
-exports.default = Subject;
+exports.Subject = Subject;
+exports.getSubjectInfo = function () {
+    return JSON.parse(__webpack_require__(333));
+};
 
 
 /***/ }),
@@ -17850,24 +17853,34 @@ var timeline_1 = __webpack_require__(86);
 var page_1 = __webpack_require__(84);
 var subject_1 = __webpack_require__(85);
 var revision_info_1 = __webpack_require__(332);
+var subject_selector_1 = __webpack_require__(334);
 var SPAN = 1000 * 60 * 60 * 24 * 7;
 var Container = (_a = ["\n    width: 100%;\n    height: 100%;\n    position: relative;\n    display: flex;\n    flex-direction: column;\n"], _a.raw = ["\n    width: 100%;\n    height: 100%;\n    position: relative;\n    display: flex;\n    flex-direction: column;\n"], styled_components_1.default.div(_a));
 var Index = (function (_super) {
     __extends(Index, _super);
     function Index() {
         var _this = _super.call(this) || this;
+        var subjects = subject_1.getSubjectInfo();
         _this.state = {
-            progress: 0
+            progress: 0,
+            subjectInfo: subjects
         };
-        subject_1.default.create().then(function (subject) {
+        _this.setSubject(subjects[0].name);
+        return _this;
+    }
+    Index.prototype.setSubject = function (subjectName) {
+        var _this = this;
+        subject_1.Subject.create(subjectName).then(function (subject) {
             _this.setState({
                 subject: subject,
                 revision: '' + subject.revisions[0].revid
             });
             _this.updateRevision(_this.state.progress, subject);
         });
-        return _this;
-    }
+    };
+    Index.prototype.onSelectedSubjectChanged = function (subjectName) {
+        this.setSubject(subjectName);
+    };
     Index.prototype.onDrag = function (progress) {
         this.setState({ progress: progress });
         this.updateRevision(progress, this.state.subject);
@@ -17886,11 +17899,14 @@ var Index = (function (_super) {
     };
     Index.prototype.render = function () {
         return (React.createElement(Container, { id: "index" },
-            React.createElement("header", null,
-                React.createElement("img", { alt: "Post Mortem", src: "assets/logo.svg" }),
-                React.createElement("select", null,
-                    React.createElement("option", { value: "db" }, "David Bowie"))),
-            React.createElement("article", { style: { width: '100%', flex: 1, position: 'relative', maxWidth: '600px', margin: '0 auto' } },
+            React.createElement("header", { className: 'wrapper' },
+                React.createElement("div", null,
+                    React.createElement("img", { className: 'logo', alt: "Post Mortem", src: 'assets/logo.svg' }),
+                    React.createElement("nav", null,
+                        React.createElement("a", { href: "#" }, "About"),
+                        React.createElement("a", { href: "#" }, "Source")),
+                    React.createElement(subject_selector_1.default, { subjects: this.state.subjectInfo, currentSubject: this.state.subject, onChange: this.onSelectedSubjectChanged.bind(this) }))),
+            React.createElement("article", { className: "wrapper", style: { flex: 1 } },
                 React.createElement(page_1.default, { subject: this.state.subject, revision: this.state.revision }),
                 React.createElement(revision_info_1.default, { subject: this.state.subject, revision: this.state.revision })),
             React.createElement(timeline_1.default, { subject: this.state.subject, progress: this.state.progress, onDrag: this.onDrag.bind(this), currentRevision: this.state.revision })));
@@ -48189,10 +48205,19 @@ var __extends = (this && this.__extends) || (function () {
 })();
 Object.defineProperty(exports, "__esModule", { value: true });
 var React = __webpack_require__(25);
-var styled_components_1 = __webpack_require__(52);
 var moment = __webpack_require__(197);
-var Duration = (_a = ["\n    white-space: pre;\n    font-family: monospace;\n"], _a.raw = ["\n    white-space: pre;\n    font-family: monospace;\n"], styled_components_1.default.span(_a));
-var DurationUnit = (_b = ["\n    font-weigth: bold;\n    font-size: 0.6em;\n    font-family: sans-serif;\n"], _b.raw = ["\n    font-weigth: bold;\n    font-size: 0.6em;\n    font-family: sans-serif;\n"], styled_components_1.default.span(_b));
+var Duration = (function (_super) {
+    __extends(Duration, _super);
+    function Duration() {
+        return _super !== null && _super.apply(this, arguments) || this;
+    }
+    Duration.prototype.render = function () {
+        return React.createElement("span", null,
+            React.createElement("span", { className: 'duration-value' }, pad2(this.props.value)),
+            React.createElement("span", { className: 'duration-unit' }, this.props.unit));
+    };
+    return Duration;
+}(React.Component));
 var pad2 = function (num) {
     var str = '' + num;
     return str.length === 1 ? ' ' + str : str;
@@ -48209,36 +48234,60 @@ var RevisionInfo = (function (_super) {
         var revision = this.props.subject.getRevision(this.props.revision);
         var delta = moment.duration(revision.delta);
         return (React.createElement("div", { className: "revision-info" },
-            React.createElement("p", null, revision.timestamp.format('MMMM Do YYYY, h:mm:ss a')),
-            React.createElement("h3", null,
-                React.createElement(Duration, null,
-                    pad2(delta.days()),
-                    " ",
-                    React.createElement(DurationUnit, null, "days"),
-                    " "),
-                React.createElement(Duration, null,
-                    pad2(delta.hours()),
-                    " ",
-                    React.createElement(DurationUnit, null, "hours"),
-                    " "),
-                React.createElement(Duration, null,
-                    pad2(delta.minutes()),
-                    " ",
-                    React.createElement(DurationUnit, null, "minutes"),
-                    " "),
-                React.createElement(Duration, null,
-                    pad2(delta.seconds()),
-                    " ",
-                    React.createElement(DurationUnit, null, "seconds"),
-                    " "),
-                React.createElement("br", null),
-                "After First Death Edit"),
+            React.createElement("div", { className: 'duration' },
+                React.createElement(Duration, { value: delta.days(), unit: 'days' }),
+                React.createElement(Duration, { value: delta.hours(), unit: 'hours' }),
+                React.createElement(Duration, { value: delta.minutes(), unit: 'minutes' }),
+                React.createElement(Duration, { value: delta.seconds(), unit: 'seconds' })),
+            React.createElement("p", { className: 'duration-label' }, "After First Death Edit"),
             React.createElement("p", null, revision.comment)));
     };
     return RevisionInfo;
 }(React.Component));
 exports.default = RevisionInfo;
-var _a, _b;
+
+
+/***/ }),
+/* 333 */
+/***/ (function(module, exports) {
+
+module.exports = "[\n    {\n        \"name\": \"David Bowie\",\n        \"date_of_death\": \"10 January, 2016\",\n        \"first_death_edit\": 699199631\n    },\n    {\n        \"name\": \"Michael Jackson\",\n        \"first_death_edit\": 298631851,\n        \"date_of_death\": \"June 25, 2009\"\n    },\n    {\n        \"name\": \"Ronald Reagan\",\n        \"first_death_edit\": 3956776,\n        \"date_of_death\": \"June 5, 2004\"\n    },\n    {\n        \"name\": \"Osama bin Laden\",\n        \"first_death_edit\": 426996509,\n        \"date_of_death\": \"May 2, 2011\"\n    },\n    {\n        \"name\": \"Prince (musician)\",\n        \"first_death_edit\": 716414868,\n        \"date_of_death\": \"April 21, 2016\"\n    }\n]"
+
+/***/ }),
+/* 334 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+Object.defineProperty(exports, "__esModule", { value: true });
+var React = __webpack_require__(25);
+var SubjectSelector = (function (_super) {
+    __extends(SubjectSelector, _super);
+    function SubjectSelector() {
+        return _super !== null && _super.apply(this, arguments) || this;
+    }
+    SubjectSelector.prototype.onChange = function (event) {
+        this.props.onChange(event.target.value);
+    };
+    SubjectSelector.prototype.render = function () {
+        var options = this.props.subjects.map(function (x) {
+            return React.createElement("option", { key: x.name, value: x.name }, x.name);
+        });
+        return (React.createElement("select", { value: this.props.currentSubject ? this.props.currentSubject.name : '', onChange: this.onChange.bind(this) }, options));
+    };
+    return SubjectSelector;
+}(React.Component));
+exports.default = SubjectSelector;
 
 
 /***/ })

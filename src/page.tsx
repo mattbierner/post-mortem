@@ -1,8 +1,8 @@
-import * as React from "react";
+import * as React from 'react';
 import styled from 'styled-components';
 import XMLHttpRequestPromise = require('xhr-promise');
-import Subject from "./subject";
 import * as diff from 'diff'
+import { Subject } from './subject';
 
 const page = require('raw-loader!./page.html');
 
@@ -90,15 +90,16 @@ export default class Page extends React.Component<PageProps, PageState> {
 
     render() {
         return (
-            <iframe
-                className="page"
-                sandbox="allow-scripts allow-popups"
-                frameBorder="0"
-                width="100%" height="100%"
-                style={{ width: '100%', flex: 1 }}
-                srcDoc={page}
-                ref={(element: any) => { this._iframe = element; }}
-                onLoad={this.onLoad.bind(this)} />
+            <div className='page' >
+                <iframe
+                    sandbox='allow-scripts allow-popups'
+                    frameBorder='0'
+                    width='100%' height='100%'
+                    style={{ flex: 1 }}
+                    srcDoc={page}
+                    ref={(element: any) => { this._iframe = element; }}
+                    onLoad={this.onLoad.bind(this)} />
+            </div >
         )
     }
 

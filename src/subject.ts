@@ -46,11 +46,15 @@ export interface Revision {
     user: string
 }
 
-export default class Subject {
+export class Subject {
+    public readonly name: string
+
     private readonly _revisions: Revision[] = []
     public readonly base: Revision
 
-    private constructor(revisions: Revision[]) {
+    private constructor(name: string, revisions: Revision[]) {
+        this.name = name
+
         // revision 0 is actually starting content
         // revision 1 is first death revision
         this.base = revisions[0]
@@ -71,9 +75,19 @@ export default class Subject {
         return this._revisions.find(x => '' + x.revid === revisionId);
     }
 
-    public static create(): Promise<Subject> {
-        return loadSubjectJson('David Bowie')
-            .then(revisions =>
-                new Subject(revisions))
+    public static create(name: string): Promise<Subject> {
+        return loadSubjectJson(name)
+            .then(revisions => new Subject(name, revisions))
     }
+}
+
+
+export interface SubjectInfo {
+    name: string
+    date_of_death: string
+    first_death_edit: number
+}
+
+export const getSubjectInfo = (): SubjectInfo[] => {
+    return JSON.parse(require('raw-loader!../subjects.json'))
 }
