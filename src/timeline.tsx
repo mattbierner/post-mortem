@@ -1,21 +1,34 @@
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
+const rwc = require('random-weighted-choice')
 
 import { Subject, Revision } from './subject'
 
 const SPAN = 1000 * 60 * 60 * 24 * 7
 
 class MarkerPositioner {
-    private static lanes = [-25, -20, -15, -10, -5, 0, 5, 10, 20, 25]
 
     private positions: Map<number, number>;
 
     constructor(revisions: Revision[]) {
         this.positions = new Map()
-        const distrib = 20
+
+        const step = 5
+        const count = 5
+        const table = []
+        table.push({ weight: count + 1, id: 0 })
+        for (const i = 1; i <= count; ++i) {
+            table.push({ weight: count + 1 - i, id: i * step })
+            table.push({ weight: count + 1 - i, id: -i * step })
+        }
+
+
+        const diff = 1000 * 60 * 60
+
 
         for (const r of revisions) {
-            this.positions.set(r.revid, Math.round(-distrib + Math.random() * (distrib * 2)));
+            const d = rwc(table)
+            this.positions.set(r.revid, d)
         }
     }
 
