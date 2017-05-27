@@ -33996,15 +33996,21 @@ var Index = (function (_super) {
     };
     Index.prototype.updateRevision = function (progress, subject) {
         var time = SPAN * progress;
-        var r = subject.revisions[0];
+        var previous = subject.revisions[0];
         for (var _i = 0, _a = subject.revisions; _i < _a.length; _i++) {
             var revision = _a[_i];
             if (revision.delta >= time) {
-                break;
+                if (Math.abs(revision.delta - time) < Math.abs(previous.delta - time)) {
+                    this.setState({ revision: '' + revision.revid });
+                }
+                else {
+                    this.setState({ revision: '' + previous.revid });
+                }
+                return;
             }
-            r = revision;
+            previous = revision;
         }
-        this.setState({ revision: '' + r.revid });
+        this.setState({ revision: '' + previous.revid });
     };
     Index.prototype.render = function () {
         return (React.createElement(Container, { id: "index" },

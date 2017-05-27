@@ -62,14 +62,20 @@ class Index extends React.Component<null, IndexState> {
 
     private updateRevision(progress: number, subject: Subject): void {
         const time = SPAN * progress
-        let r = subject.revisions[0]
+        let previous = subject.revisions[0]
         for (const revision of subject.revisions) {
             if (revision.delta >= time) {
-                break;
+                if (Math.abs(revision.delta - time) < Math.abs(previous.delta - time)) {
+                    this.setState({ revision: '' + revision.revid })
+                } else {
+                    this.setState({ revision: '' + previous.revid })
+                }
+                return;
             }
-            r = revision
+            previous = revision
         }
-        this.setState({ revision: '' + r.revid })
+
+        this.setState({ revision: '' + previous.revid })
     }
 
     render() {
