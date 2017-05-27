@@ -17,7 +17,7 @@ class MarkerPositioner {
         const count = 5
         const table = []
         table.push({ weight: count + 1, id: 0 })
-        for (const i = 1; i <= count; ++i) {
+        for (let i = 1; i <= count; ++i) {
             table.push({ weight: count + 1 - i, id: i * step })
             table.push({ weight: count + 1 - i, id: -i * step })
         }
