@@ -9,6 +9,7 @@ Does the following:
 
 The unified diff can be applied to the original html to generate the diff html.
 """
+from __future__ import print_function
 import codecs
 import argparse
 import re
@@ -99,7 +100,7 @@ if __name__ == "__main__":
         diff = generate_diff(original_content, args.original, input_file)
 
         out_file = path.splitext(path.basename(input_file))[0] + '.diff'
-        print out_file
+        print(out_file)
         out = path.join(args.outdir, out_file)
         with codecs.open(out, 'w', encoding='utf-8') as outfile:
             outfile.write(diff)

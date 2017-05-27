@@ -1,3 +1,8 @@
+"""
+Extracts only article contents from raw wikipedia html and formats it for better
+diffing
+"""
+from __future__ import print_function
 import codecs
 import argparse
 import re
@@ -61,6 +66,9 @@ if __name__ == "__main__":
 
         content = clean(raw_content)
 
+        out_file = path.basename(input_file)
         out = path.join(args.outdir, path.basename(input_file))
+
+        print(out_file)
         with codecs.open(out, 'w', encoding='utf-8') as outfile:
             outfile.write(content)
