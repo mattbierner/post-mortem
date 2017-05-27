@@ -23,6 +23,10 @@ def clean(raw_content):
     for span in soup.findAll('span', class_='mw-editsection'):
         span.extract()
 
+    # Remove toc
+    soup.find('div', {'id': 'toc'}).extract()
+
+    # Remove everything except main page content
     result = []
     start = soup.find('table', class_='infobox').next_sibling
     end = soup.find(id='References').parent

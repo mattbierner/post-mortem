@@ -34,19 +34,15 @@ def diff_html(original_content, input_file):
     soup = BeautifulSoup(content, 'lxml')
 
     # Remove link: additions
-    for a in soup.findAll('a'):
+    for a in soup.findAll(['a', 'ins', 'del']):
         if a.text and re.search(r'\sLink:\s.+$', a.text.encode('utf-8'), re.MULTILINE | re.UNICODE):
             a.string = re.sub(
                 r'\sLink:\s.+$', u'', a.text, re.MULTILINE | re.UNICODE)
 
     # Remove empty tags
-    for ins in soup.findAll('ins'):
+    for ins in soup.findAll(['ins', 'del']):
         if re.match(r'^\s*$', ins.text):
             ins.extract()
-
-    for d in soup.findAll('del'):
-        if re.match(r'^\s*$', d.text):
-            d.extract()
 
     result = []
     for element in soup.body.contents:
