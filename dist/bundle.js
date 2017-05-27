@@ -17739,17 +17739,31 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var React = __webpack_require__(25);
 var ReactDOM = __webpack_require__(87);
 var SPAN = 1000 * 60 * 60 * 24 * 7;
+var MarkerPositioner = (function () {
+    function MarkerPositioner(revisions) {
+        this.positions = new Map();
+        var distrib = 20;
+        for (var _i = 0, revisions_1 = revisions; _i < revisions_1.length; _i++) {
+            var r = revisions_1[_i];
+            this.positions.set(r.revid, Math.round(-distrib + Math.random() * (distrib * 2)));
+        }
+    }
+    MarkerPositioner.prototype.get = function (revision) {
+        return this.positions.get(revision.revid) || 0;
+    };
+    return MarkerPositioner;
+}());
+MarkerPositioner.lanes = [-25, -20, -15, -10, -5, 0, 5, 10, 20, 25];
 var RevisionMarker = (function (_super) {
     __extends(RevisionMarker, _super);
     function RevisionMarker() {
         return _super !== null && _super.apply(this, arguments) || this;
     }
     RevisionMarker.prototype.render = function () {
-        var distrib = 20;
         var style = {
             position: 'absolute',
             left: this.props.revision.delta / SPAN * 100 + '%',
-            marginTop: Math.round(-distrib + Math.random() * (distrib * 2)) + 'px'
+            marginTop: this.props.positioner.get(this.props.revision) + 'px'
         };
         return React.createElement("li", { className: 'revision-marker ' + (this.props.isCurrent ? 'current-revision' : ''), style: style });
     };
@@ -17767,13 +17781,21 @@ var TimelineScrubber = (function (_super) {
 }(React.Component));
 var Timeline = (function (_super) {
     __extends(Timeline, _super);
-    function Timeline() {
+    function Timeline(props) {
         var _this = _super.call(this) || this;
         _this.state = {
             dragging: false
         };
+        if (props.subject) {
+            _this.positioner = new MarkerPositioner(props.subject.revisions);
+        }
         return _this;
     }
+    Timeline.prototype.componentWillReceiveProps = function (newProps) {
+        if (newProps.subject !== this.props.subject) {
+            this.positioner = new MarkerPositioner(newProps.subject.revisions);
+        }
+    };
     Timeline.prototype.onMouseDown = function (event) {
         if (this.state.dragging)
             return;
@@ -17807,7 +17829,7 @@ var Timeline = (function (_super) {
         if (this.props.subject) {
             for (var _i = 0, _a = this.props.subject.revisions; _i < _a.length; _i++) {
                 var revision = _a[_i];
-                revisions.push(React.createElement(RevisionMarker, { revision: revision, isCurrent: revision.revid + '' === this.props.currentRevision, key: revision.revid }));
+                revisions.push(React.createElement(RevisionMarker, { revision: revision, isCurrent: revision.revid + '' === this.props.currentRevision, key: revision.revid, positioner: this.positioner }));
             }
         }
         return React.createElement("div", { className: "timeline", onMouseDown: this.onMouseDown.bind(this), onMouseUp: this.onMouseUp.bind(this), onMouseMove: this.onMouseMove.bind(this) },

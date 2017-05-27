@@ -5,13 +5,31 @@ import { Subject, Revision } from './subject'
 
 const SPAN = 1000 * 60 * 60 * 24 * 7
 
-class RevisionMarker extends React.Component<{ revision: Revision, isCurrent: boolean }, null> {
-    render() {
+class MarkerPositioner {
+    private static lanes = [-25, -20, -15, -10, -5, 0, 5, 10, 20, 25]
+
+    private positions: Map<number, number>;
+
+    constructor(revisions: Revision[]) {
+        this.positions = new Map()
         const distrib = 20
+
+        for (const r of revisions) {
+            this.positions.set(r.revid, Math.round(-distrib + Math.random() * (distrib * 2)));
+        }
+    }
+
+    get(revision: Revision) {
+        return this.positions.get(revision.revid) || 0
+    }
+}
+
+class RevisionMarker extends React.Component<{ revision: Revision, isCurrent: boolean, positioner: MarkerPositioner }, null> {
+    render() {
         const style: any = {
             position: 'absolute',
             left: this.props.revision.delta / SPAN * 100 + '%',
-            marginTop: Math.round(-distrib + Math.random() * (distrib * 2)) + 'px'
+            marginTop: this.props.positioner.get(this.props.revision) + 'px'
         }
         return <li
             className={'revision-marker ' + (this.props.isCurrent ? 'current-revision' : '')}
@@ -41,11 +59,23 @@ interface TimelineState {
 }
 
 export default class Timeline extends React.Component<TimelineProps, TimelineState> {
-    constructor() {
+    private positioner?: MarkerPositioner;
+
+    constructor(props: TimelineProps) {
         super()
 
         this.state = {
             dragging: false
+        }
+
+        if (props.subject) {
+            this.positioner = new MarkerPositioner(props.subject.revisions)
+        }
+    }
+
+    componentWillReceiveProps(newProps: TimelineProps) {
+        if (newProps.subject !== this.props.subject) {
+            this.positioner = new MarkerPositioner(newProps.subject.revisions)
         }
     }
 
@@ -57,7 +87,7 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
         this.props.onDrag(progress);
     }
 
-    onMouseUp(event: React.MouseEvent<Timeline>) {
+    private onMouseUp(event: React.MouseEvent<Timeline>) {
         if (!this.state.dragging)
             return;
         this.setState({ dragging: false });
@@ -65,7 +95,7 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
         this.props.onDrag(progress);
     }
 
-    onMouseMove(event: React.MouseEvent<Timeline>) {
+    private onMouseMove(event: React.MouseEvent<Timeline>) {
         if (!this.state.dragging)
             return;
         event.stopPropagation();
@@ -90,7 +120,8 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
                 revisions.push(<RevisionMarker
                     revision={revision}
                     isCurrent={revision.revid + '' === this.props.currentRevision}
-                    key={revision.revid} />);
+                    key={revision.revid}
+                    positioner={this.positioner} />);
             }
         }
 
