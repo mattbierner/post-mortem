@@ -39,7 +39,7 @@ def clean(raw_content):
 
     # Remove everything except main page content
     result = []
-    start = soup.findChild('table', id='infobox')
+    start = soup.findChild('table', class_='infobox')
     if start:
         start = start.find_next_sibling('p')
     else:
@@ -49,7 +49,7 @@ def clean(raw_content):
         return None
 
     ends = []
-    for id in ['Footnotes', 'References', 'Notes']:
+    for id in ['Footnotes', 'References', 'Notes', 'External_links', 'Related_articles']:
         end = soup.find(id=id)
         if end:
             ends.append(end.parent)
@@ -63,6 +63,27 @@ def clean(raw_content):
         start = start.next_sibling
 
     return ''.join(result)
+
+
+def do_clean(input_files, outdir):
+    if not path.exists(outdir):
+        mkdir(outdir)
+
+    for input_file in input_files:
+        with codecs.open(input_file, 'r', 'utf-8') as pre:
+            raw_content = pre.read()
+
+        content = clean(raw_content)
+        if not content:
+            continue
+        out_file = path.basename(input_file)
+        out = path.join(outdir, path.basename(input_file))
+
+        print("Cleaning: {0}".format(out_file))
+        with codecs.open(out, 'w', encoding='utf-8') as outfile:
+            outfile.write(content)
+
+    return outdir
 
 
 if __name__ == "__main__":
@@ -79,19 +100,4 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    if not path.exists(args.outdir):
-        mkdir(args.outdir)
-
-    for input_file in args.input_files:
-        with codecs.open(input_file, 'r', 'utf-8') as pre:
-            raw_content = pre.read()
-
-        content = clean(raw_content)
-        if not content:
-            continue
-        out_file = path.basename(input_file)
-        out = path.join(args.outdir, path.basename(input_file))
-
-        print(out_file)
-        with codecs.open(out, 'w', encoding='utf-8') as outfile:
-            outfile.write(content)
+    do_clean(args.input_files, args.outdir)

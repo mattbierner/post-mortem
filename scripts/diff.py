@@ -76,6 +76,22 @@ def generate_diff(original_content, original_file, input_file):
         return output.decode('utf-8')
 
 
+def do_diff(basefile, input_files, out_dir):
+    with codecs.open(basefile, 'r', 'utf-8') as f:
+        original_content = f.read()
+
+    if not path.exists(out_dir):
+        mkdir(out_dir)
+
+    for input_file in input_files:
+        diff = generate_diff(original_content, basefile, input_file)
+
+        out_file = path.splitext(path.basename(input_file))[0] + '.diff'
+        print('Diffing: {}'.format(out_file))
+        out = path.join(out_dir, out_file)
+        with codecs.open(out, 'w', encoding='utf-8') as outfile:
+            outfile.write(diff)
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Compute diffs')
     parser.add_argument(
@@ -93,17 +109,4 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    with codecs.open(args.original, 'r', 'utf-8') as f:
-        original_content = f.read()
-
-    if not path.exists(args.outdir):
-        mkdir(args.outdir)
-
-    for input_file in args.input_files:
-        diff = generate_diff(original_content, args.original, input_file)
-
-        out_file = path.splitext(path.basename(input_file))[0] + '.diff'
-        print(out_file)
-        out = path.join(args.outdir, out_file)
-        with codecs.open(out, 'w', encoding='utf-8') as outfile:
-            outfile.write(diff)
+    do_diff(args.original, args.input_files, args.outdir)
