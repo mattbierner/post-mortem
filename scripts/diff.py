@@ -13,7 +13,7 @@ from __future__ import print_function
 import codecs
 import argparse
 import re
-from os import path
+from os import path, mkdir
 from subprocess import Popen, PIPE
 import tempfile
 from lxml.html.diff import htmldiff
@@ -95,6 +95,9 @@ if __name__ == "__main__":
 
     with codecs.open(args.original, 'r', 'utf-8') as f:
         original_content = f.read()
+
+    if not path.exists(args.outdir):
+        mkdir(args.outdir)
 
     for input_file in args.input_files:
         diff = generate_diff(original_content, args.original, input_file)

@@ -2,26 +2,49 @@
     {
         "name": "David Bowie",
         "date_of_death": "10 January, 2016",
-        "first_death_edit": 699199631
+        "first_death_edit": 699258291,
+        "base_edit": 699199631
     },
     {
         "name": "Michael Jackson",
-        "first_death_edit": 298631851,
+        "base_edit": 298631851,
+        "first_death_edit": 298632091,
         "date_of_death": "June 25, 2009"
     },
     {
         "name": "Ronald Reagan",
+        "base_edit": 3955334,
         "first_death_edit": 3956776,
         "date_of_death": "June 5, 2004"
     },
     {
         "name": "Osama bin Laden",
-        "first_death_edit": 426996509,
+        "base_edit": 426997211,
+        "first_death_edit": 426997252,
         "date_of_death": "May 2, 2011"
     },
     {
         "name": "Prince (musician)",
+        "base_edit": 716414662,
         "first_death_edit": 716414868,
         "date_of_death": "April 21, 2016"
+    },
+    {
+        "name": "John Glenn",
+        "base_edit": 753656269,
+        "first_death_edit": 753720457,
+        "date_of_death": "December 8, 2016"
+    },
+    {
+        "name": "George Harrison",
+        "base_edit": 255117,
+        "first_death_edit": 255118,
+        "date_of_death": "November 29, 2001"
+    },
+    {
+        "name": "Luc Coene",
+        "base_edit": 728456637,
+        "first_death_edit": 758614739,
+        "date_of_death": "January 5, 2017"
     }
 ]

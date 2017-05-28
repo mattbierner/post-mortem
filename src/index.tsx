@@ -84,14 +84,14 @@ class Index extends React.Component<null, IndexState> {
                 <header className='wrapper'>
                     <div>
                         <img className='logo' alt="Post Mortem" src='assets/logo.svg' />
-                        <nav>
-                            <a href="#">About</a>
-                            <a href="#">Source</a>
-                        </nav>
                         <SubjectSelector
                             subjects={this.state.subjectInfo}
                             currentSubject={this.state.subject}
                             onChange={this.onSelectedSubjectChanged.bind(this)} />
+                        <nav>
+                            <a href="#">About</a>
+                            <a href="#">Source</a>
+                        </nav>
                     </div>
                 </header>
                 <article className="wrapper" style={{ flex: 1 }}>

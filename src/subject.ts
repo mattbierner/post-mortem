@@ -85,6 +85,7 @@ export class Subject {
 export interface SubjectInfo {
     name: string
     date_of_death: string
+    base_edit: number
     first_death_edit: number
 }
 
