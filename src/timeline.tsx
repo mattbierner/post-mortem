@@ -4,6 +4,7 @@ import * as moment from 'moment'
 const rwc = require('random-weighted-choice')
 
 import { Subject, Revision } from './subject'
+import Controls from "./controls";
 
 const SPAN = 1000 * 60 * 60 * 24 * 7
 
@@ -82,18 +83,18 @@ class TimelineTicks extends React.Component<{ duration: number }, null> {
         const context = canvas.getContext('2d');
 
         context.lineWidth = 1;
-        context.strokeStyle = 'black';
-        this.drawTicks(context, width, height, duration, height, duration / 7);
+        context.strokeStyle = '#444';
+        this.drawTicks(context, width, height, duration, height, duration / 7, true);
         this.drawTicks(context, width, height, duration, height / 4, duration / 7 / 24);
     }
 
-    private drawTicks(context: any, width: number, height: number, duration: number, tickHeight: number, size: number) {
+    private drawTicks(context: any, width: number, height: number, duration: number, tickHeight: number, size: number, skipFirst: boolean = false) {
         const upper = height / 2 - tickHeight / 2;
         const lower = height / 2 + tickHeight / 2;
 
         context.beginPath();
         const stepSize = width / (duration / size);
-        for (let i = 0; i < width; i += stepSize) {
+        for (let i = skipFirst ? stepSize : 0; i < width; i += stepSize) {
             context.moveTo(i, upper);
             context.lineTo(i, lower);
         }
@@ -108,6 +109,9 @@ class TimelineTicks extends React.Component<{ duration: number }, null> {
 interface TimelineProps {
     subject?: Subject
     currentRevision?: string
+
+    revisionIndex: number | undefined
+    onChangeRevision: (index: number | undefined) => void
 
     progress: number
     onDrag: (progress: number) => void
@@ -194,17 +198,20 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
             timestamp = this.props.subject.start.clone().add(SPAN * this.props.progress, 'millisecond')
         }
 
-        return <div
-            className='timeline'
-            onMouseDown={this.onMouseDown.bind(this)}
-            onMouseUp={this.onMouseUp.bind(this)}
-            onMouseMove={this.onMouseMove.bind(this)}>
-            <div className='timeline-content'>
+        return <div className='timeline'>
+            <div className='timeline-content'
+                onMouseDown={this.onMouseDown.bind(this)}
+                onMouseUp={this.onMouseUp.bind(this)}
+                onMouseMove={this.onMouseMove.bind(this)}>
                 <TimelineTicks duration={SPAN} />
                 <ol>{this.revisionMarkers}</ol>
                 <TimelineScrubber progress={this.props.progress} />
             </div>
-            <p>{timestamp ? timestamp.format('MMMM Do YYYY, h:mm:ss a') : ''}</p>
-        </div>
+            <Controls
+                center={timestamp ? timestamp.format('MMMM Do YYYY, h:mm:ss a') : ''}
+                subject={this.props.subject}
+                revisionIndex={this.props.revisionIndex}
+                onChangeRevision={this.props.onChangeRevision} />
+        </div >
     }
 }

@@ -23,6 +23,7 @@ interface IndexState {
     subjectInfo?: SubjectInfo[]
     subject?: Subject
     revision?: string
+    revisionIndex: number | undefined
     progress: number
 }
 
@@ -34,6 +35,7 @@ class Index extends React.Component<null, IndexState> {
 
         this.state = {
             progress: 0,
+            revisionIndex: undefined,
             subjectInfo: subjects
         }
 
@@ -45,6 +47,7 @@ class Index extends React.Component<null, IndexState> {
             this.setState({
                 subject,
                 revision: undefined,
+                revisionIndex: undefined,
                 progress: 0
             })
             this.updateRevision(this.state.progress, subject)
@@ -63,46 +66,84 @@ class Index extends React.Component<null, IndexState> {
     private updateRevision(progress: number, subject: Subject): void {
         const time = SPAN * progress
         let previous = undefined
+        let i = 0
         for (const revision of subject.revisions) {
             if (revision.delta >= time) {
                 if (previous && Math.abs(revision.delta - time) < Math.abs(previous.delta - time)) {
-                    this.setState({ revision: '' + revision.revid })
+                    this.setState({
+                        revision: '' + revision.revid,
+                        revisionIndex: i
+                    })
                 } else {
-                    this.setState({ revision: previous ? '' + previous.revid : undefined })
+                    this.setState({
+                        revision: previous ? '' + previous.revid : undefined,
+                        revisionIndex: previous && i >= 1 ? i - 1 : undefined
+                    })
                 }
                 return;
             }
+            ++i
             previous = revision
         }
 
-        this.setState({ revision: previous ? '' + previous.revid : undefined })
+        this.setState({
+            revision: previous ? '' + previous.revid : undefined,
+            revisionIndex: previous ? i : undefined
+        })
     }
+
+    private onChangeRevision(index: number | undefined) {
+        if (isNaN(index)) {
+            this.setState({
+                revision: undefined,
+                progress: 0,
+                revisionIndex: undefined
+            })
+            return
+        }
+
+        const revision = this.state.subject.revisions[index]
+        this.setState({
+            revision: '' + revision.revid,
+            revisionIndex: index,
+            progress: revision.delta / SPAN
+        })
+    }
+
 
     render() {
         return (
-            <Container id="index">
-                <header className='wrapper'>
-                    <div>
-                        <img className='logo' alt="Post Mortem" src='assets/logo.svg' />
-                        <SubjectSelector
-                            subjects={this.state.subjectInfo}
-                            currentSubject={this.state.subject}
-                            onChange={this.onSelectedSubjectChanged.bind(this)} />
-                        <nav>
-                            <a href="#">About</a>
-                            <a href="#">Source</a>
-                        </nav>
-                    </div>
-                </header>
-                <article className="wrapper" style={{ flex: 1, display: 'flex' }}>
-                    <Page subject={this.state.subject} revision={this.state.revision} />
-                    <RevisionInfo subject={this.state.subject} revision={this.state.revision} />
-                </article>
+            <Container id='index'>
+                <div className='left-content wrapper'>
+                    <header>
+                        <img className='logo' alt='Post Mortem' src='assets/logo.svg' />
+                        <div>
+                            <nav>
+                                <a href="#">About</a>
+                                <a href="#">Source</a>
+                                <a href="#">Post</a>
+                            </nav>
+                            <SubjectSelector
+                                subjects={this.state.subjectInfo}
+                                currentSubject={this.state.subject}
+                                onChange={this.onSelectedSubjectChanged.bind(this)} />
+
+                            <RevisionInfo
+                                subject={this.state.subject}
+                                revision={this.state.revision}
+                                revisionIndex={this.state.revisionIndex}
+                                onChangeRevision={this.onChangeRevision.bind(this)} />
+                        </div>
+                    </header>
+                </div>
+                <Page subject={this.state.subject} revision={this.state.revision} />
                 <Timeline
                     subject={this.state.subject}
+                    revisionIndex={this.state.revisionIndex}
                     progress={this.state.progress}
                     onDrag={this.onDrag.bind(this)}
-                    currentRevision={this.state.revision} />
+                    currentRevision={this.state.revision}
+                    onChangeRevision={this.onChangeRevision.bind(this)} />
             </Container>
         )
     }

@@ -1,0 +1,22 @@
+.controls {
+    z-index: 10;
+    user-select: none;
+    font-family: 'Cutive Mono', monospace;
+}
+
+.controls a {
+    padding: 0 1em;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.controls a:hover {
+    text-decoration: underline;
+}
+
+.controls a.disabled,
+.controls a.disabled:hover {
+    cursor: default;
+    color: #aaa;
+    text-decoration: none;
+}

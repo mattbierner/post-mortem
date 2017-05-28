@@ -18,6 +18,12 @@
         "date_of_death": "June 5, 2004"
     },
     {
+        "name": "Katharine Hepburn",
+        "date_of_death": "June 29, 2003",
+        "base_edit": 1094270,
+        "first_death_edit": 1094279
+    },
+    {
         "name": "Osama bin Laden",
         "base_edit": 426997211,
         "first_death_edit": 426997252,
@@ -28,6 +34,12 @@
         "base_edit": 716414662,
         "first_death_edit": 716414868,
         "date_of_death": "April 21, 2016"
+    },
+    {
+        "name": "Donna Summer",
+        "date_of_death": "May 17, 2012",
+        "base_edit": 493040889,
+        "first_death_edit": 493040905
     },
     {
         "name": "John Glenn",
@@ -46,5 +58,17 @@
         "base_edit": 728456637,
         "first_death_edit": 758614739,
         "date_of_death": "January 5, 2017"
+    },
+    {
+        "name": "Hunter S. Thompson",
+        "date_of_death": "February 20, 2005",
+        "base_edit": 10484392,
+        "first_death_edit": 10484468
+    },
+    {
+        "name": "Dennis Ritchie",
+        "date_of_death": "October 12, 2011",
+        "base_edit": 453910145,
+        "first_death_edit": 455301448
     }
 ]

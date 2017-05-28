@@ -14,6 +14,9 @@ const getContent = (url: string): Promise<string> => {
         method: 'GET',
         url: url
     }).then((response: any) => {
+        if (response.status !== 200) {
+            throw new Error('Loading error: ' + url)
+        }
         return response.responseText;
     })
 }
@@ -68,48 +71,65 @@ export default class Page extends React.Component<PageProps, PageState> {
 
     componentWillReceiveProps(newProps: PageProps) {
         if (newProps.subject !== this.props.subject) {
-            this.baseContent = getBaseContent(newProps.subject);
+            this.baseContent = getBaseContent(newProps.subject)
         }
 
         if (newProps.subject !== this.props.subject || newProps.revision !== this.props.revision) {
-            this.updateRevision(newProps.subject, newProps.revision);
+            this.updateRevision(
+                newProps.subject,
+                newProps.revision,
+                newProps.subject !== this.props.subject);
         }
     }
 
-    private async updateRevision(subject: Subject, revision: string | undefined): Promise<void> {
+    private async updateRevision(
+        subject: Subject,
+        revision: string | undefined,
+        scrollTop: boolean = false
+    ): Promise<void> {
         const base = await this.baseContent
         if (!revision) {
             this.setState({ pageContent: base })
-            this._iframe.contentWindow.postMessage(base, '*')
+            this._iframe.contentWindow.postMessage({
+                content: base,
+                scrollTop: scrollTop
+            }, '*')
             return
         }
         try {
             const patch = diff.parsePatch(await getDiffContent(subject, revision))[0]
             if (revision === this.props.revision) {
                 const r = applyPatch(patch, base)
-                this._iframe.contentWindow.postMessage(r, '*')
+                this._iframe.contentWindow.postMessage({
+                    content: r,
+                    scrollTop: scrollTop
+                }, '*')
                 this.setState({ pageContent: r })
             }
         } catch (e) {
-            
+
         }
     }
 
     render() {
         return (
-            <div className='page' style={{ flex: 1 }}>
+            <article className='page wrapper' style={{ flex: 1 }}>
                 <iframe
-                    sandbox='allow-scripts allow-popups'
+                    sandbox='allow-scripts allow-same-origin'
                     frameBorder='0'
                     style={{ flex: 1 }}
                     srcDoc={page}
                     ref={(element: any) => { this._iframe = element; }}
                     onLoad={this.onLoad.bind(this)} />
-            </div >
+            </article>
         )
     }
 
     private onLoad() {
-        this._iframe.contentWindow.postMessage(this.state.pageContent, '*');
+        if (this.state.pageContent) {
+            this._iframe.contentWindow.postMessage({
+                content: this.state.pageContent
+            }, '*')
+        }
     }
 }

@@ -35,6 +35,13 @@
             background: #ff7697;
             text-decoration: none;
         }
+
+        @media only screen and (max-width: 850px) {
+            body>*:first-child {
+                margin-top: 8px;
+                ;
+            }
+        }
     </style>
     <script>
         window.addEventListener('DOMContentLoaded', () => {
@@ -51,7 +58,7 @@
                                 scrollTarget.scrollIntoView();
                             }
                         } else {
-                            window.open(node.href);
+                            window.parent.open(node.href);
                         }
                         event.preventDefault();
                         break;
@@ -59,10 +66,18 @@
                     node = node.parentNode;
                 }
             })
-        });
+        })
 
         window.addEventListener('message', (event) => {
-            document.body.innerHTML = event.data || '';
+            if (!event.data) {
+                return
+            }
+
+            if (event.data.scrollTop) {
+                window.scrollTo(0, 0);
+            }
+
+            document.body.innerHTML = event.data.content
         });
     </script>
 </head>

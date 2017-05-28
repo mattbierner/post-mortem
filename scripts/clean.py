@@ -43,8 +43,7 @@ def clean(raw_content):
     if start:
         start = start.find_next_sibling('p')
     else:
-        start = soup.findChild('p')
-
+        start = soup.body.findChild('p', recursive=False)
     if not start:
         return None
 
@@ -76,6 +75,7 @@ def do_clean(input_files, outdir):
         content = clean(raw_content)
         if not content:
             continue
+
         out_file = path.basename(input_file)
         out = path.join(outdir, path.basename(input_file))
 

@@ -17572,6 +17572,9 @@ var getContent = function (url) {
         method: 'GET',
         url: url
     }).then(function (response) {
+        if (response.status !== 200) {
+            throw new Error('Loading error: ' + url);
+        }
         return response.responseText;
     });
 };
@@ -17612,10 +17615,11 @@ var Page = (function (_super) {
             this.baseContent = getBaseContent(newProps.subject);
         }
         if (newProps.subject !== this.props.subject || newProps.revision !== this.props.revision) {
-            this.updateRevision(newProps.subject, newProps.revision);
+            this.updateRevision(newProps.subject, newProps.revision, newProps.subject !== this.props.subject);
         }
     };
-    Page.prototype.updateRevision = function (subject, revision) {
+    Page.prototype.updateRevision = function (subject, revision, scrollTop) {
+        if (scrollTop === void 0) { scrollTop = false; }
         return __awaiter(this, void 0, void 0, function () {
             var base, patch, _a, _b, r, e_1;
             return __generator(this, function (_c) {
@@ -17625,7 +17629,10 @@ var Page = (function (_super) {
                         base = _c.sent();
                         if (!revision) {
                             this.setState({ pageContent: base });
-                            this._iframe.contentWindow.postMessage(base, '*');
+                            this._iframe.contentWindow.postMessage({
+                                content: base,
+                                scrollTop: scrollTop
+                            }, '*');
                             return [2 /*return*/];
                         }
                         _c.label = 2;
@@ -17637,7 +17644,10 @@ var Page = (function (_super) {
                         patch = _b.apply(_a, [_c.sent()])[0];
                         if (revision === this.props.revision) {
                             r = applyPatch(patch, base);
-                            this._iframe.contentWindow.postMessage(r, '*');
+                            this._iframe.contentWindow.postMessage({
+                                content: r,
+                                scrollTop: scrollTop
+                            }, '*');
                             this.setState({ pageContent: r });
                         }
                         return [3 /*break*/, 5];
@@ -17651,11 +17661,15 @@ var Page = (function (_super) {
     };
     Page.prototype.render = function () {
         var _this = this;
-        return (React.createElement("div", { className: 'page', style: { flex: 1 } },
-            React.createElement("iframe", { sandbox: 'allow-scripts allow-popups', frameBorder: '0', style: { flex: 1 }, srcDoc: page, ref: function (element) { _this._iframe = element; }, onLoad: this.onLoad.bind(this) })));
+        return (React.createElement("article", { className: 'page wrapper', style: { flex: 1 } },
+            React.createElement("iframe", { sandbox: 'allow-scripts allow-same-origin', frameBorder: '0', style: { flex: 1 }, srcDoc: page, ref: function (element) { _this._iframe = element; }, onLoad: this.onLoad.bind(this) })));
     };
     Page.prototype.onLoad = function () {
-        this._iframe.contentWindow.postMessage(this.state.pageContent, '*');
+        if (this.state.pageContent) {
+            this._iframe.contentWindow.postMessage({
+                content: this.state.pageContent
+            }, '*');
+        }
     };
     return Page;
 }(React.Component));
@@ -17749,6 +17763,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var React = __webpack_require__(25);
 var ReactDOM = __webpack_require__(87);
 var rwc = __webpack_require__(338);
+var controls_1 = __webpack_require__(339);
 var SPAN = 1000 * 60 * 60 * 24 * 7;
 var MarkerPositioner = (function () {
     function MarkerPositioner(revisions) {
@@ -17823,16 +17838,17 @@ var TimelineTicks = (function (_super) {
         canvas.height = height;
         var context = canvas.getContext('2d');
         context.lineWidth = 1;
-        context.strokeStyle = 'black';
-        this.drawTicks(context, width, height, duration, height, duration / 7);
+        context.strokeStyle = '#444';
+        this.drawTicks(context, width, height, duration, height, duration / 7, true);
         this.drawTicks(context, width, height, duration, height / 4, duration / 7 / 24);
     };
-    TimelineTicks.prototype.drawTicks = function (context, width, height, duration, tickHeight, size) {
+    TimelineTicks.prototype.drawTicks = function (context, width, height, duration, tickHeight, size, skipFirst) {
+        if (skipFirst === void 0) { skipFirst = false; }
         var upper = height / 2 - tickHeight / 2;
         var lower = height / 2 + tickHeight / 2;
         context.beginPath();
         var stepSize = width / (duration / size);
-        for (var i = 0; i < width; i += stepSize) {
+        for (var i = skipFirst ? stepSize : 0; i < width; i += stepSize) {
             context.moveTo(i, upper);
             context.lineTo(i, lower);
         }
@@ -17902,12 +17918,12 @@ var Timeline = (function (_super) {
         if (this.props.subject) {
             timestamp = this.props.subject.start.clone().add(SPAN * this.props.progress, 'millisecond');
         }
-        return React.createElement("div", { className: 'timeline', onMouseDown: this.onMouseDown.bind(this), onMouseUp: this.onMouseUp.bind(this), onMouseMove: this.onMouseMove.bind(this) },
-            React.createElement("div", { className: 'timeline-content' },
+        return React.createElement("div", { className: 'timeline' },
+            React.createElement("div", { className: 'timeline-content', onMouseDown: this.onMouseDown.bind(this), onMouseUp: this.onMouseUp.bind(this), onMouseMove: this.onMouseMove.bind(this) },
                 React.createElement(TimelineTicks, { duration: SPAN }),
                 React.createElement("ol", null, this.revisionMarkers),
                 React.createElement(TimelineScrubber, { progress: this.props.progress })),
-            React.createElement("p", null, timestamp ? timestamp.format('MMMM Do YYYY, h:mm:ss a') : ''));
+            React.createElement(controls_1.default, { center: timestamp ? timestamp.format('MMMM Do YYYY, h:mm:ss a') : '', subject: this.props.subject, revisionIndex: this.props.revisionIndex, onChangeRevision: this.props.onChangeRevision }));
     };
     return Timeline;
 }(React.Component));
@@ -17958,6 +17974,7 @@ var Index = (function (_super) {
         var subjects = subject_1.getSubjectInfo();
         _this.state = {
             progress: 0,
+            revisionIndex: undefined,
             subjectInfo: subjects
         };
         _this.setSubject(subjects[0].name);
@@ -17969,6 +17986,7 @@ var Index = (function (_super) {
             _this.setState({
                 subject: subject,
                 revision: undefined,
+                revisionIndex: undefined,
                 progress: 0
             });
             _this.updateRevision(_this.state.progress, subject);
@@ -17984,34 +18002,62 @@ var Index = (function (_super) {
     Index.prototype.updateRevision = function (progress, subject) {
         var time = SPAN * progress;
         var previous = undefined;
+        var i = 0;
         for (var _i = 0, _a = subject.revisions; _i < _a.length; _i++) {
             var revision = _a[_i];
             if (revision.delta >= time) {
                 if (previous && Math.abs(revision.delta - time) < Math.abs(previous.delta - time)) {
-                    this.setState({ revision: '' + revision.revid });
+                    this.setState({
+                        revision: '' + revision.revid,
+                        revisionIndex: i
+                    });
                 }
                 else {
-                    this.setState({ revision: previous ? '' + previous.revid : undefined });
+                    this.setState({
+                        revision: previous ? '' + previous.revid : undefined,
+                        revisionIndex: previous && i >= 1 ? i - 1 : undefined
+                    });
                 }
                 return;
             }
+            ++i;
             previous = revision;
         }
-        this.setState({ revision: previous ? '' + previous.revid : undefined });
+        this.setState({
+            revision: previous ? '' + previous.revid : undefined,
+            revisionIndex: previous ? i : undefined
+        });
+    };
+    Index.prototype.onChangeRevision = function (index) {
+        if (isNaN(index)) {
+            this.setState({
+                revision: undefined,
+                progress: 0,
+                revisionIndex: undefined
+            });
+            return;
+        }
+        var revision = this.state.subject.revisions[index];
+        this.setState({
+            revision: '' + revision.revid,
+            revisionIndex: index,
+            progress: revision.delta / SPAN
+        });
     };
     Index.prototype.render = function () {
-        return (React.createElement(Container, { id: "index" },
-            React.createElement("header", { className: 'wrapper' },
-                React.createElement("div", null,
-                    React.createElement("img", { className: 'logo', alt: "Post Mortem", src: 'assets/logo.svg' }),
-                    React.createElement(subject_selector_1.default, { subjects: this.state.subjectInfo, currentSubject: this.state.subject, onChange: this.onSelectedSubjectChanged.bind(this) }),
-                    React.createElement("nav", null,
-                        React.createElement("a", { href: "#" }, "About"),
-                        React.createElement("a", { href: "#" }, "Source")))),
-            React.createElement("article", { className: "wrapper", style: { flex: 1, display: 'flex' } },
-                React.createElement(page_1.default, { subject: this.state.subject, revision: this.state.revision }),
-                React.createElement(revision_info_1.default, { subject: this.state.subject, revision: this.state.revision })),
-            React.createElement(timeline_1.default, { subject: this.state.subject, progress: this.state.progress, onDrag: this.onDrag.bind(this), currentRevision: this.state.revision })));
+        return (React.createElement(Container, { id: 'index' },
+            React.createElement("div", { className: 'left-content wrapper' },
+                React.createElement("header", null,
+                    React.createElement("img", { className: 'logo', alt: 'Post Mortem', src: 'assets/logo.svg' }),
+                    React.createElement("div", null,
+                        React.createElement("nav", null,
+                            React.createElement("a", { href: "#" }, "About"),
+                            React.createElement("a", { href: "#" }, "Source"),
+                            React.createElement("a", { href: "#" }, "Post")),
+                        React.createElement(subject_selector_1.default, { subjects: this.state.subjectInfo, currentSubject: this.state.subject, onChange: this.onSelectedSubjectChanged.bind(this) }),
+                        React.createElement(revision_info_1.default, { subject: this.state.subject, revision: this.state.revision, revisionIndex: this.state.revisionIndex, onChangeRevision: this.onChangeRevision.bind(this) })))),
+            React.createElement(page_1.default, { subject: this.state.subject, revision: this.state.revision }),
+            React.createElement(timeline_1.default, { subject: this.state.subject, revisionIndex: this.state.revisionIndex, progress: this.state.progress, onDrag: this.onDrag.bind(this), currentRevision: this.state.revision, onChangeRevision: this.onChangeRevision.bind(this) })));
     };
     return Index;
 }(React.Component));
@@ -48287,7 +48333,7 @@ exports["default"] = /*istanbul ignore end*/function (start, minLine, maxLine) {
 /* 331 */
 /***/ (function(module, exports) {
 
-module.exports = "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"utf-8\">\n    <title>Page</title>\n    <base href=\"https://en.wikipedia.org\">\n\n    <link rel=\"stylesheet\" href=\"/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector\"\n    />\n    <link rel=\"stylesheet\" href=\"/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector\"\n    />\n\n\n    <style>\n        body {\n            background-color: transparent;\n            margin: 0 10px;\n        }\n\n        body>*:first-child {\n            margin-top: 30px\n        }\n\n        body>*:last-child {\n            margin-bottom: 60px;\n        }\n\n        ins {\n            background: #85f985;\n            text-decoration: none;\n        }\n\n        del {\n            background: #ff7697;\n            text-decoration: none;\n        }\n    </style>\n    <script>\n        window.addEventListener('DOMContentLoaded', () => {\n            document.body.addEventListener('click', () => {\n                var node = event.target;\n                while (node) {\n                    if (node.tagName === \"A\" && node.href) {\n                        var baseElement = event.view.document.getElementsByTagName(\"base\")[0];\n                        if (node.getAttribute(\"href\") === \"#\") {\n                            event.view.scrollTo(0, 0);\n                        } else if (node.hash && (node.getAttribute(\"href\") === node.hash || (baseElement && node.href.indexOf(baseElement.href) >= 0))) {\n                            var scrollTarget = event.view.document.getElementById(node.hash.substr(1, node.hash.length - 1));\n                            if (scrollTarget) {\n                                scrollTarget.scrollIntoView();\n                            }\n                        } else {\n                            window.open(node.href);\n                        }\n                        event.preventDefault();\n                        break;\n                    }\n                    node = node.parentNode;\n                }\n            })\n        });\n\n        window.addEventListener('message', (event) => {\n            document.body.innerHTML = event.data || '';\n        });\n    </script>\n</head>\n\n<body class=\"mw-body-content\">\n</body>\n\n</html>"
+module.exports = "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"utf-8\">\n    <title>Page</title>\n    <base href=\"https://en.wikipedia.org\">\n\n    <link rel=\"stylesheet\" href=\"/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector\"\n    />\n    <link rel=\"stylesheet\" href=\"/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector\"\n    />\n\n\n    <style>\n        body {\n            background-color: transparent;\n            margin: 0 10px;\n        }\n\n        body>*:first-child {\n            margin-top: 30px\n        }\n\n        body>*:last-child {\n            margin-bottom: 60px;\n        }\n\n        ins {\n            background: #85f985;\n            text-decoration: none;\n        }\n\n        del {\n            background: #ff7697;\n            text-decoration: none;\n        }\n\n        @media only screen and (max-width: 850px) {\n            body>*:first-child {\n                margin-top: 8px;\n                ;\n            }\n        }\n    </style>\n    <script>\n        window.addEventListener('DOMContentLoaded', () => {\n            document.body.addEventListener('click', () => {\n                var node = event.target;\n                while (node) {\n                    if (node.tagName === \"A\" && node.href) {\n                        var baseElement = event.view.document.getElementsByTagName(\"base\")[0];\n                        if (node.getAttribute(\"href\") === \"#\") {\n                            event.view.scrollTo(0, 0);\n                        } else if (node.hash && (node.getAttribute(\"href\") === node.hash || (baseElement && node.href.indexOf(baseElement.href) >= 0))) {\n                            var scrollTarget = event.view.document.getElementById(node.hash.substr(1, node.hash.length - 1));\n                            if (scrollTarget) {\n                                scrollTarget.scrollIntoView();\n                            }\n                        } else {\n                            window.parent.open(node.href);\n                        }\n                        event.preventDefault();\n                        break;\n                    }\n                    node = node.parentNode;\n                }\n            })\n        })\n\n        window.addEventListener('message', (event) => {\n            if (!event.data) {\n                return\n            }\n\n            if (event.data.scrollTop) {\n                window.scrollTo(0, 0);\n            }\n\n            document.body.innerHTML = event.data.content\n        });\n    </script>\n</head>\n\n<body class=\"mw-body-content\">\n</body>\n\n</html>"
 
 /***/ }),
 /* 332 */
@@ -48308,6 +48354,7 @@ var __extends = (this && this.__extends) || (function () {
 Object.defineProperty(exports, "__esModule", { value: true });
 var React = __webpack_require__(25);
 var moment = __webpack_require__(197);
+var controls_1 = __webpack_require__(339);
 var Duration = (function (_super) {
     __extends(Duration, _super);
     function Duration() {
@@ -48335,14 +48382,14 @@ var RevisionInfo = (function (_super) {
         }
         var revision = this.props.subject.getRevision(this.props.revision);
         var delta = revision ? moment.duration(revision.delta) : moment.duration(0);
-        return (React.createElement("div", { className: "revision-info" },
+        return (React.createElement("div", { className: 'revision-info' },
             React.createElement("div", { className: 'duration' },
                 React.createElement(Duration, { value: delta.days(), unit: 'days' }),
                 React.createElement(Duration, { value: delta.hours(), unit: 'hours' }),
                 React.createElement(Duration, { value: delta.minutes(), unit: 'minutes' }),
                 React.createElement(Duration, { value: delta.seconds(), unit: 'seconds' })),
-            React.createElement("p", { className: 'duration-label' }, "after first death edit"),
-            React.createElement("p", null, revision ? revision.comment : '')));
+            React.createElement("span", { className: 'duration-label' }, isNaN(this.props.revisionIndex) ? 'before first death edit' : 'after first death edit'),
+            React.createElement(controls_1.default, { center: '', subject: this.props.subject, revisionIndex: this.props.revisionIndex, onChangeRevision: this.props.onChangeRevision })));
     };
     return RevisionInfo;
 }(React.Component));
@@ -48353,7 +48400,7 @@ exports.default = RevisionInfo;
 /* 333 */
 /***/ (function(module, exports) {
 
-module.exports = "[\n    {\n        \"name\": \"David Bowie\",\n        \"date_of_death\": \"10 January, 2016\",\n        \"first_death_edit\": 699258291,\n        \"base_edit\": 699199631\n    },\n    {\n        \"name\": \"Michael Jackson\",\n        \"base_edit\": 298631851,\n        \"first_death_edit\": 298632091,\n        \"date_of_death\": \"June 25, 2009\"\n    },\n    {\n        \"name\": \"Ronald Reagan\",\n        \"base_edit\": 3955334,\n        \"first_death_edit\": 3956776,\n        \"date_of_death\": \"June 5, 2004\"\n    },\n    {\n        \"name\": \"Osama bin Laden\",\n        \"base_edit\": 426997211,\n        \"first_death_edit\": 426997252,\n        \"date_of_death\": \"May 2, 2011\"\n    },\n    {\n        \"name\": \"Prince (musician)\",\n        \"base_edit\": 716414662,\n        \"first_death_edit\": 716414868,\n        \"date_of_death\": \"April 21, 2016\"\n    },\n    {\n        \"name\": \"John Glenn\",\n        \"base_edit\": 753656269,\n        \"first_death_edit\": 753720457,\n        \"date_of_death\": \"December 8, 2016\"\n    },\n    {\n        \"name\": \"George Harrison\",\n        \"base_edit\": 255117,\n        \"first_death_edit\": 255118,\n        \"date_of_death\": \"November 29, 2001\"\n    },\n    {\n        \"name\": \"Luc Coene\",\n        \"base_edit\": 728456637,\n        \"first_death_edit\": 758614739,\n        \"date_of_death\": \"January 5, 2017\"\n    }\n]"
+module.exports = "[\n    {\n        \"name\": \"David Bowie\",\n        \"date_of_death\": \"10 January, 2016\",\n        \"first_death_edit\": 699258291,\n        \"base_edit\": 699199631\n    },\n    {\n        \"name\": \"Michael Jackson\",\n        \"base_edit\": 298631851,\n        \"first_death_edit\": 298632091,\n        \"date_of_death\": \"June 25, 2009\"\n    },\n    {\n        \"name\": \"Ronald Reagan\",\n        \"base_edit\": 3955334,\n        \"first_death_edit\": 3956776,\n        \"date_of_death\": \"June 5, 2004\"\n    },\n    {\n        \"name\": \"Katharine Hepburn\",\n        \"date_of_death\": \"June 29, 2003\",\n        \"base_edit\": 1094270,\n        \"first_death_edit\": 1094279\n    },\n    {\n        \"name\": \"Osama bin Laden\",\n        \"base_edit\": 426997211,\n        \"first_death_edit\": 426997252,\n        \"date_of_death\": \"May 2, 2011\"\n    },\n    {\n        \"name\": \"Prince (musician)\",\n        \"base_edit\": 716414662,\n        \"first_death_edit\": 716414868,\n        \"date_of_death\": \"April 21, 2016\"\n    },\n    {\n        \"name\": \"Donna Summer\",\n        \"date_of_death\": \"May 17, 2012\",\n        \"base_edit\": 493040889,\n        \"first_death_edit\": 493040905\n    },\n    {\n        \"name\": \"John Glenn\",\n        \"base_edit\": 753656269,\n        \"first_death_edit\": 753720457,\n        \"date_of_death\": \"December 8, 2016\"\n    },\n    {\n        \"name\": \"George Harrison\",\n        \"base_edit\": 255117,\n        \"first_death_edit\": 255118,\n        \"date_of_death\": \"November 29, 2001\"\n    },\n    {\n        \"name\": \"Luc Coene\",\n        \"base_edit\": 728456637,\n        \"first_death_edit\": 758614739,\n        \"date_of_death\": \"January 5, 2017\"\n    },\n    {\n        \"name\": \"Hunter S. Thompson\",\n        \"date_of_death\": \"February 20, 2005\",\n        \"base_edit\": 10484392,\n        \"first_death_edit\": 10484468\n    },\n    {\n        \"name\": \"Dennis Ritchie\",\n        \"date_of_death\": \"October 12, 2011\",\n        \"base_edit\": 453910145,\n        \"first_death_edit\": 455301448\n    }\n]"
 
 /***/ }),
 /* 334 */
@@ -49021,6 +49068,68 @@ var RandomWeightedChoice = function (table, temperature, randomFunction, influen
 };
 
 module.exports = RandomWeightedChoice;
+
+
+/***/ }),
+/* 339 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+Object.defineProperty(exports, "__esModule", { value: true });
+var React = __webpack_require__(25);
+var Controls = (function (_super) {
+    __extends(Controls, _super);
+    function Controls() {
+        return _super !== null && _super.apply(this, arguments) || this;
+    }
+    Controls.prototype.onNext = function () {
+        var next;
+        if (isNaN(this.props.revisionIndex)) {
+            next = 0;
+        }
+        else {
+            next = Math.min(this.props.subject.revisions.length - 1, this.props.revisionIndex + 1);
+        }
+        this.props.onChangeRevision(next);
+    };
+    Controls.prototype.onPrevious = function () {
+        if (this.props.revisionIndex === 0) {
+            this.props.onChangeRevision(undefined);
+            return;
+        }
+        var previous = Math.max(0, this.props.revisionIndex - 1);
+        this.props.onChangeRevision(previous);
+    };
+    Controls.prototype.onFirst = function () {
+        this.props.onChangeRevision(undefined);
+    };
+    Controls.prototype.onLast = function () {
+        this.props.onChangeRevision(this.props.subject.revisions.length - 1);
+    };
+    Controls.prototype.render = function () {
+        var atMin = isNaN(this.props.revisionIndex);
+        var atMax = this.props.subject && this.props.revisionIndex >= this.props.subject.revisions.length - 1;
+        return (React.createElement("div", { className: 'controls' },
+            React.createElement("a", { title: 'first', className: atMin ? 'disabled' : '', onClick: this.onFirst.bind(this) }, "\u00AB"),
+            React.createElement("a", { title: 'previous', className: atMin ? 'disabled' : '', onClick: this.onPrevious.bind(this) }, "\u2039"),
+            React.createElement("span", null, this.props.center),
+            React.createElement("a", { title: 'next', className: atMax ? 'disabled' : '', onClick: this.onNext.bind(this) }, "\u203A"),
+            React.createElement("a", { title: 'last', className: atMax ? 'disabled' : '', onClick: this.onLast.bind(this) }, "\u00BB")));
+    };
+    return Controls;
+}(React.Component));
+exports.default = Controls;
 
 
 /***/ })

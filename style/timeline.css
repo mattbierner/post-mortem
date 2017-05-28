@@ -1,7 +1,7 @@
-
 .timeline {
     border-top: 1px solid rgba(0, 0, 0, 0.4);
     padding: 0 30px;
+    margin-bottom: 8px;
 }
 .timeline-content {
     height: 80px;
@@ -22,12 +22,12 @@
     height: 100%;
     width: 100%;
     padding: 0;
+    pointer-events: none;
+    user-select: none;
 }
 
 .timeline li {
     list-style: none;
-    pointer-events: none;
-  
 }
 
 .revision-marker:before {
@@ -46,6 +46,6 @@
 }
 
 .scrubber {
-    border: 1px solid black;
+    border: 1px solid #FF7697;
     height: 100%;
 }

@@ -1,12 +1,15 @@
-#index > header {
+header {
     text-align: center;
-}
-
-#index > header > div {
+    margin-bottom: 1em;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+}
+
+.left-content > * {
     width: 300px;
     position: absolute;
+    z-index: 99;
     align-items: center;
 
     top: 0;
@@ -14,34 +17,65 @@
 }
 
 
-#index > header > div > * {
+header > div > * {
     display: block;
 
 }
 
-#index > header .logo {
+header .logo {
+    display: block;
     height: 120px;
     padding-top: 1em;
     padding-bottom: 0.8em;
 }
 
-#index > header nav {
+header nav {
     display: flex;
     flex-direction: row;
     padding: 0.4em 0;
-    padding-bottom: 1em;
+    padding-bottom: 3em;
+    justify-content: center;
 }
 
-#index > header nav a {
+header nav a {
     display: block;
     margin: 0 1em;
+    color: #4AAACC;
 }
 
-@media only screen and (max-width: 800px)  {
-    #index > header > div {
+header select {
+    border: none;
+    background: none;
+    border: 1px solid #555;
+    display: inline-block;
+}
+
+@media only screen and (max-width: 850px)  {
+    .left-content > * {
         width: 100%;
         position: initial;
         margin-left: 0;
         text-align: center;
     }
+
+    header {
+        flex-direction: row;
+    }
+
+    header nav {
+        padding-top: 2em;
+        padding-bottom: 1em;
+    }
+}
+
+@media only screen and (max-width: 600px)  {
+
+    header .logo {
+        height: 100px;
+        padding-bottom: 0;
+    }
+
+     header nav {
+         padding-top: 0;
+     }
 }

@@ -1,10 +1,14 @@
 import * as React from "react"
 import * as moment from 'moment'
 import { Subject, Revision } from './subject'
+import Controls from "./controls";
 
 interface PageProps {
     subject?: Subject
     revision: string
+    revisionIndex: number | undefined
+
+    onChangeRevision: (index: number | undefined) => void
 }
 
 class Duration extends React.Component<{ value: number, unit: string }, null> {
@@ -30,17 +34,21 @@ export default class RevisionInfo extends React.Component<PageProps, null> {
         const delta = revision ? moment.duration(revision.delta) : moment.duration(0)
 
         return (
-            <div className="revision-info">
+            <div className='revision-info'>
                 <div className='duration'>
                     <Duration value={delta.days()} unit='days' />
                     <Duration value={delta.hours()} unit='hours' />
                     <Duration value={delta.minutes()} unit='minutes' />
                     <Duration value={delta.seconds()} unit='seconds' />
                 </div>
-                <p className='duration-label'>after first death edit</p>
-                <p>
-                    {revision ? revision.comment : ''}
-                </p>
+                <span className='duration-label'>
+                    {isNaN(this.props.revisionIndex) ? 'before first death edit' : 'after first death edit'}
+                </span>
+                <Controls
+                    center=''
+                    subject={this.props.subject}
+                    revisionIndex={this.props.revisionIndex}
+                    onChangeRevision={this.props.onChangeRevision} />
             </div>
         )
     }

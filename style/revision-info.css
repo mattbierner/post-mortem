@@ -1,11 +1,6 @@
 .revision-info {
-    width: 300px;
-    position: absolute;
-    top: 280px;
-    left: 0;
-    margin-left: calc(-300px - 30px);
+    padding-top: 1em;
 }
-
 
 .duration {
     display: flex;
@@ -14,29 +9,40 @@
     justify-content: center;
 }
 
+.duration,
 .duration-label {
-    margin-top: 0.2em;
+    font-family: 'Cutive Mono', monospace;
+}
+
+.duration-label {
+    margin-top: 0.4em;
 }
 
 .duration > * {
     display: block;
-    padding: 0 0.4em;
+    padding: 0 0.3em;
 }
 
 .duration-value {
     white-space: pre;
-    font-family: monospace;
     font-size: 1.8em;
 }
 
 .duration-unit {
     font-weight: bold;
     font-size: 0.7em;
-    font-style: italic;
 }
 
-@media only screen and (max-width: 800px)  {
+.revision-info .controls {
+    padding: 2em 0;
+}
+
+@media only screen and (max-width: 850px)  {
     .revision-info {
+        font-size: 0.8em;
+    }
+
+    .revision-info .controls {
         display: none;
     }
 }
