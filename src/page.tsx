@@ -28,7 +28,7 @@ const getDiffContent = (subject: Subject, revision: string): Promise<string> =>
 
 interface PageProps {
     subject?: Subject;
-    revision: string;
+    revision: string | undefined;
 }
 
 interface PageState {
@@ -62,9 +62,7 @@ export default class Page extends React.Component<PageProps, PageState> {
         if (this.props.subject) {
             this.baseContent = getBaseContent(this.props.subject)
 
-            if (props.revision) {
-                this.updateRevision(this.props.subject, props.revision)
-            }
+            this.updateRevision(this.props.subject, props.revision)
         }
     }
 
@@ -73,17 +71,23 @@ export default class Page extends React.Component<PageProps, PageState> {
             this.baseContent = getBaseContent(newProps.subject);
         }
 
-        if (newProps.revision !== this.props.revision) {
+        if (newProps.subject !== this.props.subject || newProps.revision !== this.props.revision) {
             this.updateRevision(newProps.subject, newProps.revision);
         }
     }
 
-    private async updateRevision(subject: Subject, revision: string): Promise<void> {
+    private async updateRevision(subject: Subject, revision: string | undefined): Promise<void> {
         const base = await this.baseContent
+        if (!revision) {
+            this.setState({ pageContent: base })
+            this._iframe.contentWindow.postMessage(base, '*')
+            return
+        }
+
         const patch = diff.parsePatch(await getDiffContent(subject, revision))[0]
         if (revision === this.props.revision) {
-            const r = applyPatch(patch, base);
-            this._iframe.contentWindow.postMessage(r, '*');
+            const r = applyPatch(patch, base)
+            this._iframe.contentWindow.postMessage(r, '*')
             this.setState({ pageContent: r })
         }
     }

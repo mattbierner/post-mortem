@@ -23,11 +23,11 @@ const pad2 = (num: number) => {
 
 export default class RevisionInfo extends React.Component<PageProps, null> {
     render() {
-        if (!this.props.subject || !this.props.revision) {
+        if (!this.props.subject) {
             return <div></div>
         }
         const revision: Revision = this.props.subject.getRevision(this.props.revision)
-        const delta = moment.duration(revision.delta)
+        const delta = revision ? moment.duration(revision.delta) : moment.duration(0)
 
         return (
             <div className="revision-info">
@@ -37,9 +37,9 @@ export default class RevisionInfo extends React.Component<PageProps, null> {
                     <Duration value={delta.minutes()} unit='minutes' />
                     <Duration value={delta.seconds()} unit='seconds' />
                 </div>
-                <p className='duration-label'>After First Death Edit</p>
+                <p className='duration-label'>after first death edit</p>
                 <p>
-                    {revision.comment}
+                    {revision ? revision.comment : ''}
                 </p>
             </div>
         )

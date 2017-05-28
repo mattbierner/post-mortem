@@ -62,7 +62,7 @@
         });
 
         window.addEventListener('message', (event) => {
-            document.body.innerHTML = event.data;
+            document.body.innerHTML = event.data || '';
         });
     </script>
 </head>

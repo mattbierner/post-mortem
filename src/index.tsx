@@ -27,7 +27,6 @@ interface IndexState {
 }
 
 class Index extends React.Component<null, IndexState> {
-
     constructor() {
         super()
 
@@ -45,7 +44,7 @@ class Index extends React.Component<null, IndexState> {
         Subject.create(subjectName).then(subject => {
             this.setState({
                 subject,
-                revision: '' + subject.revisions[0].revid
+                revision: undefined
             })
             this.updateRevision(this.state.progress, subject)
         })
@@ -62,20 +61,20 @@ class Index extends React.Component<null, IndexState> {
 
     private updateRevision(progress: number, subject: Subject): void {
         const time = SPAN * progress
-        let previous = subject.revisions[0]
+        let previous = undefined
         for (const revision of subject.revisions) {
             if (revision.delta >= time) {
-                if (Math.abs(revision.delta - time) < Math.abs(previous.delta - time)) {
+                if (previous && Math.abs(revision.delta - time) < Math.abs(previous.delta - time)) {
                     this.setState({ revision: '' + revision.revid })
                 } else {
-                    this.setState({ revision: '' + previous.revid })
+                    this.setState({ revision: previous ? '' + previous.revid : undefined })
                 }
                 return;
             }
             previous = revision
         }
 
-        this.setState({ revision: '' + previous.revid })
+        this.setState({ revision: previous ? '' + previous.revid : undefined })
     }
 
     render() {

@@ -5,6 +5,7 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
-        "**/*.pyc": true
+        "**/*.pyc": true,
+        "dist/**": true
     }
 }
