@@ -44,7 +44,8 @@ class Index extends React.Component<null, IndexState> {
         Subject.create(subjectName).then(subject => {
             this.setState({
                 subject,
-                revision: undefined
+                revision: undefined,
+                progress: 0
             })
             this.updateRevision(this.state.progress, subject)
         })

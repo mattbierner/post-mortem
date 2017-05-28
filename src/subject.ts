@@ -48,9 +48,10 @@ export interface Revision {
 
 export class Subject {
     public readonly name: string
+    public readonly base: Revision
+    public readonly start: moment.Moment
 
     private readonly _revisions: Revision[] = []
-    public readonly base: Revision
 
     private constructor(name: string, revisions: Revision[]) {
         this.name = name
@@ -60,10 +61,10 @@ export class Subject {
         this.base = revisions[0]
         this._revisions = revisions.slice(1)
 
-        // Set delta
-        const start = this._revisions[0].timestamp
+        // Set deltas
+        this.start = this._revisions[0].timestamp
         for (const revision of this._revisions) {
-            revision.delta = revision.timestamp.diff(start)
+            revision.delta = revision.timestamp.diff(this.start)
         }
     }
 

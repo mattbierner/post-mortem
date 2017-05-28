@@ -17693,11 +17693,11 @@ var Subject = (function () {
         // revision 1 is first death revision
         this.base = revisions[0];
         this._revisions = revisions.slice(1);
-        // Set delta
-        var start = this._revisions[0].timestamp;
+        // Set deltas
+        this.start = this._revisions[0].timestamp;
         for (var _i = 0, _a = this._revisions; _i < _a.length; _i++) {
             var revision = _a[_i];
-            revision.delta = revision.timestamp.diff(start);
+            revision.delta = revision.timestamp.diff(this.start);
         }
     }
     Object.defineProperty(Subject.prototype, "revisions", {
@@ -17889,11 +17889,16 @@ var Timeline = (function (_super) {
                 revisions.push(React.createElement(RevisionMarker, { revision: revision, isCurrent: revision.revid + '' === this.props.currentRevision, key: revision.revid, positioner: this.positioner }));
             }
         }
+        var timestamp;
+        if (this.props.subject) {
+            timestamp = this.props.subject.start.clone().add(SPAN * this.props.progress, 'millisecond');
+        }
         return React.createElement("div", { className: 'timeline', onMouseDown: this.onMouseDown.bind(this), onMouseUp: this.onMouseUp.bind(this), onMouseMove: this.onMouseMove.bind(this) },
             React.createElement("div", { className: 'timeline-content' },
                 React.createElement(TimelineTicks, { duration: SPAN }),
                 React.createElement("ol", null, revisions),
-                React.createElement(TimelineScrubber, { progress: this.props.progress })));
+                React.createElement(TimelineScrubber, { progress: this.props.progress })),
+            React.createElement("p", null, timestamp ? timestamp.format('MMMM Do YYYY, h:mm:ss a') : ''));
     };
     return Timeline;
 }(React.Component));
@@ -17954,7 +17959,8 @@ var Index = (function (_super) {
         subject_1.Subject.create(subjectName).then(function (subject) {
             _this.setState({
                 subject: subject,
-                revision: undefined
+                revision: undefined,
+                progress: 0
             });
             _this.updateRevision(_this.state.progress, subject);
         });

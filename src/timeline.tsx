@@ -1,5 +1,6 @@
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
+import * as moment from 'moment'
 const rwc = require('random-weighted-choice')
 
 import { Subject, Revision } from './subject'
@@ -182,6 +183,10 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
                     positioner={this.positioner} />);
             }
         }
+        let timestamp: moment.Moment | undefined
+        if (this.props.subject) {
+            timestamp = this.props.subject.start.clone().add(SPAN * this.props.progress, 'millisecond')
+        }
 
         return <div
             className='timeline'
@@ -193,6 +198,7 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
                 <ol>{revisions}</ol>
                 <TimelineScrubber progress={this.props.progress} />
             </div>
+            <p>{timestamp ? timestamp.format('MMMM Do YYYY, h:mm:ss a') : ''}</p>
         </div>
     }
 }
