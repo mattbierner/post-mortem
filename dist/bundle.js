@@ -17617,7 +17617,7 @@ var Page = (function (_super) {
     };
     Page.prototype.updateRevision = function (subject, revision) {
         return __awaiter(this, void 0, void 0, function () {
-            var base, patch, _a, _b, r;
+            var base, patch, _a, _b, r, e_1;
             return __generator(this, function (_c) {
                 switch (_c.label) {
                     case 0: return [4 /*yield*/, this.baseContent];
@@ -17628,16 +17628,23 @@ var Page = (function (_super) {
                             this._iframe.contentWindow.postMessage(base, '*');
                             return [2 /*return*/];
                         }
+                        _c.label = 2;
+                    case 2:
+                        _c.trys.push([2, 4, , 5]);
                         _b = (_a = diff).parsePatch;
                         return [4 /*yield*/, getDiffContent(subject, revision)];
-                    case 2:
+                    case 3:
                         patch = _b.apply(_a, [_c.sent()])[0];
                         if (revision === this.props.revision) {
                             r = applyPatch(patch, base);
                             this._iframe.contentWindow.postMessage(r, '*');
                             this.setState({ pageContent: r });
                         }
-                        return [2 /*return*/];
+                        return [3 /*break*/, 5];
+                    case 4:
+                        e_1 = _c.sent();
+                        return [3 /*break*/, 5];
+                    case 5: return [2 /*return*/];
                 }
             });
         });
@@ -17845,12 +17852,21 @@ var Timeline = (function (_super) {
         };
         if (props.subject) {
             _this.positioner = new MarkerPositioner(props.subject.revisions);
+            _this.updateRevisionMarkers(props.subject);
         }
         return _this;
     }
     Timeline.prototype.componentWillReceiveProps = function (newProps) {
         if (newProps.subject !== this.props.subject) {
             this.positioner = new MarkerPositioner(newProps.subject.revisions);
+            this.updateRevisionMarkers(newProps.subject);
+        }
+    };
+    Timeline.prototype.updateRevisionMarkers = function (subject) {
+        this.revisionMarkers = [];
+        for (var _i = 0, _a = subject.revisions; _i < _a.length; _i++) {
+            var revision = _a[_i];
+            this.revisionMarkers.push(React.createElement(RevisionMarker, { revision: revision, isCurrent: revision.revid + '' === this.props.currentRevision, key: revision.revid, positioner: this.positioner }));
         }
     };
     Timeline.prototype.onMouseDown = function (event) {
@@ -17882,13 +17898,6 @@ var Timeline = (function (_super) {
         return progress;
     };
     Timeline.prototype.render = function () {
-        var revisions = [];
-        if (this.props.subject) {
-            for (var _i = 0, _a = this.props.subject.revisions; _i < _a.length; _i++) {
-                var revision = _a[_i];
-                revisions.push(React.createElement(RevisionMarker, { revision: revision, isCurrent: revision.revid + '' === this.props.currentRevision, key: revision.revid, positioner: this.positioner }));
-            }
-        }
         var timestamp;
         if (this.props.subject) {
             timestamp = this.props.subject.start.clone().add(SPAN * this.props.progress, 'millisecond');
@@ -17896,7 +17905,7 @@ var Timeline = (function (_super) {
         return React.createElement("div", { className: 'timeline', onMouseDown: this.onMouseDown.bind(this), onMouseUp: this.onMouseUp.bind(this), onMouseMove: this.onMouseMove.bind(this) },
             React.createElement("div", { className: 'timeline-content' },
                 React.createElement(TimelineTicks, { duration: SPAN }),
-                React.createElement("ol", null, revisions),
+                React.createElement("ol", null, this.revisionMarkers),
                 React.createElement(TimelineScrubber, { progress: this.props.progress })),
             React.createElement("p", null, timestamp ? timestamp.format('MMMM Do YYYY, h:mm:ss a') : ''));
     };

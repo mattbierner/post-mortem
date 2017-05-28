@@ -83,12 +83,15 @@ export default class Page extends React.Component<PageProps, PageState> {
             this._iframe.contentWindow.postMessage(base, '*')
             return
         }
-
-        const patch = diff.parsePatch(await getDiffContent(subject, revision))[0]
-        if (revision === this.props.revision) {
-            const r = applyPatch(patch, base)
-            this._iframe.contentWindow.postMessage(r, '*')
-            this.setState({ pageContent: r })
+        try {
+            const patch = diff.parsePatch(await getDiffContent(subject, revision))[0]
+            if (revision === this.props.revision) {
+                const r = applyPatch(patch, base)
+                this._iframe.contentWindow.postMessage(r, '*')
+                this.setState({ pageContent: r })
+            }
+        } catch (e) {
+            
         }
     }
 

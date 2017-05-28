@@ -5,7 +5,6 @@
 }
 .timeline-content {
     height: 80px;
-    width: calc(100% - 60px);
     position: relative;
 }
 
@@ -22,6 +21,7 @@
     position: absolute;
     height: 100%;
     width: 100%;
+    padding: 0;
 }
 
 .timeline li {

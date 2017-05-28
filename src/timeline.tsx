@@ -118,7 +118,9 @@ interface TimelineState {
 }
 
 export default class Timeline extends React.Component<TimelineProps, TimelineState> {
-    private positioner?: MarkerPositioner;
+    private revisionMarkers: any[];
+
+    private positioner?: MarkerPositioner
 
     constructor(props: TimelineProps) {
         super()
@@ -129,13 +131,28 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
 
         if (props.subject) {
             this.positioner = new MarkerPositioner(props.subject.revisions)
+
+            this.updateRevisionMarkers(props.subject)
         }
     }
 
     componentWillReceiveProps(newProps: TimelineProps) {
         if (newProps.subject !== this.props.subject) {
             this.positioner = new MarkerPositioner(newProps.subject.revisions)
+            this.updateRevisionMarkers(newProps.subject)
         }
+    }
+
+    private updateRevisionMarkers(subject: Subject): void {
+        this.revisionMarkers = []
+        for (const revision of subject.revisions) {
+            this.revisionMarkers.push(<RevisionMarker
+                revision={revision}
+                isCurrent={revision.revid + '' === this.props.currentRevision}
+                key={revision.revid}
+                positioner={this.positioner} />);
+        }
+
     }
 
     private onMouseDown(event: any) {
@@ -172,17 +189,6 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
     }
 
     render() {
-        const revisions: any[] = [];
-
-        if (this.props.subject) {
-            for (const revision of this.props.subject.revisions) {
-                revisions.push(<RevisionMarker
-                    revision={revision}
-                    isCurrent={revision.revid + '' === this.props.currentRevision}
-                    key={revision.revid}
-                    positioner={this.positioner} />);
-            }
-        }
         let timestamp: moment.Moment | undefined
         if (this.props.subject) {
             timestamp = this.props.subject.start.clone().add(SPAN * this.props.progress, 'millisecond')
@@ -195,7 +201,7 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
             onMouseMove={this.onMouseMove.bind(this)}>
             <div className='timeline-content'>
                 <TimelineTicks duration={SPAN} />
-                <ol>{revisions}</ol>
+                <ol>{this.revisionMarkers}</ol>
                 <TimelineScrubber progress={this.props.progress} />
             </div>
             <p>{timestamp ? timestamp.format('MMMM Do YYYY, h:mm:ss a') : ''}</p>
