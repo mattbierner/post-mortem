@@ -39,7 +39,7 @@ def clean(raw_content):
 
     # Remove everything except main page content
     result = []
-    start = soup.findChild('table')
+    start = soup.findChild('table', id='infobox')
     if start:
         start = start.find_next_sibling('p')
     else:
