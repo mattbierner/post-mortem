@@ -94,11 +94,10 @@ export default class Page extends React.Component<PageProps, PageState> {
 
     render() {
         return (
-            <div className='page' >
+            <div className='page' style={{ flex: 1 }}>
                 <iframe
                     sandbox='allow-scripts allow-popups'
                     frameBorder='0'
-                    width='100%' height='100%'
                     style={{ flex: 1 }}
                     srcDoc={page}
                     ref={(element: any) => { this._iframe = element; }}

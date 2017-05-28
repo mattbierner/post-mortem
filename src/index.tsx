@@ -93,7 +93,7 @@ class Index extends React.Component<null, IndexState> {
                         </nav>
                     </div>
                 </header>
-                <article className="wrapper" style={{ flex: 1 }}>
+                <article className="wrapper" style={{ flex: 1, display: 'flex' }}>
                     <Page subject={this.state.subject} revision={this.state.revision} />
                     <RevisionInfo subject={this.state.subject} revision={this.state.revision} />
                 </article>

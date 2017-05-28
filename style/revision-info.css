@@ -2,6 +2,7 @@
     width: 300px;
     position: absolute;
     top: 280px;
+    left: 0;
     margin-left: calc(-300px - 30px);
 }
 

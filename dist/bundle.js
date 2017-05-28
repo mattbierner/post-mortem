@@ -17644,8 +17644,8 @@ var Page = (function (_super) {
     };
     Page.prototype.render = function () {
         var _this = this;
-        return (React.createElement("div", { className: 'page' },
-            React.createElement("iframe", { sandbox: 'allow-scripts allow-popups', frameBorder: '0', width: '100%', height: '100%', style: { flex: 1 }, srcDoc: page, ref: function (element) { _this._iframe = element; }, onLoad: this.onLoad.bind(this) })));
+        return (React.createElement("div", { className: 'page', style: { flex: 1 } },
+            React.createElement("iframe", { sandbox: 'allow-scripts allow-popups', frameBorder: '0', style: { flex: 1 }, srcDoc: page, ref: function (element) { _this._iframe = element; }, onLoad: this.onLoad.bind(this) })));
     };
     Page.prototype.onLoad = function () {
         this._iframe.contentWindow.postMessage(this.state.pageContent, '*');
@@ -17946,7 +17946,7 @@ var Index = (function (_super) {
                     React.createElement("nav", null,
                         React.createElement("a", { href: "#" }, "About"),
                         React.createElement("a", { href: "#" }, "Source")))),
-            React.createElement("article", { className: "wrapper", style: { flex: 1 } },
+            React.createElement("article", { className: "wrapper", style: { flex: 1, display: 'flex' } },
                 React.createElement(page_1.default, { subject: this.state.subject, revision: this.state.revision }),
                 React.createElement(revision_info_1.default, { subject: this.state.subject, revision: this.state.revision })),
             React.createElement(timeline_1.default, { subject: this.state.subject, progress: this.state.progress, onDrag: this.onDrag.bind(this), currentRevision: this.state.revision })));
