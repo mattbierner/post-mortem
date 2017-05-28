@@ -42,7 +42,8 @@
 }
 
 .revision-marker.current-revision:before {
-    background: red;
+    background: #FF7697;
+    z-index: 10;
 }
 
 .scrubber {

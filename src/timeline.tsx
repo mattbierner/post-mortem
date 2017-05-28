@@ -35,7 +35,11 @@ class MarkerPositioner {
     }
 }
 
-class RevisionMarker extends React.Component<{ revision: Revision, isCurrent: boolean, positioner: MarkerPositioner }, null> {
+class RevisionMarker extends React.Component<{
+    revision: Revision,
+    isCurrent: boolean,
+    positioner: MarkerPositioner
+}, null> {
     render() {
         const style: any = {
             position: 'absolute',
@@ -152,11 +156,10 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
         for (const revision of subject.revisions) {
             this.revisionMarkers.push(<RevisionMarker
                 revision={revision}
-                isCurrent={revision.revid + '' === this.props.currentRevision}
+                isCurrent={false}
                 key={revision.revid}
                 positioner={this.positioner} />);
         }
-
     }
 
     private onMouseDown(event: any) {
@@ -198,13 +201,25 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
             timestamp = this.props.subject.start.clone().add(SPAN * this.props.progress, 'millisecond')
         }
 
+        let currentRevision: any = ''
+        if (this.props.subject && !isNaN(this.props.revisionIndex)) {
+            const revision = this.props.subject.revisions[this.props.revisionIndex]
+            currentRevision = <RevisionMarker
+                revision={revision}
+                isCurrent={true}
+                positioner={this.positioner} />
+        }
+
         return <div className='timeline'>
             <div className='timeline-content'
                 onMouseDown={this.onMouseDown.bind(this)}
                 onMouseUp={this.onMouseUp.bind(this)}
                 onMouseMove={this.onMouseMove.bind(this)}>
                 <TimelineTicks duration={SPAN} />
-                <ol>{this.revisionMarkers}</ol>
+                <ol>
+                    {this.revisionMarkers}
+                    {currentRevision}
+                </ol>
                 <TimelineScrubber progress={this.props.progress} />
             </div>
             <Controls

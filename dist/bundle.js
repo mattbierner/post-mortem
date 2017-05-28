@@ -17882,7 +17882,7 @@ var Timeline = (function (_super) {
         this.revisionMarkers = [];
         for (var _i = 0, _a = subject.revisions; _i < _a.length; _i++) {
             var revision = _a[_i];
-            this.revisionMarkers.push(React.createElement(RevisionMarker, { revision: revision, isCurrent: revision.revid + '' === this.props.currentRevision, key: revision.revid, positioner: this.positioner }));
+            this.revisionMarkers.push(React.createElement(RevisionMarker, { revision: revision, isCurrent: false, key: revision.revid, positioner: this.positioner }));
         }
     };
     Timeline.prototype.onMouseDown = function (event) {
@@ -17918,10 +17918,17 @@ var Timeline = (function (_super) {
         if (this.props.subject) {
             timestamp = this.props.subject.start.clone().add(SPAN * this.props.progress, 'millisecond');
         }
+        var currentRevision = '';
+        if (this.props.subject && !isNaN(this.props.revisionIndex)) {
+            var revision = this.props.subject.revisions[this.props.revisionIndex];
+            currentRevision = React.createElement(RevisionMarker, { revision: revision, isCurrent: true, positioner: this.positioner });
+        }
         return React.createElement("div", { className: 'timeline' },
             React.createElement("div", { className: 'timeline-content', onMouseDown: this.onMouseDown.bind(this), onMouseUp: this.onMouseUp.bind(this), onMouseMove: this.onMouseMove.bind(this) },
                 React.createElement(TimelineTicks, { duration: SPAN }),
-                React.createElement("ol", null, this.revisionMarkers),
+                React.createElement("ol", null,
+                    this.revisionMarkers,
+                    currentRevision),
                 React.createElement(TimelineScrubber, { progress: this.props.progress })),
             React.createElement(controls_1.default, { center: timestamp ? timestamp.format('MMMM Do YYYY, h:mm:ss a') : '', subject: this.props.subject, revisionIndex: this.props.revisionIndex, onChangeRevision: this.props.onChangeRevision }));
     };
