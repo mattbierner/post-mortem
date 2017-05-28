@@ -210,6 +210,12 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
                 positioner={this.positioner} />
         }
 
+        const center = timestamp
+            ? <span className='timeline-time'
+                data-date-long={timestamp.format('MMMM Do YYYY, h:mm:ss a')}
+                data-date-short={timestamp.format('MMM D, YYYY, H:mm:ss')} />
+            : ''
+
         return <div className='timeline'>
             <div className='timeline-content'
                 onMouseDown={this.onMouseDown.bind(this)}
@@ -223,7 +229,7 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
                 <TimelineScrubber progress={this.props.progress} />
             </div>
             <Controls
-                center={timestamp ? timestamp.format('MMMM Do YYYY, h:mm:ss a') : ''}
+                center={center}
                 subject={this.props.subject}
                 revisionIndex={this.props.revisionIndex}
                 onChangeRevision={this.props.onChangeRevision} />

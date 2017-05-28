@@ -38,8 +38,8 @@ export default class RevisionInfo extends React.Component<PageProps, null> {
                 <div className='duration'>
                     <Duration value={delta.days()} unit='days' />
                     <Duration value={delta.hours()} unit='hours' />
-                    <Duration value={delta.minutes()} unit='minutes' />
-                    <Duration value={delta.seconds()} unit='seconds' />
+                    <Duration value={delta.minutes()} unit='mins' />
+                    <Duration value={delta.seconds()} unit='secs' />
                 </div>
                 <span className='duration-label'>
                     {isNaN(this.props.revisionIndex) ? 'before first death edit' : 'after first death edit'}

@@ -1,11 +1,12 @@
 .timeline {
     border-top: 1px solid rgba(0, 0, 0, 0.4);
-    padding: 0 30px;
+    padding: 0 20px;
     margin-bottom: 8px;
 }
 .timeline-content {
     height: 80px;
     position: relative;
+    margin-bottom: 8px;
 }
 
 .timeline-ticks {
@@ -49,4 +50,22 @@
 .scrubber {
     border: 1px solid #FF7697;
     height: 100%;
+}
+
+
+.timeline-time:before {
+    content: attr(data-date-long);
+}
+
+
+@media only screen and (max-width: 700px)  {
+    .timeline-time:before {
+        content: attr(data-date-short);
+    }
+    .timeline .controls {
+        font-size: 0.9em;
+    }
+    .timeline .controls a { 
+        padding: 0 0.4em;
+    }
 }
