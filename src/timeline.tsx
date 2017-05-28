@@ -55,6 +55,55 @@ class TimelineScrubber extends React.Component<{ progress: number }, null> {
     }
 }
 
+class TimelineTicks extends React.Component<{ duration: number }, null> {
+    componentDidMount() {
+        this.drawGrid(this.props.duration);
+
+        window.addEventListener('resize', () => {
+            this.drawGrid(this.props.duration);
+        }, false);
+    }
+
+    componentWillReceiveProps(nextProps: any) {
+        if (nextProps.duration != this.props.duration) {
+            this.drawGrid(nextProps.duration);
+        }
+    }
+
+    private drawGrid(duration: number) {
+        if (!+duration)
+            return;
+        const canvas: any = ReactDOM.findDOMNode(this);
+        const { width, height } = canvas.getBoundingClientRect();
+        canvas.width = width;
+        canvas.height = height;
+
+        const context = canvas.getContext('2d');
+
+        context.lineWidth = 1;
+        context.strokeStyle = 'black';
+        this.drawTicks(context, width, height, duration, height, duration / 7);
+        this.drawTicks(context, width, height, duration, height / 4, duration / 7 / 24);
+    }
+
+    private drawTicks(context: any, width: number, height: number, duration: number, tickHeight: number, size: number) {
+        const upper = height / 2 - tickHeight / 2;
+        const lower = height / 2 + tickHeight / 2;
+
+        context.beginPath();
+        const stepSize = width / (duration / size);
+        for (let i = 0; i < width; i += stepSize) {
+            context.moveTo(i, upper);
+            context.lineTo(i, lower);
+        }
+        context.stroke();
+    }
+
+    render() {
+        return <canvas className='timeline-ticks' />;
+    }
+}
+
 interface TimelineProps {
     subject?: Subject
     currentRevision?: string
@@ -140,6 +189,7 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
             onMouseUp={this.onMouseUp.bind(this)}
             onMouseMove={this.onMouseMove.bind(this)}>
             <div className='timeline-content'>
+                <TimelineTicks duration={SPAN} />
                 <ol>{revisions}</ol>
                 <TimelineScrubber progress={this.props.progress} />
             </div>

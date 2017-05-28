@@ -17790,6 +17790,52 @@ var TimelineScrubber = (function (_super) {
     };
     return TimelineScrubber;
 }(React.Component));
+var TimelineTicks = (function (_super) {
+    __extends(TimelineTicks, _super);
+    function TimelineTicks() {
+        return _super !== null && _super.apply(this, arguments) || this;
+    }
+    TimelineTicks.prototype.componentDidMount = function () {
+        var _this = this;
+        this.drawGrid(this.props.duration);
+        window.addEventListener('resize', function () {
+            _this.drawGrid(_this.props.duration);
+        }, false);
+    };
+    TimelineTicks.prototype.componentWillReceiveProps = function (nextProps) {
+        if (nextProps.duration != this.props.duration) {
+            this.drawGrid(nextProps.duration);
+        }
+    };
+    TimelineTicks.prototype.drawGrid = function (duration) {
+        if (!+duration)
+            return;
+        var canvas = ReactDOM.findDOMNode(this);
+        var _a = canvas.getBoundingClientRect(), width = _a.width, height = _a.height;
+        canvas.width = width;
+        canvas.height = height;
+        var context = canvas.getContext('2d');
+        context.lineWidth = 1;
+        context.strokeStyle = 'black';
+        this.drawTicks(context, width, height, duration, height, duration / 7);
+        this.drawTicks(context, width, height, duration, height / 4, duration / 7 / 24);
+    };
+    TimelineTicks.prototype.drawTicks = function (context, width, height, duration, tickHeight, size) {
+        var upper = height / 2 - tickHeight / 2;
+        var lower = height / 2 + tickHeight / 2;
+        context.beginPath();
+        var stepSize = width / (duration / size);
+        for (var i = 0; i < width; i += stepSize) {
+            context.moveTo(i, upper);
+            context.lineTo(i, lower);
+        }
+        context.stroke();
+    };
+    TimelineTicks.prototype.render = function () {
+        return React.createElement("canvas", { className: 'timeline-ticks' });
+    };
+    return TimelineTicks;
+}(React.Component));
 var Timeline = (function (_super) {
     __extends(Timeline, _super);
     function Timeline(props) {
@@ -17845,6 +17891,7 @@ var Timeline = (function (_super) {
         }
         return React.createElement("div", { className: 'timeline', onMouseDown: this.onMouseDown.bind(this), onMouseUp: this.onMouseUp.bind(this), onMouseMove: this.onMouseMove.bind(this) },
             React.createElement("div", { className: 'timeline-content' },
+                React.createElement(TimelineTicks, { duration: SPAN }),
                 React.createElement("ol", null, revisions),
                 React.createElement(TimelineScrubber, { progress: this.props.progress })));
     };
