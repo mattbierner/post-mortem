@@ -2,8 +2,10 @@
     <img title="Post Mortem" src="assets/logo.png" />
 </div>
 
-- [Site](https://mattbierner.github.io/post-mortem/)
-- [Post](http://blog.mattbierner.com/post-mortem)
+<div align="center">
+    <p><a href="https://mattbierner.github.io/post-mortem/">Site</a></p>
+    <p><a href="http://blog.mattbierner.com/post-mortem">Post</a></p>
+</div>
 
 
 # About
