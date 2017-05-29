@@ -25729,7 +25729,8 @@ var Page = (function (_super) {
     function Page(props) {
         var _this = _super.call(this, props) || this;
         _this.state = {
-            pageContent: undefined
+            pageContent: undefined,
+            loading: true
         };
         if (_this.props.subject) {
             _this.baseContent = getBaseContent(_this.props.subject);
@@ -25751,11 +25752,16 @@ var Page = (function (_super) {
             var base, patch, _a, _b, r, e_1;
             return __generator(this, function (_c) {
                 switch (_c.label) {
-                    case 0: return [4 /*yield*/, this.baseContent];
+                    case 0:
+                        this.setState({ loading: true });
+                        return [4 /*yield*/, this.baseContent];
                     case 1:
                         base = _c.sent();
                         if (!revision) {
-                            this.setState({ pageContent: base });
+                            this.setState({
+                                pageContent: base,
+                                loading: false
+                            });
                             this._iframe.contentWindow.postMessage({
                                 content: base,
                                 scrollTop: scrollTop
@@ -25775,11 +25781,17 @@ var Page = (function (_super) {
                                 content: r,
                                 scrollTop: scrollTop
                             }, '*');
-                            this.setState({ pageContent: r });
+                            this.setState({
+                                pageContent: r,
+                                loading: false
+                            });
                         }
                         return [3 /*break*/, 5];
                     case 4:
                         e_1 = _c.sent();
+                        this.setState({
+                            loading: false
+                        });
                         return [3 /*break*/, 5];
                     case 5: return [2 /*return*/];
                 }
@@ -25788,14 +25800,20 @@ var Page = (function (_super) {
     };
     Page.prototype.render = function () {
         var _this = this;
-        return (React.createElement("article", { className: 'page wrapper', style: { flex: 1 } },
-            React.createElement("iframe", { sandbox: 'allow-scripts allow-same-origin', frameBorder: '0', style: { flex: 1 }, srcDoc: page, ref: function (element) { _this._iframe = element; }, onLoad: this.onLoad.bind(this) })));
+        return (React.createElement("div", { className: 'wrapper main-content', style: { flex: 1 } },
+            React.createElement("article", { className: 'page' },
+                React.createElement("iframe", { sandbox: 'allow-scripts allow-same-origin', frameBorder: '0', style: { flex: 1 }, srcDoc: page, ref: function (element) { _this._iframe = element; }, onLoad: this.onLoad.bind(this) }),
+                React.createElement("div", { className: 'loading', style: { display: this.state.loading ? 'block' : 'none' } },
+                    React.createElement("div", { className: 'loader' })))));
     };
     Page.prototype.onLoad = function () {
         if (this.state.pageContent) {
             this._iframe.contentWindow.postMessage({
                 content: this.state.pageContent
             }, '*');
+            this.setState({
+                loading: false
+            });
         }
     };
     return Page;

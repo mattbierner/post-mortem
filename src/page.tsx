@@ -29,15 +29,6 @@ const getDiffContent = (subject: Subject, revision: string): Promise<string> =>
     getContent(`./data/diff/${subject.name}/${revision}.diff`);
 
 
-interface PageProps {
-    subject?: Subject;
-    revision: string | undefined;
-}
-
-interface PageState {
-    pageContent?: string
-}
-
 const applyPatch = (patch: diff.IUniDiff, input: string): string => {
     //return diff.applyPatch(input, patch);
     let offset = 0
@@ -51,6 +42,16 @@ const applyPatch = (patch: diff.IUniDiff, input: string): string => {
     return lines.join('\n')
 }
 
+interface PageProps {
+    subject?: Subject;
+    revision: string | undefined;
+}
+
+interface PageState {
+    pageContent?: string
+    loading: boolean
+}
+
 export default class Page extends React.Component<PageProps, PageState> {
     private baseContent: Promise<string>;
     private _iframe: HTMLIFrameElement;
@@ -59,12 +60,12 @@ export default class Page extends React.Component<PageProps, PageState> {
         super(props);
 
         this.state = {
-            pageContent: undefined
+            pageContent: undefined,
+            loading: true
         }
 
         if (this.props.subject) {
             this.baseContent = getBaseContent(this.props.subject)
-
             this.updateRevision(this.props.subject, props.revision)
         }
     }
@@ -78,7 +79,7 @@ export default class Page extends React.Component<PageProps, PageState> {
             this.updateRevision(
                 newProps.subject,
                 newProps.revision,
-                newProps.subject !== this.props.subject);
+                newProps.subject !== this.props.subject)
         }
     }
 
@@ -87,9 +88,13 @@ export default class Page extends React.Component<PageProps, PageState> {
         revision: string | undefined,
         scrollTop: boolean = false
     ): Promise<void> {
+        this.setState({ loading: true })
         const base = await this.baseContent
         if (!revision) {
-            this.setState({ pageContent: base })
+            this.setState({
+                pageContent: base,
+                loading: false
+            })
             this._iframe.contentWindow.postMessage({
                 content: base,
                 scrollTop: scrollTop
@@ -104,24 +109,34 @@ export default class Page extends React.Component<PageProps, PageState> {
                     content: r,
                     scrollTop: scrollTop
                 }, '*')
-                this.setState({ pageContent: r })
+                this.setState({
+                    pageContent: r,
+                    loading: false
+                })
             }
         } catch (e) {
-
+            this.setState({
+                loading: false
+            })
         }
     }
 
     render() {
         return (
-            <article className='page wrapper' style={{ flex: 1 }}>
-                <iframe
-                    sandbox='allow-scripts allow-same-origin'
-                    frameBorder='0'
-                    style={{ flex: 1 }}
-                    srcDoc={page}
-                    ref={(element: any) => { this._iframe = element; }}
-                    onLoad={this.onLoad.bind(this)} />
-            </article>
+            <div className='wrapper main-content' style={{ flex: 1 }}>
+                <article className='page'>
+                    <iframe
+                        sandbox='allow-scripts allow-same-origin'
+                        frameBorder='0'
+                        style={{ flex: 1 }}
+                        srcDoc={page}
+                        ref={(element: any) => { this._iframe = element; }}
+                        onLoad={this.onLoad.bind(this)} />
+                    <div className='loading' style={{ display: this.state.loading ? 'block' : 'none' }}>
+                        <div className='loader' />
+                    </div>
+                </article>
+            </div>
         )
     }
 
@@ -130,6 +145,9 @@ export default class Page extends React.Component<PageProps, PageState> {
             this._iframe.contentWindow.postMessage({
                 content: this.state.pageContent
             }, '*')
+            this.setState({
+                loading: false
+            })
         }
     }
 }
