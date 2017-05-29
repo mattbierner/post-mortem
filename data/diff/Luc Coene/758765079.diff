@@ -1,0 +1,115 @@
+--- 728456637
++++ 758765079
+@@ -2,8 +2,18 @@
+- <b>
+-  Luc Coene
+- </b>
+- (born
+- <a href="/wiki/Ghent" title="Ghent">
+-  Ghent
+- </a>
+- , 11 March 1947) is a
++ <ins>
++  <b>
++   Luc Coene
++  </b>
++  (11 March 1947 – 5 January 2017)
++ was
++ </ins>
++ <del>
++  <b>
++   Luc Coene
++  </b>
++  (born
++  <a href="/wiki/Ghent" title="Ghent">
++   Ghent
++  </a>
++  , 11 March 1947) is
++ </del>
++ a
+@@ -13,5 +23,21 @@
+- economist and has been from April 2011 till March 2015 Governor of the
+- <a href="/wiki/National_Bank_of_Belgium" title="National Bank of Belgium">
+-  National Bank of Belgium
+- </a>
+- (NBB).
++ <ins>
++  economist. He was Governor of the
++  <a href="/wiki/National_Bank_of_Belgium" title="National Bank of Belgium">
++   National Bank of Belgium
++  </a>
++  (NBB)
++ </ins>
++ <del>
++  economist and has been
++ </del>
++ from April 2011
++ <ins>
++  until March 2015 .
++ </ins>
++ <del>
++  till March 2015 Governor of the
++  <a href="/wiki/National_Bank_of_Belgium" title="National Bank of Belgium">
++   National Bank of Belgium
++  </a>
++  (NBB).
++ </del>
+@@ -29 +55,5 @@
+- Luc Coene graduated in economics at
++ Luc Coene
++ <ins>
++  was born in Ghent and
++ </ins>
++ graduated in economics at
+@@ -103,4 +133,18 @@
+- . In march 2015 he was appointed Member of the Supervisory Board of the ECB for a period of 5 years.
+-</p>
+-<p>
+- He is a member of the Advisory Board of the
++ . In
++ <ins>
++  March
++ </ins>
++ <del>
++  march
++ </del>
++ 2015 he was appointed Member of the Supervisory Board of the ECB for a period of 5 years.
++</p>
++<p>
++ He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a member of the Advisory Board of the
+@@ -116 +160,14 @@
+- Since March 2015 he is member of the Supervisory Board of the
++ <ins>
++  In
++ </ins>
++ <del>
++  Since
++ </del>
++ March 2015 he
++ <ins>
++  became a
++ </ins>
++ <del>
++  is
++ </del>
++ member of the Supervisory Board of the
+@@ -124 +181,7 @@
+- mechanism supervising banks.
++ <ins>
++  's banking supervision mechanism directly supervising large
++ </ins>
++ <del>
++  mechanism supervising
++ </del>
++ banks.
+@@ -137 +200 @@
+-</ul>
++</ul>
+\ No newline at end of file

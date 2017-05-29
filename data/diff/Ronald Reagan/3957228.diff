@@ -1,0 +1,127 @@
+--- 3955334
++++ 3957228
+@@ -6 +6,6 @@
+- (born
++ <ins>
++  (
++ </ins>
++ <del>
++  (born
++ </del>
+@@ -13,0 +19,10 @@
++ <ins>
++  -
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  ,
++  <a href="/wiki/2004" title="2004">
++   2004
++  </a>
++ </ins>
+@@ -46 +61,15 @@
+- before entering politics. He is the longest-lived person to have served as President, as well as the oldest elected President (69 years, 349 days). He is the only
++ before entering politics. He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ the longest-lived person to have served as President, as well as the oldest elected President (69 years, 349 days). He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ the only
+@@ -106 +135 @@
+- <a class="mw-disambig" href="/wiki/Rock_River" title="Rock River">
++ <a class="mw-redirect" href="/wiki/Rock_River_(Illinois)" title="Rock River (Illinois)">
+@@ -128 +157,8 @@
+- . Child of an
++ .
++ <ins>
++  The child
++ </ins>
++ <del>
++  Child
++ </del>
++ of an
+@@ -192 +228,5 @@
+- he played the role of George "The Gipper" Gipp in the film
++ he played the role of
++ <a href="/wiki/George_Gipp" title="George Gipp">
++  George "The Gipper" Gipp
++ </a>
++ in the film
+@@ -244 +284,5 @@
+- officer in the U.S. Army in
++ officer in the
++ <a class="mw-redirect" href="/wiki/U.S._Army" title="U.S. Army">
++  U.S. Army
++ </a>
++ in
+@@ -252 +296,5 @@
+- he was activated and was assigned to the First Motion Picture Unit in the
++ he was activated and was assigned to the
++ <a href="/wiki/First_Motion_Picture_Unit" title="First Motion Picture Unit">
++  First Motion Picture Unit
++ </a>
++ in the
+@@ -1185 +1233 @@
+- was informed by family doctors that Reagan's health had "significantly deteriorated" and that he was not expected to live more than a year.
++ was informed by family doctors that Reagan's health had "significantly deteriorated" and that he was not expected to live
+@@ -1187,4 +1235,35 @@
+-<div class="floatright">
+- <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg" title="File:Pres38-42.jpg">
+-  Presidents Bill Clinton, George Bush, Ronald Reagan, Jimmy Carter, Gerald Ford, and their wives at the funeral of President Richard Nixon on April 27, 1994.
+- </a>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   much longer. He passed away at his home in
++   <a class="mw-redirect" href="/wiki/Los_Angeles,_California" title="Los Angeles, California">
++    Los Angeles
++   </a>
++   on
++   <a href="/wiki/June_5" title="June 5">
++    June 5
++   </a>
++   at 1 PM local time.
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg" title="File:Pres38-42.jpg">
++    File:Pres38-42.jpg
++   </a>
++  </ins>
++  <del>
++   more than a year.
++  </del>
++  <div class="thumbcaption">
++   Presidents Bill Clinton, George Bush, Ronald Reagan, Jimmy Carter, Gerald Ford, and their wives at the funeral of President Richard Nixon on April 27, 1994.
++  </div>
++ </div>
++ <del>
++  Link: //en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg
++ </del>
++ <p>
++  <del>
++   On
++   <a href="/wiki/June_5" title="June 5">
++    June 5
++   </a>
++   , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
++  </del>
++ </p>
+@@ -1192,7 +1270,0 @@
+-<p>
+- On
+- <a href="/wiki/June_5" title="June 5">
+-  June 5
+- </a>
+- , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
+-</p>
+@@ -1249 +1321 @@
+-</ul>
++</ul>
+\ No newline at end of file

@@ -1,0 +1,15 @@
+--- 298631851
++++ 298632091
+@@ -5 +5,7 @@
+- (born August 29, 1958) is an American recording artist, entertainer, and businessman. The seventh child of the
++ <ins>
++  (August 29, 1958 - June 25, 2009)
++ </ins>
++ <del>
++  (born August 29, 1958)
++ </del>
++ is an American recording artist, entertainer, and businessman. The seventh child of the
+@@ -3120 +3126 @@
+-</ul>
++</ul>
+\ No newline at end of file

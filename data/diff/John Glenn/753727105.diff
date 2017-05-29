@@ -1,0 +1,242 @@
+--- 753656269
++++ 753727105
+@@ -5,9 +5,14 @@
+- (born July 18, 1921), (
+- <a href="/wiki/Colonel_(United_States)" title="Colonel (United States)">
+-  Col
+- </a>
+- ,
+- <a href="/wiki/United_States_Marine_Corps" title="United States Marine Corps">
+-  USMC
+- </a>
+- , Ret.), is a former
++ <ins>
++  (July 18, 1921 – December 8, 2016) was an American
++ </ins>
++ <del>
++  (born July 18, 1921), (
++  <a href="/wiki/Colonel_(United_States)" title="Colonel (United States)">
++   Col
++  </a>
++  ,
++  <a href="/wiki/United_States_Marine_Corps" title="United States Marine Corps">
++   USMC
++  </a>
++  , Ret.), is a former
++ </del>
+@@ -27 +32,4 @@
+-  United States senator
++  United States Senator
++  Link: /wiki/United_States_Senate from
++ Ohio
++  Link: /wiki/Ohio  senator
+@@ -89 +97,8 @@
+- . Glenn is the earliest-born American to go to orbit, and the second earliest-born man overall after Soviet cosmonaut
++ . Glenn
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ the earliest-born American to go to orbit, and the second earliest-born man overall after Soviet cosmonaut
+@@ -396 +411,13 @@
+- . On two occasions, he returned to his base with over 250 holes in his aircraft.
++ .
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
++ On two occasions, he returned to his base with over 250 holes in his aircraft.
+@@ -730 +757,8 @@
+- in 1995, more than 30 years after the hearings. In the late 1970s, Glenn is reported to have supported Shuttle Mission Specialist Astronaut
++ in 1995, more than 30 years after the hearings. In the late 1970s, Glenn
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ reported to have supported Shuttle Mission Specialist Astronaut
+@@ -1058 +1092,5 @@
+- on October 29, 1998, becoming, at age 77, the oldest person to go into space as a
++ on October 29, 1998,
++ <del>
++  becoming, at age 77, the oldest person to go into space
++ </del>
++ as a
+@@ -1072 +1110,7 @@
+- mission. According to
++ <ins>
++  mission, becoming, at age 77, the oldest person to go into space.
++ </ins>
++ <del>
++  mission.
++ </del>
++ According to
+@@ -1149 +1193,7 @@
+- . Today Glenn holds an adjunct professorship at the Glenn School.
++ <ins>
++  , and Glenn held
++ </ins>
++ <del>
++  . Today Glenn holds
++ </del>
++ an adjunct professorship at the Glenn School.
+@@ -1202 +1252,8 @@
+- Glenn is an honorary member of the
++ Glenn
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an honorary member of the
+@@ -1225 +1282,8 @@
+- , Glenn is a member of Concord Lodge # 688 New Concord, Ohio, and
++ , Glenn
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a member of Concord Lodge # 688 New Concord, Ohio, and
+@@ -1229 +1293,8 @@
+- , the Masonic youth organization, and is an ordained elder in the
++ , the Masonic youth organization, and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an ordained elder in the
+@@ -1246,0 +1318,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -1295 +1377,6 @@
+- -
++ <ins>
++  –
++ </ins>
++ <del>
++  -
++ </del>
+@@ -1414 +1501,22 @@
+- Glenn has stated that he sees no contradiction between believing in God and the knowledge that evolution is "a fact", and that he believes evolution should be taught in schools.
++ Glenn
++ <ins>
++  had
++ </ins>
++ <del>
++  has
++ </del>
++ stated that he
++ <ins>
++  saw
++ </ins>
++ <del>
++  sees
++ </del>
++ no contradiction between believing in God and the knowledge that evolution is "a fact", and that he
++ <ins>
++  believed
++ </ins>
++ <del>
++  believes
++ </del>
++ evolution should be taught in schools.
+@@ -1417 +1525 @@
+- <span class="mw-headline" id="Illness">
++ <span class="mw-headline" id="Illness_and_death">
+@@ -1418,0 +1527,3 @@
++  <ins>
++   and death
++  </ins>
+@@ -1426,4 +1537,18 @@
+- announced that Glenn was hospitalized at OSU, having been admitted "more than a week" before. The spokesman indicated he did not know Glenn's condition or diagnosis, and cautioned that his hospitalization at
+- <a href="/wiki/The_James_Cancer_Hospital" title="The James Cancer Hospital">
+-  The James Cancer Hospital
+- </a>
++ announced that Glenn was hospitalized at
++ <ins>
++  the
++  <a href="/wiki/The_James_Cancer_Hospital" title="The James Cancer Hospital">
++   James Cancer Hospital
++  </a>
++  at The Ohio State University,
++ </ins>
++ <del>
++  OSU,
++ </del>
++ having been admitted "more than a week" before. The spokesman indicated he did not know Glenn's condition or diagnosis, and cautioned that his hospitalization
++ <del>
++  at
++  <a href="/wiki/The_James_Cancer_Hospital" title="The James Cancer Hospital">
++   The James Cancer Hospital
++  </a>
++ </del>
+@@ -1431,0 +1557,3 @@
++ <ins>
++  Glenn died December 8, 2016 at the Ohio State University Wexner Medical Center in Columbus, Ohio.
++ </ins>
+@@ -1471,3 +1599,5 @@
+-     <a class="mw-redirect" href="/wiki/Friendship_7" title="Friendship 7">
+-      Friendship 7
+-     </a>
++     <i>
++      <a class="mw-redirect" href="/wiki/Friendship_7" title="Friendship 7">
++       Friendship 7
++      </a>
++     </i>
+@@ -2236,3 +2366,5 @@
+- <span class="mw-headline" id="Physical_description">
+-  Physical description
+- </span>
++ <del>
++  <span class="mw-headline" id="Physical_description">
++   Physical description
++  </span>
++ </del>
+@@ -2242 +2374,3 @@
+-  Weight: 170 lb (77 kg)
++  <del>
++   Weight: 170 lb (77 kg)
++  </del>
+@@ -2245 +2379,3 @@
+-  Height: 5 ft 10½ in (1.79 m)
++  <del>
++   Height: 5 ft 10½ in (1.79 m)
++  </del>
+@@ -2248 +2384,3 @@
+-  Hair: Red
++  <del>
++   Hair: Red
++  </del>
+@@ -2251 +2389,3 @@
+-  Eyes: Green
++  <del>
++   Eyes: Green
++  </del>
+@@ -2322 +2462 @@
+-</ul>
++</ul>
+\ No newline at end of file

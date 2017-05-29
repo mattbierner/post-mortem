@@ -1,0 +1,59 @@
+--- 699199631
++++ 699261333
+@@ -36 +36,9 @@
+- , 8 January 1947) is an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie has been a figure in popular music for over four decades, and is known as an innovator, particularly for his work in the 1970s. His
++ , 8 January
++ <ins>
++  1947 – 10 January 2016
++ ) was
++ </ins>
++ <del>
++  1947) is
++ </del>
++ an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie has been a figure in popular music for over four decades, and is known as an innovator, particularly for his work in the 1970s. His
+@@ -1336,2 +1344,6 @@
+- <span class="mw-headline" id="1976.E2.80.9379:_The_Berlin_era">
+-  1976–79: The Berlin era
++ <span class="mw-headline" id="1976.E2.80.9379:_Berlin_era">
++  1976–79:
++  <del>
++   The
++  </del>
++  Berlin era
+@@ -2550,2 +2562,7 @@
+- <span class="mw-headline" id="2013.E2.80.93present:_The_Next_Day_and_Blackstar">
+-  2013–present:
++ <span class="mw-headline" id="2013.E2.80.932016:_The_Next_Day_and_Blackstar">
++  <ins>
++   2013–2016:
++  </ins>
++  <del>
++   2013–present:
++  </del>
+@@ -3387 +3404,8 @@
+- The couple resides primarily in New York City and London.
++ The couple
++ <ins>
++  resided
++ </ins>
++ <del>
++  resides
++ </del>
++ primarily in New York City and London.
+@@ -3494,0 +3519,12 @@
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  Bowie, 69, died January 10, 2016 from cancer.
++ </ins>
++</p>
++<h2>
+@@ -4106 +4142 @@
+-</ul>
++</ul>
+\ No newline at end of file

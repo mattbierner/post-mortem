@@ -1,0 +1,26 @@
+--- 453910145
++++ 455315476
+@@ -9 +9,18 @@
+- , born September 9, 1941) is an American
++ ,
++ <ins>
++  September 9, 1941 — October 12, 2011
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++  ) was
++ </ins>
++ <del>
++  born September 9, 1941) is
++ </del>
++ an American
+@@ -312 +329 @@
+-</ul>
++</ul>
+\ No newline at end of file

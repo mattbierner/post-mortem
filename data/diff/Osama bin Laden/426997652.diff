@@ -1,0 +1,17 @@
+--- 426997211
++++ 426997652
+@@ -181,0 +182,5 @@
++<p>
++ <ins>
++  President Obama announced that Bin Laden was killed on May 1, 2011 by CIA operatives in the Afghan-Pakistani border regions. The forces of the United States were placed in the highest terror warning alert in response, and United States and other western nations' armed forces were placed on high alert
++ </ins>
++</p>
+@@ -1703 +1708,3 @@
+- On May 2, 2011, the White House declared that bin Laden was dead.
++ <del>
++  On May 2, 2011, the White House declared that bin Laden was dead.
++ </del>
+@@ -1813 +1820 @@
+-</div>
++</div>
+\ No newline at end of file

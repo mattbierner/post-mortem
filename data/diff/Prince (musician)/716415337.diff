@@ -1,0 +1,26 @@
+--- 716414662
++++ 716415337
+@@ -5 +5,8 @@
+- (born June 7, 1958), known by his
++ (born June 7,
++ <ins>
++  1958 - April 21, 2016),
++ </ins>
++ <del>
++  1958),
++ </del>
++ known by his
+@@ -12 +19,8 @@
+- , is an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
++ ,
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
+@@ -4240 +4254 @@
+-</ul>
++</ul>
+\ No newline at end of file

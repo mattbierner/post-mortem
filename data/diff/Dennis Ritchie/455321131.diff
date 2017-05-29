@@ -1,0 +1,40 @@
+--- 453910145
++++ 455321131
+@@ -9 +9,9 @@
+- , born September 9, 1941) is an American
++ ,
++ <ins>
++  September 9, 1941 — October 12, 2011
++ ) was
++ </ins>
++ <del>
++  born September 9, 1941) is
++ </del>
++ an American
+@@ -48,0 +57,3 @@
++ <ins>
++  Dennis passed away on 12 October 2011.
++ </ins>
+@@ -122 +133,8 @@
+- Ritchie is best known as the creator of the C programming language and a key developer of the Unix operating system, and as co-author of the definitive book on C,
++ Ritchie
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ best known as the creator of the C programming language and a key developer of the Unix operating system, and as co-author of the definitive book on C,
+@@ -145 +163,7 @@
+- have placed him as an important pioneer of modern computing. The C language is still widely used today in application and
++ <ins>
++  has
++ </ins>
++ <del>
++  have
++ </del>
++ placed him as an important pioneer of modern computing. The C language is still widely used today in application and
+@@ -312 +336 @@
+-</ul>
++</ul>
+\ No newline at end of file

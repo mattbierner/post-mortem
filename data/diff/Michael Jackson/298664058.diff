@@ -1,0 +1,712 @@
+--- 298631851
++++ 298664058
+@@ -5 +5,8 @@
+- (born August 29, 1958) is an American recording artist, entertainer, and businessman. The seventh child of the
++ <ins>
++  (August 29, 1958 – June 25, 2009)
++ was
++ </ins>
++ <del>
++  (born August 29, 1958) is
++ </del>
++ an American recording artist, entertainer, and businessman. The seventh child of the
+@@ -21 +28,7 @@
+- have become some of the world's best-selling records:
++ <ins>
++  are among
++ </ins>
++ <del>
++  have become some of
++ </del>
++ the world's best-selling records:
+@@ -104,0 +118,3 @@
++ <ins>
++  many
++ </ins>
+@@ -119,25 +135,27 @@
+- Jackson has donated and raised millions of dollars for beneficial causes through his
+- <a href="/wiki/Heal_the_World_Foundation" title="Heal the World Foundation">
+-  foundation
+- </a>
+- , charity
+- <a href="/wiki/Single_(music)" title="Single (music)">
+-  singles
+- </a>
+- and support of 39 charities. Other aspects of his personal life, including his
+- <a href="/wiki/Michael_Jackson%27s_health_and_appearance" title="Michael Jackson's health and appearance">
+-  changing appearance
+- </a>
+- and behavior, generated significant controversy, damaging his public image. Though he was accused of
+- <a href="/wiki/1993_child_sexual_abuse_accusations_against_Michael_Jackson" title="1993 child sexual abuse accusations against Michael Jackson">
+-  child sexual abuse in 1993
+- </a>
+- , the criminal investigation was closed due to lack of evidence and Jackson was not charged. The singer has experienced
+- <a href="/wiki/Michael_Jackson%27s_health_and_appearance" title="Michael Jackson's health and appearance">
+-  health concerns
+- </a>
+- since the early 1990s and conflicting reports regarding the state of his finances since the late 1990s. Jackson married twice and fathered three children, all of which caused further controversy. In 2005, Jackson was
+- <a class="mw-redirect" href="/wiki/People_v._Jackson" title="People v. Jackson">
+-  tried and acquitted
+- </a>
+- of further sexual abuse allegations and several other charges.
++ <del>
++  Jackson has donated and raised millions of dollars for beneficial causes through his
++  <a href="/wiki/Heal_the_World_Foundation" title="Heal the World Foundation">
++   foundation
++  </a>
++  , charity
++  <a href="/wiki/Single_(music)" title="Single (music)">
++   singles
++  </a>
++  and support of 39 charities. Other aspects of his personal life, including his
++  <a href="/wiki/Michael_Jackson%27s_health_and_appearance" title="Michael Jackson's health and appearance">
++   changing appearance
++  </a>
++  and behavior, generated significant controversy, damaging his public image. Though he was accused of
++  <a href="/wiki/1993_child_sexual_abuse_accusations_against_Michael_Jackson" title="1993 child sexual abuse accusations against Michael Jackson">
++   child sexual abuse in 1993
++  </a>
++  , the criminal investigation was closed due to lack of evidence and Jackson was not charged. The singer has experienced
++  <a href="/wiki/Michael_Jackson%27s_health_and_appearance" title="Michael Jackson's health and appearance">
++   health concerns
++  </a>
++  since the early 1990s and conflicting reports regarding the state of his finances since the late 1990s. Jackson married twice and fathered three children, all of which caused further controversy. In 2005, Jackson was
++  <a class="mw-redirect" href="/wiki/People_v._Jackson" title="People v. Jackson">
++   tried and acquitted
++  </a>
++  of further sexual abuse allegations and several other charges.
++ </del>
+@@ -172 +190,5 @@
+- , has made him a part of
++ ,
++ <del>
++  has
++ </del>
++ made him a part of
+@@ -221 +243,8 @@
+- he is the seventh of nine children. His siblings are
++ he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ the seventh of nine children. His siblings are
+@@ -753 +782,7 @@
+-   , 1984.
++   ,
++   <ins>
++    1984
++   </ins>
++   <del>
++    1984.
++   </del>
+@@ -776 +811,8 @@
+- Jackson won eight awards during the 1984 Grammys. Unlike later albums,
++ Jackson won eight awards during the
++ <a class="mw-redirect" href="/wiki/1984_Grammy_Awards" title="1984 Grammy Awards">
++  1984 Grammy Awards
++ </a>
++ <del>
++  Grammys.
++ </del>
++ Unlike later albums,
+@@ -926 +968,8 @@
+- ; the latter is in
++ ; the latter
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ in
+@@ -930,2 +979,20 @@
+- in Jackson's case, and both illnesses make him sensitive to sunlight. The treatments he uses for his condition further lighten his skin tone, and, with the application of pancake makeup to even out blotches, he can appear very pale.
+- The structure of his face has changed as well; several surgeons have speculated that Jackson had undergone multiple nasal surgeries, a forehead lift, thinned lips and a cheekbone surgery.
++ in Jackson's case, and both illnesses
++ <ins>
++  made
++ </ins>
++ <del>
++  make
++ </del>
++ him sensitive to sunlight. The treatments he uses for his condition further lighten his skin tone, and, with the application of pancake makeup to even out blotches, he
++ <ins>
++  could
++ </ins>
++ <del>
++  can
++ </del>
++ appear very pale.
++ The structure of his face
++ <del>
++  has
++ </del>
++ changed as well; several surgeons have speculated that Jackson had undergone multiple nasal surgeries, a forehead lift, thinned lips and a cheekbone surgery.
+@@ -939 +1006,7 @@
+- Some medical professionals have publicly stated their belief that the singer has
++ Some medical professionals have publicly stated their belief that the singer
++ <ins>
++  had
++ </ins>
++ <del>
++  has
++ </del>
+@@ -947 +1020,7 @@
+-  Why not just tell people I'm an alien from Mars. Tell them I eat live chickens and do a voodoo dance at midnight. They'll believe anything
++  <ins>
++   "Why
++  </ins>
++  <del>
++   Why
++  </del>
++  not just tell people I'm an alien from Mars. Tell them I eat live chickens and do a voodoo dance at midnight. They'll believe anything
+@@ -955 +1034,22 @@
+-  . But if I, Michael Jackson, were to say, "I'm an alien from Mars and I eat live chickens and do a voodoo dance at midnight", people would say, "Oh, man, that Michael Jackson is
++  . But if I, Michael Jackson, were to say,
++  <ins>
++   'I'm
++  </ins>
++  <del>
++   "I'm
++  </del>
++  an alien from Mars and I eat live chickens and do a voodoo dance at
++  <ins>
++   midnight,'
++  </ins>
++  <del>
++   midnight",
++  </del>
++  people would say,
++  <ins>
++   'Oh,
++  </ins>
++  <del>
++   "Oh,
++  </del>
++  man, that Michael Jackson is
+@@ -959 +1059,7 @@
+-  . He's cracked up. You can't believe a damn word that comes out of his mouth".
++  . He's cracked up. You can't believe a damn word that comes out of his
++  <ins>
++   mouth.'"
++  </ins>
++  <del>
++   mouth".
++  </del>
+@@ -1186 +1292,8 @@
+- has shipped 7 million copies in the US and has sold 32 million copies worldwide; it is the most successful New Jack Swing album off all time.
++ has shipped 7 million copies in the US and has sold 32 million copies worldwide; it is the most successful New Jack Swing album
++ <ins>
++  of
++ </ins>
++ <del>
++  off
++ </del>
++ all time.
+@@ -1534,2 +1647,17 @@
+- Originally there were no plans to marry, but following Rowe's first pregnancy, Jackson's mother intervened and persuaded them to.
+- The couple divorced in 1999, with Rowe giving full custody rights of the children to Jackson; they still remain friends.
++ Originally there were no plans to marry, but following Rowe's first pregnancy, Jackson's mother intervened and persuaded them
++ <ins>
++  to do so.
++ After the
++ </ins>
++ <del>
++  to.
++ The
++ </del>
++ couple divorced in 1999, with Rowe giving full custody rights of the children to
++ <ins>
++  Jackson, they remained
++ </ins>
++ <del>
++  Jackson; they still remain
++ </del>
++ friends.
+@@ -1806 +1934,5 @@
+- Shortly after the documentary aired, Jackson was charged with seven counts of child sexual abuse and two counts of
++ Shortly after the documentary aired, Jackson was charged with seven counts of
++ <a href="/wiki/Child_sexual_abuse" title="Child sexual abuse">
++  child sexual abuse
++ </a>
++ and two counts of
+@@ -1810 +1942,11 @@
+- in order to commit that felony; all charges regarded the same boy, Gavin Arvizo, who was under 14 at the time of the alleged crime.
++ in order to commit that
++ <ins>
++  <a href="/wiki/Felony" title="Felony">
++   felony
++  </a>
++  ;
++ </ins>
++ <del>
++  felony;
++ </del>
++ all charges regarded the same boy, Gavin Arvizo, who was under 14 at the time of the alleged crime.
+@@ -1818 +1960,14 @@
+-   Fans show their support for Jackson after the entertainer is accused of child molestation in 2003.
++   Fans
++   <ins>
++    showing
++   </ins>
++   <del>
++    show
++   </del>
++   their support for Jackson after the entertainer is accused of child molestation in
++   <ins>
++    2003
++   </ins>
++   <del>
++    2003.
++   </del>
+@@ -1823 +1978,5 @@
+- Jackson denied the sexual abuse allegations, saying that the sleepovers were in no way sexual in nature. Jackson's friend Elizabeth Taylor defended him on
++ Jackson denied the sexual abuse allegations, saying that the sleepovers were in no way sexual in nature. Jackson's friend
++ <a href="/wiki/Elizabeth_Taylor" title="Elizabeth Taylor">
++  Elizabeth Taylor
++ </a>
++ defended him on
+@@ -1829,2 +1988,26 @@
+- , saying that she had been there when they "were in the bed, watching television. There was nothing abnormal about it. There was no touchy-feely going on. We laughed like children and we watched a lot of Walt Disney. There was nothing odd about it."
+- During the investigation, Jackson's profile was examined by a mental health professional called Dr. Stan Katz; the doctor spent several hours with the accuser too. The assessment made by Katz, was that Jackson had become a regressed 10-year-old and did not fit the profile of a pedophile.
++ , saying that she had been there when they "were in the bed, watching television. There was nothing abnormal about it. There was no touchy-feely going on. We laughed like children and we watched a lot of
++ <a class="mw-redirect" href="/wiki/Walt_Disney_Motion_Pictures_Group" title="Walt Disney Motion Pictures Group">
++  Walt Disney
++ </a>
++ <del>
++  Disney.
++ </del>
++ There was nothing odd about it."
++ During the investigation, Jackson's profile was examined by
++ <del>
++  a
++ </del>
++ mental health professional
++ <del>
++  called
++ </del>
++ Dr. Stan Katz; the doctor spent several hours with the accuser too. The assessment made by Katz, was that Jackson had become a regressed 10-year-old and did not fit the profile of a
++ <ins>
++  <a class="mw-redirect" href="/wiki/Pedophile" title="Pedophile">
++   pedophile
++  </a>
++  .
++ </ins>
++ <del>
++  pedophile.
++ </del>
+@@ -1834,3 +2017,5 @@
+- <a class="mw-redirect" href="/wiki/People_v._Jackson" title="People v. Jackson">
+-  People v. Jackson
+- </a>
++ <i>
++  <a class="mw-redirect" href="/wiki/People_v._Jackson" title="People v. Jackson">
++   People v. Jackson
++  </a>
++ </i>
+@@ -1950,2 +2135,8 @@
+- <span class="mw-headline" id="2008_onward:_Milestones.2C_real_estate_and_return_to_live_performance">
+-  2008 onward: Milestones, real estate and return to live performance
++ <span class="mw-headline" id="2008.E2.80.932009:_Milestones.2C_real_estate.2C_planned_return_to_live_performance">
++  <ins>
++   2008–2009: Milestones, real estate, planned
++  </ins>
++  <del>
++   2008 onward: Milestones, real estate and
++  </del>
++  return to live performance
+@@ -1971 +2162 @@
+-  <a class="mw-disambig" href="/wiki/Thriller" title="Thriller">
++  <a class="mw-redirect" href="/wiki/Thriller_(album)" title="Thriller (album)">
+@@ -1981 +2172,8 @@
+- , comprising of original material from the album, re-mixes, the previously unreleased song "For All Time" and a DVD. Two singles were released to moderate success: "
++ ,
++ <ins>
++  comprised
++ </ins>
++ <del>
++  comprising
++ </del>
++ of original material from the album, re-mixes, the previously unreleased song "For All Time" and a DVD. Two singles were released to moderate success: "
+@@ -2015 +2213,8 @@
+- stood at 688,000 copies, making it the best selling catalog album of 2008.
++ stood at 688,000 copies, making it the
++ <ins>
++  best-selling
++ </ins>
++ <del>
++  best selling
++ </del>
++ catalog album of 2008.
+@@ -2043 +2248,7 @@
+- From July 13, 2009 to March 6, 2010, Jackson is scheduled to perform
++ <ins>
++  Prior to his death, Jackson had been
++ </ins>
++ <del>
++  From July 13, 2009 to March 6, 2010, Jackson is
++ </del>
++ scheduled to perform
+@@ -2045 +2256,8 @@
+-  50 sell out concerts
++  50
++  <ins>
++   sold-out
++  </ins>
++  <del>
++   sell out
++  </del>
++  concerts
+@@ -2055 +2273,7 @@
+- . According to Jackson's website, tickets sales for the concerts broke several records. During a prior press conference, Jackson made suggestions of possible retirement.
++ <ins>
++  , from July 13, 2009 to March 6, 2010. During a publicity
++ </ins>
++ <del>
++  . According to Jackson's website, tickets sales for the concerts broke several records. During a prior
++ </del>
++ press conference, Jackson made suggestions of possible retirement.
+@@ -2060,24 +2284,36 @@
+- stated that the first 10 dates alone would earn the singer approximately £50 million.
+-</p>
+-<p>
+- On June 25, 2009,
+- <a href="/wiki/TMZ" title="TMZ">
+-  TMZ
+- </a>
+- reported that Jackson has been rushed to the hospital and has suffered
+- <a href="/wiki/Cardiac_arrest" title="Cardiac arrest">
+-  cardiac arrest
+- </a>
+- .
+- <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
+-  Paramedics
+- </a>
+- administered
+- <a class="mw-redirect" href="/wiki/CPR" title="CPR">
+-  CPR
+- </a>
+- in the
+- <a href="/wiki/Ambulance" title="Ambulance">
+-  ambulance
+- </a>
+- and a family member says that he is in "really bad shape.".
++ <ins>
++  , had
++ </ins>
++ stated that the first 10 dates alone would
++ <ins>
++  have earned
++ </ins>
++ <del>
++  earn
++ </del>
++ the singer approximately £50 million.
++</p>
++<p>
++ <del>
++  On June 25, 2009,
++  <a href="/wiki/TMZ" title="TMZ">
++   TMZ
++  </a>
++  reported that Jackson has been rushed to the hospital and has suffered
++  <a href="/wiki/Cardiac_arrest" title="Cardiac arrest">
++   cardiac arrest
++  </a>
++  .
++  <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
++   Paramedics
++  </a>
++  administered
++  <a class="mw-redirect" href="/wiki/CPR" title="CPR">
++   CPR
++  </a>
++  in the
++  <a href="/wiki/Ambulance" title="Ambulance">
++   ambulance
++  </a>
++  and a family member says that he is in "really bad shape.".
++ </del>
+@@ -2100,2 +2336,10 @@
+- asserts that throughout his solo career, Jackson's versatility has allowed him to experiment with various themes and genres.
+- As a musician, he has ranged from
++ asserts that throughout his solo career, Jackson's versatility
++ <del>
++  has
++ </del>
++ allowed him to experiment with various themes and genres.
++ As a musician, he
++ <del>
++  has
++ </del>
++ ranged from
+@@ -2177 +2421,8 @@
+- , Christoper Connelly of
++ ,
++ <ins>
++  Christopher
++ </ins>
++ <del>
++  Christoper
++ </del>
++ Connelly of
+@@ -2430 +2681,22 @@
+- Jackson has been singing since a child, and over time his voice and vocal style have notably changed, either through puberty or a personal preference to align his vocal interpretation to the themes and genres he chooses to express. Between 1971 and 1975, Jackson's voice "descended ever so slightly from boy soprano to his current androgynous high tenor".
++ Jackson
++ <ins>
++  sang since he was
++ </ins>
++ <del>
++  has been singing since
++ </del>
++ a child, and over time his voice and vocal style
++ <ins>
++  changed noticeably,
++ </ins>
++ <del>
++  have notably changed,
++ </del>
++ either through puberty or a personal preference to align his vocal interpretation to the themes and genres he
++ <ins>
++  chose
++ </ins>
++ <del>
++  chooses
++ </del>
++ to express. Between 1971 and 1975, Jackson's voice "descended ever so slightly from boy soprano to his current androgynous high tenor".
+@@ -2435 +2707,8 @@
+- ". The purpose of the hiccup—somewhat like a gulping for air or gasping—is to help promote a certain emotion, be it excitement, sadness or fear.
++ ". The purpose of the hiccup—somewhat like a gulping for air or
++ <ins>
++  gasping—was
++ </ins>
++ <del>
++  gasping—is
++ </del>
++ to help promote a certain emotion, be it excitement, sadness or fear.
+@@ -2449 +2728,8 @@
+- . Their analysis was also that "Jackson's feathery-timbered tenor is extraordinary beautiful. It slides smoothly into a startling
++ . Their analysis was also that "Jackson's feathery-timbered tenor is
++ <ins>
++  extraordinarily
++ </ins>
++ <del>
++  extraordinary
++ </del>
++ beautiful. It slides smoothly into a startling
+@@ -2521 +2807,5 @@
+- The turn of the 1990s saw the release of the paradoxical, introspective album
++ The turn of the 1990s saw the release of the
++ <del>
++  paradoxical,
++ </del>
++ introspective album
+@@ -2525 +2815,7 @@
+- , here Jackson used his vocals to intensify the split themes and genres described earlier.
++ <ins>
++  ;
++ </ins>
++ <del>
++  ,
++ </del>
++ here Jackson used his vocals to intensify the split themes and genres described earlier.
+@@ -2554 +2850,3 @@
+-   Image of
++   <del>
++    Image of
++   </del>
+@@ -2560,2 +2858,4 @@
+-   <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=5255452&amp;rft.cc=US&amp;rft.title=">
+-    <span style="display: none;">
++   <ins>
++    <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=5255452&amp;rft.cc=US&amp;rft.title=">
++     <span style="display: none;">
++     </span>
+@@ -2563,2 +2863,10 @@
+-   </span>
+-   filed by Jackson describing the anti-gravity lean used in the music video for "Smooth Criminal".
++    , filed by Jackson, described
++   </ins>
++   <del>
++    <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=5255452&amp;rft.cc=US&amp;rft.title=">
++     <span style="display: none;">
++     </span>
++    </span>
++    filed by Jackson describing
++   </del>
++   the anti-gravity lean used in the music video for "Smooth Criminal".
+@@ -2798,0 +3107,74 @@
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
++ <tr>
++  <td class="mbox-image">
++  </td>
++  <td class="mbox-text plainlist">
++   <ins>
++    Wikinews has related news:
++    <i>
++     <b>
++      <a class="extiw" href="https://en.wikinews.org/wiki/Singer_and_songwriter_Michael_Jackson_dies" title="wikinews:Singer and songwriter Michael Jackson dies">
++       Singer and songwriter Michael Jackson dies
++      </a>
++     </b>
++    </i>
++   </ins>
++  </td>
++ </tr>
++</table>
++<p>
++ <ins>
++  On the morning of June 25, 2009, Jackson reportedly collapsed at a home he was renting in west
++  <a href="/wiki/Los_Angeles" title="Los Angeles">
++   Los Angeles
++  </a>
++  . Paramedics responded to a
++  <a href="/wiki/9-1-1" title="9-1-1">
++   911
++  </a>
++  call at 12:21 pm local time.
++ He reportedly was not breathing at the time that paramedics arrived, and CPR was quickly performed.
++ He fell into a
++  <a href="/wiki/Coma" title="Coma">
++   coma
++  </a>
++  and died shortly after being rushed to the
++  <a href="/wiki/Ronald_Reagan_UCLA_Medical_Center" title="Ronald Reagan UCLA Medical Center">
++   UCLA hospital
++  </a>
++  .
++ The cause of death is suspected to be
++  <a href="/wiki/Cardiac_arrest" title="Cardiac arrest">
++   cardiac arrest
++  </a>
++  .
++ Jackson was pronounced dead at 2:26 p.m
++  <a class="mw-redirect" href="/wiki/Pacific_Time" title="Pacific Time">
++   Pacific Time
++  </a>
++  . At 4:36 pm local time, the Los Angeles
++  <a href="/wiki/Coroner" title="Coroner">
++   coroner
++  </a>
++  confirmed Jackson's death.
++ Although there is no evidence of
++  <a href="/wiki/Crime" title="Crime">
++   criminality
++  </a>
++  ,
++  <a href="/wiki/Los_Angeles_Police_Department" title="Los Angeles Police Department">
++   Los Angeles Police Department
++  </a>
++  <a href="/wiki/Detective" title="Detective">
++   detectives
++  </a>
++  have opened an investigation into his death.
++ </ins>
++</p>
++<h2>
+@@ -2823 +3205,7 @@
+-   Jackson's star on the Hollywood walk of fame, set in 1984.
++   Jackson's star on the Hollywood walk of fame, set in
++   <ins>
++    1984
++   </ins>
++   <del>
++    1984.
++   </del>
+@@ -2881 +3269,8 @@
+- He is a double-inductee of the
++ He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a double-inductee of the
+@@ -2920 +3315,11 @@
+-   in June 1988.
++   in June
++   <p>
++    <ins>
++     1988
++  He was
++    </ins>
++    <del>
++     1988.
++  He is
++    </del>
++   </p>
+@@ -2924,2 +3329 @@
+-<p>
+- He is characterized as "an unstoppable juggernaut, possessed of all the tools to dominate the charts seemingly at will: an instantly identifiable voice, eye-popping dance moves, stunning musical versatility and loads of sheer star power".
++ characterized as "an unstoppable juggernaut, possessed of all the tools to dominate the charts seemingly at will: an instantly identifiable voice, eye-popping dance moves, stunning musical versatility and loads of sheer star power".
+@@ -2928,2 +3332,2 @@
+-  Time
+- </i>
++ Time
++</i>
+@@ -2932,2 +3336,2 @@
+-  Elvis Presley
+- </a>
++ Elvis Presley
++</a>
+@@ -2937,4 +3341,4 @@
+-  <a href="/wiki/Vanity_Fair_(magazine)" title="Vanity Fair (magazine)">
+-   Vanity Fair
+-  </a>
+- </i>
++ <a href="/wiki/Vanity_Fair_(magazine)" title="Vanity Fair (magazine)">
++  Vanity Fair
++ </a>
++</i>
+@@ -2943,4 +3347,4 @@
+-  <a class="mw-redirect" href="/wiki/Daily_Telegraph" title="Daily Telegraph">
+-   Daily Telegraph
+-  </a>
+- </i>
++ <a class="mw-redirect" href="/wiki/Daily_Telegraph" title="Daily Telegraph">
++  Daily Telegraph
++ </a>
++</i>
+@@ -2949,2 +3353,2 @@
+-  Tom Utley
+- </a>
++ Tom Utley
++</a>
+@@ -2954,2 +3358,2 @@
+-  royalties
+- </a>
++ royalties
++</a>
+@@ -2959,3 +3363,6 @@
+-  successful career
+- </a>
+- , has made him a part of
++ successful career
++</a>
++ , <del>
++ has
++</del>
++ made him a part of
+@@ -2963,2 +3370,2 @@
+-  popular culture
+- </a>
++ popular culture
++</a>
+@@ -2966,2 +3373 @@
+-</p>
+-<h2>
++ <h2>
+@@ -3120 +3526 @@
+-</ul>
++</ul>
+\ No newline at end of file

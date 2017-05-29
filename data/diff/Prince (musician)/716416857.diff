@@ -1,0 +1,34 @@
+--- 716414662
++++ 716416857
+@@ -12 +12,8 @@
+- , is an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
++ ,
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
+@@ -214,0 +222,5 @@
++ <ins>
++  He died at home in Minneapolis on April 21,2016,following a prolonged illness.
++ </ins>
++</p>
++<p>
+@@ -254,0 +267,3 @@
++ <ins>
++  Prince passed away at his Paisley Park recording studio in Chanhassen, Minnesota on April 21, 2016.
++ </ins>
+@@ -3328,0 +3344,7 @@
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<h2>
+@@ -4240 +4262 @@
+-</ul>
++</ul>
+\ No newline at end of file

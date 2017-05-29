@@ -1,0 +1,1691 @@
+--- 10484392
++++ 10608727
+@@ -5,4 +5,9 @@
+- (born
+- <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">
+-  Louisville, Kentucky
+- </a>
++ <ins>
++  (
++ </ins>
++ <del>
++  (born
++  <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">
++   Louisville, Kentucky
++  </a>
++ </del>
+@@ -16 +21,15 @@
+- ) is an
++ <ins>
++  –
++  <a href="/wiki/February_20" title="February 20">
++   February 20
++  </a>
++  ,
++  <a href="/wiki/2005" title="2005">
++   2005
++  </a>
++  ) was
++ </ins>
++ <del>
++  ) is
++ </del>
++ an
+@@ -30,9 +49,17 @@
+- Hunter S. Thompson is often portrayed in popular culture as a dangerously absurd,
+- <a class="mw-redirect" href="/wiki/Illegal_drugs" title="Illegal drugs">
+-  drug
+- </a>
+- -crazed journalist bent on comic self-destruction. While this portrayal is certainly not completely inaccurate, he is also considered by many to be one of the most important American writers of the
+- <a href="/wiki/20th_century" title="20th century">
+-  20th century
+- </a>
+- .
++ <ins>
++  He was known for his flamboyant writing style, most notably deployed in
++ </ins>
++ <ins>
++  <i>
++   <a href="/wiki/Fear_and_Loathing_in_Las_Vegas" title="Fear and Loathing in Las Vegas">
++    Fear and Loathing in Las Vegas
++   </a>
++  </i>
++  , which blurred the distinctions between writer and subject, fiction and nonfiction. It became known as
++ </ins>
++ <ins>
++  <a href="/wiki/Gonzo_journalism" title="Gonzo journalism">
++   gonzo journalism
++  </a>
++  and was widely imitated.
++ </ins>
+@@ -41,19 +68,16 @@
+- Thompson is known for an explosive writing style that employs what he calls “
+- <a class="mw-redirect" href="/wiki/Action_verbs" title="Action verbs">
+-  action verbs
+- </a>
+- ” to comically spin outlandish tales that are completely unbelievable, yet providing a unique viewpoint to accurately describe the underling reality at hand. Thompson almost always writes in the
+- <a class="mw-disambig" href="/wiki/First_person" title="First person">
+-  first person
+- </a>
+- narrative, and his stories become so colorfully contrived that they easily slip into the realm of fiction, however the basic framework of the story he is telling is often very true. Thompson’s writing style exploits this void between the realms of fiction and non-fiction, and it has become known as
+- <a class="mw-redirect" href="/wiki/Gonzo_Journalism" title="Gonzo Journalism">
+-  Gonzo Journalism
+- </a>
+- . Other notable
+- <a href="/wiki/Gonzo_journalism" title="Gonzo journalism">
+-  gonzo journalists
+- </a>
+- include
+- <a class="new" href="/w/index.php?title=Timothy_Edward_Jones&amp;action=edit&amp;redlink=1" title="Timothy Edward Jones (page does not exist)">
+-  Timothy Edward Jones
++</p>
++<p>
++</p>
++<h2>
++ <ins>
++  <span class="mw-headline" id="Early_years">
++   Early years
++  </span>
++ </ins>
++</h2>
++<ins>
++ A
++</ins>
++<ins>
++ <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">
++  Louisville, Kentucky
+@@ -61,4 +85,11 @@
+- , author of the new cult classic,
+- <i>
+-  <a class="new" href="/w/index.php?title=European_Confession&amp;action=edit&amp;redlink=1" title="European Confession (page does not exist)">
+-   European Confession
++ native,
++</ins>
++<p>
++ <del>
++  Hunter S. Thompson is often portrayed in popular culture as a dangerously absurd,
++  <a class="mw-redirect" href="/wiki/Illegal_drugs" title="Illegal drugs">
++   drug
++  </a>
++  -crazed journalist bent on comic self-destruction. While this portrayal is certainly not completely inaccurate, he is also considered by many to be one of the most important American writers of the
++  <a href="/wiki/20th_century" title="20th century">
++   20th century
+@@ -67 +98,32 @@
+- </i>
++ </del>
++</p>
++<p>
++ <del>
++  Thompson is known for an explosive writing style that employs what he calls “
++  <a class="mw-redirect" href="/wiki/Action_verbs" title="Action verbs">
++   action verbs
++  </a>
++  ” to comically spin outlandish tales that are completely unbelievable, yet providing a unique viewpoint to accurately describe the underling reality at hand. Thompson almost always writes in the
++  <a class="mw-disambig" href="/wiki/First_person" title="First person">
++   first person
++  </a>
++  narrative, and his stories become so colorfully contrived that they easily slip into the realm of fiction, however the basic framework of the story he is telling is often very true. Thompson’s writing style exploits this void between the realms of fiction and non-fiction, and it has become known as
++  <a class="mw-redirect" href="/wiki/Gonzo_Journalism" title="Gonzo Journalism">
++   Gonzo Journalism
++  </a>
++  . Other notable
++  <a href="/wiki/Gonzo_journalism" title="Gonzo journalism">
++   gonzo journalists
++  </a>
++  include
++  <a class="new" href="/w/index.php?title=Timothy_Edward_Jones&amp;action=edit&amp;redlink=1" title="Timothy Edward Jones (page does not exist)">
++   Timothy Edward Jones
++  </a>
++  , author of the new cult classic,
++  <i>
++   <a class="new" href="/w/index.php?title=European_Confession&amp;action=edit&amp;redlink=1" title="European Confession (page does not exist)">
++    European Confession
++   </a>
++   .
++  </i>
++ </del>
+@@ -74,3 +136,5 @@
+- <span class="mw-headline" id="Early_Years">
+-  Early Years
+- </span>
++ <del>
++  <span class="mw-headline" id="Early_Years">
++   Early Years
++  </span>
++ </del>
+@@ -78 +141,0 @@
+-<p>
+@@ -81,2 +144,2 @@
+-  1956
+- </a>
++ 1956
++</a>
+@@ -85,3 +148,12 @@
+-  sports
+- </a>
+- journalist, writing for the base paper at
++ sports
++</a>
++ journalist, writing for the base
++ <ins>
++ <a href="/wiki/Newspaper" title="Newspaper">
++  newspaper
++ </a>
++</ins>
++<del>
++ paper
++</del>
++ at
+@@ -89,2 +161,2 @@
+-  Eglin Air Force Base
+- </a>
++ Eglin Air Force Base
++</a>
+@@ -91,0 +164,6 @@
++ <ins>
++ <a class="mw-redirect" href="/wiki/Niceville" title="Niceville">
++  Niceville
++ </a>
++</ins>
++<del>
+@@ -94,0 +173 @@
++</del>
+@@ -97,3 +176,10 @@
+-  Florida
+- </a>
+- , where he was enlisted. After the Air Force, Thompson worked briefly as a
++ Florida
++</a>
++ , where he was enlisted. After the
++ <a class="mw-redirect" href="/wiki/Air_Force" title="Air Force">
++ Air Force
++</a>
++<del>
++ Force,
++</del>
++ Thompson worked briefly as a
+@@ -100,0 +187,4 @@
++ <ins>
++  copy editor
++ </ins>
++ <del>
+@@ -102 +192,2 @@
+- </a>
++ </del>
++</a>
+@@ -103,0 +195 @@
++ <i>
+@@ -107 +199,9 @@
+- while living a
++</i>
++ while <ins>
++ maintaining a
++ <a class="mw-redirect" href="/wiki/Beat_generation" title="Beat generation">
++  beat
++ </a>
++</ins>
++<del>
++ living a
+@@ -110,0 +211 @@
++</del>
+@@ -113,2 +214,2 @@
+-  New York City
+- </a>
++ New York City
++</a>
+@@ -116,3 +217,9 @@
+-</p>
+-<p>
+- Thompson began vacationing extensively in the
++ <p>
++ Thompson
++ <ins>
++  traveled
++ </ins>
++ <del>
++  began vacationing
++ </del>
++ extensively in the
+@@ -120 +227,4 @@
+-  Caribbean Islands
++  Caribbean
++  <del>
++   Islands
++  </del>
+@@ -126 +236,7 @@
+- , using his unique locale to
++ ,
++ <ins>
++  writing
++ </ins>
++ <del>
++  using his unique locale to
++ </del>
+@@ -130 +246,19 @@
+- articles to a number of daily newspapers stateside. He befriended the journalist
++ articles
++ <ins>
++  for
++ </ins>
++ <del>
++  to
++ </del>
++ a number of
++ <ins>
++  U.S. daily newspapers. While in
++  <a href="/wiki/Puerto_Rico" title="Puerto Rico">
++   Puerto Rico
++  </a>
++  , he
++ </ins>
++ <del>
++  daily newspapers stateside. He
++ </del>
++ befriended the journalist
+@@ -134,12 +268,4 @@
+- while in
+- <a href="/wiki/Puerto_Rico" title="Puerto Rico">
+-  Puerto Rico
+- </a>
+- , who would later win the
+- <a href="/wiki/Pulitzer_Prize" title="Pulitzer Prize">
+-  Pulitzer Prize
+- </a>
+- for his novel
+- <i>
+-  <a class="mw-disambig" href="/wiki/Ironweed" title="Ironweed">
+-   Ironweed
++ <del>
++  while in
++  <a href="/wiki/Puerto_Rico" title="Puerto Rico">
++   Puerto Rico
+@@ -147,2 +273,21 @@
+- </i>
+- . Thompson eventually became a somewhat celebrated South American correspondent for a
++  , who would later win the
++  <a href="/wiki/Pulitzer_Prize" title="Pulitzer Prize">
++   Pulitzer Prize
++  </a>
++  for his novel
++  <i>
++   <a class="mw-disambig" href="/wiki/Ironweed" title="Ironweed">
++    Ironweed
++   </a>
++  </i>
++ </del>
++ . Thompson eventually became a
++ <ins>
++  <a href="/wiki/South_America" title="South America">
++   South American
++  </a>
++ </ins>
++ <del>
++  somewhat celebrated South American
++ </del>
++ correspondent for a
+@@ -152,6 +297,17 @@
+- owned weekly magazine called
+- <i>
+-  <a href="/wiki/The_Observer" title="The Observer">
+-   The Observer
+-  </a>
+- </i>
++ owned weekly
++ <ins>
++  newspaper called
++  <i>
++   <a class="mw-redirect mw-disambig" href="/wiki/The_National_Observer" title="The National Observer">
++    The National Observer
++   </a>
++  </i>
++ </ins>
++ <del>
++  magazine called
++  <i>
++   <a href="/wiki/The_Observer" title="The Observer">
++    The Observer
++   </a>
++  </i>
++ </del>
+@@ -171,3 +327,10 @@
+-   <a class="mw-redirect mw-disambig" href="/wiki/Sherriff" title="Sherriff">
+-    sherriff
+-   </a>
++   <ins>
++    <a href="/wiki/Sheriff" title="Sheriff">
++     sheriff
++    </a>
++   </ins>
++   <del>
++    <a class="mw-redirect mw-disambig" href="/wiki/Sherriff" title="Sherriff">
++     sherriff
++    </a>
++   </del>
+@@ -195 +358,7 @@
+- ) and copious amounts of
++ ) and
++ <ins>
++  many
++ </ins>
++ <del>
++  copious amounts of
++ </del>
+@@ -199 +368,15 @@
+- , none of which were published despite relentless submissions to publishers. Kennedy later remarked that he and Thompson were cohorts in the fact that they were, at the time, failed novelists who had turned to journalism in order to make a living.
++ , none of which were published despite
++ <ins>
++  repeated submissions to publishers with the exception of "The Rum Diary" in 1998.
++ </ins>
++ <del>
++  relentless submissions to publishers.
++ </del>
++ Kennedy later remarked that he and Thompson were
++ <ins>
++  both
++ </ins>
++ <del>
++  cohorts in the fact that they were, at the time,
++ </del>
++ failed novelists who had turned to journalism in order to make a living.
+@@ -202,4 +385,5 @@
+- Thompson got his big break when he pitched a story to
+- <i>
+-  <a href="/wiki/Harper%27s_Magazine" title="Harper's Magazine">
+-   Harper's Magazine
++ Thompson got his big break
++ <ins>
++  in
++  <a href="/wiki/1965" title="1965">
++   1965
+@@ -207 +391,14 @@
+- </i>
++  when he was approached by
++  <a class="mw-disambig" href="/wiki/Carey_McWilliams" title="Carey McWilliams">
++   Carey McWilliams
++  </a>
++  with an idea for a story
++ </ins>
++ <del>
++  when he pitched a story to
++  <i>
++   <a href="/wiki/Harper%27s_Magazine" title="Harper's Magazine">
++    Harper's Magazine
++   </a>
++  </i>
++ </del>
+@@ -209,4 +406,81 @@
+- <a class="mw-redirect" href="/wiki/Hell%27s_Angels" title="Hell's Angels">
+-  Hell's Angels
+- </a>
+- motorcycle gang, known erroneously at the time for exploits in murder and gang-rape. After the article was published, numerous book offers on the subject were awarded his way.
++ <ins>
++  <a href="/wiki/Hells_Angels" title="Hells Angels">
++   Hells Angels
++  </a>
++  motorcycle gang, a group which had allegedly been involved in various murders and gang-rapes.
++ </ins>
++ <del>
++  <a class="mw-redirect" href="/wiki/Hell%27s_Angels" title="Hell's Angels">
++   Hell's Angels
++  </a>
++  motorcycle gang, known erroneously at the time for exploits in murder and gang-rape.
++ </del>
++ After the article was
++ <ins>
++  published by
++  <i>
++   <a href="/wiki/The_Nation" title="The Nation">
++    The Nation
++   </a>
++  </i>
++  (May 17, 1965),
++ </ins>
++ <del>
++  published,
++ </del>
++ numerous book offers on the subject
++ <ins>
++  came his way, and
++ </ins>
++ <ins>
++  <a href="/wiki/Random_House" title="Random House">
++   Random House
++  </a>
++  published the hard cover
++ </ins>
++ <ins>
++  <i>
++   <a class="mw-redirect" href="/wiki/Hells_Angels:_The_Strange_and_Terrible_Saga_of_the_Outlaw_Motorcycle_Gangs" title="Hells Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs">
++    Hells Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs
++   </a>
++  </i>
++  in
++ </ins>
++ <ins>
++  <a href="/wiki/1966" title="1966">
++   1966
++  </a>
++  . In her book,
++ </ins>
++ <ins>
++  <i>
++   <a class="mw-redirect" href="/wiki/Against_Our_Will:_Men,_Women,_and_Rape" title="Against Our Will: Men, Women, and Rape">
++    Against Our Will: Men, Women, and Rape
++   </a>
++  </i>
++  ,
++ </ins>
++ <ins>
++  <a class="mw-redirect" href="/wiki/Radical_feminist" title="Radical feminist">
++   radical feminist
++  </a>
++ </ins>
++ <ins>
++  <a href="/wiki/Susan_Brownmiller" title="Susan Brownmiller">
++   Susan Brownmiller
++  </a>
++  strongly criticized the treatment of gang-rape in his book.
++ </ins>
++</p>
++<p>
++ <ins>
++  In the late
++  <a href="/wiki/1960s" title="1960s">
++   sixties
++  </a>
++  , Thompson received a "doctorate" from a mail-order church while living in
++  <a href="/wiki/San_Francisco" title="San Francisco">
++   San Francisco
++  </a>
++  .
++ </ins>
+@@ -215,3 +489,15 @@
+- <span class="mw-headline" id="Middle_Years_to_Present">
+-  Middle Years to Present
+- </span>
++ <ins>
++  <span class="mw-headline" id="Middle_years">
++   Middle years
++  </span>
++ </ins>
++</h2>
++<del>
++ were awarded his way.
++</del>
++<h2>
++ <del>
++  <span class="mw-headline" id="Middle_Years_to_Present">
++   Middle Years to Present
++  </span>
++ </del>
+@@ -221,6 +507,11 @@
+- <i>
+-  <a class="mw-redirect" href="/wiki/Rolling_Stone_magazine" title="Rolling Stone magazine">
+-   Rolling Stone magazine
+-  </a>
+- </i>
+- , where his next two books
++ <a class="mw-redirect" href="/wiki/Rolling_Stone_magazine" title="Rolling Stone magazine">
++  <i>
++   Rolling Stone
++  </i>
++  magazine
++ </a>
++ ,
++ <ins>
++  and Ron Shen,
++ </ins>
++ where his next two books
+@@ -232 +523,6 @@
+-  Fear and Loathing on the campaign trail 1972
++  <a class="mw-redirect" href="/wiki/Fear_and_Loathing_on_the_Campaign_Trail_1972" title="Fear and Loathing on the Campaign Trail 1972">
++   Fear and Loathing on the Campaign Trail 1972
++  </a>
++  <del>
++   campaign trail 1972
++  </del>
+@@ -245 +541,8 @@
+- is a first-person account by a journalist of a trip to Las Vegas with his "300-pound
++ is a first-person account by a journalist
++ <ins>
++  (Thompson as "Raoul Duke") on
++ </ins>
++ <del>
++  of
++ </del>
++ a trip to Las Vegas with his "300-pound
+@@ -249 +552,15 @@
+- " attorney to cover a narcotics officers' convention and the "fabulous Mint 400" motorcycle race. During the trip, the journalist and his lawyer become sidetracked by a search for the
++ "
++ <a class="mw-disambig" href="/wiki/Attorney" title="Attorney">
++  attorney
++  Link: /wiki/Attorney (
++ Oscar Zeta Acosta
++ </a>
++ to cover a
++ <a class="mw-redirect" href="/wiki/Narcotics" title="Narcotics">
++  narcotics
++ </a>
++ officers' convention and the "fabulous Mint 400"
++ <a href="/wiki/Motorcycle" title="Motorcycle">
++  motorcycle
++ </a>
++ race. During the trip, the journalist and his lawyer become sidetracked by a search for the
+@@ -253 +570,8 @@
+- , with the aid of heroic amounts of
++ , with the aid of
++ <ins>
++  copious
++ </ins>
++ <del>
++  heroic
++ </del>
++ amounts of
+@@ -269,5 +593,13 @@
+- and numerous other drugs. The journalist and the attorney are never named, but they are obviously thinly-disguised versions of Thompson himself, and his friend and lawyer
+- <a href="/wiki/Oscar_Zeta_Acosta" title="Oscar Zeta Acosta">
+-  Oscar Zeta Acosta
+- </a>
+- .
++ and
++ <ins>
++  other drugs.
++ </ins>
++ <del>
++  numerous other drugs. The journalist and the attorney are never named, but they are obviously thinly-disguised versions of Thompson himself, and his friend and lawyer
++ </del>
++ <del>
++  <a href="/wiki/Oscar_Zeta_Acosta" title="Oscar Zeta Acosta">
++   Oscar Zeta Acosta
++  </a>
++  .
++ </del>
+@@ -276,5 +608,7 @@
+- Thompson frequently refers to himself as "Raoul Duke" or "Dr. Gonzo." He received his '
+- <a href="/wiki/Doctorate" title="Doctorate">
+-  doctorate
+- </a>
+- ' from a mail-order church in the sixties.
++ <del>
++  Thompson frequently refers to himself as "Raoul Duke" or "Dr. Gonzo." He received his '
++  <a href="/wiki/Doctorate" title="Doctorate">
++   doctorate
++  </a>
++  ' from a mail-order church in the sixties.
++ </del>
+@@ -285,4 +619,4 @@
+-  Fear and Loathing on the
+-  <a class="mw-redirect" href="/wiki/U.S._presidential_election,_1972" title="U.S. presidential election, 1972">
+-   Campaign Trail '72
+-  </a>
++  Fear and Loathing on the Campaign Trail '72
++  <del>
++   Link: /wiki/U.S._presidential_election,_1972
++  </del>
+@@ -294 +628,10 @@
+- articles he wrote while covering the campaigns of President
++ articles he wrote while covering the
++ <ins>
++  <a class="mw-redirect" href="/wiki/U.S._presidential_election,_1972" title="U.S. presidential election, 1972">
++   election campaigns
++  </a>
++ </ins>
++ <del>
++  campaigns
++ </del>
++ of President
+@@ -302,0 +646,15 @@
++ <ins>
++  The book focuses almost exclusively on the
++  <a href="/wiki/Democratic_Party" title="Democratic Party">
++   Democratic Party
++  </a>
++  's primaries and the breakdown of the party as it splits between the different candidates. Thompson would go on to become a fierce critic of Nixon, both during and after his presidency. After Nixon's death in
++  <a href="/wiki/1994" title="1994">
++   1994
++  </a>
++  , Thompson famously described him in
++  <i>
++   Rolling Stone
++  </i>
++  as a man who "could shake your hand and stab you in the back at the same time" and said "his casket [should] have been launched into one of those open-sewage canals that empty into the ocean just south of Los Angeles. He was a swine of a man and a jabbering dupe of a president. Nixon was so crooked that he needed servants to help him screw his pants on every morning. Even his funeral was illegal. He was queer in the deepest way. His body should have been burned in a trash bin."
++ </ins>
+@@ -309 +667 @@
+- , Thompson made an unsuccessful bid for
++ , Thompson
+@@ -311 +669,8 @@
+-  Sheriff
++  <ins>
++   narrowly lost a bid for
++ sheriff
++  </ins>
++  <del>
++   made an unsuccessful bid for
++ Sheriff
++  </del>
+@@ -317 +682,15 @@
+- . He ran on a platform promoting decriminalization of drugs and the sale thereof, and renaming
++ <ins>
++  on the "Freak Power" ticket.
++ </ins>
++ <del>
++  .
++ </del>
++ He ran on a platform promoting decriminalization of drugs and the sale thereof,
++ <ins>
++  tearing up the streets and turning them into
++  <a href="/wiki/Bike_path" title="Bike path">
++   bike paths
++  </a>
++  ,
++ </ins>
++ and renaming
+@@ -321,5 +700,18 @@
+- as "Fat City." The Republican sheriff against whom he ran had a
+- <a href="/wiki/Crew_cut" title="Crew cut">
+-  crew cut
+- </a>
+- , prompting Thompson to shave his head bald and refer to his opposition as "my long haired opponent."
++ <ins>
++  to "Fat City", amongst other things. The incumbent
++  <a class="mw-disambig" href="/wiki/Republican" title="Republican">
++   Republican
++  </a>
++ </ins>
++ <del>
++  as "Fat City." The Republican
++ </del>
++ sheriff against whom he ran had a crew
++ <ins>
++  cut,
++ </ins>
++ <del>
++  cut
++  Link: /wiki/Crew_cut ,
++ </del>
++ prompting Thompson to shave his head bald and refer to his opposition as "my
+@@ -328 +720,10 @@
+- Thompson has identified the death of the
++ <ins>
++  long-haired opponent."
++Thompson
++ </ins>
++ <del>
++  long haired opponent."
++Thompson has
++ </del>
++</p>
++ identified the death of the
+@@ -330,3 +731,9 @@
+-  American Dream
+- </a>
+- as his “reporter’s beat”, and has covered the subject in one fashion or another throughout his writing. During an interview with
++ American Dream
++</a>
++ as his <ins>
++ "reporter's beat", and
++</ins>
++<del>
++ “reporter’s beat”, and has
++</del>
++ covered the subject in one fashion or another throughout his writing. During an interview with
+@@ -334,2 +741,2 @@
+-  salon.com
+- </a>
++ salon.com
++</a>
+@@ -337,2 +744 @@
+-</p>
+-<p>
++ <p>
+@@ -341 +747,9 @@
+-  Fear and Loathing in Las Vegas.
++  Fear and Loathing in Las
++  <ins>
++   Vegas
++ . He was also quoted as saying,
++  </ins>
++  <del>
++   Vegas.
++ He has also been quoted as saying
++  </del>
+@@ -343 +757,6 @@
+- He has also been quoted as saying "I hate to advocate drugs, alcohol, violence or insanity to anyone, but they've always worked for me."
++ "I hate to advocate drugs, alcohol, violence or insanity to anyone, but they've always worked for
++</p>
++<p>
++ <ins>
++  me".
++ </ins>
+@@ -344,0 +764,7 @@
++<h2>
++ <ins>
++  <span class="mw-headline" id="Personal_life">
++   Personal life
++  </span>
++ </ins>
++</h2>
+@@ -346 +772,55 @@
+- His latest book,
++ <ins>
++  He was married to
++  <a class="mw-redirect" href="/wiki/Sandra_Dawn_Conklin" title="Sandra Dawn Conklin">
++   Sandra Dawn Conklin
++  </a>
++  on
++  <a class="mw-redirect" href="/wiki/19_May" title="19 May">
++   19 May
++  </a>
++  ,
++  <a href="/wiki/1963" title="1963">
++   1963
++  </a>
++  ; they divorced in
++  <a href="/wiki/1980" title="1980">
++   1980
++  </a>
++  . The couple had one son, Juan Fitzgerald Thompson, born
++  <a href="/wiki/March_23" title="March 23">
++   March 23
++  </a>
++  ,
++  <a href="/wiki/1964" title="1964">
++   1964
++  </a>
++  . Thompson was later married to
++  <a class="new" href="/w/index.php?title=Anita_Beymuk&amp;action=edit&amp;redlink=1" title="Anita Beymuk (page does not exist)">
++   Anita Beymuk
++  </a>
++  , his long-time assistant, on
++  <a class="mw-redirect" href="/wiki/24_April" title="24 April">
++   24 April
++  </a>
++  ,
++  <a href="/wiki/2003" title="2003">
++   2003
++  </a>
++  .
++ </ins>
++</p>
++<h2>
++ <ins>
++  <span class="mw-headline" id="Later_years">
++   Later years
++  </span>
++ </ins>
++</h2>
++<ins>
++ Thompson's last
++</ins>
++<del>
++ me."
++His latest
++</del>
++  book,
+@@ -347,0 +828 @@
++ <a class="mw-disambig" href="/wiki/Kingdom_of_Fear" title="Kingdom of Fear">
+@@ -349 +830,2 @@
+- </i>
++ </a>
++</i>
+@@ -352,3 +834,9 @@
+-  American Century
+- </a>
+- . Thompson currently writes a Web column, "Hey Rube," for
++ American Century
++</a>
++ . Thompson <ins>
++ also wrote
++</ins>
++<del>
++ currently writes
++</del>
++ a Web column, "Hey Rube," for
+@@ -356,3 +844,9 @@
+-  ESPN
+- </a>
+- . He has at times also toured on the lecture circuit, once with
++ ESPN
++</a>
++ . He <ins>
++ had
++</ins>
++<del>
++ has
++</del>
++ at times also toured on the lecture circuit, once with
+@@ -360,3 +854,13 @@
+-  John Belushi
+- </a>
+- . Another modern appearance is through
++ John Belushi
++</a>
++<ins>
++ , but also with
++ <a href="/wiki/G._Gordon_Liddy" title="G. Gordon Liddy">
++  G. Gordon Liddy
++ </a>
++ . Another appearance was
++</ins>
++<del>
++ . Another modern appearance is
++</del>
++ through
+@@ -364,5 +868,5 @@
+-  cartoonist
+- </a>
+- <a href="/wiki/Garry_Trudeau" title="Garry Trudeau">
+-  Garry Trudeau
+- </a>
++ cartoonist
++</a>
++<a href="/wiki/Garry_Trudeau" title="Garry Trudeau">
++ Garry Trudeau
++</a>
+@@ -371,4 +875,4 @@
+-  <a href="/wiki/Doonesbury" title="Doonesbury">
+-   Doonesbury
+-  </a>
+- </i>
++ <a href="/wiki/Doonesbury" title="Doonesbury">
++  Doonesbury
++ </a>
++</i>
+@@ -377,3 +881,14 @@
+-  Uncle Duke
+- </a>
+- on Thompson, to loud protests from Thompson himself. Similarly, Spider Jerusalem, the gonzo journalist protagonist of
++ Uncle Duke
++</a>
++ on Thompson, to loud protests from Thompson himself. Similarly,
++ <a href="/wiki/Spider_Jerusalem" title="Spider Jerusalem">
++ Spider Jerusalem
++</a>
++<del>
++ Jerusalem,
++</del>
++ the gonzo journalist
++ <a href="/wiki/Protagonist" title="Protagonist">
++ protagonist
++</a>
++ of
+@@ -381,2 +896,2 @@
+-  Warren Ellis
+- </a>
++ Warren Ellis
++</a>
+@@ -385,5 +900,5 @@
+-  <a href="/wiki/Transmetropolitan" title="Transmetropolitan">
+-   Transmetropolitan
+-  </a>
+-  ,
+- </i>
++ <a href="/wiki/Transmetropolitan" title="Transmetropolitan">
++  Transmetropolitan
++ </a>
++ ,
++</i>
+@@ -390,0 +906 @@
++ <p>
+@@ -393 +909,19 @@
+- Thompson is an admitted fan of
++ <ins>
++  In his writing, Thompson liked to employ what he called "
++  <a class="mw-redirect" href="/wiki/Action_verbs" title="Action verbs">
++   action verbs
++  </a>
++  " to comically spin outlandish tales that were completely unbelievable, yet provided a unique viewpoint to accurately describe the underlying reality at hand. Thompson almost always wrote in
++  <a class="mw-disambig" href="/wiki/First_person" title="First person">
++   first person
++  </a>
++  narrative, and his stories became so colorfully contrived that they easily slipped into the realm of fiction; however, the basic framework of the story he told was very often true. In his writing, he cultivated the persona of a dangerously absurd, illegal drug-crazed journalist bent on comic self-destruction.
++ </ins>
++</p>
++<ins>
++ Thompson was a
++</ins>
++<del>
++ Thompson is an admitted
++</del>
++ fan of
+@@ -395,3 +929,9 @@
+-  firearms
+- </a>
+- and is known to keep a keg of
++ firearms
++</a>
++ and <ins>
++ was
++</ins>
++<del>
++ is
++</del>
++ known to keep a keg of
+@@ -399,2 +939,2 @@
+-  gunpowder
+- </a>
++ gunpowder
++</a>
+@@ -401,0 +942,39 @@
++ <p>
++ <ins>
++  Thompson died at his home in
++  <a href="/wiki/Woody_Creek,_Colorado" title="Woody Creek, Colorado">
++   Woody Creek
++  </a>
++  ,
++  <a href="/wiki/Colorado" title="Colorado">
++   Colorado
++  </a>
++  , on
++  <a href="/wiki/February_20" title="February 20">
++   February 20
++  </a>
++  ,
++  <a href="/wiki/2005" title="2005">
++   2005
++  </a>
++  of a
++  <a href="/wiki/Suicide" title="Suicide">
++   self-inflicted gunshot wound
++  </a>
++  to the head. He was 67 years old.
++ </ins>
++</p>
++<p>
++ <ins>
++  Thompson's son (Juan), daughter-in-law (Jennifer Winkel Thompson), and grandson (Will Thompson) were visiting for the weekend at the time of his suicide. Will and Jennifer were in the adjacent room when they heard the gunshot. They reported to the press that they do not believe his suicide was out of desperation, but was a well-thought-out act resulting from Thompson's many painful medical conditions. (Kass, 2005) Thompson's wife, Anita, was on the phone with Thompson when he ended his life.
++ </ins>
++</p>
++<p>
++ <ins>
++  Thompson's family and friends are currently trying to arrange for Thompson's ashes to be fired out of a cannon, as he wished.
++ </ins>
++</p>
++<p>
++ <ins>
++  Infact Depp and Sakar are working with ZAMBELLI Fireworks on the design of a fireworks shell that will contain his ashes and be fired from his estate in Colorado.
++ </ins>
+@@ -411 +990,5 @@
+-  Where The Buffalo Roam
++  <a class="mw-redirect" href="/wiki/Where_The_Buffalo_Roam" title="Where The Buffalo Roam">
++   Where The Buffalo Roam
++   Link: /wiki/Where_The_Buffalo_Roam (
++ 1980
++  </a>
+@@ -413,5 +996,18 @@
+- (
+- <a href="/wiki/1980_in_film" title="1980 in film">
+-  1980
+- </a>
+- ) depicts Thompson's attempts at writing stories for both the Super Bowl and the 1972 Presidential Election. It stars
++ <del>
++  (
++  <a href="/wiki/1980_in_film" title="1980 in film">
++   1980
++  </a>
++ </del>
++ ) depicts Thompson's attempts at writing stories for both the
++ <a href="/wiki/Super_Bowl" title="Super Bowl">
++  Super Bowl
++ </a>
++ and the
++ <a class="mw-redirect" href="/wiki/U.S._presidential_election,_1972" title="U.S. presidential election, 1972">
++  1972 U.S. presidential election
++ </a>
++ <del>
++  Presidential Election.
++ </del>
++ It stars
+@@ -425 +1021,8 @@
+- as Thompson's attorney Oscar Acosta, refered to in the movie as Carl Laslow, Esq.
++ as Thompson's attorney Oscar Acosta,
++ <ins>
++  referred
++ </ins>
++ <del>
++  refered
++ </del>
++ to in the movie as Carl Laslow, Esq.
+@@ -428 +1031,10 @@
+- The film
++ The
++ <ins>
++  <a href="/wiki/1998" title="1998">
++   1998
++  </a>
++  film adaptation of
++ </ins>
++ <del>
++  film
++ </del>
+@@ -433 +1044,0 @@
+-  : A Savage Journey to the Heart of the American Dream
+@@ -434,0 +1046,5 @@
++ <ins>
++  was
++ </ins>
++ <del>
++  : A Savage Journey to the Heart of the American Dream
+@@ -436,12 +1052,14 @@
+- <a href="/wiki/1998_in_film" title="1998 in film">
+-  1998
+- </a>
+- , starring
+- <a href="/wiki/Johnny_Depp" title="Johnny Depp">
+-  Johnny Depp
+- </a>
+- and
+- <a class="mw-redirect" href="/wiki/Benicio_Del_Toro" title="Benicio Del Toro">
+-  Benicio Del Toro
+- </a>
+- as the journalist and the attorney, respectively. The film, directed by
++  <a href="/wiki/1998_in_film" title="1998 in film">
++   1998
++  </a>
++  , starring
++  <a href="/wiki/Johnny_Depp" title="Johnny Depp">
++   Johnny Depp
++  </a>
++  and
++  <a class="mw-redirect" href="/wiki/Benicio_Del_Toro" title="Benicio Del Toro">
++   Benicio Del Toro
++  </a>
++  as the journalist and the attorney, respectively. The film,
++ </del>
++ directed by
+@@ -455 +1073,13 @@
+- , has achieved something of a
++ ,
++ <ins>
++  and starred
++  <a href="/wiki/Johnny_Depp" title="Johnny Depp">
++   Johnny Depp
++  </a>
++  as Raoul Duke and
++  <a class="mw-redirect" href="/wiki/Benicio_Del_Toro" title="Benicio Del Toro">
++   Benicio Del Toro
++  </a>
++  as Dr. Gonzo. Thompson received credit as the screenwriter. The film
++ </ins>
++ has achieved something of a
+@@ -462,2 +1092,8 @@
+- Also, a new film is currently (
+- <a href="/wiki/2005_in_film" title="2005 in film">
++ <ins>
++  A
++ </ins>
++ <del>
++  Also, a
++ </del>
++ new film is currently (
++ <a href="/wiki/2005" title="2005">
+@@ -468 +1104,6 @@
+-  The Rum Diary.
++  <a class="mw-redirect" href="/wiki/The_Rum_Diary" title="The Rum Diary">
++   The Rum Diary
++  </a>
++  <del>
++   Diary.
++  </del>
+@@ -470 +1111,8 @@
+- Both Depp and Del Toro will be starring in this new Thompson film. Del Toro was supposed to have directed, but he withdrew in January of 2004. The director is yet to be announced.
++ Both Depp and Del Toro will be starring in this new Thompson film. Del Toro was supposed to have directed, but he withdrew in
++ <a class="mw-redirect" href="/wiki/January_2004" title="January 2004">
++  January 2004
++ </a>
++ <del>
++  of 2004.
++ </del>
++ The director is yet to be announced.
+@@ -472,0 +1121,239 @@
++ <ins>
++  <span class="mw-headline" id="Articles">
++   Articles
++  </span>
++ </ins>
++</h2>
++<h3>
++ <ins>
++  <span class="mw-headline" id="Scanlan.27s_Monthly">
++   <a href="/wiki/Scanlan%27s_Monthly" title="Scanlan's Monthly">
++    Scanlan's Monthly
++   </a>
++  </span>
++ </ins>
++</h3>
++<ul>
++ <li>
++  <ins>
++   <i>
++    <a href="/wiki/The_Temptations_of_Jean-Claude_Killy" title="The Temptations of Jean-Claude Killy">
++     The Temptations of Jean-Claude Killy
++    </a>
++   </i>
++   -
++   <a href="/wiki/1970" title="1970">
++    1970
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="mw-redirect" href="/wiki/The_Kentucky_Derby_is_Decadent_and_Depraved" title="The Kentucky Derby is Decadent and Depraved">
++     The Kentucky Derby is Decadent and Depraved
++    </a>
++   </i>
++   -
++   <a href="/wiki/1970" title="1970">
++    1970
++   </a>
++  </ins>
++ </li>
++</ul>
++<h3>
++ <ins>
++  <span class="mw-headline" id="Playboy">
++   <a href="/wiki/Playboy" title="Playboy">
++    Playboy
++   </a>
++  </span>
++ </ins>
++</h3>
++<ul>
++ <li>
++  <ins>
++   <i>
++    <a href="/wiki/The_Great_Shark_Hunt" title="The Great Shark Hunt">
++     The Great Shark Hunt
++    </a>
++   </i>
++   -
++   <a href="/wiki/1974" title="1974">
++    1974
++   </a>
++  </ins>
++ </li>
++</ul>
++<h3>
++ <ins>
++  <span class="mw-headline" id="Rolling_Stone">
++   <a href="/wiki/Rolling_Stone" title="Rolling Stone">
++    Rolling Stone
++   </a>
++  </span>
++ </ins>
++</h3>
++<ul>
++ <li>
++  <ins>
++   <i>
++    <a class="mw-redirect" href="/wiki/Freak_Power_in_the_Rockies" title="Freak Power in the Rockies">
++     Freak Power in the Rockies
++    </a>
++   </i>
++   -
++   <a href="/wiki/1970" title="1970">
++    1970
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a href="/wiki/Fear_and_Loathing_in_Las_Vegas" title="Fear and Loathing in Las Vegas">
++     Fear and Loathing in Las Vegas
++    </a>
++   </i>
++   -
++   <a href="/wiki/1971" title="1971">
++    1971
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="new" href="/w/index.php?title=The_Banshee_Screams_for_Buffalo_Meat&amp;action=edit&amp;redlink=1" title="The Banshee Screams for Buffalo Meat (page does not exist)">
++     The Banshee Screams for Buffalo Meat
++    </a>
++   </i>
++   -
++   <a href="/wiki/1972" title="1972">
++    1972
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="new" href="/w/index.php?title=Memo_from_the_Sports_Desk_%26_Rude_Notes_from_a_Decompression_Chamber&amp;action=edit&amp;redlink=1" title="Memo from the Sports Desk &amp; Rude Notes from a Decompression Chamber (page does not exist)">
++     Memo from the Sports Desk &amp; Rude Notes from a Decompression Chamber
++    </a>
++   </i>
++   -
++   <a href="/wiki/1973" title="1973">
++    1973
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="new" href="/w/index.php?title=Fear_and_Loathing_at_the_Watergate&amp;action=edit&amp;redlink=1" title="Fear and Loathing at the Watergate (page does not exist)">
++     Fear and Loathing at the Watergate
++    </a>
++   </i>
++   -
++   <a href="/wiki/1973" title="1973">
++    1973
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="new" href="/w/index.php?title=Fear_and_Loathing_at_the_Superbowl&amp;action=edit&amp;redlink=1" title="Fear and Loathing at the Superbowl (page does not exist)">
++     Fear and Loathing at the Superbowl
++    </a>
++   </i>
++   -
++   <a href="/wiki/1974" title="1974">
++    1974
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="new" href="/w/index.php?title=Jimmy_Carter_and_the_Great_Leap_of_Faith,_An_Endorsement_With_Fear_and_Loathing_by_Hunter_S._Thompson&amp;action=edit&amp;redlink=1" title="Jimmy Carter and the Great Leap of Faith, An Endorsement With Fear and Loathing by Hunter S. Thompson (page does not exist)">
++     Jimmy Carter and the Great Leap of Faith, An Endorsement With Fear and Loathing by Hunter S. Thompson
++    </a>
++   </i>
++   -
++   <a href="/wiki/1976" title="1976">
++    1976
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="new" href="/w/index.php?title=A_Dog_Took_My_Place&amp;action=edit&amp;redlink=1" title="A Dog Took My Place (page does not exist)">
++     A Dog Took My Place
++    </a>
++   </i>
++   -
++   <a href="/wiki/1983" title="1983">
++    1983
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="new" href="/w/index.php?title=Fear_and_Loathing_in_Elko&amp;action=edit&amp;redlink=1" title="Fear and Loathing in Elko (page does not exist)">
++     Fear and Loathing in Elko
++    </a>
++   </i>
++   -
++   <a href="/wiki/1992" title="1992">
++    1992
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="new" href="/w/index.php?title=He_was_a_Crook&amp;action=edit&amp;redlink=1" title="He was a Crook (page does not exist)">
++     He was a Crook
++    </a>
++   </i>
++   -
++   <a href="/wiki/June" title="June">
++    June
++   </a>
++   <a href="/wiki/1994" title="1994">
++    1994
++   </a>
++  </ins>
++ </li>
++</ul>
++<h3>
++ <ins>
++  <span class="mw-headline" id="Cycle_World">
++   <a href="/wiki/Cycle_World" title="Cycle World">
++    Cycle World
++   </a>
++  </span>
++ </ins>
++</h3>
++<ul>
++ <li>
++  <ins>
++   <i>
++    <a class="new" href="/w/index.php?title=Song_of_the_Sausage_Creature&amp;action=edit&amp;redlink=1" title="Song of the Sausage Creature (page does not exist)">
++     Song of the Sausage Creature
++    </a>
++   </i>
++   -
++   <a href="/wiki/March" title="March">
++    March
++   </a>
++   <a href="/wiki/1995" title="1995">
++    1995
++   </a>
++  </ins>
++ </li>
++</ul>
++<h2>
+@@ -482 +1369,10 @@
+-  (1959)
++  <ins>
++   (1959; Simon &amp; Schuster, 1999,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0684856476">
++    ISBN 0684856476
++   </a>
++   )
++  </ins>
++  <del>
++   (1959)
++  </del>
+@@ -488 +1384,11 @@
+-  (New York, Random House, 1966)
++  (New York, Random House,
++  <ins>
++   1966; Ballantine Books, 1996,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0345410084">
++    ISBN 0345410084
++   </a>
++   )
++  </ins>
++  <del>
++   1966)
++  </del>
+@@ -494 +1400,15 @@
+-  (New York, Random House, 1971)
++  (New York, Random House,
++  <ins>
++   1971; Vintage, 1989,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0679724192">
++    ISBN 0679724192
++   </a>
++   ; Vintage, 1998,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0679785892">
++    ISBN 0679785892
++   </a>
++   )
++  </ins>
++  <del>
++   1971)
++  </del>
+@@ -500 +1420,11 @@
+-  (San Francisco, Straight Arrow Books, 1973)
++  (San Francisco, Straight Arrow Books,
++  <ins>
++   1973; Warner Books, 1985,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0446313645">
++    ISBN 0446313645
++   </a>
++   )
++  </ins>
++  <del>
++   1973)
++  </del>
+@@ -506 +1436,11 @@
+-  (New York, Summit Books, 1979)
++  (New York, Summit Books,
++  <ins>
++   1979; Simon &amp; Schuster, 2003,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0743250451">
++    ISBN 0743250451
++   </a>
++   )
++  </ins>
++  <del>
++   1979)
++  </del>
+@@ -522 +1462,15 @@
+-  (New York, Summit Books, 1988)
++  (New York, Summit Books,
++  <ins>
++   1988; Vintage, 1989,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0679722378">
++    ISBN 0679722378
++   </a>
++   ; Simon &amp; Schuster, 2003,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0743250443">
++    ISBN 0743250443
++   </a>
++   )
++  </ins>
++  <del>
++   1988)
++  </del>
+@@ -528 +1482,15 @@
+-  (New York, Summit Books, 1990)
++  (New York, Summit Books,
++  <ins>
++   1990; Pocket, 1991,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0671743260">
++    ISBN 0671743260
++   </a>
++   ; Simon &amp; Schuster/Touchstone, 2002,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0743240995">
++    ISBN 0743240995
++   </a>
++   )
++  </ins>
++  <del>
++   1990)
++  </del>
+@@ -534 +1502,11 @@
+-  (Santa Barbara, Neville Press, 1991)
++  (Santa Barbara, Neville Press,
++  <ins>
++   1991; Simon &amp; Schuster, 2000,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0684873214">
++    ISBN 0684873214
++   </a>
++   )
++  </ins>
++  <del>
++   1991)
++  </del>
+@@ -540 +1518,11 @@
+-  Trapped Like a Rat in Mr. Bill's Neighborhood (New York, Random House, 1994)
++  Trapped Like a Rat in Mr. Bill's Neighborhood (New York, Random House,
++  <ins>
++   1994; Ballantine Books, 1995,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0345396359">
++    ISBN 0345396359
++   </a>
++   )
++  </ins>
++  <del>
++   1994)
++  </del>
+@@ -546 +1534,11 @@
+-  (New York, Random House, 1997)
++  (New York, Random House,
++  <ins>
++   1997; Ballantine Books, 1998,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0345377966">
++    ISBN 0345377966
++   </a>
++   )
++  </ins>
++  <del>
++   1997)
++  </del>
+@@ -552 +1550,11 @@
+-  (Collection of Papers first appeared in Time magazine, 1997)
++  (Collection of Papers first appeared in Time magazine,
++  <ins>
++   1997; Simon &amp; Schuster, 2001,
++   <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0684873168">
++    ISBN 0684873168
++   </a>
++   )
++  </ins>
++  <del>
++   1997)
++  </del>
+@@ -558,33 +1566 @@
+-  (Simon &amp; Schuster; 1st Simon edition, November 1, 2003)
+- </li>
+- <li>
+-  --Hey Rube : Blood Sport, the Bush Doctrine, and the Downward Spiral of Dumbness Modern History from the Sports Desk (Simon &amp; Schuster, August 11, 2004)
+- </li>
+-</ul>
+-<h2>
+- <span class="mw-headline" id="External_link">
+-  External link
+- </span>
+-</h2>
+-<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+- <tr>
+-  <td class="mbox-image">
+-   <img alt="" class="noviewer" data-file-height="355" data-file-width="300" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/>
+-  </td>
+-  <td class="mbox-text plainlist">
+-   Wikiquote has quotations related to:
+-   <i>
+-    <b>
+-     <a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Hunter_S._Thompson" title="q:Special:Search/Hunter S. Thompson">
+-      Hunter S. Thompson
+-     </a>
+-    </b>
+-   </i>
+-  </td>
+- </tr>
+-</table>
+-<ul>
+- <li>
+-  <a class="external text" href="http://www.gonzo.org" rel="nofollow">
+-   The Great Thompson Hunt
+-  </a>
++  (Simon &amp; Schuster; 1st Simon edition, November 1,
+@@ -593,19 +1569,14 @@
+-  <a class="external text" href="http://sports.espn.go.com/espn/archive?columnist=hunter_s._thompson&amp;root=page2" rel="nofollow">
+-   Thompson's ESPN column
+-  </a>
+- </li>
+- <li>
+-  <a class="external text" href="http://www.imdb.com/title/tt0081748/" rel="nofollow">
+-   IMDB site for
+-   <i>
+-    Where the Buffalo Roam
+-   </i>
+-  </a>
+- </li>
+- <li>
+-  <a class="external text" href="http://www.imdb.com/title/tt0120669/" rel="nofollow">
+-   IMDB site for
+-   <i>
+-    Fear and Loathing in Las Vegas
+-   </i>
+-  </a>
++  <i>
++   <ins>
++    2003,
++    <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0684873249">
++     ISBN 0684873249
++    </a>
++    )
++ Hey Rube:
++   </ins>
++   <del>
++    2003)
++ --Hey Rube :
++   </del>
++  </i>
+@@ -613,6 +1584,6 @@
+- <li>
+-  <a class="external text" href="http://www.imdb.com/title/tt0376136/" rel="nofollow">
+-   IMDB site for
+-   <i>
+-    The Rum Diary
+-   </i>
++ Blood Sport, the Bush Doctrine, and the Downward Spiral of Dumbness Modern History from the Sports Desk
++   (Simon &amp; Schuster, August 11,
++ <ins>
++  2004,
++  <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0684873192">
++   ISBN 0684873192
+@@ -620,2 +1591,71 @@
+- </li>
+-</ul>
++  )
++ </ins>
++ <del>
++  2004)
++ </del>
++ <h2>
++  <del>
++   <span class="mw-headline" id="External_link">
++    External link
++   </span>
++  </del>
++ </h2>
++ <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
++  <tr>
++   <td class="mbox-image">
++   </td>
++   <td class="mbox-text plainlist">
++    <del>
++     Wikiquote has quotations related to:
++     <i>
++      <b>
++       <a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Hunter_S._Thompson" title="q:Special:Search/Hunter S. Thompson">
++        Hunter S. Thompson
++       </a>
++      </b>
++     </i>
++    </del>
++   </td>
++  </tr>
++ </table>
++ <ul>
++  <li>
++   <del>
++    <a class="external text" href="http://www.gonzo.org" rel="nofollow">
++     The Great Thompson Hunt
++    </a>
++   </del>
++  </li>
++  <li>
++   <del>
++    <a class="external text" href="http://sports.espn.go.com/espn/archive?columnist=hunter_s._thompson&amp;root=page2" rel="nofollow">
++     Thompson's ESPN column
++    </a>
++   </del>
++  </li>
++  <li>
++   <del>
++    <a class="external text" href="http://www.imdb.com/title/tt0081748/" rel="nofollow">
++     IMDB site for
++   Where the Buffalo Roam
++    </a>
++   </del>
++  </li>
++  <li>
++   <del>
++    <a class="external text" href="http://www.imdb.com/title/tt0120669/" rel="nofollow">
++     IMDB site for
++   Fear and Loathing in Las Vegas
++    </a>
++   </del>
++  </li>
++  <li>
++   <del>
++    <a class="external text" href="http://www.imdb.com/title/tt0376136/" rel="nofollow">
++     IMDB site for
++   The Rum Diary
++    </a>
++   </del>
++  </li>
++ </ul>
++</ul>
+\ No newline at end of file

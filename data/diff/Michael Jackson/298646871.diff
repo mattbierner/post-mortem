@@ -1,0 +1,191 @@
+--- 298631851
++++ 298646871
+@@ -5 +5,8 @@
+- (born August 29, 1958) is an American recording artist, entertainer, and businessman. The seventh child of the
++ (born August 29, 1958)
++ <ins>
++  Michael Jackson, Pop's Thrilling King, Dead at 50]&lt;/ref&gt;) was
++ </ins>
++ <del>
++  is
++ </del>
++ an American recording artist, entertainer, and businessman. The seventh child of the
+@@ -119 +126,5 @@
+- Jackson has donated and raised millions of dollars for beneficial causes through his
++ Jackson
++ <del>
++  has
++ </del>
++ donated and raised millions of dollars for beneficial causes through his
+@@ -135 +146,5 @@
+- , the criminal investigation was closed due to lack of evidence and Jackson was not charged. The singer has experienced
++ , the criminal investigation was closed due to lack of evidence and Jackson was not charged. The singer
++ <del>
++  has
++ </del>
++ experienced
+@@ -139 +154,21 @@
+- since the early 1990s and conflicting reports regarding the state of his finances since the late 1990s. Jackson married twice and fathered three children, all of which caused further controversy. In 2005, Jackson was
++ <ins>
++  from
++ </ins>
++ <del>
++  since
++ </del>
++ the early 1990s
++ <ins>
++  until his death, as well as
++ </ins>
++ <del>
++  and
++ </del>
++ conflicting reports regarding the state of his
++ <ins>
++  finances.
++ </ins>
++ <del>
++  finances since the late 1990s.
++ </del>
++ Jackson married twice and fathered three children, all of which caused further controversy. In 2005, Jackson was
+@@ -172 +207,5 @@
+- , has made him a part of
++ ,
++ <del>
++  has
++ </del>
++ made him a part of
+@@ -178,0 +218,16 @@
++ <ins>
++  On June 25, 2009, he collapsed at his home in Los Angeles.
++ After being taken to the hospital in a coma,
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++  Jackson was reportedly pronounced dead.
++ </ins>
++</p>
++<p>
+@@ -221 +276,8 @@
+- he is the seventh of nine children. His siblings are
++ he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ the seventh of nine children. His siblings are
+@@ -926 +988,8 @@
+- ; the latter is in
++ ; the latter
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ in
+@@ -930 +999,8 @@
+- in Jackson's case, and both illnesses make him sensitive to sunlight. The treatments he uses for his condition further lighten his skin tone, and, with the application of pancake makeup to even out blotches, he can appear very pale.
++ in Jackson's case, and both illnesses
++ <ins>
++  made
++ </ins>
++ <del>
++  make
++ </del>
++ him sensitive to sunlight. The treatments he uses for his condition further lighten his skin tone, and, with the application of pancake makeup to even out blotches, he can appear very pale.
+@@ -1950,2 +2026,6 @@
+- <span class="mw-headline" id="2008_onward:_Milestones.2C_real_estate_and_return_to_live_performance">
+-  2008 onward: Milestones, real estate and return to live performance
++ <span class="mw-headline" id="2008_onward:_Milestones.2C_real_estate_and_planned_return_to_live_performance">
++  2008 onward: Milestones, real estate and
++  <ins>
++   planned
++  </ins>
++  return to live performance
+@@ -2043 +2123,8 @@
+- From July 13, 2009 to March 6, 2010, Jackson is scheduled to perform
++ From July 13, 2009 to March 6, 2010, Jackson
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ scheduled to perform
+@@ -2064,4 +2151,9 @@
+- <a href="/wiki/TMZ" title="TMZ">
+-  TMZ
+- </a>
+- reported that Jackson has been rushed to the hospital and has suffered
++ <ins>
++  Jackson was hospitalized after suffering a
++ </ins>
++ <del>
++  <a href="/wiki/TMZ" title="TMZ">
++   TMZ
++  </a>
++  reported that Jackson has been rushed to the hospital and has suffered
++ </del>
+@@ -2072,12 +2164,18 @@
+- <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
+-  Paramedics
+- </a>
+- administered
+- <a class="mw-redirect" href="/wiki/CPR" title="CPR">
+-  CPR
+- </a>
+- in the
+- <a href="/wiki/Ambulance" title="Ambulance">
+-  ambulance
+- </a>
+- and a family member says that he is in "really bad shape.".
++ <ins>
++  Jackson died shortly after
++ .
++ </ins>
++ <del>
++  <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
++   Paramedics
++  </a>
++  administered
++  <a class="mw-redirect" href="/wiki/CPR" title="CPR">
++   CPR
++  </a>
++  in the
++  <a href="/wiki/Ambulance" title="Ambulance">
++   ambulance
++  </a>
++  and a family member says that he is in "really bad shape.".
++ </del>
+@@ -2881 +2979,8 @@
+- He is a double-inductee of the
++ He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a double-inductee of the
+@@ -2925 +3030,8 @@
+- He is characterized as "an unstoppable juggernaut, possessed of all the tools to dominate the charts seemingly at will: an instantly identifiable voice, eye-popping dance moves, stunning musical versatility and loads of sheer star power".
++ He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ characterized as "an unstoppable juggernaut, possessed of all the tools to dominate the charts seemingly at will: an instantly identifiable voice, eye-popping dance moves, stunning musical versatility and loads of sheer star power".
+@@ -3120 +3232 @@
+-</ul>
++</ul>
+\ No newline at end of file

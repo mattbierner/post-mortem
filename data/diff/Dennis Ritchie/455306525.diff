@@ -1,0 +1,37 @@
+--- 453910145
++++ 455306525
+@@ -5,5 +5,11 @@
+- (username:
+- <b>
+-  dmr
+- </b>
+- , born September 9, 1941) is an American
++ <ins>
++  (September 9, 1941 - October 9, 2011) was
++ </ins>
++ <del>
++  (username:
++  <b>
++   dmr
++  </b>
++  , born September 9, 1941) is
++ </del>
++ an American
+@@ -312,0 +319,16 @@
++<h2>
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  Ritchie died at home after a long illness the weekend of October 8, 2011, as reported by
++  <a href="/wiki/Rob_Pike" title="Rob Pike">
++   Rob Pike
++  </a>
++  .
++ </ins>
++</p>
+\ No newline at end of file

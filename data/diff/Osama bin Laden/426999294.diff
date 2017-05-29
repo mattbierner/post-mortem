@@ -1,0 +1,48 @@
+--- 426997211
++++ 426999294
+@@ -19 +19,8 @@
+- ; born March 10, 1957) is a member of the wealthy
++ ;
++ <ins>
++  March 10, 1957 – 2011) was
++ </ins>
++ <del>
++  born March 10, 1957) is
++ </del>
++ a member of the wealthy
+@@ -49,0 +57,3 @@
++ <ins>
++  On May 1st 2011, U.S. officials announced that bin Laden was dead.
++ </ins>
+@@ -75 +85,8 @@
+- . Bin Laden and fellow al-Qaeda leaders are believed to be hiding near the border of
++ . Bin Laden and fellow al-Qaeda leaders
++ <ins>
++  were
++ </ins>
++ <del>
++  are
++ </del>
++ believed to be hiding near the border of
+@@ -1572,0 +1590,8 @@
++<p>
++ <ins>
++  <b>
++   May 2011
++  </b>
++  The New York Times announced Osama Bin Laden has been killed.
++ </ins>
++</p>
+@@ -1703 +1728,7 @@
+- On May 2, 2011, the White House declared that bin Laden was dead.
++ On May
++ <ins>
++  1st, 2011, rumors abounded in the wake of an impromptu presidential press conference that Bin Laden was caught and killed.
++ </ins>
++ <del>
++  2, 2011, the White House declared that bin Laden was dead.
++ </del>
+@@ -1813 +1844 @@
+-</div>
++</div>
+\ No newline at end of file

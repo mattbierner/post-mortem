@@ -1,0 +1,121 @@
+--- 699199631
++++ 699262299
+@@ -36 +36,22 @@
+- , 8 January 1947) is an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie has been a figure in popular music for over four decades, and is known as an innovator, particularly for his work in the 1970s. His
++ <ins>
++  ; 8 January 1947 – 10 January 2016
++ ) was
++ </ins>
++ <del>
++  , 8 January 1947) is
++ </del>
++ an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie
++ <ins>
++  had
++ </ins>
++ <del>
++  has
++ </del>
++ been a figure in popular music for over four decades, and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ known as an innovator, particularly for his work in the 1970s. His
+@@ -160 +181,8 @@
+- . He has not toured since the 2003–2004
++ . He
++ <ins>
++  stopped touring after his
++ </ins>
++ <del>
++  has not toured since the
++ </del>
++ 2003–2004
+@@ -164 +192,7 @@
+- and has not performed live since 2006. Bowie's latest studio album,
++ <ins>
++  , last performing live in
++ </ins>
++ <del>
++  and has not performed live since
++ </del>
++ 2006. Bowie's latest studio album,
+@@ -170 +204,7 @@
+- , was released on 8 January 2016, his 69th birthday.
++ , was released on 8 January 2016, his 69th
++ <ins>
++  birthday, just two days before his death.
++ </ins>
++ <del>
++  birthday.
++ </del>
+@@ -1336,2 +1376,6 @@
+- <span class="mw-headline" id="1976.E2.80.9379:_The_Berlin_era">
+-  1976–79: The Berlin era
++ <span class="mw-headline" id="1976.E2.80.9379:_Berlin_era">
++  1976–79:
++  <del>
++   The
++  </del>
++  Berlin era
+@@ -2550,2 +2594,7 @@
+- <span class="mw-headline" id="2013.E2.80.93present:_The_Next_Day_and_Blackstar">
+-  2013–present:
++ <span class="mw-headline" id="2013.E2.80.932016:_The_Next_Day_and_Blackstar">
++  <ins>
++   2013–2016:
++  </ins>
++  <del>
++   2013–present:
++  </del>
+@@ -3387 +3436,8 @@
+- The couple resides primarily in New York City and London.
++ The couple
++ <ins>
++  resided
++ </ins>
++ <del>
++  resides
++ </del>
++ primarily in New York City and London.
+@@ -3479 +3535,5 @@
+- In 1990, British rock band Queen and artist David Bowie filed a lawsuit against
++ In 1990, British rock band Queen and
++ <del>
++  artist David
++ </del>
++ Bowie filed a lawsuit against
+@@ -3494,0 +3555,12 @@
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  On 10 January 2016, Bowie died from cancer following an eighteen-month battle with the disease.
++ </ins>
++</p>
++<h2>
+@@ -3554 +3626,12 @@
+- Throughout his career he has sold an estimated 140 million albums. In the United Kingdom, he has been awarded 9 Platinum, 11 Gold and 8 Silver albums, and in the United States, 5 Platinum and 7 Gold.
++ Throughout his career he
++ <del>
++  has
++ </del>
++ sold an estimated 140 million albums. In the United Kingdom, he
++ <ins>
++  was
++ </ins>
++ <del>
++  has been
++ </del>
++ awarded 9 Platinum, 11 Gold and 8 Silver albums, and in the United States, 5 Platinum and 7 Gold.
+@@ -4106 +4189 @@
+-</ul>
++</ul>
+\ No newline at end of file

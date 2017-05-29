@@ -1,0 +1,107 @@
+--- 493040889
++++ 493044059
+@@ -5,2 +5,10 @@
+- (born LaDonna Adrian Gaines on December 31, 1948)
+- is an American singer/songwriter who gained prominence during the
++ (born LaDonna Adrian Gaines on December 31,
++ <ins>
++  1948 – May 17, 2012)
++ was
++ </ins>
++ <del>
++  1948)
++ is
++ </del>
++ an American singer/songwriter who gained prominence during the
+@@ -10 +18,8 @@
+- era of the 1970s. She has a
++ era of the 1970s. She
++ <ins>
++  had
++ </ins>
++ <del>
++  has
++ </del>
++ a
+@@ -14 +29,8 @@
+- vocal range, and is a five-time
++ vocal range, and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a five-time
+@@ -1359 +1381,17 @@
+- where she took time out from showbusiness to focus on painting, a hobby she began in 1985. In 1995, Summer's mother died. Today, Summer still lives in Nashville with her husband and is a grandmother of four.
++ where she took time out from showbusiness to focus on painting, a hobby she began in 1985. In 1995, Summer's mother died.
++</p>
++<p>
++ <ins>
++  On May 17th, 2012, Donna Summer died after a long battle with cancer.
++ Summer lived
++ </ins>
++ <del>
++  Today, Summer still lives
++ </del>
++ in Nashville with her husband and
++ <ins>
++  was a grandmother of four but the biznotch died. Currently she is decomposing.
++ </ins>
++ <del>
++  is a grandmother of four.
++ </del>
+@@ -2060,2 +2098,8 @@
+- <span class="mw-headline" id="Donna_Summer_concert_tours">
+-  Donna Summer concert tours
++ <span class="mw-headline" id="Concert_tours">
++  <ins>
++   Concert
++  </ins>
++  <del>
++   Donna Summer concert
++  </del>
++  tours
+@@ -2360,3 +2404,5 @@
+- <span class="mw-headline" id="See_also">
+-  See also
+- </span>
++ <del>
++  <span class="mw-headline" id="See_also">
++   See also
++  </span>
++ </del>
+@@ -2367 +2412,0 @@
+-   <img alt="Book icon" data-file-height="48" data-file-width="48" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Office-book.svg/30px-Office-book.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Office-book.svg/45px-Office-book.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Office-book.svg/60px-Office-book.svg.png 2x" width="30"/>
+@@ -2372,3 +2417,5 @@
+-     <a href="/wiki/Book:Donna_Summer" title="Book:Donna Summer">
+-      Book: Donna Summer
+-     </a>
++     <del>
++      <a href="/wiki/Book:Donna_Summer" title="Book:Donna Summer">
++       Book: Donna Summer
++      </a>
++     </del>
+@@ -2382,3 +2429,5 @@
+-  <a href="/wiki/Brooklyn_Dreams_(group)" title="Brooklyn Dreams (group)">
+-   Brooklyn Dreams
+-  </a>
++  <del>
++   <a href="/wiki/Brooklyn_Dreams_(group)" title="Brooklyn Dreams (group)">
++    Brooklyn Dreams
++   </a>
++  </del>
+@@ -2387,3 +2436,5 @@
+-  <a class="mw-redirect" href="/wiki/Best_selling_music_artists" title="Best selling music artists">
+-   Best selling music artists
+-  </a>
++  <del>
++   <a class="mw-redirect" href="/wiki/Best_selling_music_artists" title="Best selling music artists">
++    Best selling music artists
++   </a>
++  </del>
+@@ -2391 +2442 @@
+-</ul>
++</ul>
+\ No newline at end of file

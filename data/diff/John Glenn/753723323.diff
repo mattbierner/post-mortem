@@ -1,0 +1,81 @@
+--- 753656269
++++ 753723323
+@@ -1,0 +2,17 @@
++ <ins>
++  We are extremely saddended by his death. This song we dedicate to him:
++ </ins>
++</p>
++<blockquote class="templatequote">
++ <p>
++  <ins>
++   This is Ground Control to Major Tom
++  </ins>
++ </p>
++ <p>
++  <ins>
++   You've really made the grade And the papers want to know whose shirts you wear Now it's time to leave the capsule if you dare "This is Major Tom to Ground Control I'm stepping through the door And I'm floating in a most peculiar way And the stars look very different today For here Am I sitting in a tin can Far above the world Planet Earth is blue And there's nothing I can do
++  </ins>
++ </p>
++</blockquote>
++<p>
+@@ -5 +22,7 @@
+- (born July 18, 1921), (
++ <ins>
++  (July 18, 1921 – December 8, 2016),
++ </ins>
++ <del>
++  (born July 18, 1921),
++ </del>
++ (
+@@ -13 +36,7 @@
+- , Ret.), is a former
++ , Ret.),
++ <ins>
++  was an American
++ </ins>
++ <del>
++  is a former
++ </del>
+@@ -27 +56,4 @@
+-  United States senator
++  <del>
++   United States
++  </del>
++  senator
+@@ -173,0 +206,3 @@
++ <ins>
++  He died on December 8, 2016.
++ </ins>
+@@ -1149 +1184,7 @@
+- . Today Glenn holds an adjunct professorship at the Glenn School.
++ <ins>
++  , and Glenn held
++ </ins>
++ <del>
++  . Today Glenn holds
++ </del>
++ an adjunct professorship at the Glenn School.
+@@ -1417 +1458 @@
+- <span class="mw-headline" id="Illness">
++ <span class="mw-headline" id="Illness_and_death">
+@@ -1418,0 +1460,3 @@
++  <ins>
++   and death
++  </ins>
+@@ -1431,0 +1476,3 @@
++ <ins>
++  Glenn died December 8, 2016 at the Ohio State University Wexner Medical Center in Columbus, Ohio.
++ </ins>
+@@ -1471,3 +1518,5 @@
+-     <a class="mw-redirect" href="/wiki/Friendship_7" title="Friendship 7">
+-      Friendship 7
+-     </a>
++     <i>
++      <a class="mw-redirect" href="/wiki/Friendship_7" title="Friendship 7">
++       Friendship 7
++      </a>
++     </i>
+@@ -2322 +2371 @@
+-</ul>
++</ul>
+\ No newline at end of file

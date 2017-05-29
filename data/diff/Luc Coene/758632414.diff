@@ -1,0 +1,66 @@
+--- 728456637
++++ 758632414
+@@ -2,8 +2,17 @@
+- <b>
+-  Luc Coene
+- </b>
+- (born
+- <a href="/wiki/Ghent" title="Ghent">
+-  Ghent
+- </a>
+- , 11 March 1947) is a
++ <ins>
++  <b>
++   Luc Coene
++  </b>
++  (11 March 1947 – 5 January 2017) was
++ </ins>
++ <del>
++  <b>
++   Luc Coene
++  </b>
++  (born
++  <a href="/wiki/Ghent" title="Ghent">
++   Ghent
++  </a>
++  , 11 March 1947) is
++ </del>
++ a
+@@ -13,5 +22,21 @@
+- economist and has been from April 2011 till March 2015 Governor of the
+- <a href="/wiki/National_Bank_of_Belgium" title="National Bank of Belgium">
+-  National Bank of Belgium
+- </a>
+- (NBB).
++ <ins>
++  economist. He was Governor of the
++  <a href="/wiki/National_Bank_of_Belgium" title="National Bank of Belgium">
++   National Bank of Belgium
++  </a>
++  (NBB)
++ </ins>
++ <del>
++  economist and has been
++ </del>
++ from April 2011
++ <ins>
++  until March 2015 .
++ </ins>
++ <del>
++  till March 2015 Governor of the
++  <a href="/wiki/National_Bank_of_Belgium" title="National Bank of Belgium">
++   National Bank of Belgium
++  </a>
++  (NBB).
++ </del>
+@@ -29 +54,5 @@
+- Luc Coene graduated in economics at
++ Luc Coene
++ <ins>
++  was born in Ghent and
++ </ins>
++ graduated in economics at
+@@ -137 +166 @@
+-</ul>
++</ul>
+\ No newline at end of file

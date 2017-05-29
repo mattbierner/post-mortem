@@ -1,0 +1,51 @@
+--- 493040889
++++ 493042912
+@@ -5,2 +5,10 @@
+- (born LaDonna Adrian Gaines on December 31, 1948)
+- is an American singer/songwriter who gained prominence during the
++ (born LaDonna Adrian Gaines on December 31,
++ <ins>
++  1948 – May 17, 2012)
++ was
++ </ins>
++ <del>
++  1948)
++ is
++ </del>
++ an American singer/songwriter who gained prominence during the
+@@ -10 +18,8 @@
+- era of the 1970s. She has a
++ era of the 1970s. She
++ <ins>
++  had
++ </ins>
++ <del>
++  has
++ </del>
++ a
+@@ -14 +29,8 @@
+- vocal range, and is a five-time
++ vocal range, and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a five-time
+@@ -1360,0 +1383,5 @@
++<p>
++ <ins>
++  On May 17th, 2012, Donna Summer died after a long battle with cancer.
++ </ins>
++</p>
+@@ -1573,0 +1601,5 @@
++<p>
++ <ins>
++  Dead at 63
++ </ins>
++</p>
+@@ -2391 +2423 @@
+-</ul>
++</ul>
+\ No newline at end of file

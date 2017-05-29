@@ -1,0 +1,225 @@
+--- 3955334
++++ 3958404
+@@ -2 +1,0 @@
+- <br/>
+@@ -6 +5,6 @@
+- (born
++ <ins>
++  (
++ </ins>
++ <del>
++  (born
++ </del>
+@@ -13,0 +18,10 @@
++ <ins>
++  -
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  ,
++  <a href="/wiki/2004" title="2004">
++   2004
++  </a>
++ </ins>
+@@ -46,5 +60,15 @@
+- before entering politics. He is the longest-lived person to have served as President, as well as the oldest elected President (69 years, 349 days). He is the only
+- <a href="/wiki/Divorce" title="Divorce">
+-  divorced
+- </a>
+- person to be elected President, and the only President to have married a pregnant woman.
++ before entering politics. He
++ <ins>
++  lived longer than any other President (93 years, 119 days) and was
++ </ins>
++ <del>
++  is the longest-lived person to have served as President, as well as
++ </del>
++ the oldest elected President (69 years, 349 days).
++ <del>
++  He is the only
++  <a href="/wiki/Divorce" title="Divorce">
++   divorced
++  </a>
++  person to be elected President, and the only President to have married a pregnant woman.
++ </del>
+@@ -106 +130 @@
+- <a class="mw-disambig" href="/wiki/Rock_River" title="Rock River">
++ <a class="mw-redirect" href="/wiki/Rock_River_(Illinois)" title="Rock River (Illinois)">
+@@ -128 +152,8 @@
+- . Child of an
++ .
++ <ins>
++  The child
++ </ins>
++ <del>
++  Child
++ </del>
++ of an
+@@ -192 +223,5 @@
+- he played the role of George "The Gipper" Gipp in the film
++ he played the role of
++ <a href="/wiki/George_Gipp" title="George Gipp">
++  George "The Gipper" Gipp
++ </a>
++ in the film
+@@ -244 +279,5 @@
+- officer in the U.S. Army in
++ officer in the
++ <a class="mw-redirect" href="/wiki/U.S._Army" title="U.S. Army">
++  U.S. Army
++ </a>
++ in
+@@ -252 +291,5 @@
+- he was activated and was assigned to the First Motion Picture Unit in the
++ he was activated and was assigned to the
++ <a href="/wiki/First_Motion_Picture_Unit" title="First Motion Picture Unit">
++  First Motion Picture Unit
++ </a>
++ in the
+@@ -262,0 +306,13 @@
++ <ins>
++  Reagan married actress
++  <a href="/wiki/Jane_Wyman" title="Jane Wyman">
++   Jane Wyman
++  </a>
++  in 1940 and had a daughter with her before divorcing in 1948. He is the only President who has been divorced. Reagan remarried in 1952 to actress
++  <a href="/wiki/Nancy_Reagan" title="Nancy Reagan">
++   Nancy Davis
++  </a>
++  . Nancy was pregnant with a child at the time, making Reagan the only President to have married a pregnant woman.
++ </ins>
++</p>
++<p>
+@@ -596 +652,7 @@
+-   struck
++   <ins>
++    went on
++  strike
++   </ins>
++   <del>
++    struck
++   </del>
+@@ -615 +677,11 @@
+-   meeting with President Reagan.
++   <ins>
++    of
++    <a href="/wiki/Japan" title="Japan">
++     Japan
++    </a>
++    meeting with
++   </ins>
++   <del>
++    meeting with President
++   </del>
++   Reagan.
+@@ -715 +787,10 @@
+-   President Reagan, left, in one-on-one discussions with USSR President Gorbachev, right.
++   <del>
++    President
++   </del>
++   Reagan, left, in one-on-one discussions with
++   <ins>
++    Mikhail Gorbachev, the General Secretary of the Communist Party of the USSR from 1985 to 1991.
++   </ins>
++   <del>
++    USSR President Gorbachev, right.
++   </del>
+@@ -1185 +1266 @@
+- was informed by family doctors that Reagan's health had "significantly deteriorated" and that he was not expected to live more than a year.
++ was informed by family doctors that Reagan's health had "significantly deteriorated" and that he was not expected to live
+@@ -1187,4 +1268,79 @@
+-<div class="floatright">
+- <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg" title="File:Pres38-42.jpg">
+-  Presidents Bill Clinton, George Bush, Ronald Reagan, Jimmy Carter, Gerald Ford, and their wives at the funeral of President Richard Nixon on April 27, 1994.
+- </a>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   much longer. He passed away at his home in
++  </ins>
++  <ins>
++   <a class="mw-redirect" href="/wiki/Los_Angeles,_California" title="Los Angeles, California">
++    Los Angeles
++   </a>
++   on
++  </ins>
++  <ins>
++   <a href="/wiki/June_5" title="June 5">
++    June 5
++   </a>
++   at 1:09 PM local time. He died of
++  </ins>
++  <ins>
++   <a href="/wiki/Pneumonia" title="Pneumonia">
++    pneumonia
++   </a>
++   , the
++  </ins>
++  <ins>
++   <a href="/wiki/White_House" title="White House">
++    White House
++   </a>
++   said, his family standing beside on his bed when he died. The White House lowered the flag to half-staff. He was survived by his wife
++  </ins>
++  <ins>
++   <a href="/wiki/Nancy_Reagan" title="Nancy Reagan">
++    Nancy Reagan
++   </a>
++   and his children: Michael, Patti Davis, and
++  </ins>
++  <ins>
++   <a href="/wiki/Ron_Reagan" title="Ron Reagan">
++    Ron
++   </a>
++   .
++  </ins>
++  <h2>
++   <ins>
++    <span class="mw-headline" id="Quotations">
++     Quotations
++    </span>
++   </ins>
++  </h2>
++  <ul>
++   <li>
++    <ins>
++     "I have signed an agreement for the destruction of the Soviet Union, the shellfire begins in five minutes." (overheard during a microphone test)
++    </ins>
++   </li>
++  </ul>
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg" title="File:Pres38-42.jpg">
++    File:Pres38-42.jpg
++   </a>
++  </ins>
++  <del>
++   more than a year.
++  </del>
++  <div class="thumbcaption">
++   Presidents Bill Clinton, George Bush, Ronald Reagan, Jimmy Carter, Gerald Ford, and their wives at the funeral of President Richard Nixon on April 27, 1994.
++  </div>
++ </div>
++ <del>
++  Link: //en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg
++ </del>
++ <p>
++  <del>
++   On
++   <a href="/wiki/June_5" title="June 5">
++    June 5
++   </a>
++   , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
++  </del>
++ </p>
+@@ -1192,7 +1347,0 @@
+-<p>
+- On
+- <a href="/wiki/June_5" title="June 5">
+-  June 5
+- </a>
+- , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
+-</p>
+@@ -1249 +1398 @@
+-</ul>
++</ul>
+\ No newline at end of file

@@ -1,0 +1,27 @@
+--- 699199631
++++ 699260225
+@@ -36 +36,9 @@
+- , 8 January 1947) is an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie has been a figure in popular music for over four decades, and is known as an innovator, particularly for his work in the 1970s. His
++ , 8 January
++ <ins>
++  1947 – 10 January 2016
++ ) was
++ </ins>
++ <del>
++  1947) is
++ </del>
++ an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie has been a figure in popular music for over four decades, and is known as an innovator, particularly for his work in the 1970s. His
+@@ -3387 +3395,8 @@
+- The couple resides primarily in New York City and London.
++ The couple
++ <ins>
++  resided
++ </ins>
++ <del>
++  resides
++ </del>
++ primarily in New York City and London.
+@@ -4106 +4121 @@
+-</ul>
++</ul>
+\ No newline at end of file

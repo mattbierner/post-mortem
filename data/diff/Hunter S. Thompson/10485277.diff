@@ -1,0 +1,465 @@
+--- 10484392
++++ 10485277
+@@ -5,4 +5,9 @@
+- (born
+- <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">
+-  Louisville, Kentucky
+- </a>
++ <ins>
++  (
++ </ins>
++ <del>
++  (born
++  <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">
++   Louisville, Kentucky
++  </a>
++ </del>
+@@ -16 +21,15 @@
+- ) is an
++ <ins>
++  –
++  <a href="/wiki/February_20" title="February 20">
++   February 20
++  </a>
++  ,
++  <a href="/wiki/2005" title="2005">
++   2005
++  </a>
++  ) was
++ </ins>
++ <del>
++  ) is
++ </del>
++ an
+@@ -69,0 +89,5 @@
++ <ins>
++  loser
++ </ins>
++</p>
++<p>
+@@ -74,3 +98,5 @@
+- <span class="mw-headline" id="Early_Years">
+-  Early Years
+- </span>
++ <ins>
++  <span class="mw-headline" id="Middle_Years">
++   Middle Years
++  </span>
++ </ins>
+@@ -79,37 +104,0 @@
+- Thompson began his career in
+- <a href="/wiki/1956" title="1956">
+-  1956
+- </a>
+- as a
+- <a class="mw-redirect" href="/wiki/Sports" title="Sports">
+-  sports
+- </a>
+- journalist, writing for the base paper at
+- <a href="/wiki/Eglin_Air_Force_Base" title="Eglin Air Force Base">
+-  Eglin Air Force Base
+- </a>
+- in
+- <a class="mw-redirect" href="/wiki/Fort_Walton_Beach" title="Fort Walton Beach">
+-  Fort Walton Beach
+- </a>
+- ,
+- <a href="/wiki/Florida" title="Florida">
+-  Florida
+- </a>
+- , where he was enlisted. After the Air Force, Thompson worked briefly as a
+- <a href="/wiki/Copy_editing" title="Copy editing">
+-  copyboy
+- </a>
+- for
+- <a class="mw-redirect" href="/wiki/Time_Magazine" title="Time Magazine">
+-  Time Magazine
+- </a>
+- while living a
+- <a class="mw-disambig" href="/wiki/Beat" title="Beat">
+-  beat
+- </a>
+- -inspired lifestyle in
+- <a href="/wiki/New_York_City" title="New York City">
+-  New York City
+- </a>
+- .
+@@ -118,28 +107,25 @@
+- Thompson began vacationing extensively in the
+- <a class="mw-redirect" href="/wiki/Caribbean_Islands" title="Caribbean Islands">
+-  Caribbean Islands
+- </a>
+- and
+- <a href="/wiki/South_America" title="South America">
+-  South America
+- </a>
+- , using his unique locale to
+- <a href="/wiki/Freelancer" title="Freelancer">
+-  freelance
+- </a>
+- articles to a number of daily newspapers stateside. He befriended the journalist
+- <a href="/wiki/William_Kennedy_(author)" title="William Kennedy (author)">
+-  William Kennedy
+- </a>
+- while in
+- <a href="/wiki/Puerto_Rico" title="Puerto Rico">
+-  Puerto Rico
+- </a>
+- , who would later win the
+- <a href="/wiki/Pulitzer_Prize" title="Pulitzer Prize">
+-  Pulitzer Prize
+- </a>
+- for his novel
+- <i>
+-  <a class="mw-disambig" href="/wiki/Ironweed" title="Ironweed">
+-   Ironweed
++</p>
++<h2>
++ <del>
++  <span class="mw-headline" id="Early_Years">
++   Early Years
++  </span>
++ </del>
++</h2>
++<p>
++ <del>
++  Thompson began his career in
++  <a href="/wiki/1956" title="1956">
++   1956
++  </a>
++  as a
++  <a class="mw-redirect" href="/wiki/Sports" title="Sports">
++   sports
++  </a>
++  journalist, writing for the base paper at
++  <a href="/wiki/Eglin_Air_Force_Base" title="Eglin Air Force Base">
++   Eglin Air Force Base
++  </a>
++  in
++  <a class="mw-redirect" href="/wiki/Fort_Walton_Beach" title="Fort Walton Beach">
++   Fort Walton Beach
+@@ -147,9 +133,3 @@
+- </i>
+- . Thompson eventually became a somewhat celebrated South American correspondent for a
+- <a class="mw-redirect" href="/wiki/Dow_Jones" title="Dow Jones">
+-  Dow Jones
+- </a>
+- owned weekly magazine called
+- <i>
+-  <a href="/wiki/The_Observer" title="The Observer">
+-   The Observer
++  ,
++  <a href="/wiki/Florida" title="Florida">
++   Florida
+@@ -157,2 +137,18 @@
+- </i>
+- .
++  , where he was enlisted. After the Air Force, Thompson worked briefly as a
++  <a href="/wiki/Copy_editing" title="Copy editing">
++   copyboy
++  </a>
++  for
++  <a class="mw-redirect" href="/wiki/Time_Magazine" title="Time Magazine">
++   Time Magazine
++  </a>
++  while living a
++  <a class="mw-disambig" href="/wiki/Beat" title="Beat">
++   beat
++  </a>
++  -inspired lifestyle in
++  <a href="/wiki/New_York_City" title="New York City">
++   New York City
++  </a>
++  .
++ </del>
+@@ -160,4 +156,5 @@
+-<div class="thumb tleft">
+- <div class="thumbinner" style="width:182px;">
+-  <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Gonzo_quote.PNG" title="File:Gonzo quote.PNG">
+-   File:Gonzo quote.PNG
++<p>
++ <del>
++  Thompson began vacationing extensively in the
++  <a class="mw-redirect" href="/wiki/Caribbean_Islands" title="Caribbean Islands">
++   Caribbean Islands
+@@ -165,4 +162,24 @@
+-  <div class="thumbcaption">
+-   A modification of one of Thompson's original
+-   <a class="mw-disambig" href="/wiki/Gonzo" title="Gonzo">
+-    Gonzo
++  and
++  <a href="/wiki/South_America" title="South America">
++   South America
++  </a>
++  , using his unique locale to
++  <a href="/wiki/Freelancer" title="Freelancer">
++   freelance
++  </a>
++  articles to a number of daily newspapers stateside. He befriended the journalist
++  <a href="/wiki/William_Kennedy_(author)" title="William Kennedy (author)">
++   William Kennedy
++  </a>
++  while in
++  <a href="/wiki/Puerto_Rico" title="Puerto Rico">
++   Puerto Rico
++  </a>
++  , who would later win the
++  <a href="/wiki/Pulitzer_Prize" title="Pulitzer Prize">
++   Pulitzer Prize
++  </a>
++  for his novel
++  <i>
++   <a class="mw-disambig" href="/wiki/Ironweed" title="Ironweed">
++    Ironweed
+@@ -170,3 +187,9 @@
+-   flyers during his bid for
+-   <a class="mw-redirect mw-disambig" href="/wiki/Sherriff" title="Sherriff">
+-    sherriff
++  </i>
++  . Thompson eventually became a somewhat celebrated South American correspondent for a
++  <a class="mw-redirect" href="/wiki/Dow_Jones" title="Dow Jones">
++   Dow Jones
++  </a>
++  owned weekly magazine called
++  <i>
++   <a href="/wiki/The_Observer" title="The Observer">
++    The Observer
+@@ -174,3 +197,9 @@
+-   of
+-   <a href="/wiki/Aspen,_Colorado" title="Aspen, Colorado">
+-    Aspen, Colorado
++  </i>
++  .
++ </del>
++</p>
++<div class="thumb tleft">
++ <div class="thumbinner" style="width:182px;">
++  <del>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Gonzo_quote.PNG" title="File:Gonzo quote.PNG">
++    File:Gonzo quote.PNG
+@@ -178 +207,17 @@
+-   .
++  </del>
++  <div class="thumbcaption">
++   <del>
++    A modification of one of Thompson's original
++    <a class="mw-disambig" href="/wiki/Gonzo" title="Gonzo">
++     Gonzo
++    </a>
++    flyers during his bid for
++    <a class="mw-redirect mw-disambig" href="/wiki/Sherriff" title="Sherriff">
++     sherriff
++    </a>
++    of
++    <a href="/wiki/Aspen,_Colorado" title="Aspen, Colorado">
++     Aspen, Colorado
++    </a>
++    .
++   </del>
+@@ -183,10 +228,16 @@
+- In the meantime, Thompson wrote two serious novels (
+- <i>
+-  <a href="/wiki/Prince_Jellyfish" title="Prince Jellyfish">
+-   Prince Jellyfish
+-  </a>
+- </i>
+- and
+- <i>
+-  <a class="mw-redirect" href="/wiki/The_Rum_Diary" title="The Rum Diary">
+-   The Rum Diary
++ <del>
++  In the meantime, Thompson wrote two serious novels (
++  <i>
++   <a href="/wiki/Prince_Jellyfish" title="Prince Jellyfish">
++    Prince Jellyfish
++   </a>
++  </i>
++  and
++  <i>
++   <a class="mw-redirect" href="/wiki/The_Rum_Diary" title="The Rum Diary">
++    The Rum Diary
++   </a>
++  </i>
++  ) and copious amounts of
++  <a class="mw-redirect" href="/wiki/Short_stories" title="Short stories">
++   short stories
+@@ -194,6 +245,2 @@
+- </i>
+- ) and copious amounts of
+- <a class="mw-redirect" href="/wiki/Short_stories" title="Short stories">
+-  short stories
+- </a>
+- , none of which were published despite relentless submissions to publishers. Kennedy later remarked that he and Thompson were cohorts in the fact that they were, at the time, failed novelists who had turned to journalism in order to make a living.
++  , none of which were published despite relentless submissions to publishers. Kennedy later remarked that he and Thompson were cohorts in the fact that they were, at the time, failed novelists who had turned to journalism in order to make a living.
++ </del>
+@@ -202,4 +249,10 @@
+- Thompson got his big break when he pitched a story to
+- <i>
+-  <a href="/wiki/Harper%27s_Magazine" title="Harper's Magazine">
+-   Harper's Magazine
++ <del>
++  Thompson got his big break when he pitched a story to
++  <i>
++   <a href="/wiki/Harper%27s_Magazine" title="Harper's Magazine">
++    Harper's Magazine
++   </a>
++  </i>
++  about his relationship with the
++  <a class="mw-redirect" href="/wiki/Hell%27s_Angels" title="Hell's Angels">
++   Hell's Angels
+@@ -207,6 +260,2 @@
+- </i>
+- about his relationship with the
+- <a class="mw-redirect" href="/wiki/Hell%27s_Angels" title="Hell's Angels">
+-  Hell's Angels
+- </a>
+- motorcycle gang, known erroneously at the time for exploits in murder and gang-rape. After the article was published, numerous book offers on the subject were awarded his way.
++  motorcycle gang, known erroneously at the time for exploits in murder and gang-rape. After the article was published, numerous book offers on the subject were awarded his way.
++ </del>
+@@ -215,3 +264,5 @@
+- <span class="mw-headline" id="Middle_Years_to_Present">
+-  Middle Years to Present
+- </span>
++ <del>
++  <span class="mw-headline" id="Middle_Years_to_Present">
++   Middle Years to Present
++  </span>
++ </del>
+@@ -346 +397,15 @@
+- His latest book,
++</p>
++<h2>
++ <ins>
++  <span class="mw-headline" id="Later_Years">
++   Later Years
++  </span>
++ </ins>
++</h2>
++<ins>
++ Thompson's last
++</ins>
++<del>
++ His latest
++</del>
++ book,
+@@ -348,2 +413,2 @@
+-  Kingdom of Fear
+- </i>
++ Kingdom of Fear
++</i>
+@@ -352,2 +417,2 @@
+-  American Century
+- </a>
++ American Century
++</a>
+@@ -356,3 +421,15 @@
+-  ESPN
+- </a>
+- . He has at times also toured on the lecture circuit, once with
++ ESPN
++</a>
++ . He <ins>
++ had
++</ins>
++<del>
++ has
++</del>
++ at times also toured on the lecture <ins>
++ circufag it,
++</ins>
++<del>
++ circuit,
++</del>
++ once with
+@@ -360,2 +437,2 @@
+-  John Belushi
+- </a>
++ John Belushi
++</a>
+@@ -364,5 +441,5 @@
+-  cartoonist
+- </a>
+- <a href="/wiki/Garry_Trudeau" title="Garry Trudeau">
+-  Garry Trudeau
+- </a>
++ cartoonist
++</a>
++<a href="/wiki/Garry_Trudeau" title="Garry Trudeau">
++ Garry Trudeau
++</a>
+@@ -371,4 +448,4 @@
+-  <a href="/wiki/Doonesbury" title="Doonesbury">
+-   Doonesbury
+-  </a>
+- </i>
++ <a href="/wiki/Doonesbury" title="Doonesbury">
++  Doonesbury
++ </a>
++</i>
+@@ -377,6 +454,17 @@
+-  Uncle Duke
+- </a>
+- on Thompson, to loud protests from Thompson himself. Similarly, Spider Jerusalem, the gonzo journalist protagonist of
+- <a href="/wiki/Warren_Ellis" title="Warren Ellis">
+-  Warren Ellis
+- </a>
++ Uncle Duke
++</a>
++ on Thompson, to loud protests from Thompson <ins>
++ himsefaglf.
++</ins>
++<del>
++ himself.
++</del>
++ Similarly, Spider Jerusalem, the gonzo journalist protagonist <ins>
++ offag
++</ins>
++<del>
++ of
++</del>
++<a href="/wiki/Warren_Ellis" title="Warren Ellis">
++ Warren Ellis
++</a>
+@@ -385,5 +473,5 @@
+-  <a href="/wiki/Transmetropolitan" title="Transmetropolitan">
+-   Transmetropolitan
+-  </a>
+-  ,
+- </i>
++ <a href="/wiki/Transmetropolitan" title="Transmetropolitan">
++  Transmetropolitan
++ </a>
++ ,
++</i>
+@@ -391,3 +479,9 @@
+-</p>
+-<p>
+- Thompson is an admitted fan of
++ <p>
++ Thompson
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an admitted fan of
+@@ -397 +491,8 @@
+- and is known to keep a keg of
++ and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ known to keep a keg of
+@@ -621,0 +723,7 @@
++<p>
++ <ins>
++  <a class="new" href="/w/index.php?title=Template:Lived&amp;action=edit&amp;redlink=1" title="Template:Lived (page does not exist)">
++   Template:Lived
++  </a>
++ </ins>
++</p>
+\ No newline at end of file

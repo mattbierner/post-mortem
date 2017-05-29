@@ -1,0 +1,614 @@
+--- 716414662
++++ 716423461
+@@ -5 +5,7 @@
+- (born June 7, 1958), known by his
++ <ins>
++  (June 7, 1958 – April 21, 2016),
++ </ins>
++ <del>
++  (born June 7, 1958),
++ </del>
++ known by his
+@@ -12 +18,29 @@
+- , is an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
++ ,
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an American singer, songwriter, multi-instrumentalist and
++ <ins>
++  actor, serving as
++ </ins>
++ <del>
++  actor and has been
++ </del>
++ a major figure in popular music for over three decades. Prince
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ renowned as an innovator and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely known for his eclectic work, flamboyant stage presence, and wide
+@@ -16 +50,8 @@
+- . He is widely regarded as the pioneer of
++ . He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely regarded as the pioneer of
+@@ -20 +61,7 @@
+- . His music combines
++ . His music
++ <ins>
++  combined
++ </ins>
++ <del>
++  combines
++ </del>
+@@ -214,0 +262,5 @@
++ <ins>
++  He died at his Paisley Park recording studio and home in Chanhassen, Minnesota, near Minneapolis, on April 21, 2016, after suffering flu-like symptoms for several weeks.
++ </ins>
++</p>
++<p>
+@@ -383,5 +435,5 @@
+- <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+-  [
+-  <i>
+-   <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+-    <span title="This claim needs references to reliable sources. (October 2009)">
++ <del>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+@@ -389,5 +441,5 @@
+-    </span>
+-   </a>
+-  </i>
+-  ]
+- </sup>
++    </a>
++   </i>
++   ]
++  </sup>
++ </del>
+@@ -704 +756,5 @@
+- on bass, and Dez Dickerson on guitar. Jill Jones, a backing singer, was also part of The Revolution line up for the
++ on bass, and
++ <a href="/wiki/Dez_Dickerson" title="Dez Dickerson">
++  Dez Dickerson
++ </a>
++ on guitar. Jill Jones, a backing singer, was also part of The Revolution line up for the
+@@ -1827,0 +1884,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -1890,0 +1958,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -1957,0 +2036,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -2080,0 +2170,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -2155,0 +2256,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -2168,0 +2280,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -2211,0 +2334,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -2226 +2359,13 @@
+- . He performed weekly on Friday and Saturday nights until April 2007, when his contract with the Rio ended. On August 22, 2006, Prince released
++ . He performed weekly on Friday and Saturday nights until April 2007, when his contract with the Rio ended.
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
++ On August 22, 2006, Prince released
+@@ -2707 +2852,5 @@
+- Prince has refused access to the album to digital download services. He also closed his official website, LotusFlow3r.com. In an interview with the
++ Prince
++ <del>
++  has
++ </del>
++ refused access to the album to digital download services. He also closed his official website, LotusFlow3r.com. In an interview with the
+@@ -2724 +2873,8 @@
+- The second half of the tour has a new band, John Blackwell,
++ The second half of the tour
++ <ins>
++  had
++ </ins>
++ <del>
++  has
++ </del>
++ a new band, John Blackwell,
+@@ -2779,2 +2935,8 @@
+- <span class="mw-headline" id="2013.E2.80.93present:_3rdeyegirl_and_return_to_Warner_Bros.">
+-  2013–present: 3rdeyegirl and return to Warner Bros.
++ <span class="mw-headline" id="2013.E2.80.932016:_3rdeyegirl_and_return_to_Warner_Bros.">
++  <ins>
++   2013–2016:
++  </ins>
++  <del>
++   2013–present:
++  </del>
++  3rdeyegirl and return to Warner Bros.
+@@ -2878 +3040,8 @@
+- His latest album
++ His
++ <ins>
++  final
++ </ins>
++ <del>
++  latest
++ </del>
++ album
+@@ -2900 +3069 @@
+-<table class="plainlinks metadata ambox ambox-content ambox-BLP_unsourced" role="presentation">
++<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+@@ -2901,0 +3071,6 @@
++  <td class="mbox-text">
++   <span class="mbox-text-span">
++    <b>
++    </b>
++   </span>
++  </td>
+@@ -2904 +3078,0 @@
+-    <img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/>
+@@ -2907,5 +3081,54 @@
+-  <td class="mbox-text">
+-   <span class="mbox-text-span">
+-    This section of a
+-    <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">
+-     biography of a living person
++  <ins>
++   This section
++    does not
++  </ins>
++  <ins>
++   <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
++    cite
++   </a>
++   any
++  </ins>
++  <td class="mbox-image">
++   <div style="width:52px">
++   </div>
++  </td>
++  <del>
++   This section of a
++  </del>
++  <del>
++   <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">
++    biography of a living person
++   </a>
++   does not
++  </del>
++  <del>
++   <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
++    include
++   </a>
++   any
++     references or
++  </del>
++  <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
++   sources
++  </a>
++  .
++  <span class="hide-when-compact">
++   Please help
++   <ins>
++    <a class="external text" href="//en.wikipedia.org/w/index.php?title=Prince_(musician)&amp;action=edit">
++     improve this section
++    </a>
++    by
++    <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
++     adding citations to reliable sources
++    </a>
++    . Unsourced material may be challenged and
++    <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">
++     removed
++    </a>
++    .
++   </ins>
++   <del>
++    by adding
++    <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">
++     reliable sources
+@@ -2912,0 +3136 @@
++    . Contentious material about living people that is unsourced or poorly sourced
+@@ -2914,8 +3138 @@
+-     does not
+-     <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+-      include
+-     </a>
+-     any
+-     <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+-      references or sources
+-     </a>
++     must be removed immediately
+@@ -2924,50 +3141 @@
+-    <span class="hide-when-compact">
+-     Please help by adding
+-     <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">
+-      reliable sources
+-     </a>
+-     . Contentious material about living people that is unsourced or poorly sourced
+-     <b>
+-      must be removed immediately
+-     </b>
+-     .
+-     <br/>
+-     <small>
+-      <span class="plainlinks">
+-       <i>
+-        Find sources:
+-       </i>
+-       <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Prince%22+musician&amp;num=50" rel="nofollow">
+-        "Prince" musician
+-       </a>
+-       –
+-       <a class="external text" href="//www.google.com/search?q=%22Prince%22+musician&amp;tbm=nws" rel="nofollow">
+-        news
+-       </a>
+-       <b>
+-        ·
+-       </b>
+-       <a class="external text" href="//www.google.com/search?&amp;q=%22Prince%22+musician+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">
+-        newspapers
+-       </a>
+-       <b>
+-        ·
+-       </b>
+-       <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Prince%22+musician" rel="nofollow">
+-        books
+-       </a>
+-       <b>
+-        ·
+-       </b>
+-       <a class="external text" href="//scholar.google.com/scholar?q=%22Prince%22+musician" rel="nofollow">
+-        scholar
+-       </a>
+-       <b>
+-        ·
+-       </b>
+-       <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Prince%22+musician&amp;acc=on&amp;wc=on" rel="nofollow">
+-        JSTOR
+-       </a>
+-      </span>
+-     </small>
+-    </span>
++    <br/>
+@@ -2975,9 +3143,10 @@
+-     <i>
+-      (December 2014)
+-     </i>
+-    </small>
+-    <small class="hide-when-compact">
+-     <i>
+-      (
+-      <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+-       Learn how and when to remove this template message
++     <span class="plainlinks">
++      <i>
++       Find sources:
++      </i>
++      <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Prince%22+musician&amp;num=50" rel="nofollow">
++       "Prince" musician
++      </a>
++      –
++      <a class="external text" href="//www.google.com/search?q=%22Prince%22+musician&amp;tbm=nws" rel="nofollow">
++       news
+@@ -2985,2 +3154,25 @@
+-      )
+-     </i>
++      <b>
++       ·
++      </b>
++      <a class="external text" href="//www.google.com/search?&amp;q=%22Prince%22+musician+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">
++       newspapers
++      </a>
++      <b>
++       ·
++      </b>
++      <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Prince%22+musician" rel="nofollow">
++       books
++      </a>
++      <b>
++       ·
++      </b>
++      <a class="external text" href="//scholar.google.com/scholar?q=%22Prince%22+musician" rel="nofollow">
++       scholar
++      </a>
++      <b>
++       ·
++      </b>
++      <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Prince%22+musician&amp;acc=on&amp;wc=on" rel="nofollow">
++       JSTOR
++      </a>
++     </span>
+@@ -2988,2 +3180,16 @@
+-   </span>
+-  </td>
++   </del>
++  </span>
++  <small>
++   <i>
++    (December 2014)
++   </i>
++  </small>
++  <small class="hide-when-compact">
++   <i>
++    (
++    <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
++     Learn how and when to remove this template message
++    </a>
++    )
++   </i>
++  </small>
+@@ -2993 +3199,15 @@
+- In addition to his singing abilities (which encompass a wide range from falsetto to baritone and rapid, flamboyant shifts of register, as well as diverse characterisation) Prince is one of pop music's most prominent multi-instrumentalists. The precise number of instruments he is capable of playing remains obscure, partly due to the active mythologizing of his abilities and working practices (such as the claim that he had played "all 27 instruments" on his debut album, which appears to have included various different kinds of guitar, keyboard and synthesizer in the total).
++ In addition to his singing abilities (which encompass a wide range from falsetto to baritone and rapid, flamboyant shifts of register, as well as diverse characterisation) Prince
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ one of pop music's most prominent multi-instrumentalists. The precise number of instruments he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ capable of playing remains obscure, partly due to the active mythologizing of his abilities and working practices (such as the claim that he had played "all 27 instruments" on his debut album, which appears to have included various different kinds of guitar, keyboard and synthesizer in the total).
+@@ -3021 +3241,5 @@
+- Prince has used pseudonyms to separate himself from the music (either his own or that of others) for which he has had input; "I was just getting tired of seeing my name," he said, "If you give away an idea, you still own that idea. In fact, giving it away strengthens it. Why do people feel they have to take credit for everything they do? Ego, that's the only reason."
++ Prince
++ <del>
++  has
++ </del>
++ used pseudonyms to separate himself from the music (either his own or that of others) for which he has had input; "I was just getting tired of seeing my name," he said, "If you give away an idea, you still own that idea. In fact, giving it away strengthens it. Why do people feel they have to take credit for everything they do? Ego, that's the only reason."
+@@ -3170 +3394,8 @@
+- Prince resides near
++ Prince
++ <ins>
++  resided
++ </ins>
++ <del>
++  resides
++ </del>
++ near
+@@ -3226 +3457,7 @@
+- He married his backup singer and dancer
++ <ins>
++  When he was 37, he married his then-22 year old
++ </ins>
++ <del>
++  He married his
++ </del>
++ backup singer and dancer
+@@ -3265 +3502,8 @@
+- ," he explained. He attends meetings at a local
++ ," he explained. He
++ <ins>
++  attended
++ </ins>
++ <del>
++  attends
++ </del>
++ meetings at a local
+@@ -3269,2 +3513,23 @@
+- and occasionally knocks on people's doors to discuss his faith.
+- Prince has reportedly needed double hip-replacement surgery since 2005 but won't undergo the operation unless it is a
++ and occasionally
++ <ins>
++  knocked
++ </ins>
++ <del>
++  knocks
++ </del>
++ on people's doors to discuss his faith.
++ Prince has reportedly needed double hip-replacement surgery since 2005 but
++ <ins>
++  wouldn't
++ </ins>
++ <del>
++  won't
++ </del>
++ undergo the operation unless it
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a
+@@ -3279 +3544,8 @@
+- The condition is rumored to be aggravated by repeated onstage dancing in high-heeled boots.
++ The condition
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ rumored to be aggravated by repeated onstage dancing in high-heeled boots.
+@@ -3283,4 +3555,13 @@
+- Prince is a
+- <a class="mw-redirect" href="/wiki/Vegan" title="Vegan">
+-  vegan
+- </a>
++ Prince
++ <ins>
++  was a
++  <a class="mw-redirect" href="/wiki/Vegetarian" title="Vegetarian">
++   vegetarian
++  </a>
++ </ins>
++ <del>
++  is a
++  <a class="mw-redirect" href="/wiki/Vegan" title="Vegan">
++   vegan
++  </a>
++ </del>
+@@ -3305,6 +3586,19 @@
+- Since 2008, Prince has been managed by UK-based Kiran Sharma.
+-</p>
+-<p>
+- <a class="mw-redirect" href="/wiki/Sinead_O%27Connor" title="Sinead O'Connor">
+-  Sinead O'Connor
+- </a>
++ <ins>
++  Beginning in 2008, Prince was
++ </ins>
++ <del>
++  Since 2008, Prince has been
++ </del>
++ managed by UK-based Kiran Sharma.
++</p>
++<p>
++ <ins>
++  <a href="/wiki/Sin%C3%A9ad_O%27Connor" title="Sinéad O'Connor">
++   Sinéad O'Connor
++  </a>
++ </ins>
++ <del>
++  <a class="mw-redirect" href="/wiki/Sinead_O%27Connor" title="Sinead O'Connor">
++   Sinead O'Connor
++  </a>
++ </del>
+@@ -3322 +3616,8 @@
+- In 2016, Prince announced that he is writing a memoir, tentatively titled
++ In 2016, Prince announced that he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ writing a memoir, tentatively titled
+@@ -3326 +3627,5 @@
+- .
++</p>
++<p>
++ <ins>
++  .
++ </ins>
+@@ -3328,0 +3634,23 @@
++ <ins>
++  <span class="mw-headline" id="Illness_and_death">
++   Illness and death
++  </span>
++ </ins>
++</h2>
++<ins>
++ On April 15, 2016, Prince's private plane was forced to land in
++</ins>
++<ins>
++ <a href="/wiki/Illinois" title="Illinois">
++  Illinois
++ </a>
++ so he could seek medical treatment for flu-like symptoms. He performed in concert one day later in Atlanta, Georgia.
++ On April 21, 2016, he died at the age of 57. He was found unresponsive at his home in
++</ins>
++<ins>
++ <a href="/wiki/Chanhassen,_Minnesota" title="Chanhassen, Minnesota">
++  Chanhassen, Minnesota
++ </a>
++</ins>
++  .
++ <h2>
+@@ -4240 +4568 @@
+-</ul>
++</ul>
+\ No newline at end of file

@@ -1,0 +1,1154 @@
+--- 716414662
++++ 716453259
+@@ -5,8 +5,28 @@
+- (born June 7, 1958), known by his
+- <a href="/wiki/Mononymous_person" title="Mononymous person">
+-  mononym
+- </a>
+- <b>
+-  Prince
+- </b>
+- , is an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
++ <ins>
++  (June 7, 1958 – April 21, 2016) was
++ </ins>
++ <del>
++  (born June 7, 1958), known by his
++  <a href="/wiki/Mononymous_person" title="Mononymous person">
++   mononym
++  </a>
++  <b>
++   Prince
++  </b>
++  , is
++ </del>
++ an American singer, songwriter,
++ <ins>
++  multi-instrumentalist, and actor. Prince was
++ </ins>
++ <del>
++  multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is
++ </del>
++ renowned as an innovator and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely known for his eclectic work, flamboyant stage presence, and wide
+@@ -16 +36,8 @@
+- . He is widely regarded as the pioneer of
++ . He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely regarded as the pioneer of
+@@ -20 +47,11 @@
+- . His music combines
++ . His music
++ <ins>
++  integrated a wide variety of styles, including
++  <a href="/wiki/Funk" title="Funk">
++   funk
++  </a>
++  ,
++ </ins>
++ <del>
++  combines
++ </del>
+@@ -32,4 +69,6 @@
+- ,
+- <a href="/wiki/Funk" title="Funk">
+-  funk
+- </a>
++ <del>
++  ,
++  <a href="/wiki/Funk" title="Funk">
++   funk
++  </a>
++ </del>
+@@ -84 +123 @@
+- <a class="mw-redirect" href="/wiki/Platinum_album" title="Platinum album">
++ <a href="/wiki/Music_recording_sales_certification" title="Music recording sales certification">
+@@ -154 +192,0 @@
+-  <img alt="Prince logo.svg" data-file-height="153" data-file-width="130" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/a/af/Prince_logo.svg/13px-Prince_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/af/Prince_logo.svg/20px-Prince_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/af/Prince_logo.svg/26px-Prince_logo.svg.png 2x" width="13"/>
+@@ -164,7 +202,24 @@
+- in 1998. In 2000, he began referring to himself as "Prince" again. He has released 15 albums since then, including his latest,
+- <i>
+-  <a class="mw-redirect" href="/wiki/HITnRUN_Phase_One" title="HITnRUN Phase One">
+-   HITnRUN Phase One
+-  </a>
+- </i>
+- , which was first released exclusively on the
++ in 1998. In 2000, he began referring to himself as "Prince" again. He
++ <del>
++  has
++ </del>
++ released 15 albums
++ <ins>
++  after that; his final album,
++  <i>
++   <a href="/wiki/Hit_n_Run_Phase_Two" title="Hit n Run Phase Two">
++    HITnRUN Phase Two
++   </a>
++  </i>
++  ,
++ </ins>
++ <del>
++  since then, including his latest,
++  <i>
++   <a class="mw-redirect" href="/wiki/HITnRUN_Phase_One" title="HITnRUN Phase One">
++    HITnRUN Phase One
++   </a>
++  </i>
++  , which
++ </del>
++ was first released exclusively on the
+@@ -174 +229,6 @@
+- streaming service on September 7, 2015
++ streaming service on
++ <ins>
++  December 11, 2015.
++ </ins>
++ <del>
++  September 7, 2015
+@@ -176,4 +236,5 @@
+- <a href="/wiki/NPG_Records" title="NPG Records">
+-  NPG Records
+- </a>
+- .
++  <a href="/wiki/NPG_Records" title="NPG Records">
++   NPG Records
++  </a>
++  .
++ </del>
+@@ -187 +248,5 @@
+- He has won seven
++ He
++ <del>
++  has
++ </del>
++ won seven
+@@ -193,2 +258,2 @@
+- <a class="mw-redirect" href="/wiki/Golden_Globe" title="Golden Globe">
+-  Golden Globe
++ <a href="/wiki/Golden_Globe_Award" title="Golden Globe Award">
++  Golden Globe Award
+@@ -212 +277,13 @@
+- has ranked Prince at number 27 on its list of the 100 Greatest Artists of All Time.
++ <del>
++  has
++ </del>
++ ranked Prince at number 27 on its list of the 100 Greatest Artists of All Time.
++</p>
++<p>
++ <ins>
++  He died at his Paisley Park recording studio and home in Chanhassen, Minnesota, near Minneapolis, on April 21, 2016, after experiencing
++  <a href="/wiki/Influenza-like_illness" title="Influenza-like illness">
++   flu-like symptoms
++  </a>
++  for about two weeks prior to his death.
++ </ins>
+@@ -224 +301,5 @@
+- Prince was born in
++ Prince was born
++ <ins>
++  Prince Rogers Nelson
++ </ins>
++ in
+@@ -243,4 +324,4 @@
+- singer. Prince was named after his father, whose
+- <a href="/wiki/Stage_name" title="Stage name">
+-  stage name
+- </a>
++ singer. Prince was named after his father, whose stage name
++ <del>
++  Link: /wiki/Stage_name
++ </del>
+@@ -257,4 +338,10 @@
+- In a
+- <a class="mw-redirect" href="/wiki/Public_Broadcasting_Service" title="Public Broadcasting Service">
+-  PBS
+- </a>
++ In
++ <ins>
++  an
++ </ins>
++ <del>
++  a
++  <a class="mw-redirect" href="/wiki/Public_Broadcasting_Service" title="Public Broadcasting Service">
++   PBS
++  </a>
++ </del>
+@@ -275 +362,8 @@
+- When Prince was ten years old, his parents separated. Prince constantly switched homes following the separation, sometimes living with his father and sometimes with his mother and stepfather.
++ When Prince was ten years old, his parents separated. Prince
++ <ins>
++  repeatedly
++ </ins>
++ <del>
++  constantly
++ </del>
++ switched homes following the separation, sometimes living with his father and sometimes with his mother and stepfather.
+@@ -360,0 +455,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -379,0 +485,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -383,5 +499,5 @@
+- <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+-  [
+-  <i>
+-   <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+-    <span title="This claim needs references to reliable sources. (October 2009)">
++ <del>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+@@ -389,5 +505,5 @@
+-    </span>
+-   </a>
+-  </i>
+-  ]
+- </sup>
++    </a>
++   </i>
++   ]
++  </sup>
++ </del>
+@@ -624 +740,8 @@
+- . The band released four albums between 1981 and 1990, with Prince writing and performing most of the instrumentation and backing vocals, with lead vocals by
++ . The band released four albums between 1981 and 1990, with Prince writing and performing most of the instrumentation and backing
++ <ins>
++  vocals (sometimes credited under the pseudonyms "Jamie Starr" or "The Starr Company"),
++ </ins>
++ <del>
++  vocals,
++ </del>
++ with lead vocals by
+@@ -629,5 +752,5 @@
+- <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+-  [
+-  <i>
+-   <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+-    <span title="This claim needs references to reliable sources. (October 2009)">
++ <del>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+@@ -635,5 +758,5 @@
+-    </span>
+-   </a>
+-  </i>
+-  ]
+- </sup>
++    </a>
++   </i>
++   ]
++  </sup>
++ </del>
+@@ -704 +827,5 @@
+- on bass, and Dez Dickerson on guitar. Jill Jones, a backing singer, was also part of The Revolution line up for the
++ on bass, and
++ <a href="/wiki/Dez_Dickerson" title="Dez Dickerson">
++  Dez Dickerson
++ </a>
++ on guitar. Jill Jones, a backing singer, was also part of The Revolution line up for the
+@@ -990 +1117,4 @@
+- However, Warner Bros. forced Prince to trim the triple album to a double album and
++ <del>
++  However,
++ </del>
++ Warner Bros. forced Prince to trim the triple album to a double album and
+@@ -1035 +1165,8 @@
+- In Europe, however, it performed well and Prince promoted the album overseas with a lengthy tour. Putting together a new backing band from the remnants of The Revolution, Prince added bassist Levi Seacer, Jr., Boni Boyer on keyboards, and dancer/choreographer Cat Glover to go with new drummer Sheila E. and holdovers Miko Weaver, Doctor Fink, Eric Leeds, Atlanta Bliss, and the Bodyguards (Jerome, Wally Safford, and Greg Brooks) for the
++ In
++ <ins>
++  Europe it performed well,
++ </ins>
++ <del>
++  Europe, however, it performed well
++ </del>
++ and Prince promoted the album overseas with a lengthy tour. Putting together a new backing band from the remnants of The Revolution, Prince added bassist Levi Seacer, Jr., Boni Boyer on keyboards, and dancer/choreographer Cat Glover to go with new drummer Sheila E. and holdovers Miko Weaver, Doctor Fink, Eric Leeds, Atlanta Bliss, and the Bodyguards (Jerome, Wally Safford, and Greg Brooks) for the
+@@ -1047 +1184,4 @@
+- however, Prince balked at a full US tour, as he was ready to produce a new album.
++ <del>
++  however,
++ </del>
++ Prince balked at a full US tour, as he was ready to produce a new album.
+@@ -1059 +1199,14 @@
+- ; however, its box-office receipts were minimal, and it quickly left theaters.
++ <ins>
++  , but
++ </ins>
++ <del>
++  ; however,
++ </del>
++ its box-office receipts were
++ <ins>
++  minimal
++ </ins>
++ <del>
++  minimal,
++ </del>
++ and it quickly left theaters.
+@@ -1121 +1274 @@
+- <div class="thumbinner" style="width:222px;">
++ <div class="thumbinner" style="width:172px;">
+@@ -1123 +1275,0 @@
+-   <img alt="" class="thumbimage" data-file-height="1024" data-file-width="774" height="291" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Prince_by_jimieye.jpg/220px-Prince_by_jimieye.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Prince_by_jimieye.jpg/330px-Prince_by_jimieye.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Prince_by_jimieye.jpg/440px-Prince_by_jimieye.jpg 2x" width="220"/>
+@@ -1218 +1370,7 @@
+- However, he did have to sign away all publishing rights to the songs on the album to Warner Bros. as part of the deal to do the soundtrack.
++ <ins>
++  He had
++ </ins>
++ <del>
++  However, he did have
++ </del>
++ to sign away all publishing rights to the songs on the album to Warner Bros. as part of the deal to do the soundtrack.
+@@ -1282 +1440 @@
+- <div class="thumbinner" style="width:222px;">
++ <div class="thumbinner" style="width:172px;">
+@@ -1284 +1441,0 @@
+-   <img alt="" class="thumbimage" data-file-height="1918" data-file-width="1326" height="318" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yellow_Cloud.jpg/220px-Yellow_Cloud.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yellow_Cloud.jpg/330px-Yellow_Cloud.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yellow_Cloud.jpg/440px-Yellow_Cloud.jpg 2x" width="220"/>
+@@ -1459 +1615,0 @@
+-  <img alt="Prince logo.svg" data-file-height="153" data-file-width="130" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/a/af/Prince_logo.svg/13px-Prince_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/af/Prince_logo.svg/20px-Prince_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/af/Prince_logo.svg/26px-Prince_logo.svg.png 2x" width="13"/>
+@@ -1781,2 +1937,8 @@
+- <span class="mw-headline" id="2000.E2.80.9306:_Turnaround.2C_Musicology.2C_label_change_and_3121">
+-  2000–06: Turnaround,
++ <span class="mw-headline" id="2000.E2.80.9307:_Turnaround.2C_Musicology.2C_label_change_and_3121">
++  <ins>
++   2000–07:
++  </ins>
++  <del>
++   2000–06:
++  </del>
++  Turnaround,
+@@ -1797 +1959,12 @@
+- expired. In a press conference, he stated that, after being freed from undesirable relationships associated with the name "Prince", he would formally revert to using his real name. Prince still frequently uses the symbol as a logo and on album artwork and continues to play a Love Symbol-shaped guitar. For several years following the release of
++ expired. In a press conference, he stated that, after being freed from undesirable relationships associated with the name "Prince", he would formally revert to using his real name. Prince
++ <ins>
++  continued to use
++ </ins>
++ <del>
++  still frequently uses
++ </del>
++ the symbol as a logo and on album artwork and
++ <del>
++  continues
++ </del>
++ to play a Love Symbol-shaped guitar. For several years following the release of
+@@ -1827,0 +2001,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -1890,0 +2075,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -1957,0 +2153,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -2080,0 +2287,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -2148 +2365 @@
+- <a class="mw-redirect" href="/wiki/Hollywood,_Los_Angeles,_California" title="Hollywood, Los Angeles, California">
++ <a class="mw-redirect" href="/wiki/Hollywood,_Los_Angeles" title="Hollywood, Los Angeles">
+@@ -2155,0 +2373,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -2168,0 +2397,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -2211,0 +2451,11 @@
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
+@@ -2226 +2476,13 @@
+- . He performed weekly on Friday and Saturday nights until April 2007, when his contract with the Rio ended. On August 22, 2006, Prince released
++ . He performed weekly on Friday and Saturday nights until April 2007, when his contract with the Rio ended.
++ <ins>
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
++ On August 22, 2006, Prince released
+@@ -2361 +2623,16 @@
+- . Coincidentally, Miami had rain on the day of the Super Bowl, which was lit purple during the performance of "Purple Rain". He played on a large stage shaped as his symbol. The event was carried to 140 million television viewers, the largest audience of his life. On February 4, 2010, Billboard.com ranked the performance as the greatest Super Bowl performance ever.
++ . Coincidentally, Miami had rain on the day of the Super Bowl, which was lit purple during the performance of "Purple Rain". He played on a large stage shaped as his symbol. The event was carried to 140 million television viewers, the
++ <ins>
++  "biggest
++ </ins>
++ <del>
++  largest
++ </del>
++ audience of his
++ <ins>
++  life."
++ In 2015,
++ </ins>
++ <del>
++  life. On February 4, 2010,
++ </del>
++ Billboard.com ranked the performance as the greatest Super Bowl performance ever.
+@@ -2503,3 +2780,11 @@
+- <a class="new" href="/w/index.php?title=2008_Coachella_Valley_Music_and_Arts_Festival&amp;action=edit&amp;redlink=1" title="2008 Coachella Valley Music and Arts Festival (page does not exist)">
+-  Coachella Festival 2008
+- </a>
++ <ins>
++  2008
++  <a href="/wiki/Coachella_Valley_Music_and_Arts_Festival" title="Coachella Valley Music and Arts Festival">
++   Coachella Festival
++  </a>
++ </ins>
++ <del>
++  <a class="new" href="/w/index.php?title=2008_Coachella_Valley_Music_and_Arts_Festival&amp;action=edit&amp;redlink=1" title="2008 Coachella Valley Music and Arts Festival (page does not exist)">
++   Coachella Festival 2008
++  </a>
++ </del>
+@@ -2707,5 +2992,12 @@
+- Prince has refused access to the album to digital download services. He also closed his official website, LotusFlow3r.com. In an interview with the
+- <i>
+-  Daily Mirror
+- </i>
+- , Prince said, "The Internet's completely over. I don't see why I should give my new music to iTunes or anyone else. They won't pay me an advance for it and then they get angry when they can't get it... Anyway, all these computers and digital gadgets are no good. They just fill your head with numbers and that can't be good for you."
++ Prince
++ <del>
++  has
++ </del>
++ refused access to the album to digital download services. He also closed his official website, LotusFlow3r.com.
++ <del>
++  In an interview with the
++  <i>
++   Daily Mirror
++  </i>
++  , Prince said, "The Internet's completely over. I don't see why I should give my new music to iTunes or anyone else. They won't pay me an advance for it and then they get angry when they can't get it... Anyway, all these computers and digital gadgets are no good. They just fill your head with numbers and that can't be good for you."
++ </del>
+@@ -2724 +3016,8 @@
+- The second half of the tour has a new band, John Blackwell,
++ The second half of the tour
++ <ins>
++  had
++ </ins>
++ <del>
++  has
++ </del>
++ a new band, John Blackwell,
+@@ -2779,2 +3078,8 @@
+- <span class="mw-headline" id="2013.E2.80.93present:_3rdeyegirl_and_return_to_Warner_Bros.">
+-  2013–present: 3rdeyegirl and return to Warner Bros.
++ <span class="mw-headline" id="2013.E2.80.9316:_3rdeyegirl_and_return_to_Warner_Bros.">
++  <ins>
++   2013–16:
++  </ins>
++  <del>
++   2013–present:
++  </del>
++  3rdeyegirl and return to Warner Bros.
+@@ -2878 +3183,8 @@
+- His latest album
++ His
++ <ins>
++  final
++ </ins>
++ <del>
++  latest
++ </del>
++ album
+@@ -2885 +3197 @@
+- <a class="mw-redirect" href="/wiki/Tidal" title="Tidal">
++ <a href="/wiki/Tidal_(service)" title="Tidal (service)">
+@@ -2888 +3200,7 @@
+- before released on CD and download on September 14, 2015.
++ released on CD and download on September
++ <ins>
++  14.
++ </ins>
++ <del>
++  14, 2015.
++ </del>
+@@ -2904 +3221,0 @@
+-    <img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/>
+@@ -2908,20 +3225,5 @@
+-   <span class="mbox-text-span">
+-    This section of a
+-    <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">
+-     biography of a living person
+-    </a>
+-    <b>
+-     does not
+-     <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+-      include
+-     </a>
+-     any
+-     <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+-      references or sources
+-     </a>
+-    </b>
+-    .
+-    <span class="hide-when-compact">
+-     Please help by adding
+-     <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">
+-      reliable sources
++   <del>
++    <span class="mbox-text-span">
++     This section of a
++     <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">
++      biography of a living person
+@@ -2929 +3230,0 @@
+-     . Contentious material about living people that is unsourced or poorly sourced
+@@ -2931 +3232,8 @@
+-      must be removed immediately
++      does not
++      <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
++       include
++      </a>
++      any
++      <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
++       references or sources
++      </a>
+@@ -2934 +3242,50 @@
+-     <br/>
++     <span class="hide-when-compact">
++      Please help by adding
++      <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">
++       reliable sources
++      </a>
++      . Contentious material about living people that is unsourced or poorly sourced
++      <b>
++       must be removed immediately
++      </b>
++      .
++      <br/>
++      <small>
++       <span class="plainlinks">
++        <i>
++         Find sources:
++        </i>
++        <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Prince%22+musician&amp;num=50" rel="nofollow">
++         "Prince" musician
++        </a>
++        –
++        <a class="external text" href="//www.google.com/search?q=%22Prince%22+musician&amp;tbm=nws" rel="nofollow">
++         news
++        </a>
++        <b>
++         ·
++        </b>
++        <a class="external text" href="//www.google.com/search?&amp;q=%22Prince%22+musician+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">
++         newspapers
++        </a>
++        <b>
++         ·
++        </b>
++        <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Prince%22+musician" rel="nofollow">
++         books
++        </a>
++        <b>
++         ·
++        </b>
++        <a class="external text" href="//scholar.google.com/scholar?q=%22Prince%22+musician" rel="nofollow">
++         scholar
++        </a>
++        <b>
++         ·
++        </b>
++        <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Prince%22+musician&amp;acc=on&amp;wc=on" rel="nofollow">
++         JSTOR
++        </a>
++       </span>
++      </small>
++     </span>
+@@ -2936,34 +3293,9 @@
+-      <span class="plainlinks">
+-       <i>
+-        Find sources:
+-       </i>
+-       <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Prince%22+musician&amp;num=50" rel="nofollow">
+-        "Prince" musician
+-       </a>
+-       –
+-       <a class="external text" href="//www.google.com/search?q=%22Prince%22+musician&amp;tbm=nws" rel="nofollow">
+-        news
+-       </a>
+-       <b>
+-        ·
+-       </b>
+-       <a class="external text" href="//www.google.com/search?&amp;q=%22Prince%22+musician+site:news.google.com/newspapers&amp;source=newspapers" rel="nofollow">
+-        newspapers
+-       </a>
+-       <b>
+-        ·
+-       </b>
+-       <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Prince%22+musician" rel="nofollow">
+-        books
+-       </a>
+-       <b>
+-        ·
+-       </b>
+-       <a class="external text" href="//scholar.google.com/scholar?q=%22Prince%22+musician" rel="nofollow">
+-        scholar
+-       </a>
+-       <b>
+-        ·
+-       </b>
+-       <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Prince%22+musician&amp;acc=on&amp;wc=on" rel="nofollow">
+-        JSTOR
++      <i>
++       (December 2014)
++      </i>
++     </small>
++     <small class="hide-when-compact">
++      <i>
++       (
++       <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
++        Learn how and when to remove this template message
+@@ -2971 +3303,2 @@
+-      </span>
++       )
++      </i>
+@@ -2974,15 +3307 @@
+-    <small>
+-     <i>
+-      (December 2014)
+-     </i>
+-    </small>
+-    <small class="hide-when-compact">
+-     <i>
+-      (
+-      <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+-       Learn how and when to remove this template message
+-      </a>
+-      )
+-     </i>
+-    </small>
+-   </span>
++   </del>
+@@ -2993,4 +3312,58 @@
+- In addition to his singing abilities (which encompass a wide range from falsetto to baritone and rapid, flamboyant shifts of register, as well as diverse characterisation) Prince is one of pop music's most prominent multi-instrumentalists. The precise number of instruments he is capable of playing remains obscure, partly due to the active mythologizing of his abilities and working practices (such as the claim that he had played "all 27 instruments" on his debut album, which appears to have included various different kinds of guitar, keyboard and synthesizer in the total).
+-</p>
+-<p>
+- As a live performer he tends to focus on guitar, piano, lead vocals and occasional bass, drums and harmonica. On recordings he has also played assorted keyboards and synthesizers, bass guitar, drums, various percussion instruments and saxophone, as well as mastering both drum and synthesizer programming. Prince has mentioned learning and performing simple parts on particular instruments that he does not otherwise play (such as concert harp) in order to serve song arrangements on albums.
++ In addition to his singing abilities (which
++ <ins>
++  encompassed
++ </ins>
++ <del>
++  encompass
++ </del>
++ a wide range from falsetto to baritone and rapid,
++ <ins>
++  seemingly effortless shifts of register
++ ) Prince was renowned as a multi-instrumentalist.
++ He was considered a guitar virtuoso and a master of drums, percussion, bass, keyboards, and synthesizer.
++ On his first five albums, he played nearly all the instruments.
++ </ins>
++</p>
++<del>
++ flamboyant shifts of register, as well as diverse characterisation) Prince is one of pop music's most prominent multi-instrumentalists.
++</del>
++<p>
++ The precise number of instruments he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ capable of playing remains
++ <ins>
++  obscure. On
++ </ins>
++ <del>
++  obscure, partly due to the active mythologizing of his abilities and working practices (such as the claim that he had played "all 27 instruments" on
++ </del>
++ his debut album,
++ <ins>
++  he was credited with having played 27 instruments,
++ which based on the album credits included various types of bass,
++ </ins>
++ <del>
++  which appears to have included various different kinds of guitar,
++ </del>
++ keyboard and synthesizer in the
++ <ins>
++  total.
++ When asked during a television interview by
++  <a href="/wiki/Dick_Clark" title="Dick Clark">
++   Dick Clark
++  </a>
++  how many instruments he could play, he responded, "Thousands."
++ </ins>
++ <del>
++  total).
++ </del>
++</p>
++<p>
++ <del>
++  As a live performer he tends to focus on guitar, piano, lead vocals and occasional bass, drums and harmonica. On recordings he has also played assorted keyboards and synthesizers, bass guitar, drums, various percussion instruments and saxophone, as well as mastering both drum and synthesizer programming. Prince has mentioned learning and performing simple parts on particular instruments that he does not otherwise play (such as concert harp) in order to serve song arrangements on albums.
++ </del>
+@@ -3021 +3394,12 @@
+- Prince has used pseudonyms to separate himself from the music (either his own or that of others) for which he has had input; "I was just getting tired of seeing my name," he said, "If you give away an idea, you still own that idea. In fact, giving it away strengthens it. Why do people feel they have to take credit for everything they do? Ego, that's the only reason."
++ Prince
++ <del>
++  has
++ </del>
++ used pseudonyms to separate himself from the music (either his own or that of others) for which he
++ <ins>
++  had input during his career;
++ </ins>
++ <del>
++  has had input;
++ </del>
++ "I was just getting tired of seeing my name," he said, "If you give away an idea, you still own that idea. In fact, giving it away strengthens it. Why do people feel they have to take credit for everything they do? Ego, that's the only reason."
+@@ -3030 +3414 @@
+- (for the songs he wrote for the
++ (for the songs he wrote for
+@@ -3031,0 +3416,6 @@
++  <ins>
++   The
++  </ins>
++  <del>
++   the
++  </del>
+@@ -3083,4 +3473,4 @@
+- On September 14, 2007, Prince announced that he was going to sue
+- <a href="/wiki/YouTube" title="YouTube">
+-  YouTube
+- </a>
++ On September 14, 2007, Prince announced that he was going to sue YouTube
++ <del>
++  Link: /wiki/YouTube
++ </del>
+@@ -3170 +3560,8 @@
+- Prince resides near
++ Prince
++ <ins>
++  resided
++ </ins>
++ <del>
++  resides
++ </del>
++ near
+@@ -3174,2 +3571,14 @@
+- , Minnesota.
+- Over the years Prince has been romantically linked with many celebrities, including
++ <ins>
++  at the time of his death.
++ </ins>
++ <del>
++  , Minnesota.
++ </del>
++ Over the years Prince
++ <ins>
++  was
++ </ins>
++ <del>
++  has been
++ </del>
++ romantically linked with many celebrities, including
+@@ -3226 +3635,7 @@
+- He married his backup singer and dancer
++ <ins>
++  When he was 37, he married his 22-year-old
++ </ins>
++ <del>
++  He married his
++ </del>
++ backup singer and dancer
+@@ -3230 +3645,8 @@
+- on Valentine's Day 1996. They had a son, Boy Gregory (born October 16, 1996), who was born with
++ on Valentine's Day 1996. They had a
++ <ins>
++  son named Boy Gregory on October 16, 1996,
++ </ins>
++ <del>
++  son, Boy Gregory (born October 16, 1996),
++ </del>
++ who was born with
+@@ -3235,9 +3657,21 @@
+- Prince and Mayte divorced in 1999. In 2001, Prince married Manuela Testolini in a private ceremony. Testolini filed for divorce in May 2006.
+- He also had a short-term relationship with protégée
+- <a href="/wiki/Bria_Valente" title="Bria Valente">
+-  Bria Valente
+- </a>
+- in 2007.
+-</p>
+-<p>
+- Prince became one of
++ Prince and Mayte divorced in 1999. In 2001, Prince married Manuela Testolini in a private
++ <ins>
++  ceremony; she
++ </ins>
++ <del>
++  ceremony. Testolini
++ </del>
++ filed for divorce in May 2006.
++</p>
++<p>
++ <ins>
++  Prince joined the
++ </ins>
++ <del>
++  He also had a short-term relationship with protégée
++  <a href="/wiki/Bria_Valente" title="Bria Valente">
++   Bria Valente
++  </a>
++  in 2007.
++Prince became one of
++ </del>
+@@ -3265 +3699,8 @@
+- ," he explained. He attends meetings at a local
++ ," he explained. He
++ <ins>
++  attended
++ </ins>
++ <del>
++  attends
++ </del>
++ meetings at a local
+@@ -3269,2 +3710,27 @@
+- and occasionally knocks on people's doors to discuss his faith.
+- Prince has reportedly needed double hip-replacement surgery since 2005 but won't undergo the operation unless it is a
++ and occasionally
++ <ins>
++  knocked
++ </ins>
++ <del>
++  knocks
++ </del>
++ on people's doors to discuss his faith.
++ Prince
++ <del>
++  has
++ </del>
++ reportedly needed double hip-replacement surgery since 2005 but
++ <ins>
++  wouldn't
++ </ins>
++ <del>
++  won't
++ </del>
++ undergo the operation unless it
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a
+@@ -3279,9 +3745,21 @@
+- The condition is rumored to be aggravated by repeated onstage dancing in high-heeled boots.
+- However, when Prince was interviewed in 2010, journalist Peter Willis said that he believed the rumors of Prince needing double hip surgery to be unfounded and untrue, as Prince appeared to be agile.
+-</p>
+-<p>
+- Prince is a
+- <a class="mw-redirect" href="/wiki/Vegan" title="Vegan">
+-  vegan
+- </a>
+- .
++ The condition
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ rumored to be aggravated by repeated onstage dancing in high-heeled boots.
++</p>
++<p>
++ <ins>
++  Prince was a vegetarian.
++ </ins>
++ <del>
++  However, when Prince was interviewed in 2010, journalist Peter Willis said that he believed the rumors of Prince needing double hip surgery to be unfounded and untrue, as Prince appeared to be agile.
++Prince is a
++  <a class="mw-redirect" href="/wiki/Vegan" title="Vegan">
++   vegan
++  </a>
++  .
++ </del>
+@@ -3305,6 +3783,19 @@
+- Since 2008, Prince has been managed by UK-based Kiran Sharma.
+-</p>
+-<p>
+- <a class="mw-redirect" href="/wiki/Sinead_O%27Connor" title="Sinead O'Connor">
+-  Sinead O'Connor
+- </a>
++ <ins>
++  Beginning in 2008, Prince was
++ </ins>
++ <del>
++  Since 2008, Prince has been
++ </del>
++ managed by UK-based Kiran Sharma.
++</p>
++<p>
++ <ins>
++  <a href="/wiki/Sin%C3%A9ad_O%27Connor" title="Sinéad O'Connor">
++   Sinéad O'Connor
++  </a>
++ </ins>
++ <del>
++  <a class="mw-redirect" href="/wiki/Sinead_O%27Connor" title="Sinead O'Connor">
++   Sinead O'Connor
++  </a>
++ </del>
+@@ -3319,4 +3810,25 @@
+- ", a song that Prince wrote which became a worldwide hit for O'Connor in 1990. O'Connor said, "I made it without him. I'd never met him. He summoned me to his house—and it's foolish to do this to an Irish woman—he said he didn't like me saying bad words in interviews. So I told him to fuck off." O'Connor alleged that the row became physical. "He got quite violent. I had to escape out of his house at 5 in the morning. He packed a bigger punch than mine."
+-</p>
+-<p>
+- In 2016, Prince announced that he is writing a memoir, tentatively titled
++ ", a song that Prince
++ <ins>
++  wrote,
++ </ins>
++ <del>
++  wrote which
++ </del>
++ became a worldwide hit for O'Connor in 1990. O'Connor said, "I made it without him. I'd never met him. He summoned me to his house—and it's foolish to do this to an Irish woman—he said he didn't like me saying bad words in interviews. So I told him to fuck off." O'Connor
++ <ins>
++  alleged,
++ </ins>
++ <del>
++  alleged that the row became physical.
++ </del>
++ "He got quite violent. I had to escape out of his house at 5 in the morning. He packed a bigger punch than mine."
++</p>
++<p>
++ In 2016, Prince announced that he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ writing a memoir, tentatively titled
+@@ -3328,0 +3841,51 @@
++ <ins>
++  <span class="mw-headline" id="Illness_and_death">
++   Illness and death
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  Prince postponed two performances from his Piano &amp; A Microphone Tour on April 7, 2016, at the
++  <a href="/wiki/Fox_Theatre_(Atlanta)" title="Fox Theatre (Atlanta)">
++   Fox Theatre
++  </a>
++  in
++  <a class="mw-redirect" href="/wiki/Atlanta,_Georgia" title="Atlanta, Georgia">
++   Atlanta, Georgia
++  </a>
++  , stating that he was "battling the
++  <a href="/wiki/Influenza" title="Influenza">
++   flu
++  </a>
++  ."
++ On April 15, the artist's private jet was forced to land in
++  <a href="/wiki/Illinois" title="Illinois">
++   Illinois
++  </a>
++  so that he could seek medical treatment for influenza-like symptoms, after performing the rescheduled Atlanta concert the day before.
++ He was seen in public the following evening in
++  <a href="/wiki/Minneapolis" title="Minneapolis">
++   Minneapolis
++  </a>
++  , when he stopped at the
++  <a href="/wiki/Electric_Fetus" title="Electric Fetus">
++   Electric Fetus
++  </a>
++  on
++  <a href="/wiki/Record_Store_Day" title="Record Store Day">
++   Record Store Day
++  </a>
++  , and made a brief appearance at a dance party at his
++  <a href="/wiki/Paisley_Park_Records" title="Paisley Park Records">
++   Paisley Park Records
++  </a>
++  recording studio complex in
++  <a href="/wiki/Chanhassen,_Minnesota" title="Chanhassen, Minnesota">
++   Chanhassen, Minnesota
++  </a>
++  , stating that he was feeling okay.
++ Prince died on April 21, 2016 at 10:05 a.m., at the age of 57, having been found unresponsive in an elevator that morning at his Paisley Park complex.
++ </ins>
++</p>
++<h2>
+@@ -3351,2 +3914,2 @@
+-<dl>
+- <dt>
++<p>
++ <b>
+@@ -3354,3 +3917,3 @@
+- </dt>
+-</dl>
+-<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
++ </b>
++</p>
++<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+@@ -3464 +4026,0 @@
+-    <img alt="Prince logo.svg" data-file-height="153" data-file-width="130" height="18" src="//upload.wikimedia.org/wikipedia/en/thumb/a/af/Prince_logo.svg/15px-Prince_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/af/Prince_logo.svg/23px-Prince_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/af/Prince_logo.svg/30px-Prince_logo.svg.png 2x" width="15"/>
+@@ -3660 +4222 @@
+-    <a class="mw-redirect" href="/wiki/HITnRUN_Phase_One" title="HITnRUN Phase One">
++    <a href="/wiki/Hit_n_Run_Phase_One" title="Hit n Run Phase One">
+@@ -3668 +4230 @@
+-    <a class="mw-redirect" href="/wiki/HITnRUN_Phase_Two" title="HITnRUN Phase Two">
++    <a href="/wiki/Hit_n_Run_Phase_Two" title="Hit n Run Phase Two">
+@@ -3676,2 +4238,2 @@
+-<dl>
+- <dt>
++<p>
++ <b>
+@@ -3679,2 +4241,2 @@
+- </dt>
+-</dl>
++ </b>
++</p>
+@@ -3715,2 +4277,2 @@
+-<dl>
+- <dt>
++<p>
++ <b>
+@@ -3718,2 +4280,2 @@
+- </dt>
+-</dl>
++ </b>
++</p>
+@@ -3730,2 +4292,2 @@
+-<dl>
+- <dt>
++<p>
++ <b>
+@@ -3733,2 +4295,2 @@
+- </dt>
+-</dl>
++ </b>
++</p>
+@@ -3785,2 +4347,2 @@
+-<dl>
+- <dt>
++<p>
++ <b>
+@@ -3788,2 +4350,2 @@
+- </dt>
+-</dl>
++ </b>
++</p>
+@@ -3816,2 +4378,2 @@
+-<dl>
+- <dt>
++<p>
++ <b>
+@@ -3819,2 +4381,2 @@
+- </dt>
+-</dl>
++ </b>
++</p>
+@@ -3831,2 +4393,2 @@
+-<dl>
+- <dt>
++<p>
++ <b>
+@@ -3834,2 +4396,2 @@
+- </dt>
+-</dl>
++ </b>
++</p>
+@@ -4240 +4802 @@
+-</ul>
++</ul>
+\ No newline at end of file

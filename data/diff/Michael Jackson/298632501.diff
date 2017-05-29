@@ -1,0 +1,51 @@
+--- 298631851
++++ 298632501
+@@ -2063,21 +2063,23 @@
+- On June 25, 2009,
+- <a href="/wiki/TMZ" title="TMZ">
+-  TMZ
+- </a>
+- reported that Jackson has been rushed to the hospital and has suffered
+- <a href="/wiki/Cardiac_arrest" title="Cardiac arrest">
+-  cardiac arrest
+- </a>
+- .
+- <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
+-  Paramedics
+- </a>
+- administered
+- <a class="mw-redirect" href="/wiki/CPR" title="CPR">
+-  CPR
+- </a>
+- in the
+- <a href="/wiki/Ambulance" title="Ambulance">
+-  ambulance
+- </a>
+- and a family member says that he is in "really bad shape.".
++ <del>
++  On June 25, 2009,
++  <a href="/wiki/TMZ" title="TMZ">
++   TMZ
++  </a>
++  reported that Jackson has been rushed to the hospital and has suffered
++  <a href="/wiki/Cardiac_arrest" title="Cardiac arrest">
++   cardiac arrest
++  </a>
++  .
++  <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
++   Paramedics
++  </a>
++  administered
++  <a class="mw-redirect" href="/wiki/CPR" title="CPR">
++   CPR
++  </a>
++  in the
++  <a href="/wiki/Ambulance" title="Ambulance">
++   ambulance
++  </a>
++  and a family member says that he is in "really bad shape.".
++ </del>
+@@ -3120 +3122 @@
+-</ul>
++</ul>
+\ No newline at end of file

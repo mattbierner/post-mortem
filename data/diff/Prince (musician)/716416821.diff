@@ -1,0 +1,29 @@
+--- 716414662
++++ 716416821
+@@ -5 +5,7 @@
+- (born June 7, 1958), known by his
++ <ins>
++  (June 7, 1958 – April 21, 2016),
++ </ins>
++ <del>
++  (born June 7, 1958),
++ </del>
++ known by his
+@@ -12 +18,8 @@
+- , is an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
++ ,
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
+@@ -254,0 +268,3 @@
++ <ins>
++  Prince passed away at his Paisley Park recording studio in Chanhassen, Minnesota on April 21, 2016.
++ </ins>
+@@ -4240 +4256 @@
+-</ul>
++</ul>
+\ No newline at end of file

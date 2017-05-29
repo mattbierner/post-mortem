@@ -1,0 +1,2228 @@
+[
+  {
+    "comment": "/* Background */ Simple fix",
+    "minor": "",
+    "parentid": 451654388,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Background\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Background: </span> Simple fix</span>",
+    "revid": 453910145,
+    "timestamp": "2011-10-04T14:58:17Z",
+    "user": "Akim Demaille"
+  },
+  {
+    "comment": "Dennis Ritchie, RIP (information sourced via [[Rob Pike]])",
+    "parentid": 453910145,
+    "parsedcomment": "Dennis Ritchie, RIP (information sourced via <a href=\"/wiki/Rob_Pike\" title=\"Rob Pike\">Rob Pike</a>)",
+    "revid": 455301448,
+    "timestamp": "2011-10-13T01:10:42Z",
+    "user": "MatthewMastracci"
+  },
+  {
+    "comment": "Remove age from birth date",
+    "parentid": 455301448,
+    "parsedcomment": "Remove age from birth date",
+    "revid": 455301563,
+    "timestamp": "2011-10-13T01:11:42Z",
+    "user": "MatthewMastracci"
+  },
+  {
+    "comment": "Improve ref",
+    "parentid": 455301563,
+    "parsedcomment": "Improve ref",
+    "revid": 455301830,
+    "timestamp": "2011-10-13T01:14:07Z",
+    "user": "MatthewMastracci"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455301830,
+    "parsedcomment": "",
+    "revid": 455302904,
+    "timestamp": "2011-10-13T01:24:09Z",
+    "user": "192.12.184.6"
+  },
+  {
+    "anon": "",
+    "comment": "death",
+    "parentid": 455302904,
+    "parsedcomment": "death",
+    "revid": 455302950,
+    "timestamp": "2011-10-13T01:24:34Z",
+    "user": "50.46.149.154"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455302950,
+    "parsedcomment": "",
+    "revid": 455304152,
+    "timestamp": "2011-10-13T01:36:47Z",
+    "user": "155.41.34.68"
+  },
+  {
+    "anon": "",
+    "comment": "removing needless username",
+    "parentid": 455304152,
+    "parsedcomment": "removing needless username",
+    "revid": 455305320,
+    "timestamp": "2011-10-13T01:48:12Z",
+    "user": "198.135.0.233"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455305320,
+    "parsedcomment": "",
+    "revid": 455305769,
+    "timestamp": "2011-10-13T01:52:32Z",
+    "user": "187.21.3.45"
+  },
+  {
+    "anon": "",
+    "comment": "/* Death */ make less unreadable",
+    "parentid": 455305769,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death: </span> make less unreadable</span>",
+    "revid": 455306525,
+    "timestamp": "2011-10-13T02:00:08Z",
+    "user": "74.93.105.38"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455306525,
+    "parsedcomment": "",
+    "revid": 455307023,
+    "timestamp": "2011-10-13T02:05:19Z",
+    "user": "200.104.164.194"
+  },
+  {
+    "comment": "2011 death",
+    "parentid": 455307023,
+    "parsedcomment": "2011 death",
+    "revid": 455307091,
+    "timestamp": "2011-10-13T02:05:57Z",
+    "user": "Celosia"
+  },
+  {
+    "comment": "/* Quotes */",
+    "parentid": 455307091,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Quotes\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Quotes</span></span>",
+    "revid": 455307585,
+    "timestamp": "2011-10-13T02:11:13Z",
+    "user": "Edward Vielmetti"
+  },
+  {
+    "comment": "/* Quotes */",
+    "parentid": 455307585,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Quotes\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Quotes</span></span>",
+    "revid": 455307666,
+    "timestamp": "2011-10-13T02:12:00Z",
+    "user": "Edward Vielmetti"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455307666,
+    "parsedcomment": "",
+    "revid": 455307821,
+    "timestamp": "2011-10-13T02:13:33Z",
+    "user": "66.65.88.182"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455307821,
+    "parsedcomment": "",
+    "revid": 455308197,
+    "timestamp": "2011-10-13T02:17:29Z",
+    "user": "70.123.141.233"
+  },
+  {
+    "comment": "/* Death */ Pikes -> Pike's",
+    "minor": "",
+    "parentid": 455308197,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death: </span> Pikes -&gt; Pike&#039;s</span>",
+    "revid": 455310076,
+    "timestamp": "2011-10-13T02:38:00Z",
+    "user": "Stevekass"
+  },
+  {
+    "comment": "The post says this weekend, not today.",
+    "parentid": 455310076,
+    "parsedcomment": "The post says this weekend, not today.",
+    "revid": 455310918,
+    "timestamp": "2011-10-13T02:46:55Z",
+    "user": "Rpk512"
+  },
+  {
+    "anon": "",
+    "comment": "correct date of death",
+    "parentid": 455310918,
+    "parsedcomment": "correct date of death",
+    "revid": 455311124,
+    "timestamp": "2011-10-13T02:49:24Z",
+    "user": "46.4.240.197"
+  },
+  {
+    "anon": "",
+    "comment": "Revert unconfirmed death rumor. A random Google+ post is NOT a \"reliable, third-party, published source with a reputation for fact-checking and accuracy\". See [[WP:IRS]]",
+    "parentid": 455311124,
+    "parsedcomment": "Revert unconfirmed death rumor. A random Google+ post is NOT a &quot;reliable, third-party, published source with a reputation for fact-checking and accuracy&quot;. See <a href=\"/wiki/Wikipedia:IRS\" class=\"mw-redirect\" title=\"Wikipedia:IRS\">WP:IRS</a>",
+    "revid": 455313273,
+    "timestamp": "2011-10-13T03:12:32Z",
+    "user": "212.238.240.159"
+  },
+  {
+    "anon": "",
+    "comment": "He passed away",
+    "parentid": 455313273,
+    "parsedcomment": "He passed away",
+    "revid": 455313502,
+    "timestamp": "2011-10-13T03:15:35Z",
+    "user": "50.129.93.209"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455313502,
+    "parsedcomment": "",
+    "revid": 455313626,
+    "timestamp": "2011-10-13T03:16:51Z",
+    "user": "50.129.93.209"
+  },
+  {
+    "anon": "",
+    "comment": "/* we do not need his age twice in the same place; good night sweet prince */",
+    "parentid": 455313626,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#we_do_not_need_his_age_twice_in_the_same_place.3B_good_night_sweet_prince\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">we do not need his age twice in the same place; good night sweet prince</span></span>",
+    "revid": 455313893,
+    "timestamp": "2011-10-13T03:19:37Z",
+    "user": "98.232.14.51"
+  },
+  {
+    "comment": "Revert: unconfirmed death rumor",
+    "minor": "",
+    "parentid": 455313893,
+    "parsedcomment": "Revert: unconfirmed death rumor",
+    "revid": 455313902,
+    "timestamp": "2011-10-13T03:19:44Z",
+    "user": "Kiyokoakiyama"
+  },
+  {
+    "comment": "/* Notes and references */ to two columns-less scrolling & less white space",
+    "parentid": 455313902,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Notes_and_references\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Notes and references: </span> to two columns-less scrolling &amp; less white space</span>",
+    "revid": 455313942,
+    "timestamp": "2011-10-13T03:20:08Z",
+    "user": "Lentower"
+  },
+  {
+    "comment": "",
+    "parentid": 455313942,
+    "parsedcomment": "",
+    "revid": 455313949,
+    "timestamp": "2011-10-13T03:20:13Z",
+    "user": "Andrewphelps"
+  },
+  {
+    "comment": "Undid revision 455313949 by [[Special:Contributions/Andrewphelps|Andrewphelps]] ([[User talk:Andrewphelps|talk]])",
+    "parentid": 455313949,
+    "parsedcomment": "Undid revision 455313949 by <a href=\"/wiki/Special:Contributions/Andrewphelps\" title=\"Special:Contributions/Andrewphelps\">Andrewphelps</a> (<a href=\"/wiki/User_talk:Andrewphelps\" title=\"User talk:Andrewphelps\">talk</a>)",
+    "revid": 455314145,
+    "timestamp": "2011-10-13T03:22:37Z",
+    "user": "Andrewphelps"
+  },
+  {
+    "comment": "",
+    "parentid": 455314145,
+    "parsedcomment": "",
+    "revid": 455314585,
+    "timestamp": "2011-10-13T03:27:19Z",
+    "user": "Hunterbdean"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455314585,
+    "parsedcomment": "",
+    "revid": 455314749,
+    "timestamp": "2011-10-13T03:29:07Z",
+    "user": "192.102.239.195"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455314749,
+    "parsedcomment": "",
+    "revid": 455314878,
+    "timestamp": "2011-10-13T03:30:24Z",
+    "user": "192.102.239.195"
+  },
+  {
+    "comment": "added death date",
+    "parentid": 455314878,
+    "parsedcomment": "added death date",
+    "revid": 455314983,
+    "timestamp": "2011-10-13T03:31:31Z",
+    "user": "Lillipeg"
+  },
+  {
+    "comment": "RIP... :(",
+    "parentid": 455314983,
+    "parsedcomment": "RIP... :(",
+    "revid": 455315005,
+    "timestamp": "2011-10-13T03:31:41Z",
+    "user": "Toresbe"
+  },
+  {
+    "comment": "add ((cn}}s on death dates",
+    "parentid": 455315005,
+    "parsedcomment": "add ((cn}}s on death dates",
+    "revid": 455315476,
+    "timestamp": "2011-10-13T03:36:46Z",
+    "user": "Lentower"
+  },
+  {
+    "comment": "",
+    "parentid": 455315476,
+    "parsedcomment": "",
+    "revid": 455316034,
+    "timestamp": "2011-10-13T03:42:49Z",
+    "user": "Rpk512"
+  },
+  {
+    "comment": "Reverted edits by [[Special:Contributions/Rpk512|Rpk512]] ([[User talk:Rpk512|talk]]) unexplained removal of content ([[WP:HG|HG]])",
+    "minor": "",
+    "parentid": 455316034,
+    "parsedcomment": "Reverted edits by <a href=\"/wiki/Special:Contributions/Rpk512\" title=\"Special:Contributions/Rpk512\">Rpk512</a> (<a href=\"/wiki/User_talk:Rpk512\" title=\"User talk:Rpk512\">talk</a>) unexplained removal of content (<a href=\"/wiki/Wikipedia:HG\" class=\"mw-redirect\" title=\"Wikipedia:HG\">HG</a>)",
+    "revid": 455316101,
+    "timestamp": "2011-10-13T03:43:35Z",
+    "user": "Jeff G."
+  },
+  {
+    "anon": "",
+    "comment": "It says \"OVER THE WEEKEND\"",
+    "parentid": 455316101,
+    "parsedcomment": "It says &quot;OVER THE WEEKEND&quot;",
+    "revid": 455316210,
+    "timestamp": "2011-10-13T03:44:54Z",
+    "user": "24.4.235.251"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455316210,
+    "parsedcomment": "",
+    "revid": 455316234,
+    "timestamp": "2011-10-13T03:45:12Z",
+    "user": "24.4.235.251"
+  },
+  {
+    "comment": "Dated {{Citation needed}}. (Build p616)",
+    "minor": "",
+    "parentid": 455316234,
+    "parsedcomment": "Dated {{Citation needed}}. (Build p616)",
+    "revid": 455316308,
+    "timestamp": "2011-10-13T03:46:01Z",
+    "user": "Helpful Pixie Bot"
+  },
+  {
+    "comment": "",
+    "parentid": 455316308,
+    "parsedcomment": "",
+    "revid": 455316841,
+    "timestamp": "2011-10-13T03:52:24Z",
+    "user": "Tabularoinak"
+  },
+  {
+    "comment": "",
+    "parentid": 455316841,
+    "parsedcomment": "",
+    "revid": 455316885,
+    "timestamp": "2011-10-13T03:52:58Z",
+    "user": "Tabularoinak"
+  },
+  {
+    "anon": "",
+    "comment": "/* C and Unix */",
+    "parentid": 455316885,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix</span></span>",
+    "revid": 455317075,
+    "timestamp": "2011-10-13T03:55:19Z",
+    "user": "144.53.226.17"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455317075,
+    "parsedcomment": "",
+    "revid": 455321131,
+    "timestamp": "2011-10-13T04:42:38Z",
+    "user": "220.255.2.166"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455321131,
+    "parsedcomment": "",
+    "revid": 455321408,
+    "timestamp": "2011-10-13T04:45:29Z",
+    "user": "189.222.186.71"
+  },
+  {
+    "comment": "rm redundant",
+    "parentid": 455321408,
+    "parsedcomment": "rm redundant",
+    "revid": 455321526,
+    "timestamp": "2011-10-13T04:46:57Z",
+    "user": "PRRfan"
+  },
+  {
+    "comment": "",
+    "parentid": 455321526,
+    "parsedcomment": "",
+    "revid": 455324328,
+    "timestamp": "2011-10-13T05:20:24Z",
+    "user": "Mstone0802"
+  },
+  {
+    "comment": "/* External links */add info to [[Wikipedia:Persondata]] using [[Project:AWB|AWB]] (7852)",
+    "parentid": 455324328,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span>add info to <a href=\"/wiki/Wikipedia:Persondata\" title=\"Wikipedia:Persondata\">Wikipedia:Persondata</a> using <a href=\"/wiki/Wikipedia:AWB\" class=\"mw-redirect\" title=\"Wikipedia:AWB\">AWB</a> (7852)</span>",
+    "revid": 455331204,
+    "timestamp": "2011-10-13T06:44:24Z",
+    "user": "Bgwhite"
+  },
+  {
+    "comment": "-living people",
+    "parentid": 455331204,
+    "parsedcomment": "-living people",
+    "revid": 455332567,
+    "timestamp": "2011-10-13T07:01:02Z",
+    "user": "Mro"
+  },
+  {
+    "anon": "",
+    "comment": "/* Background */",
+    "parentid": 455332567,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Background\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Background</span></span>",
+    "revid": 455335764,
+    "timestamp": "2011-10-13T07:41:39Z",
+    "user": "115.113.49.194"
+  },
+  {
+    "anon": "",
+    "comment": "{{death date and age}}",
+    "parentid": 455335764,
+    "parsedcomment": "{{death date and age}}",
+    "revid": 455335780,
+    "timestamp": "2011-10-13T07:41:54Z",
+    "user": "192.38.109.188"
+  },
+  {
+    "comment": "Undid revision 455335764 by [[Special:Contributions/115.113.49.194|115.113.49.194]] ([[User talk:115.113.49.194|talk]]) rvv",
+    "parentid": 455335780,
+    "parsedcomment": "Undid revision 455335764 by <a href=\"/wiki/Special:Contributions/115.113.49.194\" title=\"Special:Contributions/115.113.49.194\">115.113.49.194</a> (<a href=\"/wiki/User_talk:115.113.49.194\" title=\"User talk:115.113.49.194\">talk</a>) rvv",
+    "revid": 455336051,
+    "timestamp": "2011-10-13T07:45:12Z",
+    "user": "PatrikR"
+  },
+  {
+    "comment": "/* Quotes */ {{copy to wikiquote}}",
+    "parentid": 455336051,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Quotes\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Quotes: </span> {{copy to wikiquote}}</span>",
+    "revid": 455336524,
+    "timestamp": "2011-10-13T07:50:30Z",
+    "user": "Emijrp"
+  },
+  {
+    "anon": "",
+    "comment": "/* Background */",
+    "parentid": 455336524,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Background\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Background</span></span>",
+    "revid": 455340275,
+    "timestamp": "2011-10-13T08:35:29Z",
+    "user": "182.72.78.122"
+  },
+  {
+    "comment": "/* Background */ Fix date mistake",
+    "parentid": 455340275,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Background\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Background: </span> Fix date mistake</span>",
+    "revid": 455340613,
+    "timestamp": "2011-10-13T08:39:40Z",
+    "user": "Firefishy"
+  },
+  {
+    "anon": "",
+    "comment": "/* External links */  - correct linuxworld link",
+    "parentid": 455340613,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span>  - correct linuxworld link</span>",
+    "revid": 455343319,
+    "timestamp": "2011-10-13T09:11:53Z",
+    "user": "217.98.89.132"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455343319,
+    "parsedcomment": "",
+    "revid": 455343592,
+    "timestamp": "2011-10-13T09:15:02Z",
+    "user": "120.63.39.249"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455343592,
+    "parsedcomment": "",
+    "revid": 455344240,
+    "timestamp": "2011-10-13T09:23:04Z",
+    "user": "198.240.133.75"
+  },
+  {
+    "comment": "RIP",
+    "parentid": 455344240,
+    "parsedcomment": "RIP",
+    "revid": 455344723,
+    "timestamp": "2011-10-13T09:28:52Z",
+    "user": "Oneiros"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455344723,
+    "parsedcomment": "",
+    "revid": 455347059,
+    "timestamp": "2011-10-13T09:57:02Z",
+    "user": "195.172.145.181"
+  },
+  {
+    "comment": "Reverting possible vandalism by [[Special:Contributions/195.172.145.181|195.172.145.181]] to version by Oneiros. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (650151) (Bot)",
+    "minor": "",
+    "parentid": 455347059,
+    "parsedcomment": "Reverting possible vandalism by <a href=\"/wiki/Special:Contributions/195.172.145.181\" title=\"Special:Contributions/195.172.145.181\">195.172.145.181</a> to version by Oneiros. False positive? <a href=\"/wiki/User:ClueBot_NG/FalsePositives\" title=\"User:ClueBot NG/FalsePositives\">Report it</a>. Thanks, <a href=\"/wiki/User:ClueBot_NG\" title=\"User:ClueBot NG\">ClueBot NG</a>. (650151) (Bot)",
+    "revid": 455347063,
+    "timestamp": "2011-10-13T09:57:06Z",
+    "user": "ClueBot NG"
+  },
+  {
+    "anon": "",
+    "comment": "/* Japan Prize */",
+    "parentid": 455347063,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Japan_Prize\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Japan Prize</span></span>",
+    "revid": 455347346,
+    "timestamp": "2011-10-13T10:00:10Z",
+    "user": "195.172.145.181"
+  },
+  {
+    "anon": "",
+    "comment": "Undid revision 455347346 by [[Special:Contributions/195.172.145.181|195.172.145.181]] ([[User talk:195.172.145.181|talk]])",
+    "parentid": 455347346,
+    "parsedcomment": "Undid revision 455347346 by <a href=\"/wiki/Special:Contributions/195.172.145.181\" title=\"Special:Contributions/195.172.145.181\">195.172.145.181</a> (<a href=\"/wiki/User_talk:195.172.145.181\" title=\"User talk:195.172.145.181\">talk</a>)",
+    "revid": 455347627,
+    "timestamp": "2011-10-13T10:03:07Z",
+    "user": "151.75.21.98"
+  },
+  {
+    "comment": "/* External links */ Removed dead link",
+    "minor": "",
+    "parentid": 455347627,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> Removed dead link</span>",
+    "revid": 455353250,
+    "timestamp": "2011-10-13T11:01:42Z",
+    "user": "AHinMaine"
+  },
+  {
+    "comment": "Undid revision 455353250 by [[Special:Contributions/AHinMaine|AHinMaine]] ([[User talk:AHinMaine|talk]]) not valid reason to remove such an important link",
+    "parentid": 455353250,
+    "parsedcomment": "Undid revision 455353250 by <a href=\"/wiki/Special:Contributions/AHinMaine\" title=\"Special:Contributions/AHinMaine\">AHinMaine</a> (<a href=\"/wiki/User_talk:AHinMaine\" title=\"User talk:AHinMaine\">talk</a>) not valid reason to remove such an important link",
+    "revid": 455353582,
+    "timestamp": "2011-10-13T11:05:38Z",
+    "user": "Emijrp"
+  },
+  {
+    "comment": "/* External links */ adding google cache",
+    "parentid": 455353582,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> adding google cache</span>",
+    "revid": 455353715,
+    "timestamp": "2011-10-13T11:07:15Z",
+    "user": "Emijrp"
+  },
+  {
+    "comment": "fmt",
+    "parentid": 455353715,
+    "parsedcomment": "fmt",
+    "revid": 455353874,
+    "timestamp": "2011-10-13T11:09:10Z",
+    "user": "Benlisquare"
+  },
+  {
+    "comment": "+link",
+    "minor": "",
+    "parentid": 455353874,
+    "parsedcomment": "+link",
+    "revid": 455354470,
+    "timestamp": "2011-10-13T11:15:37Z",
+    "user": "Emijrp"
+  },
+  {
+    "comment": "Dated {{Recent death}}{{Dead link}}. (Build p616)",
+    "minor": "",
+    "parentid": 455354470,
+    "parsedcomment": "Dated {{Recent death}}{{Dead link}}. (Build p616)",
+    "revid": 455356085,
+    "timestamp": "2011-10-13T11:34:57Z",
+    "user": "Helpful Pixie Bot"
+  },
+  {
+    "anon": "",
+    "comment": "/* C and Unix */ minor edit.. properized capitilzation.",
+    "parentid": 455356085,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix: </span> minor edit.. properized capitilzation.</span>",
+    "revid": 455356561,
+    "timestamp": "2011-10-13T11:40:22Z",
+    "user": "107.9.196.176"
+  },
+  {
+    "comment": "wr style",
+    "minor": "",
+    "parentid": 455356561,
+    "parsedcomment": "wr style",
+    "revid": 455360117,
+    "timestamp": "2011-10-13T12:17:20Z",
+    "user": "Jengelh"
+  },
+  {
+    "comment": "added computerworlduk ref for death date. (is there any reliable reference which says \"October 8\"?)",
+    "parentid": 455360117,
+    "parsedcomment": "added computerworlduk ref for death date. (is there any reliable reference which says &quot;October 8&quot;?)",
+    "revid": 455367307,
+    "timestamp": "2011-10-13T13:23:19Z",
+    "user": "Klutzy"
+  },
+  {
+    "comment": "/* C and Unix */ rm redundant",
+    "parentid": 455367307,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix: </span> rm redundant</span>",
+    "revid": 455367522,
+    "timestamp": "2011-10-13T13:25:13Z",
+    "user": "PRRfan"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455367522,
+    "parsedcomment": "",
+    "revid": 455370946,
+    "timestamp": "2011-10-13T13:55:19Z",
+    "user": "35.9.194.81"
+  },
+  {
+    "comment": "rm recent death template--edit frequency does not indicate inclusion (per instructions at [[Template:Recent death]]), space",
+    "parentid": 455370946,
+    "parsedcomment": "rm recent death template--edit frequency does not indicate inclusion (per instructions at <a href=\"/wiki/Template:Recent_death\" title=\"Template:Recent death\">Template:Recent death</a>), space",
+    "revid": 455371063,
+    "timestamp": "2011-10-13T13:56:12Z",
+    "user": "Connormah"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455371063,
+    "parsedcomment": "",
+    "revid": 455374799,
+    "timestamp": "2011-10-13T14:24:28Z",
+    "user": "72.11.78.34"
+  },
+  {
+    "anon": "",
+    "comment": "Undid revision 455374799 by [[Special:Contributions/72.11.78.34|72.11.78.34]] ([[User talk:72.11.78.34|talk]])",
+    "parentid": 455374799,
+    "parsedcomment": "Undid revision 455374799 by <a href=\"/wiki/Special:Contributions/72.11.78.34\" title=\"Special:Contributions/72.11.78.34\">72.11.78.34</a> (<a href=\"/wiki/User_talk:72.11.78.34\" title=\"User talk:72.11.78.34\">talk</a>)",
+    "revid": 455375741,
+    "timestamp": "2011-10-13T14:32:03Z",
+    "user": "208.206.214.62"
+  },
+  {
+    "anon": "",
+    "comment": "/* Background */ Added father",
+    "parentid": 455375741,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Background\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Background: </span> Added father</span>",
+    "revid": 455376109,
+    "timestamp": "2011-10-13T14:34:48Z",
+    "user": "208.83.194.134"
+  },
+  {
+    "anon": "",
+    "comment": "adding recent death template",
+    "parentid": 455376109,
+    "parsedcomment": "adding recent death template",
+    "revid": 455377223,
+    "timestamp": "2011-10-13T14:42:40Z",
+    "user": "129.171.249.143"
+  },
+  {
+    "anon": "",
+    "comment": "He born September 9, please look his biography: ftp://cm.bell-labs.com/who/dmr/bigbio1st.html (if cm.bell-labs.com is down use google cache)",
+    "parentid": 455377223,
+    "parsedcomment": "He born September 9, please look his biography: ftp://cm.bell-labs.com/who/dmr/bigbio1st.html (if cm.bell-labs.com is down use google cache)",
+    "revid": 455377255,
+    "timestamp": "2011-10-13T14:42:57Z",
+    "user": "186.136.126.53"
+  },
+  {
+    "anon": "",
+    "comment": "/* Background */ correct typo",
+    "parentid": 455377255,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Background\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Background: </span> correct typo</span>",
+    "revid": 455378607,
+    "timestamp": "2011-10-13T14:52:22Z",
+    "user": "208.83.194.134"
+  },
+  {
+    "comment": "",
+    "parentid": 455378607,
+    "parsedcomment": "",
+    "revid": 455379505,
+    "timestamp": "2011-10-13T14:59:07Z",
+    "user": "Pauljerwin"
+  },
+  {
+    "comment": "Pointless trivia removal.",
+    "minor": "",
+    "parentid": 455379505,
+    "parsedcomment": "Pointless trivia removal.",
+    "revid": 455381697,
+    "timestamp": "2011-10-13T15:15:45Z",
+    "user": "Johnny Squeaky"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455381697,
+    "parsedcomment": "",
+    "revid": 455381713,
+    "timestamp": "2011-10-13T15:15:52Z",
+    "user": "46.116.182.45"
+  },
+  {
+    "comment": "",
+    "minor": "",
+    "parentid": 455381713,
+    "parsedcomment": "",
+    "revid": 455381750,
+    "timestamp": "2011-10-13T15:16:11Z",
+    "user": "Johnny Squeaky"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455381750,
+    "parsedcomment": "",
+    "revid": 455384966,
+    "timestamp": "2011-10-13T15:38:38Z",
+    "user": "210.212.202.201"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455384966,
+    "parsedcomment": "",
+    "revid": 455385075,
+    "timestamp": "2011-10-13T15:39:16Z",
+    "user": "210.212.202.201"
+  },
+  {
+    "comment": "r2.7.1) (robot Modifying: [[mr:\u0921\u0947\u0928\u093f\u0938 \u0930\u093f\u091a\u0940]]",
+    "minor": "",
+    "parentid": 455385075,
+    "parsedcomment": "r2.7.1) (robot Modifying: <a href=\"https://mr.wikipedia.org/wiki/%E0%A4%A1%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%B8_%E0%A4%B0%E0%A4%BF%E0%A4%9A%E0%A5%80\" class=\"extiw\" title=\"mr:\u0921\u0947\u0928\u093f\u0938 \u0930\u093f\u091a\u0940\">mr:\u0921\u0947\u0928\u093f\u0938 \u0930\u093f\u091a\u0940</a>",
+    "revid": 455385701,
+    "timestamp": "2011-10-13T15:43:18Z",
+    "user": "Amirobot"
+  },
+  {
+    "anon": "",
+    "comment": "Dennis died October 8 says in the article cited for the time of passing. Oct 13 was the day it was published.",
+    "parentid": 455385701,
+    "parsedcomment": "Dennis died October 8 says in the article cited for the time of passing. Oct 13 was the day it was published.",
+    "revid": 455386630,
+    "timestamp": "2011-10-13T15:49:06Z",
+    "user": "190.104.162.78"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455386630,
+    "parsedcomment": "",
+    "revid": 455386802,
+    "timestamp": "2011-10-13T15:50:09Z",
+    "user": "128.101.51.240"
+  },
+  {
+    "anon": "",
+    "comment": "/* Background */ You can't be born just to your dad",
+    "parentid": 455386802,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Background\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Background: </span> You can&#039;t be born just to your dad</span>",
+    "revid": 455386917,
+    "timestamp": "2011-10-13T15:50:56Z",
+    "user": "67.188.211.38"
+  },
+  {
+    "comment": "/* Quotes */  -quote with no useful citation or context",
+    "parentid": 455386917,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Quotes\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Quotes: </span>  -quote with no useful citation or context</span>",
+    "revid": 455387003,
+    "timestamp": "2011-10-13T15:51:37Z",
+    "user": "NapoliRoma"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455387003,
+    "parsedcomment": "",
+    "revid": 455392321,
+    "timestamp": "2011-10-13T16:28:16Z",
+    "user": "115.249.18.25"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455392321,
+    "parsedcomment": "",
+    "revid": 455395265,
+    "timestamp": "2011-10-13T16:47:09Z",
+    "user": "91.77.190.154"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455395265,
+    "parsedcomment": "",
+    "revid": 455395359,
+    "timestamp": "2011-10-13T16:47:38Z",
+    "user": "91.77.190.154"
+  },
+  {
+    "comment": "Robot: Modifying [[no:Dennis Ritchie]]",
+    "minor": "",
+    "parentid": 455395359,
+    "parsedcomment": "Robot: Modifying <a href=\"https://no.wikipedia.org/wiki/Dennis_Ritchie\" class=\"extiw\" title=\"no:Dennis Ritchie\">no:Dennis Ritchie</a>",
+    "revid": 455404057,
+    "timestamp": "2011-10-13T17:45:10Z",
+    "user": "LaaknorBot"
+  },
+  {
+    "comment": "/* External links */ He site isn't down, if anything, it's getting swamped.",
+    "parentid": 455404057,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> He site isn&#039;t down, if anything, it&#039;s getting swamped.</span>",
+    "revid": 455406122,
+    "timestamp": "2011-10-13T17:58:05Z",
+    "user": "Brynet"
+  },
+  {
+    "comment": "/* C and Unix */ must be in italics",
+    "parentid": 455406122,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix: </span> must be in italics</span>",
+    "revid": 455410979,
+    "timestamp": "2011-10-13T18:30:17Z",
+    "user": "Attilios"
+  },
+  {
+    "comment": "robot Adding: [[lv:Deniss Ri\u010dijs]]",
+    "minor": "",
+    "parentid": 455410979,
+    "parsedcomment": "robot Adding: <a href=\"https://lv.wikipedia.org/wiki/Deniss_Ri%C4%8Dijs\" class=\"extiw\" title=\"lv:Deniss Ri\u010dijs\">lv:Deniss Ri\u010dijs</a>",
+    "revid": 455414453,
+    "timestamp": "2011-10-13T18:53:15Z",
+    "user": "GZ-Bot"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455414453,
+    "parsedcomment": "",
+    "revid": 455417487,
+    "timestamp": "2011-10-13T19:12:37Z",
+    "user": "190.238.213.121"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455417487,
+    "parsedcomment": "",
+    "revid": 455418534,
+    "timestamp": "2011-10-13T19:20:03Z",
+    "user": "95.245.224.162"
+  },
+  {
+    "comment": "/* External links */ added FindAgrave link",
+    "minor": "",
+    "parentid": 455418534,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> added FindAgrave link</span>",
+    "revid": 455419620,
+    "timestamp": "2011-10-13T19:27:52Z",
+    "user": "Indexme"
+  },
+  {
+    "comment": "/* Quotes */ -copy to wikiquote",
+    "parentid": 455419620,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Quotes\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Quotes: </span> -copy to wikiquote</span>",
+    "revid": 455428572,
+    "timestamp": "2011-10-13T20:29:42Z",
+    "user": "DrBeWa"
+  },
+  {
+    "comment": "add Ref to BBC news",
+    "parentid": 455428572,
+    "parsedcomment": "add Ref to BBC news",
+    "revid": 455429106,
+    "timestamp": "2011-10-13T20:33:31Z",
+    "user": "DrBeWa"
+  },
+  {
+    "comment": "added years to picture captions",
+    "parentid": 455429106,
+    "parsedcomment": "added years to picture captions",
+    "revid": 455430080,
+    "timestamp": "2011-10-13T20:40:30Z",
+    "user": "DrBeWa"
+  },
+  {
+    "comment": "",
+    "minor": "",
+    "parentid": 455430080,
+    "parsedcomment": "",
+    "revid": 455432842,
+    "timestamp": "2011-10-13T20:59:51Z",
+    "user": "Jim Michael"
+  },
+  {
+    "anon": "",
+    "comment": "/* C and Unix */ Added \"embedded system\".",
+    "parentid": 455432842,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix: </span> Added &quot;embedded system&quot;.</span>",
+    "revid": 455435250,
+    "timestamp": "2011-10-13T21:15:17Z",
+    "user": "72.11.65.66"
+  },
+  {
+    "comment": "Template not needed on this article  - see [[Template:Recent_death]]",
+    "parentid": 455435250,
+    "parsedcomment": "Template not needed on this article  - see <a href=\"/wiki/Template:Recent_death\" title=\"Template:Recent death\">Template:Recent_death</a>",
+    "revid": 455435625,
+    "timestamp": "2011-10-13T21:17:53Z",
+    "user": "William Avery"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455435625,
+    "parsedcomment": "",
+    "revid": 455437976,
+    "timestamp": "2011-10-13T21:34:14Z",
+    "user": "94.4.161.87"
+  },
+  {
+    "comment": "Reverted 1 edit by [[Special:Contributions/94.4.161.87|94.4.161.87]] ([[User talk:94.4.161.87|talk]]): Cited sources say last weekend and one gives 8 Oct as the date. ([[WP:TW|TW]])",
+    "parentid": 455437976,
+    "parsedcomment": "Reverted 1 edit by <a href=\"/wiki/Special:Contributions/94.4.161.87\" title=\"Special:Contributions/94.4.161.87\">94.4.161.87</a> (<a href=\"/wiki/User_talk:94.4.161.87\" title=\"User talk:94.4.161.87\">talk</a>): Cited sources say last weekend and one gives 8 Oct as the date. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 455438690,
+    "timestamp": "2011-10-13T21:39:20Z",
+    "user": "William Avery"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455438690,
+    "parsedcomment": "",
+    "revid": 455439927,
+    "timestamp": "2011-10-13T21:48:27Z",
+    "user": "192.197.253.19"
+  },
+  {
+    "comment": "Undid revision 455439927 by [[Special:Contributions/192.197.253.19|192.197.253.19]] ([[User talk:192.197.253.19|talk]])Vandal revert",
+    "parentid": 455439927,
+    "parsedcomment": "Undid revision 455439927 by <a href=\"/wiki/Special:Contributions/192.197.253.19\" title=\"Special:Contributions/192.197.253.19\">192.197.253.19</a> (<a href=\"/wiki/User_talk:192.197.253.19\" title=\"User talk:192.197.253.19\">talk</a>)Vandal revert",
+    "revid": 455441513,
+    "timestamp": "2011-10-13T22:00:39Z",
+    "user": "Johnny Squeaky"
+  },
+  {
+    "comment": "Added section on Ritchie's death",
+    "parentid": 455441513,
+    "parsedcomment": "Added section on Ritchie&#039;s death",
+    "revid": 455448095,
+    "timestamp": "2011-10-13T22:51:57Z",
+    "user": "Siddharth Prabhu"
+  },
+  {
+    "anon": "",
+    "comment": "/* Death */",
+    "parentid": 455448095,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death</span></span>",
+    "revid": 455471557,
+    "timestamp": "2011-10-14T02:20:35Z",
+    "user": "187.64.118.117"
+  },
+  {
+    "anon": "",
+    "comment": "/* Death */",
+    "parentid": 455471557,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death</span></span>",
+    "revid": 455471812,
+    "timestamp": "2011-10-14T02:23:26Z",
+    "user": "76.22.180.150"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455471812,
+    "parsedcomment": "",
+    "revid": 455472007,
+    "timestamp": "2011-10-14T02:25:43Z",
+    "user": "27.33.140.7"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455472007,
+    "parsedcomment": "",
+    "revid": 455472928,
+    "timestamp": "2011-10-14T02:36:43Z",
+    "user": "190.238.213.121"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455472928,
+    "parsedcomment": "",
+    "revid": 455473743,
+    "timestamp": "2011-10-14T02:45:54Z",
+    "user": "190.42.139.32"
+  },
+  {
+    "anon": "",
+    "comment": "/* Death */",
+    "parentid": 455473743,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death</span></span>",
+    "revid": 455475354,
+    "timestamp": "2011-10-14T03:03:27Z",
+    "user": "189.230.82.84"
+  },
+  {
+    "anon": "",
+    "comment": "/* C and Unix */",
+    "parentid": 455475354,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix</span></span>",
+    "revid": 455475902,
+    "timestamp": "2011-10-14T03:08:38Z",
+    "user": "119.111.33.134"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455475902,
+    "parsedcomment": "",
+    "revid": 455475991,
+    "timestamp": "2011-10-14T03:09:44Z",
+    "user": "24.57.135.80"
+  },
+  {
+    "comment": "/* C and Unix */  Vandalism",
+    "minor": "",
+    "parentid": 455475991,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix: </span>  Vandalism</span>",
+    "revid": 455476183,
+    "timestamp": "2011-10-14T03:12:07Z",
+    "user": "Txmy"
+  },
+  {
+    "comment": "Merge two refs / add the Dr. Dobb's Journal ref",
+    "parentid": 455476183,
+    "parsedcomment": "Merge two refs / add the Dr. Dobb&#039;s Journal ref",
+    "revid": 455477704,
+    "timestamp": "2011-10-14T03:27:10Z",
+    "user": "Alison"
+  },
+  {
+    "comment": "Corrected day of his departure",
+    "parentid": 455477704,
+    "parsedcomment": "Corrected day of his departure",
+    "revid": 455477902,
+    "timestamp": "2011-10-14T03:28:52Z",
+    "user": "Luisalvaradox"
+  },
+  {
+    "comment": "Corrected date of death based on cited page, died on the 8th, not the 9th or 12th",
+    "parentid": 455477902,
+    "parsedcomment": "Corrected date of death based on cited page, died on the 8th, not the 9th or 12th",
+    "revid": 455478901,
+    "timestamp": "2011-10-14T03:39:13Z",
+    "user": "Ordalca"
+  },
+  {
+    "comment": "New York Times obituary citation and quote",
+    "parentid": 455478901,
+    "parsedcomment": "New York Times obituary citation and quote",
+    "revid": 455480728,
+    "timestamp": "2011-10-14T03:58:57Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "/* Death */ insert NYTimes cite since it actually has a quote.",
+    "parentid": 455480728,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death: </span> insert NYTimes cite since it actually has a quote.</span>",
+    "revid": 455481747,
+    "timestamp": "2011-10-14T04:10:14Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "added [[Category:People from Union County, New Jersey]] using [[WP:HC|HotCat]]",
+    "parentid": 455481747,
+    "parsedcomment": "added <a href=\"/wiki/Category:People_from_Union_County,_New_Jersey\" title=\"Category:People from Union County, New Jersey\">Category:People from Union County, New Jersey</a> using <a href=\"/wiki/Wikipedia:HC\" class=\"mw-redirect\" title=\"Wikipedia:HC\">HotCat</a>",
+    "revid": 455482936,
+    "timestamp": "2011-10-14T04:24:46Z",
+    "user": "Arbor to SJ"
+  },
+  {
+    "anon": "",
+    "comment": "/* Death */",
+    "parentid": 455482936,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death</span></span>",
+    "revid": 455483462,
+    "timestamp": "2011-10-14T04:31:02Z",
+    "user": "129.49.227.68"
+  },
+  {
+    "anon": "",
+    "comment": "/* Death and Legacy */",
+    "parentid": 455483462,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_Legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and Legacy</span></span>",
+    "revid": 455483570,
+    "timestamp": "2011-10-14T04:32:17Z",
+    "user": "129.49.227.68"
+  },
+  {
+    "anon": "",
+    "comment": "/* Death and Legacy */",
+    "parentid": 455483570,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_Legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and Legacy</span></span>",
+    "revid": 455484182,
+    "timestamp": "2011-10-14T04:40:31Z",
+    "user": "24.251.52.102"
+  },
+  {
+    "comment": "added recent death tag",
+    "parentid": 455484182,
+    "parsedcomment": "added recent death tag",
+    "revid": 455484983,
+    "timestamp": "2011-10-14T04:50:41Z",
+    "user": "AMERICAN 1 ENGINEER"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455484983,
+    "parsedcomment": "",
+    "revid": 455485414,
+    "timestamp": "2011-10-14T04:56:36Z",
+    "user": "122.169.86.47"
+  },
+  {
+    "comment": "Reverted 1 edit by [[Special:Contributions/122.169.86.47|122.169.86.47]] ([[User talk:122.169.86.47|talk]]): Reverting unsourced content. ([[WP:TW|TW]])",
+    "parentid": 455485414,
+    "parsedcomment": "Reverted 1 edit by <a href=\"/wiki/Special:Contributions/122.169.86.47\" title=\"Special:Contributions/122.169.86.47\">122.169.86.47</a> (<a href=\"/wiki/User_talk:122.169.86.47\" title=\"User talk:122.169.86.47\">talk</a>): Reverting unsourced content. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 455485453,
+    "timestamp": "2011-10-14T04:57:13Z",
+    "user": "SpecMode"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455485453,
+    "parsedcomment": "",
+    "revid": 455485635,
+    "timestamp": "2011-10-14T04:59:29Z",
+    "user": "122.169.86.47"
+  },
+  {
+    "comment": "Reverted 1 edit by [[Special:Contributions/122.169.86.47|122.169.86.47]] ([[User talk:122.169.86.47|talk]]) identified as [[WP:VAND|vandalism]] to last revision by SpecMode. ([[WP:TW|TW]])",
+    "minor": "",
+    "parentid": 455485635,
+    "parsedcomment": "Reverted 1 edit by <a href=\"/wiki/Special:Contributions/122.169.86.47\" title=\"Special:Contributions/122.169.86.47\">122.169.86.47</a> (<a href=\"/wiki/User_talk:122.169.86.47\" title=\"User talk:122.169.86.47\">talk</a>) identified as <a href=\"/wiki/Wikipedia:VAND\" class=\"mw-redirect\" title=\"Wikipedia:VAND\">vandalism</a> to last revision by SpecMode. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 455485705,
+    "timestamp": "2011-10-14T05:00:19Z",
+    "user": "SpecMode"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455485705,
+    "parsedcomment": "",
+    "revid": 455488638,
+    "timestamp": "2011-10-14T05:39:56Z",
+    "user": "121.242.40.10"
+  },
+  {
+    "comment": "Undid revision 455488638 by [[Special:Contributions/121.242.40.10|121.242.40.10]] ([[User talk:121.242.40.10|talk]])Vandalism.",
+    "parentid": 455488638,
+    "parsedcomment": "Undid revision 455488638 by <a href=\"/wiki/Special:Contributions/121.242.40.10\" title=\"Special:Contributions/121.242.40.10\">121.242.40.10</a> (<a href=\"/wiki/User_talk:121.242.40.10\" title=\"User talk:121.242.40.10\">talk</a>)Vandalism.",
+    "revid": 455488678,
+    "timestamp": "2011-10-14T05:40:27Z",
+    "user": "LongLiveMusic"
+  },
+  {
+    "comment": "Correct death date and place to match NY Times citation as Wed, Oct 12, 2011.",
+    "parentid": 455488678,
+    "parsedcomment": "Correct death date and place to match NY Times citation as Wed, Oct 12, 2011.",
+    "revid": 455491234,
+    "timestamp": "2011-10-14T06:13:40Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "[[ta:\u0b9f\u0bc6\u0ba9\u0bbf\u0bb8\u0bcd \u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf]]",
+    "minor": "",
+    "parentid": 455491234,
+    "parsedcomment": "<a href=\"https://ta.wikipedia.org/wiki/%E0%AE%9F%E0%AF%86%E0%AE%A9%E0%AE%BF%E0%AE%B8%E0%AF%8D_%E0%AE%B0%E0%AE%BF%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF\" class=\"extiw\" title=\"ta:\u0b9f\u0bc6\u0ba9\u0bbf\u0bb8\u0bcd \u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\">ta:\u0b9f\u0bc6\u0ba9\u0bbf\u0bb8\u0bcd \u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf</a>",
+    "revid": 455494684,
+    "timestamp": "2011-10-14T06:59:07Z",
+    "user": "Kanags"
+  },
+  {
+    "comment": "Corrected date of death based on obituary",
+    "parentid": 455494684,
+    "parsedcomment": "Corrected date of death based on obituary",
+    "revid": 455495253,
+    "timestamp": "2011-10-14T07:06:00Z",
+    "user": "Bluesmoon"
+  },
+  {
+    "comment": "/* Death and Legacy */ corrected date of death",
+    "parentid": 455495253,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_Legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and Legacy: </span> corrected date of death</span>",
+    "revid": 455495355,
+    "timestamp": "2011-10-14T07:07:37Z",
+    "user": "Bluesmoon"
+  },
+  {
+    "comment": "Template not needed on this article - see [[Template:Recent_death]]",
+    "parentid": 455495355,
+    "parsedcomment": "Template not needed on this article - see <a href=\"/wiki/Template:Recent_death\" title=\"Template:Recent death\">Template:Recent_death</a>",
+    "revid": 455495858,
+    "timestamp": "2011-10-14T07:14:30Z",
+    "user": "William Avery"
+  },
+  {
+    "comment": "Per [[WP:HEAD]] - \"headings are in sentence case, not title case\"",
+    "parentid": 455495858,
+    "parsedcomment": "Per <a href=\"/wiki/Wikipedia:HEAD\" class=\"mw-redirect\" title=\"Wikipedia:HEAD\">WP:HEAD</a> - &quot;headings are in sentence case, not title case&quot;",
+    "revid": 455496077,
+    "timestamp": "2011-10-14T07:17:20Z",
+    "user": "William Avery"
+  },
+  {
+    "comment": "Guardian is less reliable than the NYTimes, which cites his brother.  Guardian waits to the last sentence to give any date and is also less reliable than BBC.",
+    "parentid": 455496077,
+    "parsedcomment": "Guardian is less reliable than the NYTimes, which cites his brother.  Guardian waits to the last sentence to give any date and is also less reliable than BBC.",
+    "revid": 455496685,
+    "timestamp": "2011-10-14T07:25:32Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "Undid revision 455428572 by [[Special:Contributions/DrBeWa|DrBeWa]] ([[User talk:DrBeWa|talk]]) copying these quotes to wikiquote is required, no page for dennis ritchie there yet",
+    "parentid": 455496685,
+    "parsedcomment": "Undid revision 455428572 by <a href=\"/wiki/Special:Contributions/DrBeWa\" title=\"Special:Contributions/DrBeWa\">DrBeWa</a> (<a href=\"/w/index.php?title=User_talk:DrBeWa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:DrBeWa (page does not exist)\">talk</a>) copying these quotes to wikiquote is required, no page for dennis ritchie there yet",
+    "revid": 455498650,
+    "timestamp": "2011-10-14T07:52:51Z",
+    "user": "Emijrp"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455498650,
+    "parsedcomment": "",
+    "revid": 455500448,
+    "timestamp": "2011-10-14T08:16:04Z",
+    "user": "84.26.78.27"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455500448,
+    "parsedcomment": "",
+    "revid": 455500487,
+    "timestamp": "2011-10-14T08:16:36Z",
+    "user": "84.26.78.27"
+  },
+  {
+    "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/84.26.78.27|84.26.78.27]] ([[User talk:84.26.78.27|talk]]) to last version by Emijrp",
+    "minor": "",
+    "parentid": 455500487,
+    "parsedcomment": "<a href=\"/wiki/Help:Reverting\" title=\"Help:Reverting\">Reverted</a> edits by <a href=\"/wiki/Special:Contributions/84.26.78.27\" title=\"Special:Contributions/84.26.78.27\">84.26.78.27</a> (<a href=\"/w/index.php?title=User_talk:84.26.78.27&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:84.26.78.27 (page does not exist)\">talk</a>) to last version by Emijrp",
+    "revid": 455500503,
+    "timestamp": "2011-10-14T08:16:47Z",
+    "user": "Denisarona"
+  },
+  {
+    "comment": "/* C and Unix */ superfluous/improper adverb removed",
+    "minor": "",
+    "parentid": 455500503,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix: </span> superfluous/improper adverb removed</span>",
+    "revid": 455501861,
+    "timestamp": "2011-10-14T08:32:27Z",
+    "user": "Durval"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455501861,
+    "parsedcomment": "",
+    "revid": 455501906,
+    "timestamp": "2011-10-14T08:33:00Z",
+    "user": "153.110.6.241"
+  },
+  {
+    "comment": "/* Death and legacy */ redundent comment",
+    "minor": "",
+    "parentid": 455501906,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy: </span> redundent comment</span>",
+    "revid": 455502202,
+    "timestamp": "2011-10-14T08:36:44Z",
+    "user": "Jamsta"
+  },
+  {
+    "comment": "Please.  No more changes to the date of death without a source that's better than the NY Times (and make sure you convince us on the talk page it's better!)",
+    "parentid": 455502202,
+    "parsedcomment": "Please.  No more changes to the date of death without a source that&#039;s better than the NY Times (and make sure you convince us on the talk page it&#039;s better!)",
+    "revid": 455502514,
+    "timestamp": "2011-10-14T08:40:38Z",
+    "user": "Msnicki"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455502514,
+    "parsedcomment": "",
+    "revid": 455502786,
+    "timestamp": "2011-10-14T08:43:38Z",
+    "user": "62.228.188.180"
+  },
+  {
+    "anon": "",
+    "comment": "/* Death and legacy */",
+    "parentid": 455502786,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy</span></span>",
+    "revid": 455502905,
+    "timestamp": "2011-10-14T08:44:56Z",
+    "user": "180.254.66.198"
+  },
+  {
+    "comment": "Undid revision 455502786 by [[Special:Contributions/62.228.188.180|62.228.188.180]] ([[User talk:62.228.188.180|talk]]) NYTimes is currently most reliable source.  Please discuss changes on talk page.",
+    "parentid": 455502905,
+    "parsedcomment": "Undid revision 455502786 by <a href=\"/wiki/Special:Contributions/62.228.188.180\" title=\"Special:Contributions/62.228.188.180\">62.228.188.180</a> (<a href=\"/w/index.php?title=User_talk:62.228.188.180&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:62.228.188.180 (page does not exist)\">talk</a>) NYTimes is currently most reliable source.  Please discuss changes on talk page.",
+    "revid": 455503206,
+    "timestamp": "2011-10-14T08:48:44Z",
+    "user": "Msnicki"
+  },
+  {
+    "anon": "",
+    "comment": "/* Death and legacy */",
+    "parentid": 455503206,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy</span></span>",
+    "revid": 455503225,
+    "timestamp": "2011-10-14T08:48:56Z",
+    "user": "180.254.66.198"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455503225,
+    "parsedcomment": "",
+    "revid": 455503525,
+    "timestamp": "2011-10-14T08:52:49Z",
+    "user": "121.242.120.84"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455503525,
+    "parsedcomment": "",
+    "revid": 455503680,
+    "timestamp": "2011-10-14T08:54:55Z",
+    "user": "121.242.120.84"
+  },
+  {
+    "comment": "",
+    "parentid": 455503680,
+    "parsedcomment": "",
+    "revid": 455504317,
+    "timestamp": "2011-10-14T09:02:35Z",
+    "user": "Dennycolt99"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 455504317,
+    "parsedcomment": "",
+    "revid": 455504482,
+    "timestamp": "2011-10-14T09:04:38Z",
+    "user": "122.161.212.224"
+  },
+  {
+    "comment": "",
+    "parentid": 455504482,
+    "parsedcomment": "",
+    "revid": 455504584,
+    "timestamp": "2011-10-14T09:05:56Z",
+    "user": "Dennycolt99"
+  },
+  {
+    "anon": "",
+    "comment": "date of his death is mentioned 8th October, 2011 in the profile box, which isn't right as he died on 12th October, 2011.",
+    "parentid": 455504584,
+    "parsedcomment": "date of his death is mentioned 8th October, 2011 in the profile box, which isn&#039;t right as he died on 12th October, 2011.",
+    "revid": 455504710,
+    "timestamp": "2011-10-14T09:07:13Z",
+    "user": "122.161.212.224"
+  },
+  {
+    "comment": "r2.7.1) (Robot: Adding [[kn:\u0ca1\u0cc6\u0ca8\u0ccd\u0ca8\u0cbf\u0cb8\u0ccd \u0cb0\u0cbf\u0c9a\u0cbf]]",
+    "minor": "",
+    "parentid": 455504710,
+    "parsedcomment": "r2.7.1) (Robot: Adding <a href=\"https://kn.wikipedia.org/wiki/%E0%B2%A1%E0%B3%86%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%BF%E0%B2%B8%E0%B3%8D_%E0%B2%B0%E0%B2%BF%E0%B2%9A%E0%B2%BF\" class=\"extiw\" title=\"kn:\u0ca1\u0cc6\u0ca8\u0ccd\u0ca8\u0cbf\u0cb8\u0ccd \u0cb0\u0cbf\u0c9a\u0cbf\">kn:\u0ca1\u0cc6\u0ca8\u0ccd\u0ca8\u0cbf\u0cb8\u0ccd \u0cb0\u0cbf\u0c9a\u0cbf</a>",
+    "revid": 455507440,
+    "timestamp": "2011-10-14T09:40:04Z",
+    "user": "Luckas-bot"
+  },
+  {
+    "comment": "Protected Dennis Ritchie: Persistent [[WP:Vandalism|vandalism]] ([edit=autoconfirmed] (expires 10:24, 21 October 2011 (UTC)) [move=autoconfirmed] (expires 10:24, 21 October 2011 (UTC)))",
+    "minor": "",
+    "parentid": 455507440,
+    "parsedcomment": "Protected Dennis Ritchie: Persistent <a href=\"/wiki/Wikipedia:Vandalism\" title=\"Wikipedia:Vandalism\">vandalism</a> ([edit=autoconfirmed] (expires 10:24, 21 October 2011 (UTC)) [move=autoconfirmed] (expires 10:24, 21 October 2011 (UTC)))",
+    "revid": 455510798,
+    "timestamp": "2011-10-14T10:24:51Z",
+    "user": "Fastily"
+  },
+  {
+    "comment": "Old-school Unix hackers were and are proudly known by their (short) usernames; this deserves to be noted.",
+    "parentid": 455510798,
+    "parsedcomment": "Old-school Unix hackers were and are proudly known by their (short) usernames; this deserves to be noted.",
+    "revid": 455535603,
+    "timestamp": "2011-10-14T14:21:59Z",
+    "user": "Austin Hair"
+  },
+  {
+    "comment": "Formatting",
+    "minor": "",
+    "parentid": 455535603,
+    "parsedcomment": "Formatting",
+    "revid": 455535972,
+    "timestamp": "2011-10-14T14:24:18Z",
+    "user": "Austin Hair"
+  },
+  {
+    "comment": "/* Japan Prize */",
+    "parentid": 455535972,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Japan_Prize\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Japan Prize</span></span>",
+    "revid": 455541717,
+    "timestamp": "2011-10-14T15:04:58Z",
+    "user": "Pauljerwin"
+  },
+  {
+    "comment": "/* External links */ {{Wikiquote|Dennis Ritchie}} creating page there",
+    "parentid": 455541717,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> {{Wikiquote|Dennis Ritchie}} creating page there</span>",
+    "revid": 455542503,
+    "timestamp": "2011-10-14T15:10:17Z",
+    "user": "Emijrp"
+  },
+  {
+    "comment": "/* Quotes */ copied to wikiquote",
+    "parentid": 455542503,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Quotes\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Quotes: </span> copied to wikiquote</span>",
+    "revid": 455542624,
+    "timestamp": "2011-10-14T15:11:12Z",
+    "user": "Emijrp"
+  },
+  {
+    "comment": "copyedit - template cleanup, style, whitespace",
+    "parentid": 455542624,
+    "parsedcomment": "copyedit - template cleanup, style, whitespace",
+    "revid": 455552969,
+    "timestamp": "2011-10-14T16:24:18Z",
+    "user": "Hydrargyrum"
+  },
+  {
+    "comment": "add book cover photo",
+    "parentid": 455552969,
+    "parsedcomment": "add book cover photo",
+    "revid": 455559707,
+    "timestamp": "2011-10-14T17:12:14Z",
+    "user": "Sbmeirow"
+  },
+  {
+    "comment": "{{pp-semi|small=yes}}",
+    "parentid": 455559707,
+    "parsedcomment": "{{pp-semi|small=yes}}",
+    "revid": 455574189,
+    "timestamp": "2011-10-14T18:56:34Z",
+    "user": "Tbhotch"
+  },
+  {
+    "comment": "r2.6.4) (Robot: Adding [[gl:Dennis Ritchie]]",
+    "minor": "",
+    "parentid": 455574189,
+    "parsedcomment": "r2.6.4) (Robot: Adding <a href=\"https://gl.wikipedia.org/wiki/Dennis_Ritchie\" class=\"extiw\" title=\"gl:Dennis Ritchie\">gl:Dennis Ritchie</a>",
+    "revid": 455575214,
+    "timestamp": "2011-10-14T19:02:57Z",
+    "user": "EmausBot"
+  },
+  {
+    "comment": "corrected date of death -- citations support Oct 12, not Oct 8. Consult talk page before changing.",
+    "parentid": 455575214,
+    "parsedcomment": "corrected date of death -- citations support Oct 12, not Oct 8. Consult talk page before changing.",
+    "revid": 455582121,
+    "timestamp": "2011-10-14T19:52:38Z",
+    "user": "Jibal"
+  },
+  {
+    "comment": "Passed away on the 8th, not the 12th",
+    "minor": "",
+    "parentid": 455582121,
+    "parsedcomment": "Passed away on the 8th, not the 12th",
+    "revid": 455586952,
+    "timestamp": "2011-10-14T20:27:22Z",
+    "user": "Jontajonta"
+  },
+  {
+    "comment": "dint make sense",
+    "parentid": 455586952,
+    "parsedcomment": "dint make sense",
+    "revid": 455589697,
+    "timestamp": "2011-10-14T20:47:21Z",
+    "user": "RiverStyx23"
+  },
+  {
+    "comment": "fix death date...can't believe its off...this page is sad....",
+    "parentid": 455589697,
+    "parsedcomment": "fix death date...can&#039;t believe its off...this page is sad....",
+    "revid": 455589925,
+    "timestamp": "2011-10-14T20:48:48Z",
+    "user": "Smallman12q"
+  },
+  {
+    "comment": "/* C and Unix */ Closed the quote. I think.",
+    "parentid": 455589925,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix: </span> Closed the quote. I think.</span>",
+    "revid": 455590000,
+    "timestamp": "2011-10-14T20:49:17Z",
+    "user": "RiverStyx23"
+  },
+  {
+    "comment": "/* Death and legacy */ There were some missing.",
+    "parentid": 455590000,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy: </span> There were some missing.</span>",
+    "revid": 455590232,
+    "timestamp": "2011-10-14T20:50:50Z",
+    "user": "RiverStyx23"
+  },
+  {
+    "comment": "The Grauniad fixed their headline, change ref accordingly",
+    "minor": "",
+    "parentid": 455590232,
+    "parsedcomment": "The Grauniad fixed their headline, change ref accordingly",
+    "revid": 455591795,
+    "timestamp": "2011-10-14T21:02:04Z",
+    "user": "DagErlingSm\u00f8rgrav"
+  },
+  {
+    "comment": "+ mk iw",
+    "parentid": 455591795,
+    "parsedcomment": "+ mk iw",
+    "revid": 455593512,
+    "timestamp": "2011-10-14T21:14:47Z",
+    "user": "Brest"
+  },
+  {
+    "comment": "Dating maintenance tags: {{Recent death}} {{Which}}",
+    "minor": "",
+    "parentid": 455593512,
+    "parsedcomment": "Dating maintenance tags: {{Recent death}} {{Which}}",
+    "revid": 455595492,
+    "timestamp": "2011-10-14T21:29:00Z",
+    "user": "AnomieBOT"
+  },
+  {
+    "comment": "/* Death and legacy */ Deleted a space.",
+    "minor": "",
+    "parentid": 455595492,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy: </span> Deleted a space.</span>",
+    "revid": 455599241,
+    "timestamp": "2011-10-14T21:56:23Z",
+    "user": "Darolew"
+  },
+  {
+    "comment": "/* Death and legacy */ copyediting to make clear he was \"found dead\" on Oct 12 and that his health had been frail.",
+    "parentid": 455599241,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy: </span> copyediting to make clear he was &quot;found dead&quot; on Oct 12 and that his health had been frail.</span>",
+    "revid": 455601680,
+    "timestamp": "2011-10-14T22:15:52Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "/* Death and legacy */ Washington Post AP citation that cause and time of death have not been disclosed.",
+    "parentid": 455601680,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy: </span> Washington Post AP citation that cause and time of death have not been disclosed.</span>",
+    "revid": 455602851,
+    "timestamp": "2011-10-14T22:25:53Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "revert change to NY Times quote.  Direct quotes in citations should never be edited, even to make them \"better\".",
+    "parentid": 455602851,
+    "parsedcomment": "revert change to NY Times quote.  Direct quotes in citations should never be edited, even to make them &quot;better&quot;.",
+    "revid": 455604413,
+    "timestamp": "2011-10-14T22:38:12Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "rm recent death template--edit frequency does not indicate inclusion (per instructions at [[Template:Recent death]])",
+    "parentid": 455604413,
+    "parsedcomment": "rm recent death template--edit frequency does not indicate inclusion (per instructions at <a href=\"/wiki/Template:Recent_death\" title=\"Template:Recent death\">Template:Recent death</a>)",
+    "revid": 455610769,
+    "timestamp": "2011-10-14T23:27:47Z",
+    "user": "Bongomatic"
+  },
+  {
+    "comment": "copyedit - style; noted 2011-10-08 as \"estimated\" date of death in Persondata",
+    "minor": "",
+    "parentid": 455610769,
+    "parsedcomment": "copyedit - style; noted 2011-10-08 as &quot;estimated&quot; date of death in Persondata",
+    "revid": 455616200,
+    "timestamp": "2011-10-15T00:14:42Z",
+    "user": "Hydrargyrum"
+  },
+  {
+    "comment": "add a quote from the BBC article",
+    "parentid": 455616200,
+    "parsedcomment": "add a quote from the BBC article",
+    "revid": 455616703,
+    "timestamp": "2011-10-15T00:19:00Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "insert cite to Rob Pike's post, based on BBC reference to it as the first word of Ritchie's death.",
+    "parentid": 455616703,
+    "parsedcomment": "insert cite to Rob Pike&#039;s post, based on BBC reference to it as the first word of Ritchie&#039;s death.",
+    "revid": 455617849,
+    "timestamp": "2011-10-15T00:28:04Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "Let's stay consistent with Oct 12 and Berkeley Heights as date and place of death as reported in the NY Times.  Death section can explain this was when he was found.",
+    "parentid": 455617849,
+    "parsedcomment": "Let&#039;s stay consistent with Oct 12 and Berkeley Heights as date and place of death as reported in the NY Times.  Death section can explain this was when he was found.",
+    "revid": 455618869,
+    "timestamp": "2011-10-15T00:37:03Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "Trimming the boingboing cite.  With better cites to NYTimes and BBC, I don't think we need it anymore.  Please revert if you disagree.",
+    "parentid": 455618869,
+    "parsedcomment": "Trimming the boingboing cite.  With better cites to NYTimes and BBC, I don&#039;t think we need it anymore.  Please revert if you disagree.",
+    "revid": 455619974,
+    "timestamp": "2011-10-15T00:47:11Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "Trimming the Computerworld UK cite.  With better cites to NYTimes and BBC, I don't think we need it anymore.  Please revert if you disagree.",
+    "parentid": 455619974,
+    "parsedcomment": "Trimming the Computerworld UK cite.  With better cites to NYTimes and BBC, I don&#039;t think we need it anymore.  Please revert if you disagree.",
+    "revid": 455620141,
+    "timestamp": "2011-10-15T00:49:14Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "cite first news came from Rob Pike",
+    "parentid": 455620141,
+    "parsedcomment": "cite first news came from Rob Pike",
+    "revid": 455623924,
+    "timestamp": "2011-10-15T01:27:07Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "Mention IEEE medal and Clinton's presentation of the National Medal.",
+    "parentid": 455623924,
+    "parsedcomment": "Mention IEEE medal and Clinton&#039;s presentation of the National Medal.",
+    "revid": 455626053,
+    "timestamp": "2011-10-15T01:48:40Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "/* Death and legacy */ rm extra period",
+    "minor": "",
+    "parentid": 455626053,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy: </span> rm extra period</span>",
+    "revid": 455628605,
+    "timestamp": "2011-10-15T02:14:24Z",
+    "user": "LuK3"
+  },
+  {
+    "comment": "Edited formatting.",
+    "minor": "",
+    "parentid": 455628605,
+    "parsedcomment": "Edited formatting.",
+    "revid": 455633299,
+    "timestamp": "2011-10-15T03:02:34Z",
+    "user": "Janggeom"
+  },
+  {
+    "comment": "Edited text; edited links.",
+    "minor": "",
+    "parentid": 455633299,
+    "parsedcomment": "Edited text; edited links.",
+    "revid": 455633560,
+    "timestamp": "2011-10-15T03:06:05Z",
+    "user": "Janggeom"
+  },
+  {
+    "comment": "/* Death and legacy */ wikilink [[Rob Pike]]",
+    "parentid": 455633560,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy: </span> wikilink <a href=\"/wiki/Rob_Pike\" title=\"Rob Pike\">Rob Pike</a></span>",
+    "revid": 455634605,
+    "timestamp": "2011-10-15T03:19:00Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "r2.7.1) (Robot: Adding [[oc:Dennis Ritchie]]",
+    "minor": "",
+    "parentid": 455634605,
+    "parsedcomment": "r2.7.1) (Robot: Adding <a href=\"https://oc.wikipedia.org/wiki/Dennis_Ritchie\" class=\"extiw\" title=\"oc:Dennis Ritchie\">oc:Dennis Ritchie</a>",
+    "revid": 455649907,
+    "timestamp": "2011-10-15T06:28:11Z",
+    "user": "Luckas-bot"
+  },
+  {
+    "comment": "/* External links */ add sublinks",
+    "parentid": 455649907,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> add sublinks</span>",
+    "revid": 455651803,
+    "timestamp": "2011-10-15T06:53:27Z",
+    "user": "Sbmeirow"
+  },
+  {
+    "comment": "r2.7.1) (Robot: Adding [[vi:Dennis Ritchie]]",
+    "minor": "",
+    "parentid": 455651803,
+    "parsedcomment": "r2.7.1) (Robot: Adding <a href=\"https://vi.wikipedia.org/wiki/Dennis_Ritchie\" class=\"extiw\" title=\"vi:Dennis Ritchie\">vi:Dennis Ritchie</a>",
+    "revid": 455703322,
+    "timestamp": "2011-10-15T15:55:32Z",
+    "user": "Luckas-bot"
+  },
+  {
+    "comment": "rewrite to avoid the \"notable for\".  Just say it.",
+    "parentid": 455703322,
+    "parsedcomment": "rewrite to avoid the &quot;notable for&quot;.  Just say it.",
+    "revid": 455725881,
+    "timestamp": "2011-10-15T18:41:11Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "missing period",
+    "minor": "",
+    "parentid": 455725881,
+    "parsedcomment": "missing period",
+    "revid": 455726660,
+    "timestamp": "2011-10-15T18:45:52Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "emphasize the collaboration and that these were the two inventors by mentioning that each prize also recognized Thompson equally, but no others.",
+    "parentid": 455726660,
+    "parsedcomment": "emphasize the collaboration and that these were the two inventors by mentioning that each prize also recognized Thompson equally, but no others.",
+    "revid": 455733558,
+    "timestamp": "2011-10-15T19:30:18Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "invention --> software.  No question these were inventions but let's get closer to the wording of the source:  \"software tools\"",
+    "minor": "",
+    "parentid": 455733558,
+    "parsedcomment": "invention --&gt; software.  No question these were inventions but let&#039;s get closer to the wording of the source:  &quot;software tools&quot;",
+    "revid": 455734140,
+    "timestamp": "2011-10-15T19:34:23Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "wikilink [[Computer software|software]]",
+    "minor": "",
+    "parentid": 455734140,
+    "parsedcomment": "wikilink <a href=\"/wiki/Computer_software\" class=\"mw-redirect\" title=\"Computer software\">software</a>",
+    "revid": 455734541,
+    "timestamp": "2011-10-15T19:37:08Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "r2.7.1) (Robot: Modifying [[ta:\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bc1 \u0b87\u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bbf]]",
+    "minor": "",
+    "parentid": 455734541,
+    "parsedcomment": "r2.7.1) (Robot: Modifying <a href=\"https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BF%E0%AE%9A%E0%AF%81_%E0%AE%87%E0%AE%B0%E0%AE%BF%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF\" class=\"extiw\" title=\"ta:\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bc1 \u0b87\u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bbf\">ta:\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bc1 \u0b87\u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bbf</a>",
+    "revid": 455774926,
+    "timestamp": "2011-10-16T01:04:03Z",
+    "user": "Luckas-bot"
+  },
+  {
+    "comment": "Toning down hagiography.",
+    "parentid": 455774926,
+    "parsedcomment": "Toning down hagiography.",
+    "revid": 455795133,
+    "timestamp": "2011-10-16T04:22:00Z",
+    "user": "Mkativerata"
+  },
+  {
+    "comment": "/* Death and legacy */",
+    "parentid": 455795133,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy</span></span>",
+    "revid": 455799712,
+    "timestamp": "2011-10-16T05:11:17Z",
+    "user": "Johnsemlak"
+  },
+  {
+    "comment": "/* Death and legacy */",
+    "parentid": 455799712,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy</span></span>",
+    "revid": 455799781,
+    "timestamp": "2011-10-16T05:12:14Z",
+    "user": "Johnsemlak"
+  },
+  {
+    "comment": "interwiki hi",
+    "parentid": 455799781,
+    "parsedcomment": "interwiki hi",
+    "revid": 455806521,
+    "timestamp": "2011-10-16T06:41:24Z",
+    "user": "Mitul0520"
+  },
+  {
+    "comment": "/* Bibliography */ Dennis has written alot more than two books",
+    "minor": "",
+    "parentid": 455806521,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Bibliography\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Bibliography: </span> Dennis has written alot more than two books</span>",
+    "revid": 455814109,
+    "timestamp": "2011-10-16T08:17:48Z",
+    "user": "Micke"
+  },
+  {
+    "comment": "/* References */ clear",
+    "minor": "",
+    "parentid": 455814109,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#References\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">References: </span> clear</span>",
+    "revid": 455818485,
+    "timestamp": "2011-10-16T09:09:52Z",
+    "user": "Bender235"
+  },
+  {
+    "comment": "Added quote on C language from CNN obituaty.",
+    "parentid": 455818485,
+    "parsedcomment": "Added quote on C language from CNN obituaty.",
+    "revid": 455825189,
+    "timestamp": "2011-10-16T10:34:32Z",
+    "user": "Jcoplien"
+  },
+  {
+    "comment": "Date of death uncertain. See discussion.",
+    "parentid": 455825189,
+    "parsedcomment": "Date of death uncertain. See discussion.",
+    "revid": 455853538,
+    "timestamp": "2011-10-16T15:08:24Z",
+    "user": "Tjibbe I"
+  },
+  {
+    "comment": "",
+    "parentid": 455853538,
+    "parsedcomment": "",
+    "revid": 455853979,
+    "timestamp": "2011-10-16T15:12:09Z",
+    "user": "B-Machine"
+  },
+  {
+    "comment": "Reverted to revision 455825189 by Jcoplien: Restoring Oct 12, 2011 date of death.  Please get consensus BEFORE changing this.. ([[WP:TW|TW]])",
+    "parentid": 455853979,
+    "parsedcomment": "Reverted to revision 455825189 by Jcoplien: Restoring Oct 12, 2011 date of death.  Please get consensus BEFORE changing this.. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 455860082,
+    "timestamp": "2011-10-16T15:59:08Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "Fix and organize references",
+    "parentid": 455860082,
+    "parsedcomment": "Fix and organize references",
+    "revid": 455860208,
+    "timestamp": "2011-10-16T16:00:00Z",
+    "user": "Piotrus"
+  },
+  {
+    "comment": "Undid revision 455860208 by [[Special:Contributions/Piotrus|Piotrus]] ([[User talk:Piotrus|talk]]) Please don't run the refs together w/o line breaks.  It makes it harder to edit them.",
+    "parentid": 455860208,
+    "parsedcomment": "Undid revision 455860208 by <a href=\"/wiki/Special:Contributions/Piotrus\" title=\"Special:Contributions/Piotrus\">Piotrus</a> (<a href=\"/wiki/User_talk:Piotrus\" title=\"User talk:Piotrus\">talk</a>) Please don&#039;t run the refs together w/o line breaks.  It makes it harder to edit them.",
+    "revid": 455863980,
+    "timestamp": "2011-10-16T16:26:35Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "fmt, link",
+    "parentid": 455863980,
+    "parsedcomment": "fmt, link",
+    "revid": 455888185,
+    "timestamp": "2011-10-16T19:04:38Z",
+    "user": "David Gerard"
+  },
+  {
+    "comment": "remove marketdroid-speak: computers are powered by electricity, not by software",
+    "parentid": 455888185,
+    "parsedcomment": "remove marketdroid-speak: computers are powered by electricity, not by software",
+    "revid": 455897210,
+    "timestamp": "2011-10-16T20:03:14Z",
+    "user": "Tamfang"
+  },
+  {
+    "comment": "Remove marketing guff. \"everything\"? Really?",
+    "parentid": 455897210,
+    "parsedcomment": "Remove marketing guff. &quot;everything&quot;? Really?",
+    "revid": 455900573,
+    "timestamp": "2011-10-16T20:26:57Z",
+    "user": "Mkativerata"
+  },
+  {
+    "comment": "/* Japan Prize */ Remove more guff.",
+    "parentid": 455900573,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Japan_Prize\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Japan Prize: </span> Remove more guff.</span>",
+    "revid": 455900740,
+    "timestamp": "2011-10-16T20:28:09Z",
+    "user": "Mkativerata"
+  },
+  {
+    "comment": "Undid revision 455900573 by [[Special:Contributions/Mkativerata|Mkativerata]] ([[User talk:Mkativerata|talk]]) revert removal of [[WP:V]] sourced information from [[WP:RS]] NYTimes.",
+    "parentid": 455900740,
+    "parsedcomment": "Undid revision 455900573 by <a href=\"/wiki/Special:Contributions/Mkativerata\" title=\"Special:Contributions/Mkativerata\">Mkativerata</a> (<a href=\"/wiki/User_talk:Mkativerata\" title=\"User talk:Mkativerata\">talk</a>) revert removal of <a href=\"/wiki/Wikipedia:V\" class=\"mw-redirect\" title=\"Wikipedia:V\">WP:V</a> sourced information from <a href=\"/wiki/Wikipedia:RS\" class=\"mw-redirect\" title=\"Wikipedia:RS\">WP:RS</a> NYTimes.",
+    "revid": 455903082,
+    "timestamp": "2011-10-16T20:45:05Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "Undid revision 455897210 by [[Special:Contributions/Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) revert removal of [[WP:V]] sourced characterization from [[WP:RS]] NYTimes.",
+    "parentid": 455903082,
+    "parsedcomment": "Undid revision 455897210 by <a href=\"/wiki/Special:Contributions/Tamfang\" title=\"Special:Contributions/Tamfang\">Tamfang</a> (<a href=\"/wiki/User_talk:Tamfang\" title=\"User talk:Tamfang\">talk</a>) revert removal of <a href=\"/wiki/Wikipedia:V\" class=\"mw-redirect\" title=\"Wikipedia:V\">WP:V</a> sourced characterization from <a href=\"/wiki/Wikipedia:RS\" class=\"mw-redirect\" title=\"Wikipedia:RS\">WP:RS</a> NYTimes.",
+    "revid": 455903245,
+    "timestamp": "2011-10-16T20:46:16Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "Undo both reverts. Not only is it inappropriate and unencyclopaedic language, but it is so closely lifted from the source cited that it amounts to plagiarism.",
+    "parentid": 455903245,
+    "parsedcomment": "Undo both reverts. Not only is it inappropriate and unencyclopaedic language, but it is so closely lifted from the source cited that it amounts to plagiarism.",
+    "revid": 455905365,
+    "timestamp": "2011-10-16T21:01:18Z",
+    "user": "Mkativerata"
+  },
+  {
+    "comment": "Sentimental trivia removal. Many people are known by their initials or some other \"handle\".",
+    "minor": "",
+    "parentid": 455905365,
+    "parsedcomment": "Sentimental trivia removal. Many people are known by their initials or some other &quot;handle&quot;.",
+    "revid": 455923240,
+    "timestamp": "2011-10-16T23:12:08Z",
+    "user": "Johnny Squeaky"
+  },
+  {
+    "comment": "Undid revision 455923240 by [[Special:Contributions/Johnny Squeaky|Johnny Squeaky]] ([[User talk:Johnny Squeaky|talk]]) - it was significant that he was known by his initials. Same as rms, esr, etc. it's not sentimental trivia.",
+    "parentid": 455923240,
+    "parsedcomment": "Undid revision 455923240 by <a href=\"/wiki/Special:Contributions/Johnny_Squeaky\" title=\"Special:Contributions/Johnny Squeaky\">Johnny Squeaky</a> (<a href=\"/wiki/User_talk:Johnny_Squeaky\" title=\"User talk:Johnny Squeaky\">talk</a>) - it was significant that he was known by his initials. Same as rms, esr, etc. it&#039;s not sentimental trivia.",
+    "revid": 455925585,
+    "timestamp": "2011-10-16T23:32:31Z",
+    "user": "Alison"
+  },
+  {
+    "comment": "",
+    "minor": "",
+    "parentid": 455925585,
+    "parsedcomment": "",
+    "revid": 455927781,
+    "timestamp": "2011-10-16T23:50:53Z",
+    "user": "Jim Michael"
+  },
+  {
+    "comment": "/* C and Unix */ Ritchie's contributions:  more detail and reference from Wall Street Journal",
+    "parentid": 455927781,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix: </span> Ritchie&#039;s contributions:  more detail and reference from Wall Street Journal</span>",
+    "revid": 455936108,
+    "timestamp": "2011-10-17T01:00:37Z",
+    "user": "Raryel"
+  },
+  {
+    "comment": "Hyperlinked Ken Thompson",
+    "parentid": 455936108,
+    "parsedcomment": "Hyperlinked Ken Thompson",
+    "revid": 455936319,
+    "timestamp": "2011-10-17T01:02:34Z",
+    "user": "Raryel"
+  },
+  {
+    "comment": "/* C and Unix */ added full stop",
+    "minor": "",
+    "parentid": 455936319,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix: </span> added full stop</span>",
+    "revid": 455941927,
+    "timestamp": "2011-10-17T01:53:48Z",
+    "user": "Hires an editor"
+  },
+  {
+    "comment": "[[WP:MOS|style]] fixes, incl. [[WP:MOSDATES|dates]], [[MOS:LINK]] and [[MOS:TEXT]]",
+    "minor": "",
+    "parentid": 455941927,
+    "parsedcomment": "<a href=\"/wiki/Wikipedia:MOS\" class=\"mw-redirect\" title=\"Wikipedia:MOS\">style</a> fixes, incl. <a href=\"/wiki/Wikipedia:MOSDATES\" class=\"mw-redirect\" title=\"Wikipedia:MOSDATES\">dates</a>, <a href=\"/wiki/MOS:LINK\" class=\"mw-redirect\" title=\"MOS:LINK\">MOS:LINK</a> and <a href=\"/wiki/MOS:TEXT\" class=\"mw-redirect\" title=\"MOS:TEXT\">MOS:TEXT</a>",
+    "revid": 455975950,
+    "timestamp": "2011-10-17T08:24:27Z",
+    "user": "Ohconfucius"
+  },
+  {
+    "comment": "/* C and Unix */ Added internal link to C programming language",
+    "parentid": 455975950,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix: </span> Added internal link to C programming language</span>",
+    "revid": 455990621,
+    "timestamp": "2011-10-17T11:15:35Z",
+    "user": "Flybywire e2c"
+  },
+  {
+    "comment": "/* C and Unix */ corrected link",
+    "parentid": 455990621,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix: </span> corrected link</span>",
+    "revid": 455990686,
+    "timestamp": "2011-10-17T11:16:13Z",
+    "user": "Flybywire e2c"
+  },
+  {
+    "comment": "/* Notable books */ Fixed link to article, not disambiguation entry",
+    "parentid": 455990686,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Notable_books\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Notable books: </span> Fixed link to article, not disambiguation entry</span>",
+    "revid": 456001230,
+    "timestamp": "2011-10-17T13:00:24Z",
+    "user": "SailorfromNH"
+  },
+  {
+    "comment": "Removing 12 October as only true date of death per [[WP:NPOV]]. There is no consensus on using this date, see discussion.",
+    "parentid": 456001230,
+    "parsedcomment": "Removing 12 October as only true date of death per <a href=\"/wiki/Wikipedia:NPOV\" class=\"mw-redirect\" title=\"Wikipedia:NPOV\">WP:NPOV</a>. There is no consensus on using this date, see discussion.",
+    "revid": 456011062,
+    "timestamp": "2011-10-17T14:20:22Z",
+    "user": "Tjibbe I"
+  },
+  {
+    "comment": "add details re hometown, HS; with source; add / refine cats",
+    "parentid": 456011062,
+    "parsedcomment": "add details re hometown, HS; with source; add / refine cats",
+    "revid": 456017178,
+    "timestamp": "2011-10-17T15:03:45Z",
+    "user": "Alansohn"
+  },
+  {
+    "comment": "Undid revision 456011062 by [[Special:Contributions/Tjibbe I|Tjibbe I]] ([[User talk:Tjibbe I|talk]])  There is a consensus.  You just don't like it.",
+    "parentid": 456017178,
+    "parsedcomment": "Undid revision 456011062 by <a href=\"/wiki/Special:Contributions/Tjibbe_I\" title=\"Special:Contributions/Tjibbe I\">Tjibbe I</a> (<a href=\"/wiki/User_talk:Tjibbe_I\" title=\"User talk:Tjibbe I\">talk</a>)  There is a consensus.  You just don&#039;t like it.",
+    "revid": 456017851,
+    "timestamp": "2011-10-17T15:08:16Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "+K&R C",
+    "parentid": 456017851,
+    "parsedcomment": "+K&amp;R C",
+    "revid": 456035948,
+    "timestamp": "2011-10-17T17:10:37Z",
+    "user": "Giftlite"
+  },
+  {
+    "comment": "/* External links */  fix a 404 link of an interview transcript.",
+    "minor": "",
+    "parentid": 456035948,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span>  fix a 404 link of an interview transcript.</span>",
+    "revid": 456050593,
+    "timestamp": "2011-10-17T18:43:53Z",
+    "user": "Elper"
+  },
+  {
+    "comment": "Okay, let's add \"Found dead\" to the infobox.  Does that work for everyone?",
+    "parentid": 456050593,
+    "parsedcomment": "Okay, let&#039;s add &quot;Found dead&quot; to the infobox.  Does that work for everyone?",
+    "revid": 456052740,
+    "timestamp": "2011-10-17T18:57:31Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "r2.7.1) (Robot: Adding [[cy:Dennis Ritchie]]",
+    "minor": "",
+    "parentid": 456052740,
+    "parsedcomment": "r2.7.1) (Robot: Adding <a href=\"https://cy.wikipedia.org/wiki/Dennis_Ritchie\" class=\"extiw\" title=\"cy:Dennis Ritchie\">cy:Dennis Ritchie</a>",
+    "revid": 456059585,
+    "timestamp": "2011-10-17T19:39:19Z",
+    "user": "ChuispastonBot"
+  },
+  {
+    "comment": "/* Notable books */ Remove image missing mandatory detailed fair-use rationale",
+    "parentid": 456059585,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Notable_books\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Notable books: </span> Remove image missing mandatory detailed fair-use rationale</span>",
+    "revid": 456079291,
+    "timestamp": "2011-10-17T21:42:05Z",
+    "user": "Yamla"
+  },
+  {
+    "comment": "",
+    "parentid": 456079291,
+    "parsedcomment": "",
+    "revid": 456081224,
+    "timestamp": "2011-10-17T21:54:56Z",
+    "user": "Jim Michael"
+  },
+  {
+    "comment": "",
+    "minor": "",
+    "parentid": 456081224,
+    "parsedcomment": "",
+    "revid": 456087710,
+    "timestamp": "2011-10-17T22:41:13Z",
+    "user": "Scs"
+  },
+  {
+    "comment": "/* C and Unix */",
+    "parentid": 456087710,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#C_and_Unix\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">C and Unix</span></span>",
+    "revid": 456105236,
+    "timestamp": "2011-10-18T01:08:51Z",
+    "user": "OOODDD"
+  },
+  {
+    "comment": "Undid revision 456105236 by [[Special:Contributions/OOODDD|OOODDD]] ([[User talk:OOODDD|talk]]) rv change that broke wikilink",
+    "parentid": 456105236,
+    "parsedcomment": "Undid revision 456105236 by <a href=\"/wiki/Special:Contributions/OOODDD\" title=\"Special:Contributions/OOODDD\">OOODDD</a> (<a href=\"/wiki/User_talk:OOODDD\" title=\"User talk:OOODDD\">talk</a>) rv change that broke wikilink",
+    "revid": 456106303,
+    "timestamp": "2011-10-18T01:18:58Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "/* Death and legacy */ wikilink",
+    "minor": "",
+    "parentid": 456106303,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy: </span> wikilink</span>",
+    "revid": 456138423,
+    "timestamp": "2011-10-18T06:46:23Z",
+    "user": "Graham87"
+  },
+  {
+    "comment": "intro - leave only date of death in infobox",
+    "minor": "",
+    "parentid": 456138423,
+    "parsedcomment": "intro - leave only date of death in infobox",
+    "revid": 456195743,
+    "timestamp": "2011-10-18T15:21:17Z",
+    "user": "MrDolomite"
+  },
+  {
+    "comment": "insert \"found dead\" into lede as suggested on talk page.",
+    "parentid": 456195743,
+    "parsedcomment": "insert &quot;found dead&quot; into lede as suggested on talk page.",
+    "revid": 456195867,
+    "timestamp": "2011-10-18T15:22:06Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "/* Background */ punc, rm redundant wl",
+    "minor": "",
+    "parentid": 456195867,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Background\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Background: </span> punc, rm redundant wl</span>",
+    "revid": 456202740,
+    "timestamp": "2011-10-18T16:08:48Z",
+    "user": "PRRfan"
+  },
+  {
+    "comment": "/* Death and legacy */ punc",
+    "minor": "",
+    "parentid": 456202740,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Death_and_legacy\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Death and legacy: </span> punc</span>",
+    "revid": 456202865,
+    "timestamp": "2011-10-18T16:09:42Z",
+    "user": "PRRfan"
+  },
+  {
+    "comment": "Undid revision 456195743 by [[Special:Contributions/MrDolomite|MrDolomite]] ([[User talk:MrDolomite|talk]]) rv change deleting \"found dead\" from the infobox.  I think we got consensus on that, didn't we?  Please see talk page.",
+    "parentid": 456202865,
+    "parsedcomment": "Undid revision 456195743 by <a href=\"/wiki/Special:Contributions/MrDolomite\" title=\"Special:Contributions/MrDolomite\">MrDolomite</a> (<a href=\"/wiki/User_talk:MrDolomite\" title=\"User talk:MrDolomite\">talk</a>) rv change deleting &quot;found dead&quot; from the infobox.  I think we got consensus on that, didn&#039;t we?  Please see talk page.",
+    "revid": 456204062,
+    "timestamp": "2011-10-18T16:17:34Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "/* Background */ add info",
+    "parentid": 456204062,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Background\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Background: </span> add info</span>",
+    "revid": 456393844,
+    "timestamp": "2011-10-19T18:36:46Z",
+    "user": "Wikiklrsc"
+  },
+  {
+    "comment": "/* Quotes */ quotation sections are deprecated and should be copied to Wikiquote",
+    "parentid": 456393844,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#Quotes\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Quotes: </span> quotation sections are deprecated and should be copied to Wikiquote</span>",
+    "revid": 456416959,
+    "timestamp": "2011-10-19T21:05:16Z",
+    "user": "Skyerise"
+  },
+  {
+    "comment": "grammar",
+    "parentid": 456416959,
+    "parsedcomment": "grammar",
+    "revid": 456417874,
+    "timestamp": "2011-10-19T21:11:08Z",
+    "user": "DShantz"
+  },
+  {
+    "comment": "Undid revision 456417874 by [[Special:Contributions/DShantz|DShantz]] ([[User talk:DShantz|talk]]) Not better (vague and passive) and did not fix any actual grammar error, contrary to the edit summary.",
+    "parentid": 456417874,
+    "parsedcomment": "Undid revision 456417874 by <a href=\"/wiki/Special:Contributions/DShantz\" title=\"Special:Contributions/DShantz\">DShantz</a> (<a href=\"/wiki/User_talk:DShantz\" title=\"User talk:DShantz\">talk</a>) Not better (vague and passive) and did not fix any actual grammar error, contrary to the edit summary.",
+    "revid": 456421165,
+    "timestamp": "2011-10-19T21:32:53Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "/* External links */",
+    "parentid": 456421165,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links</span></span>",
+    "revid": 456421833,
+    "timestamp": "2011-10-19T21:38:09Z",
+    "user": "Patchen"
+  },
+  {
+    "comment": "/* External links */ unwikilink per [[WP:REDNOT]]:  \"Red links to personal names should be avoided.\"",
+    "parentid": 456421833,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> unwikilink per <a href=\"/wiki/Wikipedia:REDNOT\" class=\"mw-redirect\" title=\"Wikipedia:REDNOT\">WP:REDNOT</a>:  &quot;Red links to personal names should be avoided.&quot;</span>",
+    "revid": 456424818,
+    "timestamp": "2011-10-19T21:58:50Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "Fix redlink category:  [[Category:People from Berkeley Township, New Jersey]] --> [[Category:People from Berkeley Heights, New Jersey]]",
+    "parentid": 456424818,
+    "parsedcomment": "Fix redlink category:  <a href=\"/wiki/Category:People_from_Berkeley_Township,_New_Jersey\" title=\"Category:People from Berkeley Township, New Jersey\">Category:People from Berkeley Township, New Jersey</a> --&gt; <a href=\"/wiki/Category:People_from_Berkeley_Heights,_New_Jersey\" title=\"Category:People from Berkeley Heights, New Jersey\">Category:People from Berkeley Heights, New Jersey</a>",
+    "revid": 456425263,
+    "timestamp": "2011-10-19T22:02:18Z",
+    "user": "Msnicki"
+  },
+  {
+    "comment": "/* External links */ refine reference",
+    "parentid": 456425263,
+    "parsedcomment": "<a href=\"/wiki/Dennis_Ritchie#External_links\" title=\"Dennis Ritchie\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> refine reference</span>",
+    "revid": 456435913,
+    "timestamp": "2011-10-19T23:33:22Z",
+    "user": "Wikiklrsc"
+  }
+]

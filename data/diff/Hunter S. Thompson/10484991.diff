@@ -1,0 +1,62 @@
+--- 10484392
++++ 10484991
+@@ -5,4 +5,9 @@
+- (born
+- <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">
+-  Louisville, Kentucky
+- </a>
++ <ins>
++  (
++ </ins>
++ <del>
++  (born
++  <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">
++   Louisville, Kentucky
++  </a>
++ </del>
+@@ -16 +21,15 @@
+- ) is an
++ <ins>
++  –
++  <a href="/wiki/February_20" title="February 20">
++   February 20
++  </a>
++  ,
++  <a href="/wiki/2005" title="2005">
++   2005
++  </a>
++  ) was
++ </ins>
++ <del>
++  ) is
++ </del>
++ an
+@@ -472,0 +492,24 @@
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  Hunter S. Thompson shot and killed himself at his home near
++  <a href="/wiki/Aspen,_Colorado" title="Aspen, Colorado">
++   Aspen, Colorado
++  </a>
++  on
++  <a href="/wiki/February_20" title="February 20">
++   February 20
++  </a>
++  ,
++  <a href="/wiki/2005" title="2005">
++   2005
++  </a>
++  at the age of 67. Good riddance.
++ </ins>
++</p>
++<h2>
+@@ -621 +664 @@
+-</ul>
++</ul>
+\ No newline at end of file

@@ -1,0 +1,163 @@
+--- 716414662
++++ 716418323
+@@ -5 +5,7 @@
+- (born June 7, 1958), known by his
++ <ins>
++  (June 7, 1958 – April 21, 2016),
++ </ins>
++ <del>
++  (born June 7, 1958),
++ </del>
++ known by his
+@@ -12 +18,22 @@
+- , is an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
++ ,
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ renowned as an innovator and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely known for his eclectic work, flamboyant stage presence, and wide
+@@ -16 +43,8 @@
+- . He is widely regarded as the pioneer of
++ . He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely regarded as the pioneer of
+@@ -214,0 +249,5 @@
++ <ins>
++  He died at his Paisley Park recording studio and home in Chanhassen, Minnesota, near Minneapolis, on April 21,2016, after suffering flu like symptoms for several weeks
++ </ins>
++</p>
++<p>
+@@ -2779,2 +2818,8 @@
+- <span class="mw-headline" id="2013.E2.80.93present:_3rdeyegirl_and_return_to_Warner_Bros.">
+-  2013–present: 3rdeyegirl and return to Warner Bros.
++ <span class="mw-headline" id="2013.E2.80.932016:_3rdeyegirl_and_return_to_Warner_Bros.">
++  <ins>
++   2013–2016:
++  </ins>
++  <del>
++   2013–present:
++  </del>
++  3rdeyegirl and return to Warner Bros.
+@@ -2878 +2923,8 @@
+- His latest album
++ His
++ <ins>
++  final
++ </ins>
++ <del>
++  latest
++ </del>
++ album
+@@ -2890,0 +2943,16 @@
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  Prince died on April 21, 2016 at the age of 57, he was found unresponsive in his home in
++  <a class="mw-redirect" href="/wiki/Chanhassen" title="Chanhassen">
++   Chanhassen
++  </a>
++  .
++ </ins>
++</p>
++<h2>
+@@ -3170 +3238,8 @@
+- Prince resides near
++ Prince
++ <ins>
++  resided
++ </ins>
++ <del>
++  resides
++ </del>
++ near
+@@ -3270 +3345,15 @@
+- Prince has reportedly needed double hip-replacement surgery since 2005 but won't undergo the operation unless it is a
++ Prince has reportedly needed double hip-replacement surgery since 2005 but
++ <ins>
++  wouldn't
++ </ins>
++ <del>
++  won't
++ </del>
++ undergo the operation unless it
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a
+@@ -3279 +3368,8 @@
+- The condition is rumored to be aggravated by repeated onstage dancing in high-heeled boots.
++ The condition
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ rumored to be aggravated by repeated onstage dancing in high-heeled boots.
+@@ -3283 +3379,8 @@
+- Prince is a
++ Prince
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a
+@@ -3322 +3425,8 @@
+- In 2016, Prince announced that he is writing a memoir, tentatively titled
++ In 2016, Prince announced that he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ writing a memoir, tentatively titled
+@@ -3327,0 +3438,12 @@
++<h3>
++ <ins>
++  <span class="mw-headline" id="Death_2">
++   Death
++  </span>
++ </ins>
++</h3>
++<p>
++ <ins>
++  On April 21, 2016, Prince died. He suffered flu-like symptoms prior to death.
++ </ins>
++</p>
+@@ -4240 +4362 @@
+-</ul>
++</ul>
+\ No newline at end of file

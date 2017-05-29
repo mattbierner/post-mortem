@@ -1,0 +1,21 @@
+--- 426997211
++++ 426996509
+@@ -19 +19,8 @@
+- ; born March 10, 1957) is a member of the wealthy
++ ; born March 10,
++ <ins>
++  1957 - May 1, 2011)
++ </ins>
++ <del>
++  1957)
++ </del>
++ is a member of the wealthy
+@@ -1703 +1710,3 @@
+- On May 2, 2011, the White House declared that bin Laden was dead.
++ <del>
++  On May 2, 2011, the White House declared that bin Laden was dead.
++ </del>
+@@ -1813 +1822 @@
+-</div>
++</div>
+\ No newline at end of file

@@ -1,0 +1,47 @@
+--- 3955334
++++ 3956776
+@@ -13,0 +14,10 @@
++ <ins>
++  died
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  ,
++  <a href="/wiki/2004" title="2004">
++   2004
++  </a>
++ </ins>
+@@ -46 +56,15 @@
+- before entering politics. He is the longest-lived person to have served as President, as well as the oldest elected President (69 years, 349 days). He is the only
++ before entering politics. He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ the longest-lived person to have served as President, as well as the oldest elected President (69 years, 349 days). He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ the only
+@@ -1197 +1221,11 @@
+- , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
++ , 2004 it became known that
++ <ins>
++  Reagan's
++ </ins>
++ <del>
++  Reagans
++ </del>
++ health had deteriorated and that he is in months or even weeks from death.
++ <ins>
++  He passed away at his home later on June 5.
++ </ins>
+@@ -1249 +1283 @@
+-</ul>
++</ul>
+\ No newline at end of file

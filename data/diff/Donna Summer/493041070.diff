@@ -1,0 +1,25 @@
+--- 493040889
++++ 493041070
+@@ -5,2 +5,10 @@
+- (born LaDonna Adrian Gaines on December 31, 1948)
+- is an American singer/songwriter who gained prominence during the
++ (born LaDonna Adrian Gaines on December 31,
++ <ins>
++  1948 - May 17, 2012)
++ was
++ </ins>
++ <del>
++  1948)
++ is
++ </del>
++ an American singer/songwriter who gained prominence during the
+@@ -1360,0 +1369,5 @@
++<p>
++ <ins>
++  On May 17th, 2012, Donna Summer died after a long battle with cancer.
++ </ins>
++</p>
+@@ -2391 +2404 @@
+-</ul>
++</ul>
+\ No newline at end of file

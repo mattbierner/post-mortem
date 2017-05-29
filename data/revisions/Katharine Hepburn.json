@@ -1,0 +1,131 @@
+[
+  {
+    "comment": "",
+    "minor": "",
+    "parentid": 919567,
+    "parsedcomment": "",
+    "revid": 1094270,
+    "timestamp": "2003-05-14T10:14:21Z",
+    "user": "\u00b2\u00b9\u00b2"
+  },
+  {
+    "comment": "",
+    "parentid": 1094270,
+    "parsedcomment": "",
+    "revid": 1094279,
+    "timestamp": "2003-06-29T22:31:10Z",
+    "user": "Someone else"
+  },
+  {
+    "comment": "debut B'way play",
+    "parentid": 1094279,
+    "parsedcomment": "debut B&#039;way play",
+    "revid": 1094303,
+    "timestamp": "2003-06-29T22:33:44Z",
+    "user": "Someone else"
+  },
+  {
+    "comment": "stage appearances",
+    "parentid": 1094303,
+    "parsedcomment": "stage appearances",
+    "revid": 1094325,
+    "timestamp": "2003-06-29T22:41:43Z",
+    "user": "Someone else"
+  },
+  {
+    "comment": "",
+    "parentid": 1094325,
+    "parsedcomment": "",
+    "revid": 1094525,
+    "timestamp": "2003-06-29T22:48:03Z",
+    "user": "Someone else"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 1094525,
+    "parsedcomment": "",
+    "revid": 1094531,
+    "timestamp": "2003-06-29T23:46:18Z",
+    "user": "62.253.96.5"
+  },
+  {
+    "comment": "Reverted to last edit by Someone else",
+    "minor": "",
+    "parentid": 1094531,
+    "parsedcomment": "Reverted to last edit by Someone else",
+    "revid": 1094598,
+    "timestamp": "2003-06-29T23:47:37Z",
+    "user": "Brion VIBBER"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 1094598,
+    "parsedcomment": "",
+    "revid": 1094609,
+    "timestamp": "2003-06-30T00:12:30Z",
+    "user": "62.253.96.5"
+  },
+  {
+    "comment": "Reverted to last edit by Brion VIBBER",
+    "minor": "",
+    "parentid": 1094609,
+    "parsedcomment": "Reverted to last edit by Brion VIBBER",
+    "revid": 1094676,
+    "timestamp": "2003-06-30T00:17:59Z",
+    "user": "Brion VIBBER"
+  },
+  {
+    "comment": "sv",
+    "parentid": 1094676,
+    "parsedcomment": "sv",
+    "revid": 1095574,
+    "timestamp": "2003-06-30T00:45:37Z",
+    "user": "Den fj\u00e4ttrade ankan~enwiki"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 1095574,
+    "parsedcomment": "",
+    "revid": 1095889,
+    "timestamp": "2003-06-30T07:29:14Z",
+    "user": "213.61.77.84"
+  },
+  {
+    "anon": "",
+    "comment": "nl:",
+    "parentid": 1095889,
+    "parsedcomment": "nl:",
+    "revid": 1096575,
+    "timestamp": "2003-06-30T10:16:20Z",
+    "user": "80.126.110.86"
+  },
+  {
+    "comment": "[[da:Katharine Hepburn]]",
+    "minor": "",
+    "parentid": 1096575,
+    "parsedcomment": "<a href=\"https://da.wikipedia.org/wiki/Katharine_Hepburn\" class=\"extiw\" title=\"da:Katharine Hepburn\">da:Katharine Hepburn</a>",
+    "revid": 1096680,
+    "timestamp": "2003-06-30T15:36:48Z",
+    "user": "BrianHansen~enwiki"
+  },
+  {
+    "anon": "",
+    "comment": "eo:",
+    "parentid": 1096680,
+    "parsedcomment": "eo:",
+    "revid": 1098212,
+    "timestamp": "2003-06-30T16:26:51Z",
+    "user": "195.93.73.8"
+  },
+  {
+    "comment": "husband, lovers",
+    "parentid": 1098212,
+    "parsedcomment": "husband, lovers",
+    "revid": 1144686,
+    "timestamp": "2003-07-01T01:28:23Z",
+    "user": "Someone else"
+  }
+]

@@ -1,0 +1,503 @@
+--- 10484392
++++ 10489401
+@@ -5,4 +5,9 @@
+- (born
+- <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">
+-  Louisville, Kentucky
+- </a>
++ <ins>
++  (
++ </ins>
++ <del>
++  (born
++  <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">
++   Louisville, Kentucky
++  </a>
++ </del>
+@@ -16 +21,15 @@
+- ) is an
++ <ins>
++  –
++  <a href="/wiki/February_20" title="February 20">
++   February 20
++  </a>
++  ,
++  <a href="/wiki/2005" title="2005">
++   2005
++  </a>
++  ) was
++ </ins>
++ <del>
++  ) is
++ </del>
++ an
+@@ -45 +64,8 @@
+- ” to comically spin outlandish tales that are completely unbelievable, yet providing a unique viewpoint to accurately describe the underling reality at hand. Thompson almost always writes in the
++ ” to comically spin outlandish tales that are completely unbelievable, yet providing a unique viewpoint to accurately describe the
++ <ins>
++  underlying
++ </ins>
++ <del>
++  underling
++ </del>
++ reality at hand. Thompson almost always writes in the
+@@ -49 +75,8 @@
+- narrative, and his stories become so colorfully contrived that they easily slip into the realm of fiction, however the basic framework of the story he is telling is often very true. Thompson’s writing style exploits this void between the realms of fiction and non-fiction, and it has become known as
++ narrative, and his stories become so colorfully contrived that they easily slip into the realm of fiction, however the basic framework of the story he is telling is
++ <ins>
++  very often
++ </ins>
++ <del>
++  often very
++ </del>
++ true. Thompson’s writing style exploits this void between the realms of fiction and non-fiction, and it has become known as
+@@ -53,4 +86,4 @@
+- . Other notable
+- <a href="/wiki/Gonzo_journalism" title="Gonzo journalism">
+-  gonzo journalists
+- </a>
++ . Other notable gonzo journalists
++ <del>
++  Link: /wiki/Gonzo_journalism
++ </del>
+@@ -60,0 +94,27 @@
++</p>
++<p>
++ <ins>
++  and
++ </ins>
++ <ins>
++  <a href="/wiki/P._J._O%27Rourke" title="P. J. O'Rourke">
++   P. J. O'Rourke
++  </a>
++  .
++ </ins>
++</p>
++<p>
++</p>
++<p>
++</p>
++<h2>
++ <ins>
++  <span class="mw-headline" id="Early_years">
++   Early years
++  </span>
++ </ins>
++</h2>
++<ins>
++ A Kentucky native,
++</ins>
++<del>
+@@ -61,0 +122,2 @@
++</del>
++<del>
+@@ -68 +130 @@
+-</p>
++</del>
+@@ -74,3 +136,5 @@
+- <span class="mw-headline" id="Early_Years">
+-  Early Years
+- </span>
++ <del>
++  <span class="mw-headline" id="Early_Years">
++   Early Years
++  </span>
++ </del>
+@@ -78,2 +142 @@
+-<p>
+- Thompson began his career in
++  Thompson began his career in
+@@ -81,2 +144,2 @@
+-  1956
+- </a>
++ 1956
++</a>
+@@ -85,2 +148,2 @@
+-  sports
+- </a>
++ sports
++</a>
+@@ -89,2 +152,2 @@
+-  Eglin Air Force Base
+- </a>
++ Eglin Air Force Base
++</a>
+@@ -91,0 +155,6 @@
++ <ins>
++ <a class="mw-redirect" href="/wiki/Niceville" title="Niceville">
++  Niceville
++ </a>
++</ins>
++<del>
+@@ -94,0 +164 @@
++</del>
+@@ -97,2 +167,2 @@
+-  Florida
+- </a>
++ Florida
++</a>
+@@ -101,2 +171,2 @@
+-  copyboy
+- </a>
++ copyboy
++</a>
+@@ -105,2 +175,2 @@
+-  Time Magazine
+- </a>
++ Time Magazine
++</a>
+@@ -109,2 +179,2 @@
+-  beat
+- </a>
++ beat
++</a>
+@@ -113,2 +183,2 @@
+-  New York City
+- </a>
++ New York City
++</a>
+@@ -116,2 +186 @@
+-</p>
+-<p>
++ <p>
+@@ -199 +268,7 @@
+- , none of which were published despite relentless submissions to publishers. Kennedy later remarked that he and Thompson were cohorts in the fact that they were, at the time, failed novelists who had turned to journalism in order to make a living.
++ , none of which were published despite relentless submissions to publishers. Kennedy later remarked that he and Thompson were cohorts in the fact that they were, at the time, failed novelists who had turned to journalism in order to make a
++ <ins>
++  living?
++ </ins>
++ <del>
++  living.
++ </del>
+@@ -215,2 +290,8 @@
+- <span class="mw-headline" id="Middle_Years_to_Present">
+-  Middle Years to Present
++ <span class="mw-headline" id="Middle_years">
++  Middle
++  <ins>
++   years
++  </ins>
++  <del>
++   Years to Present
++  </del>
+@@ -232 +313,8 @@
+-  Fear and Loathing on the campaign trail 1972
++  Fear and Loathing on the
++  <ins>
++   Campaign Trail
++  </ins>
++  <del>
++   campaign trail
++  </del>
++  1972
+@@ -276 +364,8 @@
+- Thompson frequently refers to himself as "Raoul Duke" or "Dr. Gonzo." He received his '
++ Thompson frequently
++ <ins>
++  referred
++ </ins>
++ <del>
++  refers
++ </del>
++ to himself as "Raoul Duke" or "Dr. Gonzo." He received his '
+@@ -285,4 +380,4 @@
+-  Fear and Loathing on the
+-  <a class="mw-redirect" href="/wiki/U.S._presidential_election,_1972" title="U.S. presidential election, 1972">
+-   Campaign Trail '72
+-  </a>
++  Fear and Loathing on the Campaign Trail '72
++  <del>
++   Link: /wiki/U.S._presidential_election,_1972
++  </del>
+@@ -294 +389,5 @@
+- articles he wrote while covering the campaigns of President
++ articles he wrote while covering the
++ <a class="mw-redirect" href="/wiki/U.S._presidential_election,_1972" title="U.S. presidential election, 1972">
++  campaigns
++ </a>
++ of President
+@@ -302,0 +402,3 @@
++ <ins>
++  The book focus almost exclusively on the Democratic Parties primaries and the brake down of the party as it splits between the different candidates.
++ </ins>
+@@ -325 +427,8 @@
+- , prompting Thompson to shave his head bald and refer to his opposition as "my long haired opponent."
++ , prompting Thompson to shave his head bald and refer to his opposition as "my
++ <ins>
++  long-haired
++ </ins>
++ <del>
++  long haired
++ </del>
++ opponent."
+@@ -343 +452,8 @@
+- He has also been quoted as saying "I hate to advocate drugs, alcohol, violence or insanity to anyone, but they've always worked for me."
++ He has also been quoted as
++ <ins>
++  saying,
++ </ins>
++ <del>
++  saying
++ </del>
++ "I hate to advocate drugs, alcohol, violence or insanity to anyone, but they've always worked for me."
+@@ -346 +462,15 @@
+- His latest book,
++</p>
++<h2>
++ <ins>
++  <span class="mw-headline" id="Later_years">
++   Later years
++  </span>
++ </ins>
++</h2>
++<ins>
++ Thompson's last
++</ins>
++<del>
++ His latest
++</del>
++ book,
+@@ -348,2 +478,2 @@
+-  Kingdom of Fear
+- </i>
++ Kingdom of Fear
++</i>
+@@ -352,3 +482,9 @@
+-  American Century
+- </a>
+- . Thompson currently writes a Web column, "Hey Rube," for
++ American Century
++</a>
++ . Thompson <ins>
++ also wrote
++</ins>
++<del>
++ currently writes
++</del>
++ a Web column, "Hey Rube," for
+@@ -356,3 +492,9 @@
+-  ESPN
+- </a>
+- . He has at times also toured on the lecture circuit, once with
++ ESPN
++</a>
++ . He <ins>
++ had
++</ins>
++<del>
++ has
++</del>
++ at times also toured on the lecture circuit, once with
+@@ -360,2 +502,2 @@
+-  John Belushi
+- </a>
++ John Belushi
++</a>
+@@ -364,5 +506,5 @@
+-  cartoonist
+- </a>
+- <a href="/wiki/Garry_Trudeau" title="Garry Trudeau">
+-  Garry Trudeau
+- </a>
++ cartoonist
++</a>
++<a href="/wiki/Garry_Trudeau" title="Garry Trudeau">
++ Garry Trudeau
++</a>
+@@ -371,4 +513,4 @@
+-  <a href="/wiki/Doonesbury" title="Doonesbury">
+-   Doonesbury
+-  </a>
+- </i>
++ <a href="/wiki/Doonesbury" title="Doonesbury">
++  Doonesbury
++ </a>
++</i>
+@@ -377,2 +519,2 @@
+-  Uncle Duke
+- </a>
++ Uncle Duke
++</a>
+@@ -381,2 +523,2 @@
+-  Warren Ellis
+- </a>
++ Warren Ellis
++</a>
+@@ -385,5 +527,5 @@
+-  <a href="/wiki/Transmetropolitan" title="Transmetropolitan">
+-   Transmetropolitan
+-  </a>
+-  ,
+- </i>
++ <a href="/wiki/Transmetropolitan" title="Transmetropolitan">
++  Transmetropolitan
++ </a>
++ ,
++</i>
+@@ -391,3 +533,9 @@
+-</p>
+-<p>
+- Thompson is an admitted fan of
++ <p>
++ Thompson
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an admitted fan of
+@@ -397 +545,8 @@
+- and is known to keep a keg of
++ and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ known to keep a keg of
+@@ -402,0 +558,21 @@
++<p>
++ <ins>
++  Thompson died at his home in
++  <a href="/wiki/Woody_Creek,_Colorado" title="Woody Creek, Colorado">
++   Woody Creek
++  </a>
++  ,
++  <a href="/wiki/Colorado" title="Colorado">
++   Colorado
++  </a>
++  , on Sunday,
++  <a href="/wiki/February_20" title="February 20">
++   February 20
++  </a>
++  ,
++  <a href="/wiki/2005" title="2005">
++   2005
++  </a>
++  of a self-inflicted gunshot wound to the head. He was 67 years old.
++ </ins>
++</p>
+@@ -425 +601,8 @@
+- as Thompson's attorney Oscar Acosta, refered to in the movie as Carl Laslow, Esq.
++ as Thompson's attorney Oscar Acosta,
++ <ins>
++  referred
++ </ins>
++ <del>
++  refered
++ </del>
++ to in the movie as Carl Laslow, Esq.
+@@ -462 +645,7 @@
+- Also, a new film is currently (
++ <ins>
++  A
++ </ins>
++ <del>
++  Also, a
++ </del>
++ new film is currently (
+@@ -561 +750,10 @@
+-  --Hey Rube : Blood Sport, the Bush Doctrine, and the Downward Spiral of Dumbness Modern History from the Sports Desk (Simon &amp; Schuster, August 11, 2004)
++  <i>
++   <ins>
++    Hey
++   </ins>
++   <del>
++    --Hey
++   </del>
++   Rube : Blood Sport, the Bush Doctrine, and the Downward Spiral of Dumbness Modern History from the Sports Desk
++  </i>
++  (Simon &amp; Schuster, August 11, 2004)
+@@ -565,3 +763,5 @@
+- <span class="mw-headline" id="External_link">
+-  External link
+- </span>
++ <del>
++  <span class="mw-headline" id="External_link">
++   External link
++  </span>
++ </del>
+@@ -572 +771,0 @@
+-   <img alt="" class="noviewer" data-file-height="355" data-file-width="300" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/>
+@@ -575,8 +774,10 @@
+-   Wikiquote has quotations related to:
+-   <i>
+-    <b>
+-     <a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Hunter_S._Thompson" title="q:Special:Search/Hunter S. Thompson">
+-      Hunter S. Thompson
+-     </a>
+-    </b>
+-   </i>
++   <del>
++    Wikiquote has quotations related to:
++    <i>
++     <b>
++      <a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Hunter_S._Thompson" title="q:Special:Search/Hunter S. Thompson">
++       Hunter S. Thompson
++      </a>
++     </b>
++    </i>
++   </del>
+@@ -588,3 +789,5 @@
+-  <a class="external text" href="http://www.gonzo.org" rel="nofollow">
+-   The Great Thompson Hunt
+-  </a>
++  <del>
++   <a class="external text" href="http://www.gonzo.org" rel="nofollow">
++    The Great Thompson Hunt
++   </a>
++  </del>
+@@ -593,3 +796,5 @@
+-  <a class="external text" href="http://sports.espn.go.com/espn/archive?columnist=hunter_s._thompson&amp;root=page2" rel="nofollow">
+-   Thompson's ESPN column
+-  </a>
++  <del>
++   <a class="external text" href="http://sports.espn.go.com/espn/archive?columnist=hunter_s._thompson&amp;root=page2" rel="nofollow">
++    Thompson's ESPN column
++   </a>
++  </del>
+@@ -598,6 +803,6 @@
+-  <a class="external text" href="http://www.imdb.com/title/tt0081748/" rel="nofollow">
+-   IMDB site for
+-   <i>
+-    Where the Buffalo Roam
+-   </i>
+-  </a>
++  <del>
++   <a class="external text" href="http://www.imdb.com/title/tt0081748/" rel="nofollow">
++    IMDB site for
++   Where the Buffalo Roam
++   </a>
++  </del>
+@@ -606,6 +811,6 @@
+-  <a class="external text" href="http://www.imdb.com/title/tt0120669/" rel="nofollow">
+-   IMDB site for
+-   <i>
+-    Fear and Loathing in Las Vegas
+-   </i>
+-  </a>
++  <del>
++   <a class="external text" href="http://www.imdb.com/title/tt0120669/" rel="nofollow">
++    IMDB site for
++   Fear and Loathing in Las Vegas
++   </a>
++  </del>
+@@ -614,6 +819,6 @@
+-  <a class="external text" href="http://www.imdb.com/title/tt0376136/" rel="nofollow">
+-   IMDB site for
+-   <i>
+-    The Rum Diary
+-   </i>
+-  </a>
++  <del>
++   <a class="external text" href="http://www.imdb.com/title/tt0376136/" rel="nofollow">
++    IMDB site for
++   The Rum Diary
++   </a>
++  </del>
+@@ -621 +826 @@
+-</ul>
++</ul>
+\ No newline at end of file

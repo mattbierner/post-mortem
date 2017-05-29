@@ -29,6 +29,7 @@ _site
 server
 
 
-data/
+data/content
+data/raw
 *.pyc
 .vscode/.ropeproject

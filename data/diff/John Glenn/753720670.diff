@@ -1,0 +1,20 @@
+--- 753656269
++++ 753720670
+@@ -5 +5,8 @@
+- (born July 18, 1921), (
++ (born July 18,
++ <ins>
++  1921, died December 8, 2016),
++ </ins>
++ <del>
++  1921),
++ </del>
++ (
+@@ -149,0 +157,3 @@
++ <ins>
++  Glenn died on December 8, 2016.
++ </ins>
+@@ -2322 +2332 @@
+-</ul>
++</ul>
+\ No newline at end of file

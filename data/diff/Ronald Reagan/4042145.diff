@@ -1,0 +1,2713 @@
+--- 3955334
++++ 4042145
+@@ -2 +1,0 @@
+- <br/>
+@@ -6 +5,6 @@
+- (born
++ <ins>
++  (
++ </ins>
++ <del>
++  (born
++ </del>
+@@ -13,0 +18,10 @@
++ <ins>
++  –
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  ,
++  <a href="/wiki/2004" title="2004">
++   2004
++  </a>
++ </ins>
+@@ -18 +32,6 @@
+- -
++ <ins>
++  –
++ </ins>
++ <del>
++  -
++ </del>
+@@ -46,5 +65,18 @@
+- before entering politics. He is the longest-lived person to have served as President, as well as the oldest elected President (69 years, 349 days). He is the only
+- <a href="/wiki/Divorce" title="Divorce">
+-  divorced
+- </a>
+- person to be elected President, and the only President to have married a pregnant woman.
++ before entering politics. He
++ <ins>
++  lived longer than any other President (93 years, 119 days) and was
++ </ins>
++ <del>
++  is the longest-lived person to have served as President, as well as
++ </del>
++ the oldest elected President (69 years, 349
++ <ins>
++  days when taking office).
++ </ins>
++ <del>
++  days). He is the only
++  <a href="/wiki/Divorce" title="Divorce">
++   divorced
++  </a>
++  person to be elected President, and the only President to have married a pregnant woman.
++ </del>
+@@ -95,0 +128,14 @@
++<div class="thumb tleft">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reagan_family.jpg" title="File:Reagan family.jpg">
++    File:Reagan family.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Ronald and Neil Reagan (front row), Parents Jack and Nelle Reagan (c. 1916-17)
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -101,0 +148,3 @@
++ <ins>
++  a
++ </ins>
+@@ -106 +155 @@
+- <a class="mw-disambig" href="/wiki/Rock_River" title="Rock River">
++ <a class="mw-redirect" href="/wiki/Rock_River_(Illinois)" title="Rock River (Illinois)">
+@@ -124 +173,7 @@
+- , graduating in
++ <ins>
++  majoring in economics and sociology,
++ </ins>
++ <del>
++  ,
++ </del>
++ graduating in
+@@ -128,2 +183,9 @@
+- . Child of an
+- <a class="mw-redirect" href="/wiki/Alcoholic" title="Alcoholic">
++ .
++ <ins>
++  The child
++ </ins>
++ <del>
++  Child
++ </del>
++ of an
++ <a href="/wiki/Alcoholism" title="Alcoholism">
+@@ -151,4 +213,9 @@
+- games, getting only the bare outlines of the game from a ticker and relying on his
+- <a href="/wiki/Imagination" title="Imagination">
+-  imagination
+- </a>
++ <ins>
++  <a href="/wiki/Baseball" title="Baseball">
++   baseball
++  </a>
++ </ins>
++ games, getting only the bare outlines of the game from a ticker and relying on his imagination
++ <del>
++  Link: /wiki/Imagination
++ </del>
+@@ -156 +223 @@
+- <a href="/wiki/1934" title="1934">
++ <a href="/wiki/1934_in_sports" title="1934 in sports">
+@@ -159 +226,7 @@
+- , during the ninth inning of a Cubs -
++ , during the ninth inning of a
++ <ins>
++  Cubs-
++ </ins>
++ <del>
++  Cubs -
++ </del>
+@@ -163,4 +236,4 @@
+- game, the wire went dead. Reagan smoothly
+- <a class="mw-redirect" href="/wiki/Improvise" title="Improvise">
+-  improvised
+- </a>
++ game, the wire went dead. Reagan smoothly improvised
++ <del>
++  Link: /wiki/Improvise
++ </del>
+@@ -174,2 +247,9 @@
+- as a second-rank leading man, as his face and body were as handsome as his voice. His first screen credit was the starring role the
+- <a href="/wiki/1937" title="1937">
++ as a second-rank leading man,
++ <ins>
++  aided by his clear voice and athletic physique.
++ </ins>
++ <del>
++  as his face and body were as handsome as his voice.
++ </del>
++ His first screen credit was the starring role the
++ <a href="/wiki/1937_in_film" title="1937 in film">
+@@ -185 +265 @@
+- <a href="/wiki/1939" title="1939">
++ <a href="/wiki/1939_in_film" title="1939 in film">
+@@ -189 +269 @@
+- <a href="/wiki/1940" title="1940">
++ <a href="/wiki/1940_in_film" title="1940 in film">
+@@ -192 +272,5 @@
+- he played the role of George "The Gipper" Gipp in the film
++ he played the role of
++ <a href="/wiki/George_Gipp" title="George Gipp">
++  George "The Gipper" Gipp
++ </a>
++ in the film
+@@ -194,2 +278,3 @@
+-  <a class="mw-redirect" href="/wiki/Knute_Rockne_All_American" title="Knute Rockne All American">
+-   Knute Rockne All American
++  <a href="/wiki/Knute_Rockne,_All_American" title="Knute Rockne, All American">
++   Knute Rockne, All American
++   Link: /wiki/Knute_Rockne,_All_American Rockne All American
+@@ -209 +294 @@
+- <a href="/wiki/1942" title="1942">
++ <a href="/wiki/1942_in_film" title="1942 in film">
+@@ -244 +329,5 @@
+- officer in the U.S. Army in
++ officer in the
++ <a href="/wiki/United_States_Army" title="United States Army">
++  U.S. Army
++ </a>
++ in
+@@ -249 +338 @@
+- <a href="/wiki/Pearl_Harbor" title="Pearl Harbor">
++ <a href="/wiki/Attack_on_Pearl_Harbor" title="Attack on Pearl Harbor">
+@@ -252,8 +341,17 @@
+- he was activated and was assigned to the First Motion Picture Unit in the
+- <a class="mw-disambig" href="/wiki/Army_Air_Corps" title="Army Air Corps">
+-  Army Air Corps
+- </a>
+- , which made training and education films. He remained in
+- <a href="/wiki/Hollywood" title="Hollywood">
+-  Hollywood
+- </a>
++ he was activated and
++ <del>
++  was
++ </del>
++ assigned to the
++ <a href="/wiki/First_Motion_Picture_Unit" title="First Motion Picture Unit">
++  First Motion Picture Unit
++ </a>
++ in the
++ <a href="/wiki/United_States_Air_Force" title="United States Air Force">
++  Army Air Force
++  Link: /wiki/United_States_Air_Force Corps
++ </a>
++ , which made training and education films. He remained in Hollywood
++ <del>
++  Link: /wiki/Hollywood
++ </del>
+@@ -260,0 +359,64 @@
++ <ins>
++  He attained the rank of
++ </ins>
++ <ins>
++  <a href="/wiki/Captain" title="Captain">
++   captain
++  </a>
++  .
++ </ins>
++</p>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Nancy_and_Ronald_Reagan.jpg" title="File:Nancy and Ronald Reagan.jpg">
++    File:Nancy and Ronald Reagan.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Nancy and Ronald Reagan married in 1952. Nancy became a powerful background figure in Reagan's rise and roles as governor and president.
++   </ins>
++  </div>
++ </div>
++</div>
++<p>
++ <ins>
++  Reagan married actress
++  <a href="/wiki/Jane_Wyman" title="Jane Wyman">
++   Jane Wyman
++  </a>
++  in
++  <a href="/wiki/1940" title="1940">
++   1940
++  </a>
++  . They had a daughter,
++  <a href="/wiki/Maureen_Reagan" title="Maureen Reagan">
++   Maureen
++  </a>
++  in 1941, adopted a son
++  <a href="/wiki/Michael_Reagan" title="Michael Reagan">
++   Michael
++  </a>
++  in 1946, and had a daughter born four months prematurely in 1947 who lived but one day. They divorced in
++  <a href="/wiki/1948" title="1948">
++   1948
++  </a>
++  . Reagan remarried in
++  <a href="/wiki/1952" title="1952">
++   1952
++  </a>
++  to actress
++  <a href="/wiki/Nancy_Reagan" title="Nancy Reagan">
++   Nancy Davis
++  </a>
++  while she was three-months pregnant. They had two children,
++  <a href="/wiki/Ron_Reagan" title="Ron Reagan">
++   Ron
++  </a>
++  and
++  <a href="/wiki/Patti_Davis" title="Patti Davis">
++   Patti
++  </a>
++  .
++ </ins>
+@@ -292,3 +454,5 @@
+-  <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Nancy_and_Ronald_Reagan.jpg" title="File:Nancy and Ronald Reagan.jpg">
+-   File:Nancy and Ronald Reagan.jpg
+-  </a>
++  <del>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Nancy_and_Ronald_Reagan.jpg" title="File:Nancy and Ronald Reagan.jpg">
++    File:Nancy and Ronald Reagan.jpg
++   </a>
++  </del>
+@@ -296 +460,3 @@
+-   Nancy and Ronald Reagan married in 1952. Nancy became a powerful background figure in Reagan's rise and roles as governor and president.
++   <del>
++    Nancy and Ronald Reagan married in 1952. Nancy became a powerful background figure in Reagan's rise and roles as governor and president.
++   </del>
+@@ -302,3 +468,5 @@
+- <a class="mw-redirect" href="/wiki/Political_liberalism#United_States" title="Political liberalism">
+-  liberal
+- </a>
++ <del>
++  <a class="mw-redirect" href="/wiki/Political_liberalism#United_States" title="Political liberalism">
++   liberal
++  </a>
++ </del>
+@@ -324,5 +492,11 @@
+- (SAG), aligning himself with Senator
+- <a href="/wiki/Joseph_McCarthy" title="Joseph McCarthy">
+-  Joseph McCarthy
+- </a>
+- and cooperating with the
++ <ins>
++  (SAG) from 1947 until 1952, and then again from 1959 to 1960. In this position he testified before
++ </ins>
++ <del>
++  (SAG), aligning himself with Senator
++  <a href="/wiki/Joseph_McCarthy" title="Joseph McCarthy">
++   Joseph McCarthy
++  </a>
++  and cooperating with
++ </del>
++ the
+@@ -332,5 +506,24 @@
+- to "expose Communist influence in Hollywood". He turned in several of his allegedly Communist co-workers, although unlike many anti-Communists of the time he was strongly opposed to the formal banning of the
+- <a class="mw-redirect" href="/wiki/American_Communist_Party" title="American Communist Party">
+-  American Communist Party
+- </a>
+- . His employment by the
++ <ins>
++  on
++  <a href="/wiki/Communism" title="Communism">
++   Communist
++  </a>
++  influence in
++  <a href="/wiki/Cinema_of_the_United_States" title="Cinema of the United States">
++   Hollywood
++  </a>
++  and later supported
++  <a class="mw-redirect" href="/wiki/Blacklist" title="Blacklist">
++   blacklisting
++  </a>
++ </ins>
++ <del>
++  to "expose Communist influence in Hollywood". He turned in several of his allegedly Communist co-workers, although unlike many anti-Communists of the time he was strongly opposed to the formal banning of the
++  <a class="mw-redirect" href="/wiki/American_Communist_Party" title="American Communist Party">
++   American Communist Party
++  </a>
++ </del>
++ .
++</p>
++<p>
++ His employment by the
+@@ -340,5 +533,18 @@
+- company, delivering
+- <a class="mw-redirect" href="/wiki/Anti-communist" title="Anti-communist">
+-  anti-communist
+- </a>
+- speeches on radio broadcasts and speaking tours, further enhanced his political image in the anti-Soviet climate of 1950s America. By the
++ <ins>
++  company
++ </ins>
++ <del>
++  company, delivering
++  <a class="mw-redirect" href="/wiki/Anti-communist" title="Anti-communist">
++   anti-communist
++  </a>
++  speeches on radio broadcasts and speaking tours,
++ </del>
++ further enhanced his political
++ <ins>
++  image.
++ </ins>
++ <del>
++  image in the anti-Soviet climate of 1950s America.
++ </del>
++ By the
+@@ -352,0 +559,7 @@
++ <ins>
++  His nationally televised speech "
++  <a href="/wiki/A_Time_for_Choosing" title="A Time for Choosing">
++   A Time for Choosing
++  </a>
++  " electrified conservatives and led to his being asked to run for Governor of California.
++ </ins>
+@@ -363 +576,19 @@
+- . Reagan tried to gain the Republican presidential nomination in
++ <ins>
++  , defeating two-term incumbent
++  <a href="/wiki/Pat_Brown" title="Pat Brown">
++   Pat Brown
++  </a>
++  ; he was re-elected in
++  <a href="/wiki/1970" title="1970">
++   1970
++  </a>
++  , defeating
++  <a class="mw-redirect" href="/wiki/Jesse_Unruh" title="Jesse Unruh">
++   Jesse Unruh
++  </a>
++  , but chose not to seek a third term.
++ </ins>
++ <del>
++  .
++ </del>
++ Reagan tried to gain the Republican presidential nomination in
+@@ -375 +606,21 @@
+- but was defeated at the Republican Convention. He succeeded in gaining the Republican nomination in 1980. The campaign was marked by the
++ <ins>
++  ,
++ </ins>
++ but was defeated at the Republican Convention. He succeeded in gaining the Republican nomination in
++ <ins>
++  <a href="/wiki/1980" title="1980">
++   1980
++  </a>
++  .
++ </ins>
++ <del>
++  1980.
++ </del>
++ The campaign was
++ <ins>
++  greatly affected
++ </ins>
++ <del>
++  marked
++ </del>
++ by the
+@@ -379 +630,7 @@
+- . Overseas press charged that the Reagan camp had made a secret deal to keep the hostages imprisoned until after the election. Most analysts believe President
++ <ins>
++  ; most
++ </ins>
++ <del>
++  . Overseas press charged that the Reagan camp had made a secret deal to keep the hostages imprisoned until after the election. Most
++ </del>
++ analysts believe President
+@@ -383 +640,12 @@
+- 's inability to solve the hostage crisis played a large role in his defeat and Reagan's victory. Reagan went on to be elected President that year. In
++ 's inability to solve the hostage crisis played a large role
++ <ins>
++  Reagan's victory against him in the
++  <a class="mw-redirect" href="/wiki/U.S._presidential_election,_1980" title="U.S. presidential election, 1980">
++   1980 election
++  </a>
++  .
++ </ins>
++ <del>
++  in his defeat and Reagan's victory. Reagan went on to be elected President that year.
++ </del>
++ In
+@@ -387 +655,21 @@
+- , he was re-elected in a landslide, winning in 49 of 50 states and receiving nearly 60 percent of the popular vote.
++ , he was re-elected in a
++ <ins>
++  landslide over Carter's Vice President
++  <a href="/wiki/Walter_Mondale" title="Walter Mondale">
++   Walter Mondale
++  </a>
++  ,
++ </ins>
++ <del>
++  landslide,
++ </del>
++ winning in 49 of 50 states and receiving nearly 60 percent of the popular vote.
++ <ins>
++  Much of his first election and this second term landslide is attributed to the then-named "
++ </ins>
++ <ins>
++  <a href="/wiki/Reagan_Democrat" title="Reagan Democrat">
++   Reagan Democrats
++  </a>
++  ", a newly emerged but mostly unorganized political force.
++ </ins>
+@@ -390,3 +678,26 @@
+- <span class="mw-headline" id="Presidency">
+-  Presidency
+- </span>
++ <ins>
++  <span class="mw-headline" id="Presidency">
++   Presidency
++  </span>
++ </ins>
++</h2>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reagan_assassination.jpg" title="File:Reagan assassination.jpg">
++    File:Reagan assassination.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Chaos outside the Washington Hilton Hotel after the assassination attempt on President Reagan.
++   </ins>
++  </div>
++ </div>
++</div>
++<h2>
++ <del>
++  <span class="mw-headline" id="Presidency">
++   Presidency
++  </span>
++ </del>
+@@ -396,3 +706,0 @@
+-  <a class="image" href="/wiki/File:Bush_reagan.jpg">
+-   <img alt="" class="thumbimage" data-file-height="332" data-file-width="500" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bush_reagan.jpg/300px-Bush_reagan.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bush_reagan.jpg/450px-Bush_reagan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/ce/Bush_reagan.jpg 2x" width="300"/>
+-  </a>
+@@ -401,2 +708,0 @@
+-    <a class="internal" href="/wiki/File:Bush_reagan.jpg" title="Enlarge">
+-    </a>
+@@ -404 +710,3 @@
+-   Then-Vice President Bush meets with President Reagan in 1984.
++   <del>
++    Then-Vice President Bush meets with President Reagan in 1984.
++   </del>
+@@ -456 +764 @@
+-  <a class="mw-redirect" href="/wiki/Anti-communist" title="Anti-communist">
++  <a href="/wiki/Anti-communism" title="Anti-communism">
+@@ -481 +789,3 @@
+-  supportive of business interests, both large and small
++  <ins>
++   in favor of the use of force to protect U.S. interests
++  </ins>
+@@ -484 +794,10 @@
+-  supportive of some individual liberties
++  supportive of
++  <a href="/wiki/Business" title="Business">
++   business
++  </a>
++  interests, both large and small
++ </li>
++ <li>
++  <del>
++   supportive of some individual liberties
++  </del>
+@@ -492,0 +812,22 @@
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reaganhiro.jpg" title="File:Reaganhiro.jpg">
++    File:Reaganhiro.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Emperor
++    <a href="/wiki/Hirohito" title="Hirohito">
++     Hirohito
++    </a>
++    of
++    <a href="/wiki/Japan" title="Japan">
++     Japan
++    </a>
++    meeting with Reagan.
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -505 +846,10 @@
+-  missiles in Germany in response to the Soviet stationing of
++  missiles in
++  <ins>
++   <a href="/wiki/West_Germany" title="West Germany">
++    West Germany
++   </a>
++  </ins>
++  <del>
++   Germany
++  </del>
++  in response to the Soviet stationing of
+@@ -519 +869,5 @@
+-  negotiating nuclear arms reduction treaties
++  negotiating
++  <a class="mw-redirect" href="/wiki/Nuclear_arms" title="Nuclear arms">
++   nuclear arms
++  </a>
++  reduction treaties
+@@ -528,4 +882,13 @@
+-  arming and training anti-communist groups like the
+-  <a href="/wiki/Contras" title="Contras">
+-   Contras
+-  </a>
++  arming
++  <ins>
++   groups such as the
++   <a class="mw-disambig" href="/wiki/Contra" title="Contra">
++    Contras
++   </a>
++  </ins>
++  <del>
++   and training anti-communist groups like the
++   <a href="/wiki/Contras" title="Contras">
++    Contras
++   </a>
++  </del>
+@@ -539 +902 @@
+-  <a href="/wiki/Taiwan" title="Taiwan">
++  <a class="mw-redirect" href="/wiki/Republic_of_China" title="Republic of China">
+@@ -550,4 +913,16 @@
+-  and, ironically,
+-  <a href="/wiki/Iraq" title="Iraq">
+-   Iraq
+-  </a>
++  <ins>
++   ,
++   <a href="/wiki/Iraq" title="Iraq">
++    Iraq
++   </a>
++   , and enemies like
++   <a href="/wiki/Iran" title="Iran">
++    Iran
++   </a>
++  </ins>
++  <del>
++   and, ironically,
++   <a href="/wiki/Iraq" title="Iraq">
++    Iraq
++   </a>
++  </del>
+@@ -556 +931,4 @@
+-  lowering taxes significantly, reversing a historic trend towards higher taxes
++  lowering taxes significantly,
++  <ins>
++   then raising them significantly
++  </ins>
+@@ -559 +937,14 @@
+-  increasing the federal deficit
++  <ins>
++   ending the
++   <a href="/wiki/Cold_War" title="Cold War">
++    Cold War
++   </a>
++  </ins>
++ </li>
++ <del>
++  reversing a historic trend towards higher taxes
++ </del>
++ <li>
++  <del>
++   increasing the federal deficit
++  </del>
+@@ -573 +964,7 @@
+-  that damaged the economy under his predecessors,
++  that damaged the economy under his
++  <ins>
++   predecessors
++  </ins>
++  <del>
++   predecessors,
++  </del>
+@@ -584,4 +981,6 @@
+-  helping to 'win' the
+-  <a href="/wiki/Cold_War" title="Cold War">
+-   Cold War
+-  </a>
++  <del>
++   helping to 'win' the
++   <a href="/wiki/Cold_War" title="Cold War">
++    Cold War
++   </a>
++  </del>
+@@ -594,20 +993,7 @@
+-  when they illegally
+-  <a href="/wiki/Strike_action" title="Strike action">
+-   struck
+-  </a>
+- </li>
+-</ul>
+-<h3>
+- <span class="mw-headline" id="Reaganomics">
+-  Reaganomics
+- </span>
+-</h3>
+-<div class="thumb tright">
+- <div class="thumbinner" style="width:182px;">
+-  <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reaganhiro.jpg" title="File:Reaganhiro.jpg">
+-   File:Reaganhiro.jpg
+-  </a>
+-  <div class="thumbcaption">
+-   Emperor
+-   <a href="/wiki/Hirohito" title="Hirohito">
+-    Hirohito
++  when they
++  <ins>
++   went on
++  </ins>
++  <ins>
++   <a href="/wiki/Strike_action" title="Strike action">
++    strike
+@@ -615 +1001,34 @@
+-   meeting with President Reagan.
++  </ins>
++  <h3>
++   <ins>
++    <span class="mw-headline" id="Reaganomics">
++     Reaganomics
++    </span>
++   </ins>
++  </h3>
++  <p>
++   <ins>
++    <i>
++     Main article:
++     <a href="/wiki/Reaganomics" title="Reaganomics">
++      Reaganomics
++     </a>
++    </i>
++   </ins>
++  </p>
++  <div class="thumb tright">
++   <div class="thumbinner" style="width:302px;">
++    <div class="thumbcaption">
++     <div class="magnify">
++     </div>
++     <ins>
++      President Reagan signs the
++     </ins>
++     <ins>
++      <a href="/wiki/Tax_Reform_Act_of_1986" title="Tax Reform Act of 1986">
++       Tax Reform Act of 1986
++      </a>
++      on the South Lawn.
++     </ins>
++    </div>
++   </div>
+@@ -617,2 +1036,35 @@
+- </div>
+-</div>
++  <del>
++   illegally
++  </del>
++  <del>
++   <a href="/wiki/Strike_action" title="Strike action">
++    struck
++   </a>
++  </del>
++  <h3>
++   <del>
++    <span class="mw-headline" id="Reaganomics">
++     Reaganomics
++    </span>
++   </del>
++  </h3>
++  <div class="thumb tright">
++   <div class="thumbinner" style="width:182px;">
++    <del>
++     <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reaganhiro.jpg" title="File:Reaganhiro.jpg">
++      File:Reaganhiro.jpg
++     </a>
++    </del>
++    <div class="thumbcaption">
++     <del>
++      Emperor
++      <a href="/wiki/Hirohito" title="Hirohito">
++       Hirohito
++      </a>
++      meeting with President Reagan.
++     </del>
++    </div>
++   </div>
++  </div>
++ </li>
++</ul>
+@@ -620,8 +1072,24 @@
+- Part of President Reagan's first term in office focused on reviving an inherited economy exhibiting stagflation, or both
+- <a href="/wiki/Inflation" title="Inflation">
+-  inflation
+- </a>
+- and
+- <a href="/wiki/Unemployment" title="Unemployment">
+-  unemployment
+- </a>
++ Part of President Reagan's first term in office focused on reviving an inherited economy exhibiting
++ <ins>
++  <a href="/wiki/Stagflation" title="Stagflation">
++   stagflation
++  </a>
++  , a high rate of
++  <a href="/wiki/Inflation" title="Inflation">
++   inflation
++  </a>
++  combined with an economic
++  <a href="/wiki/Recession" title="Recession">
++   recession
++  </a>
++ </ins>
++ <del>
++  stagflation, or both
++  <a href="/wiki/Inflation" title="Inflation">
++   inflation
++  </a>
++  and
++  <a href="/wiki/Unemployment" title="Unemployment">
++   unemployment
++  </a>
++ </del>
+@@ -636 +1104,4 @@
+- . Most economists agree that tax cuts stimulate the economy, but supply-siders say that they have a much greater effect than most economists say they would.
++ .
++ <del>
++  Most economists agree that tax cuts stimulate the economy, but supply-siders say that they have a much greater effect than most economists say they would.
++ </del>
+@@ -644,5 +1115,33 @@
+- " prior to becoming his vice-president. Reagan's policies soon became known as "
+- <a href="/wiki/Reaganomics" title="Reaganomics">
+-  Reaganomics
+- </a>
+- ", a nickname used by both his supporters and detractors. These tax cuts combined with heavy military spending increases led to enormous
++ "
++ <ins>
++  during the Republican primary campaign,
++ </ins>
++ prior to becoming his
++ <ins>
++  running mate. After less than two years in office, Reagan rolled back a large portion of his corporate taxes.
++ </ins>
++ <del>
++  vice-president.
++ </del>
++ Reagan's policies soon became known as
++ <ins>
++  "Reaganomics",
++ </ins>
++ <del>
++  "
++  <a href="/wiki/Reaganomics" title="Reaganomics">
++   Reaganomics
++  </a>
++  ",
++ </del>
++ a nickname used by both his supporters and detractors.
++ <ins>
++  Although total federal revenues increased after Reagan's tax cuts took effect, these fell short of government spending that included both Reagan's military buildup and
++  <a href="/wiki/United_States_Congress" title="United States Congress">
++   Congress
++  </a>
++  ' expansion of social programs. The result was greater
++ </ins>
++ <del>
++  These tax cuts combined with heavy military spending increases led to enormous
++ </del>
+@@ -656 +1155,8 @@
+- . The debt increased by approximately 200% (tripled) between when Reagan took office and when his successor,
++ . The debt
++ <ins>
++  approximately tripled
++ </ins>
++ <del>
++  increased by approximately 200% (tripled)
++ </del>
++ between when Reagan took office and when his successor,
+@@ -660 +1166,5 @@
+- , took office. Reagan's supporters note that although the President writes an annual budget proposal, the actual spending bill originates in the
++ , took office.
++ <ins>
++  Yet, President Reagan's tenure marked a time of economic prosperity for the United States, in which inflation dropped significantly.
++ </ins>
++ Reagan's supporters note that although the President writes an annual budget proposal, the actual spending bill originates in the
+@@ -664 +1174,6 @@
+- , so Reagan's policies are not the exclusive cause of the debt increase.
++ <ins>
++  ; thus, they lay blame for the debt increase at the Congress instead of the President.
++ </ins>
++ <del>
++  , so Reagan's policies are not the exclusive cause of the debt increase.
++ </del>
+@@ -677,0 +1193,110 @@
++ <ins>
++  <span class="mw-headline" id="Response_to_AIDS">
++   Response to AIDS
++  </span>
++ </ins>
++</h3>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:202px;">
++  <div class="thumbcaption">
++   <div class="magnify">
++   </div>
++   <ins>
++    Then-Vice President Bush, right, meets with President Reagan, left, in 1984.
++   </ins>
++  </div>
++ </div>
++</div>
++<p>
++ <ins>
++  Reagan's presidency saw the advent of
++  <a href="/wiki/HIV" title="HIV">
++   HIV
++  </a>
++  -
++  <a class="mw-redirect" href="/wiki/AIDS" title="AIDS">
++   AIDS
++  </a>
++  as a widespread epidemic in the US. Although AIDS was first reported in 1981, Reagan did not mention it publicly for several more years; while it is commonly stated that he did not do so until
++  <a href="/wiki/1987" title="1987">
++   1987
++  </a>
++  , this claim appears to be erroneous, with documented instances in late
++  <a href="/wiki/1985" title="1985">
++   1985
++  </a>
++  and early
++  <a href="/wiki/1986" title="1986">
++   1986
++  </a>
++  . His administration approached the epidemic as a series of local and state issues rather than with a national strategy, and politicians for the
++  <a href="/wiki/United_States_Department_of_Health_and_Human_Services" title="United States Department of Health and Human Services">
++   Department of Health and Human Services
++  </a>
++  pleaded behind the scenes for adequate funding.
++ </ins>
++</p>
++<p>
++ <ins>
++  In deference to the views of the powerful religious right, who saw AIDS as a disease limited to the
++  <a href="/wiki/Homosexuality" title="Homosexuality">
++   gay
++  </a>
++  male community and spread by immoral behavior, Reagan prevented his
++  <a href="/wiki/Surgeon_General_of_the_United_States" title="Surgeon General of the United States">
++   Surgeon General
++  </a>
++  ,
++  <a href="/wiki/C._Everett_Koop" title="C. Everett Koop">
++   C. Everett Koop
++  </a>
++  , from speaking out about the epidemic. When in 1986 Reagan finally authorized Koop to issue a report on the epidemic, he expected it to be in line with conservative policies; instead, Koop's
++  <i>
++   Surgeon General's Report on Acquired Immune Deficiency Syndrome
++  </i>
++  greatly emphasized the importance of a comprehensive AIDS education strategy, including widespread distribution of
++  <a href="/wiki/Condom" title="Condom">
++   condoms
++  </a>
++  , and rejected mandatory testing. This approach brought Koop into conflict with other administration officials such as Education Secretary
++  <a href="/wiki/William_Bennett" title="William Bennett">
++   William Bennett
++  </a>
++  .
++ </ins>
++</p>
++<p>
++ <ins>
++  Social action groups like
++  <a href="/wiki/ACT_UP" title="ACT UP">
++   ACT UP
++  </a>
++  worked to raise awareness of the AIDS problem. In 1987, Reagan responded by appointing the
++  <a class="mw-disambig" href="/wiki/Watkins_Commission" title="Watkins Commission">
++   Watkins Commission
++  </a>
++  on AIDS, but its recommendations for increased funding went largely ignored by the Reagan and the subsequent Bush administration. The most memorable ACT UP slogan confronting the Reagan/Bush stance was SILENCE= DEATH.
++ </ins>
++</p>
++<p>
++ <ins>
++  Many
++  <a href="/wiki/Social_conservatism" title="Social conservatism">
++   socially conservative
++  </a>
++  commentators saw Reagan's handling of the AIDS crisis as a common sense approach for a problem they believed was caused by social
++  <a href="/wiki/Immorality" title="Immorality">
++   immorality
++  </a>
++  . Many in the
++  <a class="mw-redirect" href="/wiki/Gay_community" title="Gay community">
++   gay and lesbian
++  </a>
++  communities and many
++  <a class="mw-redirect" href="/wiki/People_with_AIDS" title="People with AIDS">
++   people with AIDS
++  </a>
++  and those directly affected by the destruction of AIDS, such as health care providers and family members, saw his policies as anything from politically motivated willful blindness to outright contempt for groups affected by the disease.
++ </ins>
++</p>
++<h3>
+@@ -681,0 +1307,17 @@
++<div class="thumb tright">
++ <div class="thumbinner" style="width:302px;">
++  <div class="thumbcaption">
++   <div class="magnify">
++   </div>
++   <ins>
++    Reagan, left, in one-on-one discussions with
++   </ins>
++   <ins>
++    <a href="/wiki/Mikhail_Gorbachev" title="Mikhail Gorbachev">
++     Mikhail Gorbachev
++    </a>
++    , the General Secretary of the Communist Party of the USSR from 1985 to 1991.
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -690,0 +1333,3 @@
++ <ins>
++  ,
++ </ins>
+@@ -695 +1340,12 @@
+- an "Evil Empire" and later in his presidency while speaking in front of the
++ an
++ <ins>
++  "
++  <a href="/wiki/Evil_empire" title="Evil empire">
++   evil empire
++  </a>
++  ". Later in his presidency,
++ </ins>
++ <del>
++  "Evil Empire" and later in his presidency
++ </del>
++ while speaking in front of the
+@@ -698,0 +1355,3 @@
++ <ins>
++  ,
++ </ins>
+@@ -703 +1362,13 @@
+- to "tear down this wall". Some historians believe that all of those traits were greatly supported by his enthusiasm for America and strong personal belief in rights of the individual.
++ to "tear down this wall".
++</p>
++<p>
++ <ins>
++  Many Reagan supporters, including former British Prime Minister
++  <a href="/wiki/Margaret_Thatcher" title="Margaret Thatcher">
++   Margaret Thatcher
++  </a>
++  ,
++ </ins>
++ <del>
++  Some historians believe that all of those traits were greatly supported by his enthusiasm for America and strong personal belief in rights of the individual.
++ </del>
+@@ -707,3 +1377,0 @@
+-  <a class="image" href="/wiki/File:Reagan_and_Gorbachev_hold_discussions.jpg">
+-   <img alt="" class="thumbimage" data-file-height="505" data-file-width="750" height="202" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Reagan_and_Gorbachev_hold_discussions.jpg/300px-Reagan_and_Gorbachev_hold_discussions.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Reagan_and_Gorbachev_hold_discussions.jpg/450px-Reagan_and_Gorbachev_hold_discussions.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Reagan_and_Gorbachev_hold_discussions.jpg/600px-Reagan_and_Gorbachev_hold_discussions.jpg 2x" width="300"/>
+-  </a>
+@@ -712,2 +1379,0 @@
+-    <a class="internal" href="/wiki/File:Reagan_and_Gorbachev_hold_discussions.jpg" title="Enlarge">
+-    </a>
+@@ -715 +1381,3 @@
+-   President Reagan, left, in one-on-one discussions with USSR President Gorbachev, right.
++   <del>
++    President Reagan, left, in one-on-one discussions with USSR President Gorbachev, right.
++   </del>
+@@ -719,2 +1387,4 @@
+-<p>
+- Many Reagan supporters credit him with winning the
++<del>
++ Many Reagan supporters
++</del>
++ credit him with winning the
+@@ -722,3 +1392,9 @@
+-  Cold War
+- </a>
+- , while others attribute the collapse of
++ Cold War
++</a>
++<ins>
++ ;
++</ins>
++<del>
++ ,
++</del>
++ while others attribute the collapse of
+@@ -726,2 +1402,2 @@
+-  communism
+- </a>
++ communism
++</a>
+@@ -730,3 +1406,15 @@
+-  1989
+- </a>
+- in Eastern Europe and the Soviet Union to the mounting Soviet economic crisis and the failure of the economic and political reforms initiated by Soviet President
++ 1989
++</a>
++ in
++ <ins>
++ <a href="/wiki/Central_Europe" title="Central Europe">
++  Central Europe
++ </a>
++</ins>
++<del>
++ Eastern Europe
++</del>
++ and the Soviet Union to the mounting Soviet economic crisis and the failure of the economic and political reforms initiated by Soviet President <ins>
++ Gorbachev.
++</ins>
++<del>
+@@ -736 +1424,3 @@
+- . Reagan's policies included strong support of the U.S. military and the doctrine of "peace through strength." One of his more controversial proposals was the
++ .
++</del>
++ Reagan's policies included strong support of the U.S. military and the doctrine of "peace through strength." One of his more controversial proposals was the
+@@ -738,9 +1428,11 @@
+-  Strategic Defense Initiative
+- </a>
+- (SDI), a missile defense system which he hoped would make the U.S. invulnerable to nuclear missile attack by the
+- <a href="/wiki/Soviet_Union" title="Soviet Union">
+-  Soviet Union
+- </a>
+- . SDI was dubbed "Star Wars" by opponents, connoting the fantastic or impractical.
+-</p>
+-<p>
++ Strategic Defense Initiative
++</a>
++ (SDI), a missile defense system which he hoped would make the U.S. invulnerable to nuclear missile attack by the Soviet <ins>
++ Union.
++</ins>
++<del>
++ Union
++  Link: /wiki/Soviet_Union .
++</del>
++ SDI was dubbed "Star Wars" by opponents, connoting the fantastic or impractical.
++ <p>
+@@ -751 +1443,5 @@
+- , as well as increasing the instability of future international crises. Other critics saw the extraordinary expenditures involved in the multiple distinct SDI programs as a military-industrial boondoggle. Supporters call SDI the nail in the coffin of the arms race with the Soviet Union through the application the
++ , as well as increasing the instability of future international crises. Other critics saw the extraordinary expenditures involved in the multiple distinct SDI programs as a military-industrial boondoggle. Supporters call SDI the nail in the coffin of the arms race with the Soviet Union through the application
++ <ins>
++  of
++ </ins>
++ the
+@@ -758,4 +1454,54 @@
+- Reagan had a close friendship with many other conservative political leaders across the globe, especially
+- <a href="/wiki/Margaret_Thatcher" title="Margaret Thatcher">
+-  Margaret Thatcher
+- </a>
++ <ins>
++  At the time, Reagan suggested it would take decades for the program to be carried out. The program was supported by his successor,
++ </ins>
++ <ins>
++  <a href="/wiki/George_H._W._Bush" title="George H. W. Bush">
++   George H. W. Bush
++  </a>
++  , though not eagerly pursued.
++ </ins>
++ <ins>
++  <a href="/wiki/Bill_Clinton" title="Bill Clinton">
++   Bill Clinton
++  </a>
++  also supported it, though not actively. President
++ </ins>
++ <ins>
++  <a href="/wiki/George_W._Bush" title="George W. Bush">
++   George W. Bush
++  </a>
++  actively supports the program.
++ </ins>
++</p>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reagan_thatcher.jpg" title="File:Reagan thatcher.jpg">
++    File:Reagan thatcher.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Reagan and
++    <a href="/wiki/United_Kingdom" title="United Kingdom">
++     United Kingdom
++    </a>
++    Prime Minister
++    <a href="/wiki/Margaret_Thatcher" title="Margaret Thatcher">
++     Margaret Thatcher
++    </a>
++    at
++    <a href="/wiki/Camp_David" title="Camp David">
++     Camp David
++    </a>
++   </ins>
++  </div>
++ </div>
++</div>
++<ins>
++ Reagan had close friendships
++</ins>
++<del>
++ Reagan had a close friendship
++</del>
++ with many other conservative political leaders across the globe, especially Margaret Thatcher <ins>
+@@ -762,0 +1509,6 @@
++ <a href="/wiki/United_Kingdom" title="United Kingdom">
++  Britain
++ </a>
++</ins>
++<del>
++ Link: /wiki/Margaret_Thatcher in
+@@ -765,0 +1518 @@
++</del>
+@@ -768,2 +1521,2 @@
+-  Brian Mulroney
+- </a>
++ Brian Mulroney
++</a>
+@@ -772,6 +1525,8 @@
+-  Canada
+- </a>
+- . Reagan had a great desire for establishing personal relationships with other heads of state, often inviting them to his ranch or
+- <a href="/wiki/Camp_David" title="Camp David">
+-  Camp David
+- </a>
++ Canada
++</a>
++ . Reagan had a great desire for establishing personal relationships with other heads of state, often inviting them to his ranch or <ins>
++ to
++</ins>
++<a href="/wiki/Camp_David" title="Camp David">
++ Camp David
++</a>
+@@ -779 +1534,7 @@
+-</p>
++ <h2>
++ <ins>
++  <span class="mw-headline" id="Foreign_Interventions">
++   Foreign Interventions
++  </span>
++ </ins>
++</h2>
+@@ -781,0 +1543,3 @@
++ <ins>
++  "
++ </ins>
+@@ -785 +1549,125 @@
+- , the United States also took an increasingly hard line against Communist influences in Latin America, which often involved the controversial support of anti-Communist
++ <ins>
++  ,"
++ </ins>
++ <del>
++  ,
++ </del>
++ the United States also
++ <ins>
++  offered financial and logistics support to the anti-communist opposition in central Europe (most notably the
++  <a href="/wiki/Poland" title="Poland">
++   Polish
++  </a>
++  <i>
++   <b>
++    <a href="/wiki/Solidarity" title="Solidarity">
++     Solidarity
++    </a>
++   </b>
++  </i>
++  movement) and
++ </ins>
++ took an increasingly hard line against Communist
++ <ins>
++  regimes in
++ </ins>
++ <ins>
++  <a href="/wiki/Afghanistan" title="Afghanistan">
++   Afghanistan
++  </a>
++  ,
++ </ins>
++ <ins>
++  <a href="/wiki/Angola" title="Angola">
++   Angola
++  </a>
++  ,
++ </ins>
++ <ins>
++  <a href="/wiki/Cambodia" title="Cambodia">
++   Cambodia
++  </a>
++  , and
++ </ins>
++ <ins>
++  <a href="/wiki/Nicaragua" title="Nicaragua">
++   Nicaragua
++  </a>
++  .
++ </ins>
++</p>
++<p>
++ <ins>
++  Reagan considered the anti-Communist rebel groups such as the
++  <a href="/wiki/Contras" title="Contras">
++   Contras
++  </a>
++  and Afghan
++  <a href="/wiki/Mujahideen" title="Mujahideen">
++   mujahideen
++  </a>
++  to be
++  <a class="mw-redirect mw-disambig" href="/wiki/Freedom_fighters" title="Freedom fighters">
++   freedom fighters
++  </a>
++  and the "moral equivalent of our [America's] founding fathers" fighting against Communism. In contrast he considered Islamist and socialist forces such as the
++  <a href="/wiki/Hezbollah" title="Hezbollah">
++   Hezbollah
++  </a>
++  guerrillas in
++  <a href="/wiki/Lebanon" title="Lebanon">
++   Lebanon
++  </a>
++  ,
++  <a class="mw-disambig" href="/wiki/Palestinian" title="Palestinian">
++   Palestinian
++  </a>
++  guerrillas in the
++  <a href="/wiki/West_Bank" title="West Bank">
++   West Bank
++  </a>
++  and
++  <a href="/wiki/Gaza_Strip" title="Gaza Strip">
++   Gaza Strip
++  </a>
++  , and left-wing guerrillas fighting a right-wing
++  <a href="/wiki/Military_dictatorship" title="Military dictatorship">
++   military dictatorship
++  </a>
++  in
++  <a href="/wiki/Honduras" title="Honduras">
++   Honduras
++  </a>
++  to be
++  <a class="mw-redirect" href="/wiki/Terrorists" title="Terrorists">
++   terrorists
++  </a>
++  . The Reagan administration also considered guerrillas of the
++  <a class="mw-redirect" href="/wiki/ANC" title="ANC">
++   ANC
++  </a>
++  's armed wing Mkihonto we-Sizwe (MK or Spear of the Nation) and others (e.g. the
++  <a class="mw-disambig" href="/wiki/PAC" title="PAC">
++   PAC
++  </a>
++  ) fighting the
++  <a href="/wiki/Apartheid" title="Apartheid">
++   apartheid
++  </a>
++  government in
++  <a href="/wiki/South_Africa" title="South Africa">
++   South Africa
++  </a>
++  to be
++  <a class="mw-redirect" href="/wiki/Terrorists" title="Terrorists">
++   terrorists
++  </a>
++  , despite many people throughout the world (most likely including the black majority in South Africa) considered the
++  <a class="mw-redirect mw-disambig" href="/wiki/Freedom_fighters" title="Freedom fighters">
++   freedom fighters
++  </a>
++  .
++ </ins>
++</p>
++<del>
++ influences in Latin America, which often involved the controversial support of anti-Communist
+@@ -793 +1681,179 @@
+- records. This has led some to charge that Reagan was undertaking secret and illegal guerilla wars. In
++ records.
++</del>
++<p>
++ This has led some to charge that Reagan was undertaking secret and illegal guerilla
++ <ins>
++  wars to unseat socialist governments around the globe. Perhaps his most controversial action in this respect was his administration's support of the
++ </ins>
++ <ins>
++  <a class="mw-disambig" href="/wiki/Contra" title="Contra">
++   Contra
++  </a>
++  rebels in Nicaragua.
++ </ins>
++</p>
++<h3>
++ <ins>
++  <span class="mw-headline" id="Nicaragua">
++   Nicaragua
++  </span>
++ </ins>
++</h3>
++<p>
++ <ins>
++  Many people criticised these actions, not just on political grounds but also on moral and legal grounds. For example, noted left-wing author
++  <a href="/wiki/Noam_Chomsky" title="Noam Chomsky">
++   Noam Chomsky
++  </a>
++  in works including
++  <i>
++   <a class="new" href="/w/index.php?title=Pirates_and_Emperors,_Old_and_New&amp;action=edit&amp;redlink=1" title="Pirates and Emperors, Old and New (page does not exist)">
++    Pirates and Emperors, Old and New
++   </a>
++  </i>
++  . During the 1980s the Reagan administration sponsored a campaign of poltical violence by
++  <a class="mw-disambig" href="/wiki/Contra" title="Contra">
++   Contra
++  </a>
++  <a class="mw-redirect" href="/wiki/Guerrillas" title="Guerrillas">
++   guerrillas
++  </a>
++  (a proxy paramilitarya based in
++  <a href="/wiki/Honduras" title="Honduras">
++   Honduras
++  </a>
++  and
++  <a href="/wiki/Costa_Rica" title="Costa Rica">
++   Costa Rica
++  </a>
++  , largely consisting of former
++  <a class="mw-redirect" href="/wiki/Somoza" title="Somoza">
++   Somoza
++  </a>
++  regime soldiers) against the socialist
++  <a class="mw-redirect" href="/wiki/Sandinista" title="Sandinista">
++   Sandinista
++  </a>
++  government in
++  <a href="/wiki/Nicaragua" title="Nicaragua">
++   Nicaragua
++  </a>
++  . The resultiung insurgency killed over 50,000 people, mostly
++  <a href="/wiki/Civilian" title="Civilian">
++   civilians
++  </a>
++  . The Sandinstas had previously overthrown the US-backed right-wing
++  <a href="/wiki/Military" title="Military">
++   military
++  </a>
++  <a href="/wiki/Dictatorship" title="Dictatorship">
++   dictatorship
++  </a>
++  of the
++  <a class="mw-redirect" href="/wiki/Somoza" title="Somoza">
++   Somoza
++  </a>
++  family in 1979 (which had ruled the country for decades) and were elected in Nicaragua's first democratic elections in 1984.
++ </ins>
++</p>
++<p>
++ <ins>
++  The
++  <a href="/wiki/Contras" title="Contras">
++   Contras
++  </a>
++  had a terrible
++  <a href="/wiki/Human_rights" title="Human rights">
++   human rights
++  </a>
++  record, and were notorious for attacking farms and other civilian targets, as well as murder, torture and mutilation of
++  <a class="mw-redirect" href="/wiki/Civilians" title="Civilians">
++   civilians
++  </a>
++  and other
++  <a class="mw-redirect" href="/wiki/War_crimes" title="War crimes">
++   war crimes
++  </a>
++  . The
++  <a href="/wiki/Contras" title="Contras">
++   Contras
++  </a>
++  were also involved in illicit
++  <a href="/wiki/Drug" title="Drug">
++   drug
++  </a>
++  -trafficking. Chomsky and others have accused the US government of inciting the
++  <a href="/wiki/Contras" title="Contras">
++   Contras
++  </a>
++  to attack civilians, and providing them with the positions of the Nicaraguan Army to avoid engagment with the security forces.
++ </ins>
++</p>
++<p>
++ <ins>
++  Opponents of Reagan argue that this constituted state sponsorship of
++  <a href="/wiki/Terrorism" title="Terrorism">
++   terrorism
++  </a>
++  and an attempt to overthrow an elected government--indeed the
++  <a class="mw-redirect" href="/wiki/World_Court" title="World Court">
++   World Court
++  </a>
++  sanctioned the US for "unlawful use of force" for "sponsoring paramilitary activity in and against Nicaragua", ordering the US government to pay billions of US dollars in compensation (the US refuses to this day).
++ </ins>
++</p>
++<p>
++ <ins>
++  Supporters of Reagan claim the Sandinista regime was neither democratic nor harmless, and was instead a Communist dicatorship in the making, supported both militarily and economically by
++  <a href="/wiki/Cuba" title="Cuba">
++   Cuba
++  </a>
++  and the
++  <a href="/wiki/Soviet_Union" title="Soviet Union">
++   Soviet Union
++  </a>
++  .
++ </ins>
++</p>
++<p>
++ <ins>
++  Regardless, due to the pressures of the covert Contra war, the Sandinsta President of Nicaragua,
++  <a href="/wiki/Daniel_Ortega" title="Daniel Ortega">
++   Daniel Ortega
++  </a>
++  eventually held the country's second elections, which he and his party lost, thus ending Nicaragua's brief period of socialist rule. Chomsky claims that Nicaraguans are even now influenced into voting for US-backed parties for fear of another proxy insurgency, with US government officials apparently publicly declaring their opposition to left-wing Nicaraguan parties.
++ </ins>
++</p>
++<p>
++ <ins>
++  The Reagan administration is also accused of sponsoring right-wing and fascist
++  <a href="/wiki/Military_dictatorship" title="Military dictatorship">
++   military dictatorships
++  </a>
++  throughout Latin America, and the
++  <a class="mw-redirect" href="/wiki/CIA" title="CIA">
++   CIA
++  </a>
++  and US-based
++  <a class="mw-redirect" href="/wiki/School_of_the_Americas" title="School of the Americas">
++   School of the Americas
++  </a>
++  are accused of training
++  <a href="/wiki/Human_rights" title="Human rights">
++   human rights
++  </a>
++  abusers such as Honduran death squads in assassination and torture techniques.
++ </ins>
++</p>
++<h3>
++ <ins>
++  <span class="mw-headline" id="Grenada">
++   Grenada
++  </span>
++ </ins>
++</h3>
++<del>
++ wars.
++</del>
++<p>
++ In
+@@ -796,0 +1863,3 @@
++ <ins>
++  ,
++ </ins>
+@@ -801 +1870,27 @@
+- after it underwent a Communist coup. Near the end of his term, Reagan was also instrumental in supporting the transition of Latin American democracy, giving generous
++ after it underwent a Communist coup.
++ <ins>
++  Prior to the Grenada invasion, on December 4, 1982, Reagan openly supported
++  <a href="/wiki/Guatemala" title="Guatemala">
++   Guatemalan
++  </a>
++  dictator Gen. Efrain Rios Montt's campaign. In
++  <a href="/wiki/1986" title="1986">
++   1986
++  </a>
++  , representing the global promise he felt was inherent in the success of the Reagan Doctrine, Reagan invited anti-communist Angolan resistance leader
++  <a href="/wiki/Jonas_Savimbi" title="Jonas Savimbi">
++   Jonas Savimbi
++  </a>
++  to The White House, where he spoke of Savimbi winning "a victory that electrifies the world." The Reagan Doctrine was vigorously supported by influential foreign policy analysts at The
++  <a class="mw-redirect" href="/wiki/Heritage_Foundation" title="Heritage Foundation">
++   Heritage Foundation
++  </a>
++  and other
++  <a class="mw-redirect" href="/wiki/Conservatives" title="Conservatives">
++   conservatives
++  </a>
++  , leading to the flow of American weapons to anti-communist resistance movements on several continents.
++ </ins>
++</p>
++<p>
++ Near the end of his term, Reagan was also instrumental in supporting the transition of Latin American democracy, giving generous
+@@ -808,3 +1903,104 @@
+- <span class="mw-headline" id="Iran-Contra_Affair">
+-  Iran-Contra Affair
+- </span>
++ <ins>
++  <span class="mw-headline" id="Iran-Iraq_War">
++   Iran-Iraq War
++  </span>
++ </ins>
++</h3>
++<p>
++ <ins>
++  When the war between
++  <a class="mw-redirect" href="/wiki/Iran-Iraq_War" title="Iran-Iraq War">
++   Iran and Iraq
++  </a>
++  broke out following the Iranian Islamic revolution of 1979, the United States initally remained neutral in the conflict. However, as the war intensified, the Reagan administration would covertly intervene, supporting both nations at various times.
++ </ins>
++</p>
++<p>
++ <ins>
++  For a period the Reagan administration sponsored
++  <a href="/wiki/Iraq" title="Iraq">
++   Iraqi
++  </a>
++  President
++  <a href="/wiki/Saddam_Hussein" title="Saddam Hussein">
++   Saddam Hussein
++  </a>
++  , believing him to be a less dangerous and radical Arab leader than
++  <a class="mw-redirect" href="/wiki/Ayatollah_Khomeni" title="Ayatollah Khomeni">
++   Ayatollah Khomeni
++  </a>
++  in
++  <a href="/wiki/Iran" title="Iran">
++   Iran
++  </a>
++  . The US and its allies gave weapons and tactical support to Iraq, and some illegal deals were done in which
++  <a class="mw-redirect" href="/wiki/Chemical" title="Chemical">
++   chemical
++  </a>
++  and
++  <a class="mw-redirect" href="/wiki/Biological" title="Biological">
++   biological
++  </a>
++  materials were given to the Iraqis, obstinately for humanitarian purposes, but utlimately used to make
++  <a href="/wiki/Chemical_weapon" title="Chemical weapon">
++   chemical weaponry
++  </a>
++  . The Iraqis in turn used these against Iranian
++  <a class="mw-redirect" href="/wiki/Conscripts" title="Conscripts">
++   conscripts
++  </a>
++  and Kurdish
++  <a class="mw-redirect" href="/wiki/Guerrillas" title="Guerrillas">
++   guerrillas
++  </a>
++  and
++  <a class="mw-redirect" href="/wiki/Civilians" title="Civilians">
++   civilians
++  </a>
++  . Several commentators have since argued that
++  <a href="/wiki/Iraq" title="Iraq">
++   Iraq
++  </a>
++  could not possibly have invaded
++  <a href="/wiki/Kuwait" title="Kuwait">
++   Kuwait
++  </a>
++  in
++  <a href="/wiki/1991" title="1991">
++   1991
++  </a>
++  if not for the weapons Saddam recieved from the US, although this claim is disputed by those who cite Soviet influnces in Iraq as being far more significant.
++ </ins>
++</p>
++<p>
++ <ins>
++  Simulataniously with the support of Iraq, the Administration also engaged in covert arms sales to Iran. Certain factions of the Reagan cabinet believed that supporting various non-government militia forces in Iran could perhaps provoke an internal
++  <a class="mw-redirect" href="/wiki/Coup" title="Coup">
++   coup
++  </a>
++  by more moderate forces who could depose Khomenei.
++ </ins>
++</p>
++<h3>
++ <ins>
++  <span class="mw-headline" id="Iran-Contra_affair">
++   Iran-Contra affair
++  </span>
++ </ins>
++</h3>
++<p>
++ <ins>
++  <i>
++   Main article:
++   <a class="mw-redirect" href="/wiki/Iran-Contra_Affair" title="Iran-Contra Affair">
++    Iran-Contra Affair
++   </a>
++  </i>
++ </ins>
++</p>
++<h3>
++ <del>
++  <span class="mw-headline" id="Iran-Contra_Affair">
++   Iran-Contra Affair
++  </span>
++ </del>
+@@ -813 +2009,5 @@
+- During his administration, there was a major scandal and investigation of his administration's covert support of wars in
++ During his administration, there was a major scandal and investigation of his administration's covert support of
++ <ins>
++  the
++ </ins>
++ wars in
+@@ -821,5 +2021,9 @@
+- in what came to be known as the
+- <a class="mw-redirect" href="/wiki/Iran-Contra_Affair" title="Iran-Contra Affair">
+-  Iran-Contra Affair
+- </a>
+- . Two members of administration,
++ in what came to be known as the Iran-Contra
++ <ins>
++  Affair.
++ </ins>
++ <del>
++  Affair
++  Link: /wiki/Iran-Contra_Affair .
++ </del>
++ Two members of administration,
+@@ -848 +2052,4 @@
+- terrorist group in
++ <del>
++  terrorist group
++ </del>
++ in
+@@ -856,3 +2062,0 @@
+-  <a class="image" href="/wiki/File:Pres_Ronald_Reagan_on_white_horse.jpg">
+-   <img alt="" class="thumbimage" data-file-height="835" data-file-width="550" height="334" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pres_Ronald_Reagan_on_white_horse.jpg/220px-Pres_Ronald_Reagan_on_white_horse.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pres_Ronald_Reagan_on_white_horse.jpg/330px-Pres_Ronald_Reagan_on_white_horse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pres_Ronald_Reagan_on_white_horse.jpg/440px-Pres_Ronald_Reagan_on_white_horse.jpg 2x" width="220"/>
+-  </a>
+@@ -861,2 +2064,0 @@
+-    <a class="internal" href="/wiki/File:Pres_Ronald_Reagan_on_white_horse.jpg" title="Enlarge">
+-    </a>
+@@ -864 +2066,3 @@
+-   President Reagan had a famous life-long love of horse-riding which added to his all-American image
++   <del>
++    President Reagan had a famous life-long love of horse-riding which added to his all-American image
++   </del>
+@@ -873 +2077,18 @@
+- to investigate the wider scandal. His cooperation with counsel helped Iran-Contra from seriously damaging his presidency. It was found that the President was guilty of the scandal only in that his lax control of his own staff resulted in his ignorance of the arms sale. Although Reagan himself was considered personally honest by most Americans, other scandals occurred involving bribery, corruption, and influence peddling among some of Reagan's aides and subordinates, resulting in a significant number of officials in the Reagan Administration either being convicted or forced to resign their posts to avoid prosecution. The failure of these scandals to damage Reagan's reputation led Congressman Patricia Schroeder to dub him the "
++ to investigate the wider scandal. His cooperation with counsel helped Iran-Contra from seriously damaging his
++ <ins>
++  presidency; it
++ </ins>
++ <del>
++  presidency. It
++ </del>
++ was found that the President was guilty of the scandal only in that his lax control of his own staff resulted in his ignorance of the arms sale. Although Reagan himself was considered personally honest by most Americans, other scandals occurred involving bribery, corruption, and influence peddling among some of Reagan's aides and subordinates, resulting in a significant number of officials in the Reagan Administration either being convicted or forced to resign their posts to avoid prosecution. The failure of these scandals to damage Reagan's reputation led
++ <ins>
++  Representative
++  <a href="/wiki/Patricia_Schroeder" title="Patricia Schroeder">
++   Patricia Schroeder
++  </a>
++ </ins>
++ <del>
++  Congressman Patricia Schroeder
++ </del>
++ to dub him the "
+@@ -878,0 +2100,46 @@
++<h2>
++ <ins>
++  <span class="mw-headline" id="Afghanistan">
++   Afghanistan
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  Upon becoming President, Regan moved quickly to undermine Soviet efforts to subdue the government of
++  <a href="/wiki/Afghanistan" title="Afghanistan">
++   Afghanistan
++  </a>
++  , which the Soviet Army had invaded in 1979.
++ </ins>
++</p>
++<p>
++ <ins>
++  Covertly, Islamist
++  <a href="/wiki/Mujahideen" title="Mujahideen">
++   mujahideen
++  </a>
++  guerrillas were supported and trained, and fully backed in their war against the occupying Soviets.
++ </ins>
++</p>
++<p>
++ <ins>
++  In the wake of
++  <a class="mw-redirect" href="/wiki/September_11,_2001" title="September 11, 2001">
++   September 11, 2001
++  </a>
++  some of these actions have be re-examined and become quite controversial. Some accuse the Reagan administration of indirectly creating
++  <a class="mw-redirect" href="/wiki/Al_Qaeda" title="Al Qaeda">
++   Al Qaeda
++  </a>
++  because of his administration's support for radical islamists, and it has been alleged that
++  <a href="/wiki/Osama_bin_Laden" title="Osama bin Laden">
++   Osama bin Laden
++  </a>
++  , (the future
++  <a class="mw-redirect" href="/wiki/Al_Qaeda" title="Al Qaeda">
++   Al Qaeda
++  </a>
++  leader) recieved training by the CIA or an allied intelligence agency.
++ </ins>
++</p>
+@@ -893 +2160,23 @@
+- for drug offenders while cutting funding for addiction treatment. This resulted in a dramatic increase in the USA's prison population. Critics charged that the policies did little to actually reduce the availability of drugs or crime on the street while resulting in a great financial and human cost for American society. Due to this policy and various cuts in spending for social programs during his Presidency, Reagan was regarded by some critics as indifferent to the needs of poor and minority citizens. Nevertheless, surveys showed that illegal drug use among Americans declined significantly during Reagan's presidency, leading supporters to argue that the policies were successful.
++ for
++ <a href="/wiki/Illegal_drug_trade" title="Illegal drug trade">
++  drug offenders
++ </a>
++ while cutting funding for
++ <a class="mw-redirect" href="/wiki/Drug_addiction" title="Drug addiction">
++  addiction
++ </a>
++ treatment. This resulted in a dramatic increase in the
++ <ins>
++  US
++  <a href="/wiki/Prison" title="Prison">
++   prison
++  </a>
++ </ins>
++ <del>
++  USA's prison
++ </del>
++ population. Critics charged that the policies did little to actually reduce the availability of drugs or crime on the street while resulting in a great financial and human cost for American society. Due to this policy and various cuts in spending for social programs during his Presidency, Reagan was regarded by some critics as indifferent to the needs of poor and minority citizens. Nevertheless,
++ <ins>
++  some
++ </ins>
++ surveys showed that illegal drug use among Americans declined significantly during Reagan's presidency, leading supporters to argue that the policies were successful.
+@@ -895 +2184 @@
+-<h3>
++<h2>
+@@ -899 +2188,25 @@
+-</h3>
++</h2>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:222px;">
++  <div class="thumbcaption">
++   <div class="magnify">
++   </div>
++   <ins>
++    Reagan was a Chicago Cubs radio broadcaster in the mid-1930s for an Iowa station. He made several guest trips back to the radio booth, both during and after his presidency.
++   </ins>
++  </div>
++ </div>
++</div>
++<p>
++ <ins>
++  During his California governorship, Reagan actively dismantled the public
++  <a href="/wiki/Psychiatric_hospital" title="Psychiatric hospital">
++   psychiatric hospital
++  </a>
++  system, proposing that it be replaced by supportive community-based housing and treatment. According to some Reagan critics, the first objective was effectively accomplished, but the community replacement facilities were never adequately funded, neither by Reagan nor his successors, contributing nationwide to current problems with
++  <a href="/wiki/Homelessness" title="Homelessness">
++   homeless
++  </a>
++  people, and an overfilling of jails and penitentiaries by people who would be better served with the earlier hospital system.
++ </ins>
++</p>
+@@ -920,0 +2234,7 @@
++ <ins>
++  Some, including
++  <a href="/wiki/Alan_Greenspan" title="Alan Greenspan">
++   Alan Greenspan
++  </a>
++  , have credited Reagan's action restoring flexibility to the business environment that had prevented American companies from hiring and held back the economy.
++ </ins>
+@@ -925 +2245,7 @@
+-  US Marines
++  <ins>
++   U.S.
++  </ins>
++  <del>
++   US
++  </del>
++  Marines
+@@ -931,9 +2257,13 @@
+- . Following several smaller bombings, a truck bombing of their barracks killed 241 Marines. Two days later Reagan invaded the tiny
+- <a href="/wiki/Caribbean" title="Caribbean">
+-  Caribbean
+- </a>
+- nation of
+- <a href="/wiki/Grenada" title="Grenada">
+-  Grenada
+- </a>
+- . Three months later, Reagan withdrew the Marines from Lebanon.
++ . Following several smaller bombings, a truck bombing of their barracks killed 241 Marines.
++ <del>
++  Two days later Reagan invaded the tiny
++  <a href="/wiki/Caribbean" title="Caribbean">
++   Caribbean
++  </a>
++  nation of
++  <a href="/wiki/Grenada" title="Grenada">
++   Grenada
++  </a>
++  .
++ </del>
++ Three months later, Reagan withdrew the Marines from Lebanon.
+@@ -975,4 +2305,19 @@
+- <a href="/wiki/Prostate" title="Prostate">
+-  prostate
+- </a>
+- surgery which caused further worries about his health.
++ <ins>
++  surgery for
++  <a href="/wiki/Prostate_cancer" title="Prostate cancer">
++   prostate cancer
++  </a>
++ </ins>
++ <del>
++  <a href="/wiki/Prostate" title="Prostate">
++   prostate
++  </a>
++  surgery
++ </del>
++ which caused further worries about his
++ <ins>
++  health, but which significantly raised the public awareness of this "silent killer."
++ </ins>
++ <del>
++  health.
++ </del>
+@@ -1012,12 +2357,14 @@
+- In
+- <a href="/wiki/1991" title="1991">
+-  1991
+- </a>
+- , former
+- <a class="mw-disambig" href="/wiki/Starlet" title="Starlet">
+-  starlet
+- </a>
+- <a class="new" href="/w/index.php?title=Selene_Walters&amp;action=edit&amp;redlink=1" title="Selene Walters (page does not exist)">
+-  Selene Walters
+- </a>
+- claimed that Reagan had raped her in the early 1950s.
++ <del>
++  In
++  <a href="/wiki/1991" title="1991">
++   1991
++  </a>
++  , former
++  <a class="mw-disambig" href="/wiki/Starlet" title="Starlet">
++   starlet
++  </a>
++  <a class="new" href="/w/index.php?title=Selene_Walters&amp;action=edit&amp;redlink=1" title="Selene Walters (page does not exist)">
++   Selene Walters
++  </a>
++  claimed that Reagan had raped her in the early 1950s.
++ </del>
+@@ -1031 +2378,7 @@
+-   (Left to right:) Presidents Gerald Ford, Richard Nixon, George H. W. Bush, Ronald Reagan, and Jimmy Carter at the dedication of the Reagan Presidential Library.
++   (Left to right:) Presidents Gerald Ford, Richard Nixon, George H. W. Bush, Ronald Reagan, and Jimmy Carter at the dedication of the Reagan Presidential
++   <ins>
++    Library, 1991.
++   </ins>
++   <del>
++    Library.
++   </del>
+@@ -1041,5 +2394,45 @@
+- Reagan was in many ways the founder of the modern Republican Party. His redefinition of fiscal conservatism as being focused on tax cuts without significant regard to a balanced budget ("
+- <a href="/wiki/Reaganomics" title="Reaganomics">
+-  Reaganomics
+- </a>
+- "); his opposition to
++ Reagan
++ <ins>
++  is
++ </ins>
++ <del>
++  was
++ </del>
++ in many ways the
++ <ins>
++  father
++ </ins>
++ <del>
++  founder
++ </del>
++ of the modern Republican Party.
++</p>
++<ul>
++ <li>
++  <ins>
++   Among the positions that he propelled forward are the following:
++Fiscal policy focused more
++  </ins>
++  <del>
++   His redefinition of fiscal conservatism as being focused
++  </del>
++  on tax cuts
++ </li>
++ <li>
++  <ins>
++   and increased military spending (
++   <a href="/wiki/Reaganomics" title="Reaganomics">
++    Reaganomics
++   </a>
++   ) than on reducing the national debt.
++ Opposition
++  </ins>
++ </li>
++ <del>
++  without significant regard to a balanced budget ("
++  <a href="/wiki/Reaganomics" title="Reaganomics">
++   Reaganomics
++  </a>
++  "); his opposition
++ </del>
++ to
+@@ -1049 +2442,8 @@
+- , greater environmental protection and regulation, and
++ ,
++ <ins>
++  government regulation in business and enviromental concerns,
++ </ins>
++ <del>
++  greater environmental protection and regulation,
++ </del>
++ and
+@@ -1053,5 +2453,30 @@
+- ; the importance of the
+- <a href="/wiki/Moral_Majority" title="Moral Majority">
+-  Moral Majority
+- </a>
+- and its supporters in his governing coalition; and even his support of
++ <li>
++  <ins>
++   .
++ The
++  </ins>
++ </li>
++ <del>
++  ; the
++ </del>
++ importance of the
++ <li>
++  <ins>
++   <a class="mw-redirect" href="/wiki/Evangelical_Christianity" title="Evangelical Christianity">
++    evangelical Christians
++   </a>
++   and
++   <a href="/wiki/Social_conservatism" title="Social conservatism">
++    social conservatives
++   </a>
++   in the electoral coalition that supported him.
++ Support
++  </ins>
++ </li>
++ <del>
++  <a href="/wiki/Moral_Majority" title="Moral Majority">
++   Moral Majority
++  </a>
++  and its supporters in his governing coalition; and even his support
++ </del>
++ of
+@@ -1060,0 +2486,42 @@
++ <ins>
++  .
++ </ins>
++ <li>
++  <ins>
++   A relatively
++   <a href="/wiki/Idealism" title="Idealism">
++    idealist
++   </a>
++   view of the role America could play in spreading
++   <a href="/wiki/Liberal_democracy" title="Liberal democracy">
++    Western liberalism
++   </a>
++   and freedom.
++  </ins>
++ </li>
++ <li>
++  <ins>
++   Appeal to
++   <a class="mw-redirect" href="/wiki/Blue_collar" title="Blue collar">
++    blue collar
++   </a>
++   workers who traditionally had been
++   <a class="mw-redirect" href="/wiki/United_States_Democratic_Party" title="United States Democratic Party">
++    Democrats
++   </a>
++   .
++  </ins>
++ </li>
++ <div class="thumb tleft">
++  <div class="thumbinner" style="width:202px;">
++   <div class="thumbcaption">
++    <div class="magnify">
++    </div>
++    <ins>
++     President Reagan had a famous life-long love of horse-riding which added to his all-American image
++    </ins>
++   </div>
++  </div>
++ </div>
++</ul>
++<del>
+@@ -1074 +2541 @@
+-</p>
++</del>
+@@ -1084 +2551,15 @@
+- . As the years went on, the disease began to slowly take over the former President's brain and body, forcing him to live his post-presidency in quiet isolation. He informed the nation of his condition himself on
++ . As the years went on, the disease
++ <ins>
++  slowly destroyed
++ </ins>
++ <del>
++  began to slowly take over
++ </del>
++ the former President's
++ <ins>
++  mental capacity,
++ </ins>
++ <del>
++  brain and body,
++ </del>
++ forcing him to live his post-presidency in quiet isolation. He informed the nation of his condition himself on
+@@ -1092 +2573,13 @@
+- in the form of a personal letter. His ailing health was further destabilized by a fall in 2001, which shattered part of his hip and rendered him virtually immobile. By
++ in the form of a personal letter.
++ <ins>
++  A tragic
++  <a href="/wiki/Anecdote" title="Anecdote">
++   anecdote
++  </a>
++  told of this time is of his removing from a friend's aquarium a ceramic model of the
++  <a href="/wiki/White_House" title="White House">
++   White House
++  </a>
++  ; he reportedly said "I know this is important, but I don't know why."
++ </ins>
++ His ailing health was further destabilized by a fall in 2001, which shattered part of his hip and rendered him virtually immobile. By
+@@ -1096 +2589,15 @@
+- Reagan could no longer speak coherently and had trouble with even the most basic tasks and it was rumoured, although not confirmed, that he had begun to enter the final stage of Alzheimer's, commonly described as the "sit and stare" stage, common to many patients in the last stages of the disease.
++ Reagan could no longer speak coherently and had trouble with even the most basic
++ <ins>
++  tasks;
++ </ins>
++ <del>
++  tasks
++ </del>
++ and it was
++ <ins>
++  rumored,
++ </ins>
++ <del>
++  rumoured,
++ </del>
++ although not confirmed, that he had begun to enter the final stage of Alzheimer's, commonly described as the "sit and stare" stage, common to many patients in the last stages of the disease.
+@@ -1108,3 +2615,15 @@
+- <a class="mw-redirect" href="/wiki/Washington,_DC" title="Washington, DC">
+-  Washington, DC
+- </a>
++ <ins>
++  <a class="mw-redirect" href="/wiki/Arlington,_Virginia" title="Arlington, Virginia">
++   Arlington, Virginia
++  </a>
++  (near
++  <a href="/wiki/Washington,_D.C." title="Washington, D.C.">
++   Washington, D.C.
++  </a>
++  )
++ </ins>
++ <del>
++  <a class="mw-redirect" href="/wiki/Washington,_DC" title="Washington, DC">
++   Washington, DC
++  </a>
++ </del>
+@@ -1144,8 +2663,6 @@
+- In November
+- <a href="/wiki/2003" title="2003">
+-  2003
+- </a>
+- , Reagan and his family were the subject of a controversial television miniseries,
+- <i>
+-  <a href="/wiki/The_Reagans" title="The Reagans">
+-   The Reagans
++</p>
++<p>
++ <ins>
++  Ronald Reagan died at his home in
++  <a class="mw-redirect" href="/wiki/Bel_Air,_Los_Angeles,_California" title="Bel Air, Los Angeles, California">
++   Bel Air
+@@ -1153,10 +2670,42 @@
+- </i>
+- . In response to the unflattering docu-drama, a number of Congressional Republicans introduced the "Ronald Reagan Dime Act" (HR 3633), a bill that would replace
+- <a class="mw-redirect" href="/wiki/Franklin_Delano_Roosevelt" title="Franklin Delano Roosevelt">
+-  Franklin Delano Roosevelt
+- </a>
+- 's portrait on the
+- <a class="mw-redirect" href="/wiki/Dime_(U.S._coin)" title="Dime (U.S. coin)">
+-  United States dime
+- </a>
+- with Reagan's. The bill did not have widespread support and appeared unlikely to be put up for a vote.
++  ,
++  <a class="mw-redirect" href="/wiki/Los_Angeles,_California" title="Los Angeles, California">
++   Los Angeles
++  </a>
++  ,
++  <a href="/wiki/California" title="California">
++   California
++  </a>
++  on
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  ,
++  <a href="/wiki/2004" title="2004">
++   2004
++  </a>
++  at 1:09 PM local (Pacific) time. He died of
++  <a href="/wiki/Pneumonia" title="Pneumonia">
++   pneumonia
++  </a>
++  , with his wife
++  <a href="/wiki/Nancy_Reagan" title="Nancy Reagan">
++   Nancy
++  </a>
++  and their children
++  <a href="/wiki/Patti_Davis" title="Patti Davis">
++   Patti
++  </a>
++  and
++  <a href="/wiki/Ron_Reagan" title="Ron Reagan">
++   Ron
++  </a>
++  present. He is survived also by his son
++  <a href="/wiki/Michael_Reagan" title="Michael Reagan">
++   Michael
++  </a>
++  , from his first marriage to Wyman; his daughter
++  <a href="/wiki/Maureen_Reagan" title="Maureen Reagan">
++   Maureen
++  </a>
++  preceded him in death in 2001.
++ </ins>
+@@ -1164,0 +2714,101 @@
++ <ins>
++  Reagan was given a full presidential
++  <a href="/wiki/State_funeral" title="State funeral">
++   state funeral
++  </a>
++  on
++  <a href="/wiki/June_11" title="June 11">
++   June 11
++  </a>
++  , the first since
++  <a class="mw-redirect" href="/wiki/Lyndon_Johnson" title="Lyndon Johnson">
++   Lyndon Johnson
++  </a>
++  . Services at the
++  <a class="mw-redirect" href="/wiki/National_Cathedral" title="National Cathedral">
++   National Cathedral
++  </a>
++  included eulogies by President
++  <a href="/wiki/George_W._Bush" title="George W. Bush">
++   George W. Bush
++  </a>
++  , former President
++  <a href="/wiki/George_H._W._Bush" title="George H. W. Bush">
++   George H. W. Bush
++  </a>
++  , former
++  <a href="/wiki/United_Kingdom" title="United Kingdom">
++   British
++  </a>
++  <a href="/wiki/Prime_Minister_of_the_United_Kingdom" title="Prime Minister of the United Kingdom">
++   Prime Minister
++  </a>
++  <a href="/wiki/Margaret_Thatcher" title="Margaret Thatcher">
++   Margaret Thatcher
++  </a>
++  , and former
++  <a href="/wiki/Canada" title="Canada">
++   Canadian
++  </a>
++  <a href="/wiki/Prime_Minister_of_Canada" title="Prime Minister of Canada">
++   Prime Minister
++  </a>
++  <a href="/wiki/Brian_Mulroney" title="Brian Mulroney">
++   Brian Mulroney
++  </a>
++  . Numerous other past and present world leaders attended the service, including
++  <a href="/wiki/Mikhail_Gorbachev" title="Mikhail Gorbachev">
++   Mikhail Gorbachev
++  </a>
++  . He is scheduled to be buried at the
++  <a href="/wiki/Ronald_Reagan_Presidential_Library" title="Ronald Reagan Presidential Library">
++   Ronald Reagan Presidential Library
++  </a>
++  in
++  <a href="/wiki/Simi_Valley" title="Simi Valley">
++   Simi Valley
++  </a>
++  , California .
++ </ins>
++</p>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reagancoffin.jpg" title="File:Reagancoffin.jpg">
++    File:Reagancoffin.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Nancy Reagan lays her head on the flag draped casket of President Reagan.
++   </ins>
++  </div>
++ </div>
++</div>
++<ins>
++ Reagan holds the record for the longest-living President
++</ins>
++<p>
++ <del>
++  In November
++  <a href="/wiki/2003" title="2003">
++   2003
++  </a>
++  , Reagan and his family were the subject of a controversial television miniseries,
++  <i>
++   <a href="/wiki/The_Reagans" title="The Reagans">
++    The Reagans
++   </a>
++  </i>
++  . In response to the unflattering docu-drama, a number of Congressional Republicans introduced the "Ronald Reagan Dime Act" (HR 3633), a bill that would replace
++  <a class="mw-redirect" href="/wiki/Franklin_Delano_Roosevelt" title="Franklin Delano Roosevelt">
++   Franklin Delano Roosevelt
++  </a>
++  's portrait on the
++  <a class="mw-redirect" href="/wiki/Dime_(U.S._coin)" title="Dime (U.S. coin)">
++   United States dime
++  </a>
++  with Reagan's. The bill did not have widespread support and appeared unlikely to be put up for a vote.
++ </del>
++</p>
++<del>
+@@ -1165,0 +2816,2 @@
++</del>
++<del>
+@@ -1169 +2821,15 @@
+- , Reagan turned 93, continuing his record as the longest-living president in American history. The previous record had been 90 years and 247 days, held by
++ , Reagan turned 93, continuing his record as the longest-living president
++</del>
++ in American history. The previous record <ins>
++ of
++</ins>
++<del>
++ had been
++</del>
++ 90 years and 247 <ins>
++ days was
++</ins>
++<del>
++ days,
++</del>
++ held by
+@@ -1171 +2837,6 @@
+-  John Adams
++ John Adams
++</a>
++<ins>
++ ; Reagan surpassed it on
++ <a href="/wiki/October_11" title="October 11">
++  October 11
+@@ -1172,0 +2844,2 @@
++</ins>
++<del>
+@@ -1176,0 +2850 @@
++</del>
+@@ -1179,3 +2853,334 @@
+-  2001
+- </a>
+- . In June of 2004 the
++ 2001
++</a>
++ .
++ <p>
++ <ins>
++  Both opponents and supporters noted his "sunny optimism," which was welcomed by many in comparison to his often smiling, but somewhat dour and serious, immediate Presidential predecessor.
++ </ins>
++</p>
++<p>
++ <ins>
++  His style of relating to others had often been described as avuncular - in the demeanor of an uncle, one not responsible for discipline but who can provide well meaning guidance.
++ </ins>
++</p>
++<h2>
++ <ins>
++  <span class="mw-headline" id="Quotations">
++   Quotations
++  </span>
++ </ins>
++</h2>
++<ul>
++ <li>
++  <ins>
++   "This is the issue of this election: Whether we believe in our capacity for self-government or whether we abandon the
++   <a href="/wiki/American_Revolution" title="American Revolution">
++    American Revolution
++   </a>
++   and confess that a little intellectual elite in a far-distant capital can plan our lives for us better than we can plan them ourselves." - nationwide televised speech supporting
++   <a href="/wiki/Barry_Goldwater" title="Barry Goldwater">
++    Barry Goldwater
++   </a>
++   's presidential campaign, October 27, 1964.
++  </ins>
++ </li>
++ <li>
++  <ins>
++   "General Secretary Gorbachev, if you seek peace, if you seek prosperity for the Soviet Union and Eastern Europe, if you seek liberalization: Come here to this gate! Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this
++   <a href="/wiki/Berlin_Wall" title="Berlin Wall">
++    wall
++   </a>
++   ." - 1987
++  </ins>
++ </li>
++ <li>
++  <ins>
++   "My fellow Americans, I am pleased to tell you today that I have signed legislation that will outlaw Russia forever. We begin bombing in five minutes." - joke overheard during a microphone test
++  </ins>
++ </li>
++ <li>
++  <ins>
++   "How do you tell a communist? Well, it's someone who reads
++   <a href="/wiki/Karl_Marx" title="Karl Marx">
++    Marx
++   </a>
++   and
++   <a href="/wiki/Vladimir_Lenin" title="Vladimir Lenin">
++    Lenin
++   </a>
++   . And how do you tell an anti-communist? It's someone who understands Marx and Lenin."
++  </ins>
++ </li>
++ <li>
++  <ins>
++   "One hundred nations in the UN have not agreed with us on just about everything that's come before them, where we're involved, and it didn't upset my breakfast at all." - reacting to international criticism of
++   <a class="mw-redirect" href="/wiki/Operation_Urgent_Fury" title="Operation Urgent Fury">
++    Operation Urgent Fury
++   </a>
++   , 1983; quoted in
++   <i>
++    Killing Hope
++   </i>
++   by William Blum
++  </ins>
++ </li>
++</ul>
++<h2>
++ <ins>
++  <span class="mw-headline" id="Cabinet">
++   Cabinet
++  </span>
++ </ins>
++</h2>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:302px;">
++  <div class="thumbcaption">
++   <div class="magnify">
++   </div>
++   <ins>
++    President Reagan, with his Cabinet and staff, in the Oval Office (Feb. 4, 1981)
++   </ins>
++  </div>
++ </div>
++</div>
++<ul>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_State" title="United States Secretary of State">
++    Secretary of State
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Alexander_M._Haig" title="Alexander M. Haig">
++    Alexander M. Haig
++   </a>
++   (1981-82),
++   <a href="/wiki/George_P._Shultz" title="George P. Shultz">
++    George P. Shultz
++   </a>
++   (1982-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Defense" title="United States Secretary of Defense">
++    Secretary of Defense
++   </a>
++   -
++   <a href="/wiki/Caspar_Weinberger" title="Caspar Weinberger">
++    Caspar Weinberger
++   </a>
++   (1981-87),
++   <a class="mw-redirect" href="/wiki/Frank_C._Carlucci" title="Frank C. Carlucci">
++    Frank C. Carlucci
++   </a>
++   (1987-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_the_Treasury" title="United States Secretary of the Treasury">
++    Secretary of the Treasury
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Donald_T._Regan" title="Donald T. Regan">
++    Donald T. Regan
++   </a>
++   (1981-1985),
++   <a href="/wiki/James_Baker" title="James Baker">
++    James Baker
++   </a>
++   (1985-88),
++   <a href="/wiki/Nicholas_F._Brady" title="Nicholas F. Brady">
++    Nicholas F. Brady
++   </a>
++   (1988-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Attorney_General" title="United States Attorney General">
++    Attorney General
++   </a>
++   -
++   <a href="/wiki/William_French_Smith" title="William French Smith">
++    William French Smith
++   </a>
++   (1981-85),
++   <a href="/wiki/Edwin_Meese" title="Edwin Meese">
++    Edwin Meese III
++   </a>
++   (1985-88),
++   <a class="mw-redirect" href="/wiki/Richard_L._Thornburgh" title="Richard L. Thornburgh">
++    Richard L. Thornburgh
++   </a>
++   (1988-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_the_Interior" title="United States Secretary of the Interior">
++    Secretary of the Interior
++   </a>
++   -
++   <a href="/wiki/James_G._Watt" title="James G. Watt">
++    James G. Watt
++   </a>
++   (1981-83),
++   <a class="mw-redirect" href="/wiki/William_P._Clark" title="William P. Clark">
++    William P. Clark
++   </a>
++   (1983-85),
++   <a href="/wiki/Donald_P._Hodel" title="Donald P. Hodel">
++    Donald P. Hodel
++   </a>
++   (1985-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Agriculture" title="United States Secretary of Agriculture">
++    Secretary of Agriculture
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/John_R._Block" title="John R. Block">
++    John R. Block
++   </a>
++   (1981-86),
++   <a class="mw-redirect" href="/wiki/Richard_E._Lyng" title="Richard E. Lyng">
++    Richard E. Lyng
++   </a>
++   (1986-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Commerce" title="United States Secretary of Commerce">
++    Secretary of Commerce
++   </a>
++   -
++   <a class="mw-disambig" href="/wiki/Malcolm_Baldrige" title="Malcolm Baldrige">
++    Malcolm Baldrige
++   </a>
++   (1981-87),
++   <a class="mw-redirect" href="/wiki/C._William_Verity" title="C. William Verity">
++    C. William Verity
++   </a>
++   (1987-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Labor" title="United States Secretary of Labor">
++    Secretary of Labor
++   </a>
++   -
++   <a href="/wiki/Raymond_J._Donovan" title="Raymond J. Donovan">
++    Raymond J. Donovan
++   </a>
++   (1981-85),
++   <a class="mw-redirect" href="/wiki/William_E._Brock" title="William E. Brock">
++    William E. Brock
++   </a>
++   (1985-87),
++   <a class="mw-redirect" href="/wiki/Ann_Dore_McLaughlin" title="Ann Dore McLaughlin">
++    Ann Dore McLaughlin
++   </a>
++   (1987-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Health_and_Human_Services" title="United States Secretary of Health and Human Services">
++    Secretary of Health and Human Services
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Richard_S._Schweiker" title="Richard S. Schweiker">
++    Richard S. Schweiker
++   </a>
++   (1981-83),
++   <a class="mw-redirect" href="/wiki/Margaret_M._Heckler" title="Margaret M. Heckler">
++    Margaret M. Heckler
++   </a>
++   (1983-85),
++   <a href="/wiki/Otis_R._Bowen" title="Otis R. Bowen">
++    Otis R. Bowen
++   </a>
++   (1985-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Housing_and_Urban_Development" title="United States Secretary of Housing and Urban Development">
++    Secretary of Housing and Urban Development
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Samuel_R._Pierce" title="Samuel R. Pierce">
++    Samuel R. Pierce
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Transportation" title="United States Secretary of Transportation">
++    Secretary of Transportation
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Andrew_L._Lewis,_Jr." title="Andrew L. Lewis, Jr.">
++    Andrew L. Lewis, Jr.
++   </a>
++   (1981-83),
++   <a href="/wiki/Elizabeth_Dole" title="Elizabeth Dole">
++    Elizabeth Dole
++   </a>
++   (1983-87),
++   <a href="/wiki/James_H._Burnley_IV" title="James H. Burnley IV">
++    James H. Burnley IV
++   </a>
++   (1987-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Energy" title="United States Secretary of Energy">
++    Secretary of Energy
++   </a>
++   -
++   <a href="/wiki/James_B._Edwards" title="James B. Edwards">
++    James B. Edwards
++   </a>
++   (1981-82),
++   <a href="/wiki/Donald_P._Hodel" title="Donald P. Hodel">
++    Donald P. Hodel
++   </a>
++   (1982-85),
++   <a href="/wiki/John_S._Herrington" title="John S. Herrington">
++    John S. Herrington
++   </a>
++   (1985-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Education" title="United States Secretary of Education">
++    Secretary of Education
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Terrel_H._Bell" title="Terrel H. Bell">
++    Terrel H. Bell
++   </a>
++   (1981-85),
++   <a class="mw-redirect" href="/wiki/William_J._Bennett" title="William J. Bennett">
++    William J. Bennett
++   </a>
++   (1985-88),
++   <a class="mw-redirect" href="/wiki/Lauro_F._Cavazos" title="Lauro F. Cavazos">
++    Lauro F. Cavazos
++   </a>
++   (1988-89)
++  </ins>
++ </li>
++</ul>
++<del>
++ In June of 2004 the
++</del>
++<del>
+@@ -1186 +3191 @@
+-</p>
++</del>
+@@ -1188,3 +3193,5 @@
+- <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg" title="File:Pres38-42.jpg">
+-  Presidents Bill Clinton, George Bush, Ronald Reagan, Jimmy Carter, Gerald Ford, and their wives at the funeral of President Richard Nixon on April 27, 1994.
+- </a>
++ <del>
++  <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg" title="File:Pres38-42.jpg">
++   Presidents Bill Clinton, George Bush, Ronald Reagan, Jimmy Carter, Gerald Ford, and their wives at the funeral of President Richard Nixon on April 27, 1994.
++  </a>
++ </del>
+@@ -1193,5 +3200,7 @@
+- On
+- <a href="/wiki/June_5" title="June 5">
+-  June 5
+- </a>
+- , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
++ <del>
++  On
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
++ </del>
+@@ -1206,0 +3216,11 @@
++<div class="thumb tright">
++ <div class="thumbinner" style="width:202px;">
++  <div class="thumbcaption">
++   <div class="magnify">
++   </div>
++   <ins>
++    Reagan and Sandra Day O'Connor at the White House in 1981.
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -1249 +3269 @@
+-</ul>
++</ul>
+\ No newline at end of file

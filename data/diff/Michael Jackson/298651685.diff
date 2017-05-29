@@ -1,0 +1,355 @@
+--- 298631851
++++ 298651685
+@@ -5 +5,8 @@
+- (born August 29, 1958) is an American recording artist, entertainer, and businessman. The seventh child of the
++ <ins>
++  (August 29, 1958 – June 25, 2009)
++ was
++ </ins>
++ <del>
++  (born August 29, 1958) is
++ </del>
++ an American recording artist, entertainer, and businessman. The seventh child of the
+@@ -21 +28,7 @@
+- have become some of the world's best-selling records:
++ <ins>
++  are among
++ </ins>
++ <del>
++  have become some of
++ </del>
++ the world's best-selling records:
+@@ -119 +132,5 @@
+- Jackson has donated and raised millions of dollars for beneficial causes through his
++ Jackson
++ <del>
++  has
++ </del>
++ donated and raised millions of dollars for beneficial causes through his
+@@ -135 +152,5 @@
+- , the criminal investigation was closed due to lack of evidence and Jackson was not charged. The singer has experienced
++ , the criminal investigation was closed due to lack of evidence and Jackson was not charged. The singer
++ <del>
++  has
++ </del>
++ experienced
+@@ -139 +160,21 @@
+- since the early 1990s and conflicting reports regarding the state of his finances since the late 1990s. Jackson married twice and fathered three children, all of which caused further controversy. In 2005, Jackson was
++ <ins>
++  from
++ </ins>
++ <del>
++  since
++ </del>
++ the early 1990s
++ <ins>
++  until his death, as well as
++ </ins>
++ <del>
++  and
++ </del>
++ conflicting reports regarding the state of his
++ <ins>
++  finances.
++ </ins>
++ <del>
++  finances since the late 1990s.
++ </del>
++ Jackson married twice and fathered three children, all of which caused further controversy. In 2005, Jackson was
+@@ -172 +213,5 @@
+- , has made him a part of
++ ,
++ <del>
++  has
++ </del>
++ made him a part of
+@@ -178,0 +224,6 @@
++ <ins>
++  On June 25, 2009, he collapsed at his home in Los Angeles.
++ After being taken to the hospital in a coma, Jackson was pronounced dead.
++ </ins>
++</p>
++<p>
+@@ -221 +272,8 @@
+- he is the seventh of nine children. His siblings are
++ he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ the seventh of nine children. His siblings are
+@@ -926 +984,8 @@
+- ; the latter is in
++ ; the latter
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ in
+@@ -930,2 +995,20 @@
+- in Jackson's case, and both illnesses make him sensitive to sunlight. The treatments he uses for his condition further lighten his skin tone, and, with the application of pancake makeup to even out blotches, he can appear very pale.
+- The structure of his face has changed as well; several surgeons have speculated that Jackson had undergone multiple nasal surgeries, a forehead lift, thinned lips and a cheekbone surgery.
++ in Jackson's case, and both illnesses
++ <ins>
++  made
++ </ins>
++ <del>
++  make
++ </del>
++ him sensitive to sunlight. The treatments he uses for his condition further lighten his skin tone, and, with the application of pancake makeup to even out blotches, he
++ <ins>
++  could
++ </ins>
++ <del>
++  can
++ </del>
++ appear very pale.
++ The structure of his face
++ <del>
++  has
++ </del>
++ changed as well; several surgeons have speculated that Jackson had undergone multiple nasal surgeries, a forehead lift, thinned lips and a cheekbone surgery.
+@@ -939 +1022,7 @@
+- Some medical professionals have publicly stated their belief that the singer has
++ Some medical professionals have publicly stated their belief that the singer
++ <ins>
++  had
++ </ins>
++ <del>
++  has
++ </del>
+@@ -947 +1036,7 @@
+-  Why not just tell people I'm an alien from Mars. Tell them I eat live chickens and do a voodoo dance at midnight. They'll believe anything
++  <ins>
++   "Why
++  </ins>
++  <del>
++   Why
++  </del>
++  not just tell people I'm an alien from Mars. Tell them I eat live chickens and do a voodoo dance at midnight. They'll believe anything
+@@ -955 +1050,22 @@
+-  . But if I, Michael Jackson, were to say, "I'm an alien from Mars and I eat live chickens and do a voodoo dance at midnight", people would say, "Oh, man, that Michael Jackson is
++  . But if I, Michael Jackson, were to say,
++  <ins>
++   'I'm
++  </ins>
++  <del>
++   "I'm
++  </del>
++  an alien from Mars and I eat live chickens and do a voodoo dance at
++  <ins>
++   midnight,'
++  </ins>
++  <del>
++   midnight",
++  </del>
++  people would say,
++  <ins>
++   'Oh,
++  </ins>
++  <del>
++   "Oh,
++  </del>
++  man, that Michael Jackson is
+@@ -959 +1075,7 @@
+-  . He's cracked up. You can't believe a damn word that comes out of his mouth".
++  . He's cracked up. You can't believe a damn word that comes out of his
++  <ins>
++   mouth.'"
++  </ins>
++  <del>
++   mouth".
++  </del>
+@@ -1186 +1308,8 @@
+- has shipped 7 million copies in the US and has sold 32 million copies worldwide; it is the most successful New Jack Swing album off all time.
++ has shipped 7 million copies in the US and has sold 32 million copies worldwide; it is the most successful New Jack Swing album
++ <ins>
++  of
++ </ins>
++ <del>
++  off
++ </del>
++ all time.
+@@ -1950,2 +2079,14 @@
+- <span class="mw-headline" id="2008_onward:_Milestones.2C_real_estate_and_return_to_live_performance">
+-  2008 onward: Milestones, real estate and return to live performance
++ <span class="mw-headline" id="2008.E2.80.932009:_Milestones.2C_real_estate.2C_planned_return_to_live_performance.2C_and_death">
++  <ins>
++   2008–2009: Milestones, real estate, planned
++  </ins>
++  <del>
++   2008 onward: Milestones, real estate and
++  </del>
++  return to live
++  <ins>
++   performance, and death
++  </ins>
++  <del>
++   performance
++  </del>
+@@ -2043 +2184,8 @@
+- From July 13, 2009 to March 6, 2010, Jackson is scheduled to perform
++ From July 13, 2009 to March 6, 2010, Jackson
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ scheduled to perform
+@@ -2063,5 +2211,39 @@
+- On June 25, 2009,
+- <a href="/wiki/TMZ" title="TMZ">
+-  TMZ
+- </a>
+- reported that Jackson has been rushed to the hospital and has suffered
++ On
++ <ins>
++  the morning of
++ </ins>
++ June 25, 2009,
++ <ins>
++  Jackson reportedly collapsed at a home he was renting in west
++  <a href="/wiki/Los_Angeles" title="Los Angeles">
++   Los Angeles
++  </a>
++  . Paramedics responded to a
++  <a href="/wiki/9-1-1" title="9-1-1">
++   911
++  </a>
++  call at 12:12 pm local time.
++ He reportedly was not breathing at the time that paramedics arrived, and CPR was quickly performed.
++ He fell into a
++  <a href="/wiki/Coma" title="Coma">
++   coma
++  </a>
++  and died shortly after being
++ </ins>
++ <del>
++  <a href="/wiki/TMZ" title="TMZ">
++   TMZ
++  </a>
++  reported that Jackson has been
++ </del>
++ rushed to the
++ <ins>
++  <a href="/wiki/Ronald_Reagan_UCLA_Medical_Center" title="Ronald Reagan UCLA Medical Center">
++   UCLA hospital
++  </a>
++  .
++ The cause of death is suspected to be
++ </ins>
++ <del>
++  hospital and has suffered
++ </del>
+@@ -2072,12 +2254,33 @@
+- <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
+-  Paramedics
+- </a>
+- administered
+- <a class="mw-redirect" href="/wiki/CPR" title="CPR">
+-  CPR
+- </a>
+- in the
+- <a href="/wiki/Ambulance" title="Ambulance">
+-  ambulance
+- </a>
+- and a family member says that he is in "really bad shape.".
++ <ins>
++  At 4:36 pm local time, the Los Angeles
++  <a href="/wiki/Coroner" title="Coroner">
++   coroner
++  </a>
++  confirmed Jackson's death.
++ Although there is no evidence of
++  <a class="mw-redirect" href="/wiki/Criminal" title="Criminal">
++   criminality
++  </a>
++  ,
++  <a href="/wiki/Los_Angeles_Police_Department" title="Los Angeles Police Department">
++   Los Angeles Police Department
++  </a>
++  <a class="mw-redirect" href="/wiki/Detectives" title="Detectives">
++   detectives
++  </a>
++  have opened an investigation into his death.
++ </ins>
++ <del>
++  <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
++   Paramedics
++  </a>
++  administered
++  <a class="mw-redirect" href="/wiki/CPR" title="CPR">
++   CPR
++  </a>
++  in the
++  <a href="/wiki/Ambulance" title="Ambulance">
++   ambulance
++  </a>
++  and a family member says that he is in "really bad shape.".
++ </del>
+@@ -2100,2 +2303,10 @@
+- asserts that throughout his solo career, Jackson's versatility has allowed him to experiment with various themes and genres.
+- As a musician, he has ranged from
++ asserts that throughout his solo career, Jackson's versatility
++ <del>
++  has
++ </del>
++ allowed him to experiment with various themes and genres.
++ As a musician, he
++ <del>
++  has
++ </del>
++ ranged from
+@@ -2881 +3092,8 @@
+- He is a double-inductee of the
++ He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a double-inductee of the
+@@ -2925 +3143,8 @@
+- He is characterized as "an unstoppable juggernaut, possessed of all the tools to dominate the charts seemingly at will: an instantly identifiable voice, eye-popping dance moves, stunning musical versatility and loads of sheer star power".
++ He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ characterized as "an unstoppable juggernaut, possessed of all the tools to dominate the charts seemingly at will: an instantly identifiable voice, eye-popping dance moves, stunning musical versatility and loads of sheer star power".
+@@ -2961 +3186,5 @@
+- , has made him a part of
++ ,
++ <del>
++  has
++ </del>
++ made him a part of
+@@ -2967,0 +3197,16 @@
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  On June 25, 2009, Jackson reportedly passed away after suffering a cardiac arrest. While en route to the
++  <a class="mw-redirect" href="/wiki/UCLA_Medical_Center" title="UCLA Medical Center">
++   UCLA Medical Center
++  </a>
++  , Jackson apparently stopped breathing. Jackson was originally reported in a coma but other sources pointed out that Jackson died. He died with his family surrounding him.
++ </ins>
++</p>
++<h2>
+@@ -3120 +3365 @@
+-</ul>
++</ul>
+\ No newline at end of file

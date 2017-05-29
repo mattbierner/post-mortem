@@ -1,0 +1,40 @@
+--- 453910145
++++ 455304152
+@@ -5,5 +5,15 @@
+- (username:
+- <b>
+-  dmr
+- </b>
+- , born September 9, 1941) is an American
++ <ins>
++  (September 9, 1941 - October 12, 2011) (username:
++  <b>
++   dmr
++  </b>
++  ) was
++ </ins>
++ <del>
++  (username:
++  <b>
++   dmr
++  </b>
++  , born September 9, 1941) is
++ </del>
++ an American
+@@ -312,0 +323,15 @@
++<h2>
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  He died the weekend of the 8th Oct 2011. As per Rob Pikes report @
++  <a class="external free" href="https://plus.google.com/u/0/101960720994009339267/posts/ENuEDDYfvKP?hl=en" rel="nofollow">
++   https://plus.google.com/u/0/101960720994009339267/posts/ENuEDDYfvKP?hl=en
++  </a>
++ </ins>
++</p>
+\ No newline at end of file

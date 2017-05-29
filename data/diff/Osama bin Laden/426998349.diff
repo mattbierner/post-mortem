@@ -1,0 +1,38 @@
+--- 426997211
++++ 426998349
+@@ -19 +19,8 @@
+- ; born March 10, 1957) is a member of the wealthy
++ ; born March 10, 1957)
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a member of the wealthy
+@@ -49,0 +57,3 @@
++ <ins>
++  On Sunday, May 1st 2011, U.S. officials announced that bin Laden was dead.
++ </ins>
+@@ -1572,0 +1583,8 @@
++<p>
++ <ins>
++  <b>
++   May 2011
++  </b>
++  Obama announced Osama Bin Laden has been killed.
++ </ins>
++</p>
+@@ -1703 +1721,7 @@
+- On May 2, 2011, the White House declared that bin Laden was dead.
++ On May
++ <ins>
++  1st, 2011, rumors have abounded in the wake of an impromptu presidential press conference that Bin Laden was caught and killed.
++ </ins>
++ <del>
++  2, 2011, the White House declared that bin Laden was dead.
++ </del>
+@@ -1813 +1837 @@
+-</div>
++</div>
+\ No newline at end of file

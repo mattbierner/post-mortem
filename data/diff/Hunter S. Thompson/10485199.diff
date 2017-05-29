@@ -1,0 +1,160 @@
+--- 10484392
++++ 10485199
+@@ -5,4 +5,9 @@
+- (born
+- <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">
+-  Louisville, Kentucky
+- </a>
++ <ins>
++  (
++ </ins>
++ <del>
++  (born
++  <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">
++   Louisville, Kentucky
++  </a>
++ </del>
+@@ -16 +21,15 @@
+- ) is an
++ <ins>
++  –
++  <a href="/wiki/February_20" title="February 20">
++   February 20
++  </a>
++  ,
++  <a href="/wiki/2005" title="2005">
++   2005
++  </a>
++  ) was
++ </ins>
++ <del>
++  ) is
++ </del>
++ an
+@@ -215,2 +234,5 @@
+- <span class="mw-headline" id="Middle_Years_to_Present">
+-  Middle Years to Present
++ <span class="mw-headline" id="Middle_Years">
++  Middle Years
++  <del>
++   to Present
++  </del>
+@@ -346 +368,15 @@
+- His latest book,
++</p>
++<h2>
++ <ins>
++  <span class="mw-headline" id="Later_Years">
++   Later Years
++  </span>
++ </ins>
++</h2>
++<ins>
++ Thompson's last
++</ins>
++<del>
++ His latest
++</del>
++ book,
+@@ -348,2 +384,2 @@
+-  Kingdom of Fear
+- </i>
++ Kingdom of Fear
++</i>
+@@ -352,2 +388,2 @@
+-  American Century
+- </a>
++ American Century
++</a>
+@@ -356,3 +392,9 @@
+-  ESPN
+- </a>
+- . He has at times also toured on the lecture circuit, once with
++ ESPN
++</a>
++ . He <ins>
++ had
++</ins>
++<del>
++ has
++</del>
++ at times also toured on the lecture circuit, once with
+@@ -360,2 +402,2 @@
+-  John Belushi
+- </a>
++ John Belushi
++</a>
+@@ -364,5 +406,5 @@
+-  cartoonist
+- </a>
+- <a href="/wiki/Garry_Trudeau" title="Garry Trudeau">
+-  Garry Trudeau
+- </a>
++ cartoonist
++</a>
++<a href="/wiki/Garry_Trudeau" title="Garry Trudeau">
++ Garry Trudeau
++</a>
+@@ -371,4 +413,4 @@
+-  <a href="/wiki/Doonesbury" title="Doonesbury">
+-   Doonesbury
+-  </a>
+- </i>
++ <a href="/wiki/Doonesbury" title="Doonesbury">
++  Doonesbury
++ </a>
++</i>
+@@ -377,2 +419,2 @@
+-  Uncle Duke
+- </a>
++ Uncle Duke
++</a>
+@@ -381,2 +423,2 @@
+-  Warren Ellis
+- </a>
++ Warren Ellis
++</a>
+@@ -385,5 +427,5 @@
+-  <a href="/wiki/Transmetropolitan" title="Transmetropolitan">
+-   Transmetropolitan
+-  </a>
+-  ,
+- </i>
++ <a href="/wiki/Transmetropolitan" title="Transmetropolitan">
++  Transmetropolitan
++ </a>
++ ,
++</i>
+@@ -391,3 +433,9 @@
+-</p>
+-<p>
+- Thompson is an admitted fan of
++ <p>
++ Thompson
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an admitted fan of
+@@ -397 +445,8 @@
+- and is known to keep a keg of
++ and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ known to keep a keg of
+@@ -471,0 +527,5 @@
++<p>
++ <ins>
++  hes not dead...
++ </ins>
++</p>
+@@ -621 +681 @@
+-</ul>
++</ul>
+\ No newline at end of file

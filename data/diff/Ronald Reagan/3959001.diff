@@ -1,0 +1,304 @@
+--- 3955334
++++ 3959001
+@@ -2 +1,0 @@
+- <br/>
+@@ -6 +5,6 @@
+- (born
++ <ins>
++  (
++ </ins>
++ <del>
++  (born
++ </del>
+@@ -13,0 +18,10 @@
++ <ins>
++  -
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  ,
++  <a href="/wiki/2004" title="2004">
++   2004
++  </a>
++ </ins>
+@@ -46,5 +60,15 @@
+- before entering politics. He is the longest-lived person to have served as President, as well as the oldest elected President (69 years, 349 days). He is the only
+- <a href="/wiki/Divorce" title="Divorce">
+-  divorced
+- </a>
+- person to be elected President, and the only President to have married a pregnant woman.
++ before entering politics. He
++ <ins>
++  lived longer than any other President (93 years, 119 days) and was
++ </ins>
++ <del>
++  is the longest-lived person to have served as President, as well as
++ </del>
++ the oldest elected President (69 years, 349 days).
++ <del>
++  He is the only
++  <a href="/wiki/Divorce" title="Divorce">
++   divorced
++  </a>
++  person to be elected President, and the only President to have married a pregnant woman.
++ </del>
+@@ -106 +130 @@
+- <a class="mw-disambig" href="/wiki/Rock_River" title="Rock River">
++ <a class="mw-redirect" href="/wiki/Rock_River_(Illinois)" title="Rock River (Illinois)">
+@@ -110,0 +135,14 @@
++<div class="thumb tleft">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reagan_family.jpg" title="File:Reagan family.jpg">
++    File:Reagan family.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Ronald and Neil Reagan, Parents Jack and Nelle Reagan (c. 1916-17)
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -128 +166,8 @@
+- . Child of an
++ .
++ <ins>
++  The child
++ </ins>
++ <del>
++  Child
++ </del>
++ of an
+@@ -192 +237,5 @@
+- he played the role of George "The Gipper" Gipp in the film
++ he played the role of
++ <a href="/wiki/George_Gipp" title="George Gipp">
++  George "The Gipper" Gipp
++ </a>
++ in the film
+@@ -244 +293,5 @@
+- officer in the U.S. Army in
++ officer in the
++ <a class="mw-redirect" href="/wiki/U.S._Army" title="U.S. Army">
++  U.S. Army
++ </a>
++ in
+@@ -252 +305,5 @@
+- he was activated and was assigned to the First Motion Picture Unit in the
++ he was activated and was assigned to the
++ <a href="/wiki/First_Motion_Picture_Unit" title="First Motion Picture Unit">
++  First Motion Picture Unit
++ </a>
++ in the
+@@ -261,0 +319,27 @@
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Nancy_and_Ronald_Reagan.jpg" title="File:Nancy and Ronald Reagan.jpg">
++    File:Nancy and Ronald Reagan.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Nancy and Ronald Reagan married in 1952. Nancy became a powerful background figure in Reagan's rise and roles as governor and president.
++   </ins>
++  </div>
++ </div>
++</div>
++<p>
++ <ins>
++  Reagan married actress
++  <a href="/wiki/Jane_Wyman" title="Jane Wyman">
++   Jane Wyman
++  </a>
++  in 1940 and had a daughter with her before divorcing in 1948. He is the only President who has been divorced. Reagan remarried in 1952 to actress
++  <a href="/wiki/Nancy_Reagan" title="Nancy Reagan">
++   Nancy Davis
++  </a>
++  . Nancy was pregnant with a child at the time, making Reagan the only President to have married a pregnant woman.
++ </ins>
++</p>
+@@ -292,3 +376,5 @@
+-  <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Nancy_and_Ronald_Reagan.jpg" title="File:Nancy and Ronald Reagan.jpg">
+-   File:Nancy and Ronald Reagan.jpg
+-  </a>
++  <del>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Nancy_and_Ronald_Reagan.jpg" title="File:Nancy and Ronald Reagan.jpg">
++    File:Nancy and Ronald Reagan.jpg
++   </a>
++  </del>
+@@ -296 +382,3 @@
+-   Nancy and Ronald Reagan married in 1952. Nancy became a powerful background figure in Reagan's rise and roles as governor and president.
++   <del>
++    Nancy and Ronald Reagan married in 1952. Nancy became a powerful background figure in Reagan's rise and roles as governor and president.
++   </del>
+@@ -596 +684,7 @@
+-   struck
++   <ins>
++    went on
++  strike
++   </ins>
++   <del>
++    struck
++   </del>
+@@ -615 +709,11 @@
+-   meeting with President Reagan.
++   <ins>
++    of
++    <a href="/wiki/Japan" title="Japan">
++     Japan
++    </a>
++    meeting with
++   </ins>
++   <del>
++    meeting with President
++   </del>
++   Reagan.
+@@ -681,0 +786,11 @@
++<div class="thumb tright">
++ <div class="thumbinner" style="width:302px;">
++  <div class="thumbcaption">
++   <div class="magnify">
++   </div>
++   <ins>
++    Reagan, left, in one-on-one discussions with Mikhail Gorbachev, the General Secretary of the Communist Party of the USSR from 1985 to 1991.
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -707,3 +821,0 @@
+-  <a class="image" href="/wiki/File:Reagan_and_Gorbachev_hold_discussions.jpg">
+-   <img alt="" class="thumbimage" data-file-height="505" data-file-width="750" height="202" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Reagan_and_Gorbachev_hold_discussions.jpg/300px-Reagan_and_Gorbachev_hold_discussions.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Reagan_and_Gorbachev_hold_discussions.jpg/450px-Reagan_and_Gorbachev_hold_discussions.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Reagan_and_Gorbachev_hold_discussions.jpg/600px-Reagan_and_Gorbachev_hold_discussions.jpg 2x" width="300"/>
+-  </a>
+@@ -712,2 +823,0 @@
+-    <a class="internal" href="/wiki/File:Reagan_and_Gorbachev_hold_discussions.jpg" title="Enlarge">
+-    </a>
+@@ -715 +825,3 @@
+-   President Reagan, left, in one-on-one discussions with USSR President Gorbachev, right.
++   <del>
++    President Reagan, left, in one-on-one discussions with USSR President Gorbachev, right.
++   </del>
+@@ -756,0 +869,18 @@
++<div class="thumb tleft">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reagan_thatcher.jpg" title="File:Reagan thatcher.jpg">
++    File:Reagan thatcher.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Reagan and UK Prime Minister Margaret Thatcher in
++    <a href="/wiki/Camp_David" title="Camp David">
++     Camp David
++    </a>
++    .
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -1181 +1311,20 @@
+- . In June of 2004 the
++ .
++ <ins>
++  He passed away at his home in
++  <a class="mw-redirect" href="/wiki/Los_Angeles,_California" title="Los Angeles, California">
++   Los Angeles
++  </a>
++  on
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  at 1:09 PM local time. He died of
++  <a href="/wiki/Pneumonia" title="Pneumonia">
++   pneumonia
++  </a>
++  ,
++ </ins>
++ <del>
++  In June of 2004
++ </del>
++ the
+@@ -1185 +1333,0 @@
+- was informed by family doctors that Reagan's health had "significantly deteriorated" and that he was not expected to live more than a year.
+@@ -1187,4 +1335,63 @@
+-<div class="floatright">
+- <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg" title="File:Pres38-42.jpg">
+-  Presidents Bill Clinton, George Bush, Ronald Reagan, Jimmy Carter, Gerald Ford, and their wives at the funeral of President Richard Nixon on April 27, 1994.
+- </a>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   said, with at least two of his children and his wife, Nancy, beside his bed. Flags across the country were lowered to half-staff. He was survived by his wife
++  </ins>
++  <ins>
++   <a href="/wiki/Nancy_Reagan" title="Nancy Reagan">
++    Nancy Reagan
++   </a>
++   and his children:
++  </ins>
++  <ins>
++   <a href="/wiki/Michael_Reagan" title="Michael Reagan">
++    Michael
++   </a>
++   , Patti Davis, and
++  </ins>
++  <ins>
++   <a href="/wiki/Ron_Reagan" title="Ron Reagan">
++    Ron
++   </a>
++   .
++  </ins>
++  <h2>
++   <ins>
++    <span class="mw-headline" id="Quotations">
++     Quotations
++    </span>
++   </ins>
++  </h2>
++  <ul>
++   <li>
++    <ins>
++     "My fellow Americans, I am pleased to tell you today that I have signed legislation that will outlaw Russia forever. We begin bombing in five minutes." (overheard during a microphone test)
++    </ins>
++   </li>
++  </ul>
++  <p>
++  </p>
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg" title="File:Pres38-42.jpg">
++    File:Pres38-42.jpg
++   </a>
++  </ins>
++  <del>
++   was informed by family doctors that Reagan's health had "significantly deteriorated" and that he was not expected to live more than a year.
++  </del>
++  <div class="thumbcaption">
++   Presidents Bill Clinton, George Bush, Ronald Reagan, Jimmy Carter, Gerald Ford, and their wives at the funeral of President Richard Nixon on April 27, 1994.
++  </div>
++ </div>
++ <del>
++  Link: //en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg
++ </del>
++ <p>
++  <del>
++   On
++   <a href="/wiki/June_5" title="June 5">
++    June 5
++   </a>
++   , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
++  </del>
++ </p>
+@@ -1192,7 +1398,0 @@
+-<p>
+- On
+- <a href="/wiki/June_5" title="June 5">
+-  June 5
+- </a>
+- , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
+-</p>
+@@ -1249 +1449 @@
+-</ul>
++</ul>
+\ No newline at end of file

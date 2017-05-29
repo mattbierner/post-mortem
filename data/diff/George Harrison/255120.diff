@@ -1,0 +1,118 @@
+--- 255117
++++ 255120
+@@ -2,4 +2,13 @@
+- <b>
+-  George Harrison
+- </b>
+- is a popular songwriter and musician, best known as a member of
++ <ins>
++  <b>
++   George Harrison
++  </b>
++  was
++ </ins>
++ <del>
++  <b>
++   George Harrison
++  </b>
++  is
++ </del>
++ a popular songwriter and musician, best known as a member of
+@@ -123 +132,15 @@
+- ). He has also been involved in film production, backing the
++ ). He
++ <ins>
++  was also
++ </ins>
++ <del>
++  has also been
++ </del>
++ involved in film production,
++ <ins>
++  by providing financial backing for
++ </ins>
++ <del>
++  backing
++ </del>
++ the
+@@ -131 +154,8 @@
+- as well as the indie production
++ as well as the
++ <ins>
++  independent
++ </ins>
++ <del>
++  indie
++ </del>
++ production
+@@ -141 +171,20 @@
+- Throughout the 1990's, Harrison, a former smoker, has faced a continuing battle with cancer and an attempt on his life by a crazed fan.
++ Throughout the 1990's, Harrison, a former smoker,
++ <ins>
++  endured an (eventually fatal)
++ </ins>
++ <del>
++  has faced a continuing
++ </del>
++ battle with
++ <a href="/wiki/Cancer" title="Cancer">
++  cancer
++ </a>
++ <del>
++  and
++ </del>
++ an attempt on his life by a crazed
++</p>
++<p>
++ <ins>
++  fan in ??.
++ </ins>
+@@ -144,4 +192,0 @@
+- <br/>
+-</p>
+-<p>
+- Harrison has married twice and has one child with his second wife.
+@@ -148,0 +194,38 @@
++<ins>
++ Harrison had
++</ins>
++<del>
++ fan.
++</del>
++<p>
++</p>
++<del>
++ Harrison has
++</del>
++  married twice and <ins>
++ had
++</ins>
++<del>
++ has
++</del>
++ one child with his second wife. <ins>
++ He passed away at the home of a friend in
++</ins>
++<ins>
++ <a href="/wiki/California" title="California">
++  California
++ </a>
++ on Thursday,
++</ins>
++<ins>
++ <a href="/wiki/November_29" title="November 29">
++  November 29
++ </a>
++ ,
++</ins>
++<ins>
++ <a href="/wiki/2001" title="2001">
++  2001
++ </a>
++ .
++</ins>
+@@ -150,2 +233 @@
+- <br/>
+-</p>
++</p>
+\ No newline at end of file

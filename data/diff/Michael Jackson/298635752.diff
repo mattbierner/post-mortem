@@ -1,0 +1,57 @@
+--- 298631851
++++ 298635752
+@@ -2064,4 +2064,9 @@
+- <a href="/wiki/TMZ" title="TMZ">
+-  TMZ
+- </a>
+- reported that Jackson has been rushed to the hospital and has suffered
++ <ins>
++  Jackson was hospitalized after suffering a
++ </ins>
++ <del>
++  <a href="/wiki/TMZ" title="TMZ">
++   TMZ
++  </a>
++  reported that Jackson has been rushed to the hospital and has suffered
++ </del>
+@@ -2072,12 +2077,24 @@
+- <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
+-  Paramedics
+- </a>
+- administered
+- <a class="mw-redirect" href="/wiki/CPR" title="CPR">
+-  CPR
+- </a>
+- in the
+- <a href="/wiki/Ambulance" title="Ambulance">
+-  ambulance
+- </a>
+- and a family member says that he is in "really bad shape.".
++ <ins>
++  Family members reported that he was
++ </ins>
++ <del>
++  <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
++   Paramedics
++  </a>
++  administered
++  <a class="mw-redirect" href="/wiki/CPR" title="CPR">
++   CPR
++  </a>
++  in the
++  <a href="/wiki/Ambulance" title="Ambulance">
++   ambulance
++  </a>
++  and a family member says that he is
++ </del>
++ in "really bad
++ <ins>
++  shape" and "not doing well."
++ </ins>
++ <del>
++  shape.".
++ </del>
+@@ -3120 +3137 @@
+-</ul>
++</ul>
+\ No newline at end of file

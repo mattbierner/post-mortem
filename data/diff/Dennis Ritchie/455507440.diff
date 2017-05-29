@@ -1,0 +1,277 @@
+--- 453910145
++++ 455507440
+@@ -5,5 +5,13 @@
+- (username:
+- <b>
+-  dmr
+- </b>
+- , born September 9, 1941) is an American
++ <ins>
++  (September 9, 1941 – October 8, 2011
++ )
++ was
++ </ins>
++ <del>
++  (username:
++  <b>
++   dmr
++  </b>
++  , born September 9, 1941) is
++ </del>
++ an American
+@@ -60 +68,7 @@
+- Born in
++ <ins>
++  Ritchie was born
++ </ins>
++ <del>
++  Born
++ </del>
++ in
+@@ -68 +82,19 @@
+- , Ritchie graduated from
++ <ins>
++  . His father was Alistair E. Ritchie, a longtime
++  <a href="/wiki/Bell_Labs" title="Bell Labs">
++   Bell Labs
++  </a>
++  scientist and co-author of
++  <i>
++   The Design of Switching Circuits
++  </i>
++  on
++  <a href="/wiki/Switching_circuit_theory" title="Switching circuit theory">
++   switching circuit theory
++  </a>
++  .
++ </ins>
++ <del>
++  ,
++ </del>
++ Ritchie graduated from
+@@ -122 +154,8 @@
+- Ritchie is best known as the creator of the C programming language and a key developer of the Unix operating system, and as co-author of the definitive book on C,
++ Ritchie
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ best known as the creator of the C programming language and a key developer of the Unix operating system, and as co-author of the definitive book on C,
+@@ -124 +163,3 @@
+-  The C Programming Language
++  <i>
++   The C Programming Language
++  </i>
+@@ -138,3 +179,10 @@
+- <a href="/wiki/Unix" title="Unix">
+-  Unix
+- </a>
++ <ins>
++  <a class="mw-redirect" href="/wiki/UNIX" title="UNIX">
++   UNIX
++  </a>
++ </ins>
++ <del>
++  <a href="/wiki/Unix" title="Unix">
++   Unix
++  </a>
++ </del>
+@@ -145 +193,17 @@
+- have placed him as an important pioneer of modern computing. The C language is still widely used today in application and
++ <ins>
++  has
++ </ins>
++ <del>
++  have
++ </del>
++ placed him as an important pioneer of modern computing. The C language is
++ <del>
++  still
++ </del>
++ widely used today in
++ <ins>
++  application,
++ </ins>
++ <del>
++  application and
++ </del>
+@@ -148,0 +213,6 @@
++ <ins>
++  , and
++  <a href="/wiki/Embedded_system" title="Embedded system">
++   embedded system
++  </a>
++ </ins>
+@@ -150,4 +220,15 @@
+- <a href="/wiki/Unix" title="Unix">
+-  Unix
+- </a>
+- has also been influential, establishing concepts and principles that are now well-established precepts of computing.
++ <ins>
++  <a class="mw-redirect" href="/wiki/UNIX" title="UNIX">
++   UNIX
++  </a>
++ </ins>
++ <del>
++  <a href="/wiki/Unix" title="Unix">
++   Unix
++  </a>
++ </del>
++ has also been influential, establishing concepts and principles that are now
++ <del>
++  well-established
++ </del>
++ precepts of computing.
+@@ -173 +254,4 @@
+-   Thompson (left) and Ritchie (center) receiving the National Medal of Technology from President
++   <a href="/wiki/Ken_Thompson" title="Ken Thompson">
++    Thompson
++   </a>
++   (left) and Ritchie (center) receiving the National Medal of Technology from President
+@@ -177 +261,6 @@
+-   .
++   <ins>
++    in 1999.
++   </ins>
++   <del>
++    .
++   </del>
+@@ -238 +327,43 @@
+- In 2011 Dennis Ritchie, along with
++</p>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:173px;">
++  <div class="thumbcaption">
++   <div class="magnify">
++   </div>
++   <ins>
++    Ritchie (right) receiving the
++   </ins>
++   <ins>
++    <a href="/wiki/Japan_Prize" title="Japan Prize">
++     Japan Prize for Information and Communications
++    </a>
++    in 2011 at
++   </ins>
++   <ins>
++    <a href="/wiki/Bell_Labs" title="Bell Labs">
++     Bell Labs
++    </a>
++    headquarters in
++   </ins>
++   <ins>
++    <a class="mw-disambig" href="/wiki/Murray_Hill" title="Murray Hill">
++     Murray Hill
++    </a>
++    ,
++   </ins>
++   <ins>
++    <a href="/wiki/New_Jersey" title="New Jersey">
++     New Jersey
++    </a>
++    .
++   </ins>
++  </div>
++ </div>
++</div>
++<ins>
++ In 2011,
++</ins>
++<del>
++ In 2011
++</del>
++ Dennis Ritchie, along with
+@@ -240,2 +371,2 @@
+-  Ken Thompson
+- </a>
++ Ken Thompson
++</a>
+@@ -244,2 +375,2 @@
+-  Japan Prize for Information and Communications
+- </a>
++ Japan Prize for Information and Communications
++</a>
+@@ -246,0 +378,11 @@
++ <h2>
++ <ins>
++  <span class="mw-headline" id="Death_and_legacy">
++   Death and legacy
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  Dennis Ritchie died on October 8, 2011 at the age of 70 after a prolonged illness.
++ </ins>
+@@ -249,3 +391,5 @@
+- <span class="mw-headline" id="Nicknames">
+-  Nicknames
+- </span>
++ <del>
++  <span class="mw-headline" id="Nicknames">
++   Nicknames
++  </span>
++ </del>
+@@ -254,5 +398,7 @@
+- Dennis Ritchie is often referred to as "
+- <b>
+-  dmr
+- </b>
+- " (his Bell Labs email address) in technical discussion groups.
++ <del>
++  Dennis Ritchie is often referred to as "
++  <b>
++   dmr
++  </b>
++  " (his Bell Labs email address) in technical discussion groups.
++ </del>
+@@ -295,0 +442,38 @@
++<table class="plainlinks metadata ambox ambox-move" role="presentation">
++ <tr>
++  <td class="mbox-image">
++   <div style="width:52px">
++   </div>
++  </td>
++  <td class="mbox-text">
++   <ins>
++    <span class="mbox-text-span">
++     This page
++     <b>
++      is a candidate to be
++      <a class="extiw" href="https://meta.wikimedia.org/wiki/Help:Transwiki" title="m:Help:Transwiki">
++       copied
++      </a>
++      to
++      <a class="extiw" href="https://en.wikiquote.org/wiki/Main_Page" title="q:Main Page">
++       Wikiquote
++      </a>
++      using the
++      <a href="/wiki/Wikipedia:Transwiki_log" title="Wikipedia:Transwiki log">
++       Transwiki
++      </a>
++      process
++     </b>
++     .
++     <span class="hide-when-compact">
++      If the page can be
++      <a class="mw-redirect" href="/wiki/Wikipedia:How_to_edit_a_page" title="Wikipedia:How to edit a page">
++       expanded
++      </a>
++      into an encyclopedic article, rather than a list of quotations, please do so and remove this message.
++     </span>
++    </span>
++   </ins>
++  </td>
++ </tr>
++</table>
+@@ -310 +494,3 @@
+-  "We really didn't buy it thinking we'd have this enormous investment."
++  <del>
++   "We really didn't buy it thinking we'd have this enormous investment."
++  </del>
+@@ -312 +498 @@
+-</ul>
++</ul>
+\ No newline at end of file

@@ -1,0 +1,311 @@
+--- 453910145
++++ 455628605
+@@ -5,5 +5,16 @@
+- (username:
+- <b>
+-  dmr
+- </b>
+- , born September 9, 1941) is an American
++ <ins>
++  (September 9, 1941 – October 12, 2011
++ ), commonly known by his username
++  <tt>
++   dmr
++  </tt>
++  , was
++ </ins>
++ <del>
++  (username:
++  <b>
++   dmr
++  </b>
++  , born September 9, 1941) is
++ </del>
++ an American
+@@ -31 +42,6 @@
+-  Unix
++  <ins>
++   UNIX
++  </ins>
++  <del>
++   Unix
++  </del>
+@@ -37 +53,19 @@
+- in 1983 and the
++ <ins>
++  from the
++  <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">
++   ACM
++  </a>
++  in 1983, the
++  <a href="/wiki/IEEE_Richard_W._Hamming_Medal" title="IEEE Richard W. Hamming Medal">
++   Hamming Medal
++  </a>
++  from the
++  <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">
++   IEEE
++  </a>
++  in 1990
++ </ins>
++ <del>
++  in 1983
++ </del>
++ and the
+@@ -41 +75,11 @@
+- 1998 on April 21, 1999. Ritchie was the head of
++ <ins>
++  from
++  <a href="/wiki/Bill_Clinton" title="Bill Clinton">
++   President Clinton
++  </a>
++  in
++ </ins>
++ <del>
++  1998 on April 21,
++ </del>
++ 1999. Ritchie was the head of
+@@ -60,9 +104,31 @@
+- Born in
+- <a href="/wiki/Bronxville,_New_York" title="Bronxville, New York">
+-  Bronxville
+- </a>
+- ,
+- <a href="/wiki/New_York" title="New York">
+-  New York
+- </a>
+- , Ritchie graduated from
++ <ins>
++  Ritchie was born in
++  <a href="/wiki/Bronxville,_New_York" title="Bronxville, New York">
++   Bronxville, New York
++  </a>
++  . His father was Alistair E. Ritchie, a longtime
++  <a href="/wiki/Bell_Labs" title="Bell Labs">
++   Bell Labs
++  </a>
++  scientist and co-author of
++  <i>
++   The Design of Switching Circuits
++  </i>
++  on
++  <a href="/wiki/Switching_circuit_theory" title="Switching circuit theory">
++   switching circuit theory
++  </a>
++  .
++ </ins>
++ <del>
++  Born in
++  <a href="/wiki/Bronxville,_New_York" title="Bronxville, New York">
++   Bronxville
++  </a>
++  ,
++  <a href="/wiki/New_York" title="New York">
++   New York
++  </a>
++  ,
++ </del>
++ Ritchie graduated from
+@@ -122 +188,17 @@
+- Ritchie is best known as the creator of the C programming language and a key developer of the Unix operating system, and as co-author of the definitive book on C,
++ Ritchie
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ best known as the creator of the C programming language and a key developer of the
++ <ins>
++  <a href="/wiki/Unix" title="Unix">
++   UNIX
++  </a>
++ </ins>
++ <del>
++  Unix
++ </del>
++ operating system, and as co-author of the definitive book on C,
+@@ -124 +206,3 @@
+-  The C Programming Language
++  <i>
++   The C Programming Language
++  </i>
+@@ -138,3 +222,8 @@
+- <a href="/wiki/Unix" title="Unix">
+-  Unix
+- </a>
++ <ins>
++  UNIX
++ </ins>
++ <del>
++  <a href="/wiki/Unix" title="Unix">
++   Unix
++  </a>
++ </del>
+@@ -145 +234,17 @@
+- have placed him as an important pioneer of modern computing. The C language is still widely used today in application and
++ <ins>
++  has
++ </ins>
++ <del>
++  have
++ </del>
++ placed him as an important pioneer of modern computing. The C language is
++ <del>
++  still
++ </del>
++ widely used today in
++ <ins>
++  application,
++ </ins>
++ <del>
++  application and
++ </del>
+@@ -148,0 +254,6 @@
++ <ins>
++  , and
++  <a href="/wiki/Embedded_system" title="Embedded system">
++   embedded system
++  </a>
++ </ins>
+@@ -150,4 +261,13 @@
+- <a href="/wiki/Unix" title="Unix">
+-  Unix
+- </a>
+- has also been influential, establishing concepts and principles that are now well-established precepts of computing.
++ <ins>
++  UNIX
++ </ins>
++ <del>
++  <a href="/wiki/Unix" title="Unix">
++   Unix
++  </a>
++ </del>
++ has also been influential, establishing concepts and principles that are now
++ <del>
++  well-established
++ </del>
++ precepts of computing.
+@@ -160 +280,8 @@
+- in 1988 for "development of the 'C' programming language and for co-development of the UNIX operating system."
++ in 1988 for "development of the
++ <ins>
++  "C"
++ </ins>
++ <del>
++  'C'
++ </del>
++ programming language and for co-development of the UNIX operating system."
+@@ -173 +300,4 @@
+-   Thompson (left) and Ritchie (center) receiving the National Medal of Technology from President
++   <a href="/wiki/Ken_Thompson" title="Ken Thompson">
++    Thompson
++   </a>
++   (left) and Ritchie (center) receiving the National Medal of Technology from President
+@@ -177 +307,6 @@
+-   .
++   <ins>
++    in 1999.
++   </ins>
++   <del>
++    .
++   </del>
+@@ -238 +373,8 @@
+- In 2011 Dennis Ritchie, along with
++ In
++ <ins>
++  2011,
++ </ins>
++ <del>
++  2011
++ </del>
++ Dennis Ritchie, along with
+@@ -249,3 +391,5 @@
+- <span class="mw-headline" id="Nicknames">
+-  Nicknames
+- </span>
++ <ins>
++  <span class="mw-headline" id="Death_and_legacy">
++   Death and legacy
++  </span>
++ </ins>
+@@ -254,5 +398,15 @@
+- Dennis Ritchie is often referred to as "
+- <b>
+-  dmr
+- </b>
+- " (his Bell Labs email address) in technical discussion groups.
++ <ins>
++  Dennis Ritchie was found dead on October 12, 2011 at the age of 70 at his home in
++  <a href="/wiki/Berkeley_Heights,_New_Jersey" title="Berkeley Heights, New Jersey">
++   Berkeley Heights, New Jersey
++  </a>
++  where he lived alone.
++ First news of his death came from his former colleague, Rob Pike.
++ The cause and exact time of death have not been disclosed.
++ He had been in frail health for several years following treatment for prostate cancer and heart disease.
++ His death, which came a week after the death of
++  <a href="/wiki/Steve_Jobs" title="Steve Jobs">
++   Steve Jobs
++  </a>
++  , did not receive as much media coverage.
++ </ins>
+@@ -261,3 +415,47 @@
+- <span class="mw-headline" id="Bibliography">
+-  Bibliography
+- </span>
++ <ins>
++  <span class="mw-headline" id="Bibliography">
++   Bibliography
++  </span>
++ </ins>
++</h2>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=K%26R_C.jpg" title="File:K&amp;R C.jpg">
++    File:K&amp;R C.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    <i>
++     <a href="/wiki/The_C_Programming_Language" title="The C Programming Language">
++      The C Programming Language
++     </a>
++    </i>
++    , first edition.
++   </ins>
++  </div>
++ </div>
++</div>
++<h2>
++ <del>
++  <span class="mw-headline" id="Nicknames">
++   Nicknames
++  </span>
++ </del>
++</h2>
++<p>
++ <del>
++  Dennis Ritchie is often referred to as "
++  <b>
++   dmr
++  </b>
++  " (his Bell Labs email address) in technical discussion groups.
++ </del>
++</p>
++<h2>
++ <del>
++  <span class="mw-headline" id="Bibliography">
++   Bibliography
++  </span>
++ </del>
+@@ -310 +508,3 @@
+-  "We really didn't buy it thinking we'd have this enormous investment."
++  <del>
++   "We really didn't buy it thinking we'd have this enormous investment."
++  </del>
+@@ -312 +512 @@
+-</ul>
++</ul>
+\ No newline at end of file

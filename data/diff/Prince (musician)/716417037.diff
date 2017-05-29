@@ -1,0 +1,45 @@
+--- 716414662
++++ 716417037
+@@ -12 +12,8 @@
+- , is an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
++ ,
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
+@@ -212,0 +220,8 @@
++ <ins>
++  Prince passed away at his Paisley Park recording studio in Chanhassen, Minnesota on April 21, 2016.
++ </ins>
++</p>
++<p>
++ <ins>
++  He died at home in Minneapolis on April 21,2016,following a prolonged illness.
++ </ins>
+@@ -1145,2 +1160,3 @@
+-  <a href="/wiki/Like_a_Prayer_(album)" title="Like a Prayer (album)">
+-   Like a Prayer
++  <a class="new" href="/w/index.php?title=Like_a_Loud_Fart_(album)&amp;action=edit&amp;redlink=1" title="Like a Loud Fart (album) (page does not exist)">
++   Like a Loud Fart
++   Link: /w/index.php?title=Like_a_Loud_Fart_(album)&amp;action=edit&amp;redlink=1 Prayer
+@@ -1150,2 +1166,3 @@
+- <a href="/wiki/Like_a_Prayer_(song)" title="Like a Prayer (song)">
+-  Like a Prayer
++ <a class="new" href="/w/index.php?title=Like_a_Loud_Fart_(song)&amp;action=edit&amp;redlink=1" title="Like a Loud Fart (song) (page does not exist)">
++  Like a Loud Fart
++  Link: /w/index.php?title=Like_a_Loud_Fart_(song)&amp;action=edit&amp;redlink=1 Prayer
+@@ -3328,0 +3346,7 @@
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<h2>
+@@ -4240 +4264 @@
+-</ul>
++</ul>
+\ No newline at end of file

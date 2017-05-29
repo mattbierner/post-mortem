@@ -1,0 +1,72 @@
+--- 3955334
++++ 3956945
+@@ -6 +6,6 @@
+- (born
++ <ins>
++  (
++ </ins>
++ <del>
++  (born
++ </del>
+@@ -13,0 +19,10 @@
++ <ins>
++  -
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  ,
++  <a href="/wiki/2004" title="2004">
++   2004
++  </a>
++ </ins>
+@@ -46 +61,15 @@
+- before entering politics. He is the longest-lived person to have served as President, as well as the oldest elected President (69 years, 349 days). He is the only
++ before entering politics. He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ the longest-lived person to have served as President, as well as the oldest elected President (69 years, 349 days). He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ the only
+@@ -1185 +1214,15 @@
+- was informed by family doctors that Reagan's health had "significantly deteriorated" and that he was not expected to live more than a year.
++ was informed by family doctors that Reagan's health had "significantly deteriorated" and that he was not expected to live
++ <ins>
++  much longer. He passed away at his home in
++  <a class="mw-redirect" href="/wiki/Los_Angeles,_California" title="Los Angeles, California">
++   Los Angeles
++  </a>
++  on
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  at 1 PM local time.
++ </ins>
++ <del>
++  more than a year.
++ </del>
+@@ -1193,5 +1236,7 @@
+- On
+- <a href="/wiki/June_5" title="June 5">
+-  June 5
+- </a>
+- , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
++ <del>
++  On
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
++ </del>
+@@ -1249 +1294 @@
+-</ul>
++</ul>
+\ No newline at end of file

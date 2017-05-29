@@ -1,0 +1,403 @@
+--- 255117
++++ 334088211
+@@ -2,4 +2,13 @@
+- <b>
+-  George Harrison
+- </b>
+- is a popular songwriter and musician, best known as a member of
++ <ins>
++  <b>
++   George Harrison
++  </b>
++  was
++ </ins>
++ <del>
++  <b>
++   George Harrison
++  </b>
++  is
++ </del>
++ a popular songwriter and musician, best known as a member of
+@@ -12,3 +20,0 @@
+- <br/>
+-</p>
+-<p>
+@@ -27 +33,22 @@
+- , he went to a "smart school" but was a phenomenally bad student, sitting alone in the corner. He met
++ , he
++ <ins>
++  attended
++ </ins>
++ <del>
++  went to
++ </del>
++ a "smart school" but was
++ <ins>
++  regarded as a poor student, and colleagues described him as one who would "sit
++ </ins>
++ <del>
++  a phenomenally bad student, sitting
++ </del>
++ alone in the
++ <ins>
++  corner."
++ </ins>
++ <del>
++  corner.
++ </del>
++ He met
+@@ -31 +58,45 @@
+- in the mid 1950's and played lead guitar in the band, then called the Quarry Men, that eventually became the Beatles. During the height of the Beatles' popularity, he was often characterized as the "quiet Beatle", noted for his introspective manner and his growing interest in Indian mysticism. He acquired interest in playing the
++ in the mid
++ <ins>
++  <a href="/wiki/1950s" title="1950s">
++   1950s
++  </a>
++ </ins>
++ <del>
++  1950's
++ </del>
++ and played lead guitar in the
++ <ins>
++  band (initially
++ </ins>
++ <del>
++  band, then
++ </del>
++ called the Quarry
++ <ins>
++  Men)
++ </ins>
++ <del>
++  Men,
++ </del>
++ that eventually became the Beatles.
++</p>
++<p>
++ During the height of the Beatles' popularity, he was often characterized as the "quiet
++ <ins>
++  Beatle,"
++ </ins>
++ <del>
++  Beatle",
++ </del>
++ noted for his introspective manner and his growing interest in Indian mysticism.
++ <ins>
++  In the mid
++  <a href="/wiki/1960s" title="1960s">
++   1960s
++  </a>
++  he began
++ </ins>
++ <del>
++  He acquired interest in
++ </del>
++ playing the
+@@ -36,19 +107,35 @@
+- <i>
+-  Norwegian Wood
+- </i>
+- ,
+- <i>
+-  Love You To
+- </i>
+- , and
+- <i>
+-  Within You Without You
+- </i>
+- . While not the primary composer in the group (Lennon and McCartney wrote most of the Beatles' material), as time went on his songs improved greatly and his material earned respect both from his fellow Beatles and the music-buying public. Notable examples include
+- <i>
+-  Taxman
+- </i>
+- ,
+- <i>
+-  While My Guitar Gently Weeps
+- </i>
++ <ins>
++  "Norwegian Wood," "Love You To," and "Within You Without You."
++ </ins>
++ <del>
++  <i>
++   Norwegian Wood
++  </i>
++  ,
++  <i>
++   Love You To
++  </i>
++  , and
++  <i>
++   Within You Without You
++  </i>
++  .
++ </del>
++ While not the primary composer in the group (Lennon and McCartney wrote most of the Beatles' material), as time went on his songs improved greatly and his material earned respect both from his fellow Beatles and the music-buying public. Notable examples include
++ <ins>
++  "Taxman," "While
++ </ins>
++ <del>
++  <i>
++   Taxman
++  </i>
++  ,
++ While
++ </del>
++ My Guitar Gently
++ <ins>
++  Weeps"
++ </ins>
++ <del>
++  Weeps
++ </del>
+@@ -60,11 +147,13 @@
+- <i>
+-  Here Comes the Sun
+- </i>
+- , and
+- <i>
+-  Something
+- </i>
+- .
+-</p>
+-<p>
+- <br/>
++ <ins>
++  "Here Comes the Sun," and "Something."
++ </ins>
++ <del>
++  <i>
++   Here Comes the Sun
++  </i>
++  , and
++  <i>
++   Something
++  </i>
++  .
++ </del>
+@@ -82,16 +171,40 @@
+- <i>
+-  My Sweet Lord
+- </i>
+- . Harrison was later sued for copyright infringement over similarities between
+- <i>
+-  My Sweet Lord
+- </i>
+- and the 1963 Chiffon's single
+- <i>
+-  He's So Fine
+- </i>
+- . Harrison denied deliberately stealing the song, but he did lose the case in 1976; in the ruling, the court granted the possibility that Harrison had unconsciously taken the
+- <i>
+-  Chiffons
+- </i>
+- song as the basis for his own song.
++ <ins>
++  "My Sweet Lord."
++ </ins>
++ <del>
++  <i>
++   My Sweet Lord
++  </i>
++  .
++ </del>
++ Harrison was later sued for copyright infringement over similarities between
++ <ins>
++  "My Sweet Lord"
++ </ins>
++ <del>
++  <i>
++   My Sweet Lord
++  </i>
++ </del>
++ and the
++ <a href="/wiki/1963" title="1963">
++  1963
++ </a>
++ <del>
++  Chiffon's single
++  <i>
++   He's So Fine
++  </i>
++  .
++ </del>
++ Harrison denied deliberately stealing the song, but he did lose the case in
++ <ins>
++  <a href="/wiki/1976" title="1976">
++   1976
++  </a>
++  ;
++ </ins>
++ <del>
++  1976;
++ </del>
++ in the ruling, the court granted the possibility that Harrison had unconsciously taken the Chiffons song as the basis for his own song.
+@@ -100 +212,0 @@
+- <br/>
+@@ -103,3 +215,10 @@
+- During the 1980s, he helped form the
+- <a class="mw-redirect" href="/wiki/Travelling_Wilburys" title="Travelling Wilburys">
+-  Travelling Wilburys
++ <ins>
++  Harrison was probably the first modern musician to organize a major charity concert. His "Concert for Bangladesh" on August 1, 1971, drew over 40,000 people to New York's Madison Square Garden, and raised millions of dollars to aid the starving refugees of Bangladesh. The concert included other popular musicians such as Bob Dylan, Ravi Shankar, and Billy Preston.
++ </ins>
++</p>
++<ins>
++ During the
++</ins>
++<ins>
++ <a href="/wiki/1980s" title="1980s">
++  1980s
+@@ -106,0 +226,11 @@
++ ,
++</ins>
++<p>
++</p>
++<del>
++ During the 1980s,
++</del>
++ he helped form the
++ <a class="mw-redirect" href="/wiki/Travelling_Wilburys" title="Travelling Wilburys">
++ Travelling Wilburys
++</a>
+@@ -109,2 +239,2 @@
+-  Roy Orbison
+- </a>
++ Roy Orbison
++</a>
+@@ -113,2 +243,2 @@
+-  Jeff Lynne
+- </a>
++ Jeff Lynne
++</a>
+@@ -117,2 +247,2 @@
+-  Bob Dylan
+- </a>
++ Bob Dylan
++</a>
+@@ -121,3 +251,15 @@
+-  Tom Petty
+- </a>
+- ). He has also been involved in film production, backing the
++ Tom Petty
++</a>
++ ). He <ins>
++ was also
++</ins>
++<del>
++ has also been
++</del>
++ involved in film <ins>
++ production through his Handmade Films company, providing financial backing for
++</ins>
++<del>
++ production, backing
++</del>
++ the
+@@ -125,2 +267,2 @@
+-  Monty Python
+- </a>
++ Monty Python
++</a>
+@@ -129,3 +271,9 @@
+-  Life Of Brian
+- </a>
+- as well as the indie production
++ Life Of Brian
++</a>
++ as well as the <ins>
++ independent
++</ins>
++<del>
++ indie
++</del>
++ production
+@@ -133,2 +281,2 @@
+-  Withnail and I
+- </a>
++ Withnail and I
++</a>
+@@ -135,0 +284,41 @@
++ <p>
++ Throughout the
++ <ins>
++  <a href="/wiki/1990s" title="1990s">
++   1990s
++  </a>
++  ,
++ </ins>
++ <del>
++  1990's,
++ </del>
++ Harrison, a former smoker,
++ <ins>
++  endured an (eventually fatal)
++ </ins>
++ <del>
++  has faced a continuing
++ </del>
++ battle with
++ <a href="/wiki/Cancer" title="Cancer">
++  cancer
++  Link: /wiki/Cancer . There was also a
++ 1999
++ </a>
++ <del>
++  and an
++ </del>
++ attempt on his life by a crazed
++</p>
++<p>
++ <ins>
++  fan who stabbed him at his home in
++  <a class="mw-redirect" href="/wiki/Henley_on_Thames" title="Henley on Thames">
++   Henley on Thames
++  </a>
++  , puncturing his lung.
++Harrison had
++ </ins>
++ <del>
++  fan.
++ </del>
+@@ -138,13 +326,0 @@
+- <br/>
+-</p>
+-<p>
+- Throughout the 1990's, Harrison, a former smoker, has faced a continuing battle with cancer and an attempt on his life by a crazed fan.
+-</p>
+-<p>
+- <br/>
+-</p>
+-<p>
+- Harrison has married twice and has one child with his second wife.
+-</p>
+-<p>
+- <br/>
+@@ -151,0 +328,28 @@
++<del>
++ Harrison has
++</del>
++  married twice and <ins>
++ had
++</ins>
++<del>
++ has
++</del>
++ one child with his second wife. <ins>
++ He passed away at the home of a friend in
++ <a href="/wiki/Los_Angeles" title="Los Angeles">
++  Los Angeles
++ </a>
++ ,
++ <a href="/wiki/California" title="California">
++  California
++ </a>
++ on Thursday,
++ <a href="/wiki/November_29" title="November 29">
++  November 29
++ </a>
++ ,
++ <a href="/wiki/2001" title="2001">
++  2001
++ </a>
++ , at the age of 58.
++</ins>
+\ No newline at end of file

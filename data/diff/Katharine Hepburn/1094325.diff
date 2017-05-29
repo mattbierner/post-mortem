@@ -1,0 +1,219 @@
+--- 1094270
++++ 1094325
+@@ -2,4 +2,12 @@
+- <b>
+-  Katharine Hepburn
+- </b>
+- (born
++ <ins>
++  <b>
++   Katharine Hepburn
++  </b>
++  (
++ </ins>
++ <del>
++  <b>
++   Katharine Hepburn
++  </b>
++  (born
++ </del>
+@@ -13 +21,15 @@
+- ) is a notable
++ <ins>
++  -
++  <a href="/wiki/June_29" title="June 29">
++   June 29
++  </a>
++  ,
++  <a href="/wiki/2003" title="2003">
++   2003
++  </a>
++  ) was
++ </ins>
++ <del>
++  ) is
++ </del>
++ a notable
+@@ -36 +58,8 @@
+- and acted on
++ and
++ <ins>
++  debuted
++ </ins>
++ <del>
++  acted
++ </del>
++ on
+@@ -40 +69,11 @@
+- before her screen-test for
++ <ins>
++  that same year in
++  <i>
++   Night Hostess
++  </i>
++  . In 1932
++ </ins>
++ <del>
++  before
++ </del>
++ her screen-test for
+@@ -93,0 +133,155 @@
++ <ins>
++  <span class="mw-headline" id="Broadway">
++   Broadway
++  </span>
++ </ins>
++</h2>
++<ul>
++ <li>
++  <ins>
++   <i>
++    <a class="mw-disambig" href="/wiki/These_Days" title="These Days">
++     These Days
++    </a>
++   </i>
++   -
++   <a href="/wiki/1928" title="1928">
++    1928
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="new" href="/w/index.php?title=Art_and_Mrs._Bottle&amp;action=edit&amp;redlink=1" title="Art and Mrs. Bottle (page does not exist)">
++     Art and Mrs. Bottle
++    </a>
++   </i>
++   -
++   <a href="/wiki/1930" title="1930">
++    1930
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a href="/wiki/The_Warrior%27s_Husband" title="The Warrior's Husband">
++     The Warrior's Husband
++    </a>
++   </i>
++   -
++   <a href="/wiki/1932" title="1932">
++    1932
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="mw-disambig" href="/wiki/The_Lake" title="The Lake">
++     The Lake
++    </a>
++   </i>
++   -
++   <a href="/wiki/1933" title="1933">
++    1933
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="mw-disambig" href="/wiki/The_Philadelphia_Story" title="The Philadelphia Story">
++     The Philadelphia Story
++    </a>
++   </i>
++   -
++   <a href="/wiki/1939" title="1939">
++    1939
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="mw-disambig" href="/wiki/Without_Love" title="Without Love">
++     Without Love
++    </a>
++   </i>
++   -
++   <a href="/wiki/1942" title="1942">
++    1942
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a href="/wiki/As_You_Like_It" title="As You Like It">
++     As You Like It
++    </a>
++   </i>
++   -
++   <a href="/wiki/1950" title="1950">
++    1950
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a href="/wiki/The_Millionairess" title="The Millionairess">
++     The Millionairess
++    </a>
++   </i>
++   -
++   <a href="/wiki/1952" title="1952">
++    1952
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a class="mw-disambig" href="/wiki/Coco" title="Coco">
++     Coco
++    </a>
++   </i>
++   -
++   <a href="/wiki/1969" title="1969">
++    1969
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a href="/wiki/A_Matter_of_Gravity" title="A Matter of Gravity">
++     A Matter of Gravity
++    </a>
++   </i>
++   -
++   <a href="/wiki/1976" title="1976">
++    1976
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <i>
++    <a href="/wiki/The_West_Side_Waltz" title="The West Side Waltz">
++     The West Side Waltz
++    </a>
++   </i>
++   -
++   <a href="/wiki/1981" title="1981">
++    1981
++   </a>
++  </ins>
++ </li>
++</ul>
++<p>
++ <br/>
++</p>
++<h2>
+@@ -486 +680 @@
+-</ul>
++</ul>
+\ No newline at end of file

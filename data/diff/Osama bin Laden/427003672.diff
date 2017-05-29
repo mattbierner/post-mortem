@@ -1,0 +1,339 @@
+--- 426997211
++++ 427003672
+@@ -19 +19,8 @@
+- ; born March 10, 1957) is a member of the wealthy
++ ;
++ <ins>
++  March 10, 1957 – May 1, 2011) was
++ </ins>
++ <del>
++  born March 10, 1957) is
++ </del>
++ a member of the wealthy
+@@ -52 +59,10 @@
+- Bin Laden is on the American
++ <ins>
++  On May 1, 2011, U.S. officials announced that bin Laden was dead,
++ and that the United States was in possession of his corpse.
++Bin Laden was
++ </ins>
++</p>
++<del>
++ Bin Laden is
++</del>
++ on the American
+@@ -54,2 +70,2 @@
+-  Federal Bureau of Investigation
+- </a>
++ Federal Bureau of Investigation
++</a>
+@@ -58,2 +74,2 @@
+-  Ten Most Wanted Fugitives
+- </a>
++ Ten Most Wanted Fugitives
++</a>
+@@ -62,2 +78,2 @@
+-  Most Wanted Terrorists
+- </a>
++ Most Wanted Terrorists
++</a>
+@@ -66,2 +82,2 @@
+-  1998 US embassy bombings
+- </a>
++ 1998 US embassy bombings
++</a>
+@@ -69,3 +85,9 @@
+-</p>
+-<p>
+- Since 2001, Osama bin Laden and his organization have been major targets of the U.S.
++ <p>
++ Since 2001, Osama bin Laden and his organization
++ <ins>
++  had
++ </ins>
++ <del>
++  have
++ </del>
++ been major targets of the U.S.
+@@ -75 +97,8 @@
+- . Bin Laden and fellow al-Qaeda leaders are believed to be hiding near the border of
++ . Bin Laden and fellow al-Qaeda leaders
++ <ins>
++  were
++ </ins>
++ <del>
++  are
++ </del>
++ believed to be hiding near the border of
+@@ -232 +261,6 @@
+- .
++ <ins>
++  along with lifelong friends Anthony Kardous and Jason Zein.
++ </ins>
++ <del>
++  .
++ </del>
+@@ -297 +331,8 @@
+- Bin Laden believes that the restoration of
++ Bin Laden
++ <ins>
++  believed
++ </ins>
++ <del>
++  believes
++ </del>
++ that the restoration of
+@@ -352 +393,8 @@
+- Probably the most infamous part of Bin Laden's ideology is that civilians, including women and children, are legitimate targets of jihad.
++ Probably the most infamous part of Bin Laden's ideology
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ that civilians, including women and children, are legitimate targets of jihad.
+@@ -365,2 +413,16 @@
+- bin Laden opposes music on religious grounds,
+- and his attitude towards technology is mixed. He is interested in "earth-moving machinery and
++ bin Laden
++ <ins>
++  opposed
++ </ins>
++ <del>
++  opposes
++ </del>
++ music on religious grounds,
++ and his attitude towards technology is mixed. He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ interested in "earth-moving machinery and
+@@ -370,4 +432,25 @@
+- of plants" on the one hand, but rejects "chilled water" on the other.
+-</p>
+-<p>
+- His viewpoints and methods of achieving them have led to him been designated as a "
++ of plants" on the one hand, but
++ <ins>
++  rejected
++ </ins>
++ <del>
++  rejects
++ </del>
++ "chilled water" on the other.
++</p>
++<p>
++ His viewpoints and methods of achieving them
++ <ins>
++  had
++ </ins>
++ <del>
++  have
++ </del>
++ led to him
++ <ins>
++  being
++ </ins>
++ <del>
++  been
++ </del>
++ designated as a "
+@@ -1378,0 +1462,7 @@
++ <ins>
++  <a class="new" href="/w/index.php?title=Template:Mergesectionto&amp;action=edit&amp;redlink=1" title="Template:Mergesectionto (page does not exist)">
++   Template:Mergesectionto
++  </a>
++ </ins>
++</p>
++<p>
+@@ -1390,0 +1481,8 @@
++<div class="hatnote navigation-not-searchable" role="note">
++ <ins>
++  Main article:
++  <a href="/wiki/Death_of_Osama_bin_Laden" title="Death of Osama bin Laden">
++   Death of Osama bin Laden
++  </a>
++ </ins>
++</div>
+@@ -1574,2 +1672,21 @@
+- <span class="mw-headline" id="Reports_of_his_current_whereabouts">
+-  Reports of his current whereabouts
++ <span class="mw-headline" id="Reports_of_whereabouts">
++  <p>
++   <ins>
++    <b>
++     May 2011
++    </b>
++    <i>
++     <a href="/wiki/The_New_York_Times" title="The New York Times">
++      The New York Times
++     </a>
++    </i>
++    announced Osama Bin Laden has been killed.
++   </ins>
++  </p>
++  <ins>
++   Reports of
++  </ins>
++  <del>
++   Reports of his current
++  </del>
++  whereabouts
+@@ -1608 +1725 @@
+- , "Atiyah" instructs Zarqawi to "send messengers from your end to Waziristan so that they meet with the brothers of the leadership ... I am now on a visit to them and I am writing you this letter as I am with them..." Al-Rahman also indicates that bin Laden and al-Qaeda are "weak" and "have many of their own problems." The letter has been deemed authentic by military and counterterrorism officials, according to
++ , "Atiyah" instructs Zarqawi to "send messengers from your end to Waziristan so that they meet with the brothers of the leadership ... I am now on a visit to them and I am writing you this letter as I am with them..." Al-Rahman also indicates that bin Laden and al-Qaeda are "weak" and "have many of their own problems." The letter has been deemed authentic by military and counterterrorism officials, according to the
+@@ -1610 +1727,3 @@
+-  the Washington Post
++  <a class="mw-redirect" href="/wiki/Washington_Post" title="Washington Post">
++   Washington Post
++  </a>
+@@ -1627 +1746,7 @@
+- as likely hideouts of Al-Qaeda leader Osama bin Laden.
++ as
++ <ins>
++  bin Laden's likely hideouts.
++ </ins>
++ <del>
++  likely hideouts of Al-Qaeda leader Osama bin Laden.
++ </del>
+@@ -1651 +1776,5 @@
+- In the first week of December 2009, a Taliban detainee in Pakistan said he had information that Bin Laden was in Afghanistan in 2009. The detainee said that in January or February (of 2009) he met a trusted contact who had seen Bin Laden about 15 to 20 days earlier in Afghanistan. But, the US has had no reliable information on the whereabouts of Bin Laden in years, US Defense Secretary Robert Gates admitted on December 6, 2009.
++ In the first week of December 2009, a Taliban detainee in Pakistan said he had information that Bin Laden was in Afghanistan in 2009. The detainee said that in January or February (of 2009) he met a trusted contact who had seen Bin Laden about 15 to 20 days earlier in Afghanistan. But, the US has had no reliable information on the whereabouts of Bin Laden in years, US Defense Secretary
++ <a href="/wiki/Robert_Gates" title="Robert Gates">
++  Robert Gates
++ </a>
++ admitted on December 6, 2009.
+@@ -1668,0 +1798,3 @@
++ <ins>
++  ,
++ </ins>
+@@ -1674,3 +1806,13 @@
+- <i>
+-  stupefied by the FBI's decision to use his photograph to compose its latest image of al Qaeda leader Osama bin Laden
+- </i>
++ <ins>
++  "stupefied
++ </ins>
++ <del>
++  stupefied
++ </del>
++ by the FBI's decision to use his photograph to compose its latest image of al Qaeda leader Osama bin
++ <ins>
++  Laden"
++ </ins>
++ <del>
++  Laden
++ </del>
+@@ -1703 +1845,4 @@
+- On May 2, 2011, the White House declared that bin Laden was dead.
++ On May
++ <ins>
++  1, 2011, bin Laden was confirmed dead after an impromptu White House press conference.
++ </ins>
+@@ -1705,0 +1851,95 @@
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<div class="hatnote navigation-not-searchable" role="note">
++ <ins>
++  Main article:
++  <a href="/wiki/Death_of_Osama_bin_Laden" title="Death of Osama bin Laden">
++   Death of Osama bin Laden
++  </a>
++ </ins>
++</div>
++<table class="plainlinks metadata ambox ambox-notice" role="presentation">
++ <tr>
++  <td class="mbox-image">
++   <div style="width:52px">
++   </div>
++  </td>
++  <td class="mbox-text">
++   <ins>
++    <span class="mbox-text-span">
++     <b>
++      This section documents a
++      <a href="/wiki/Portal:Current_events" title="Portal:Current events">
++       current event
++      </a>
++      .
++     </b>
++     Information may change rapidly as the event progresses, and initial news reports may be
++     <a href="/wiki/Wikipedia:Identifying_reliable_sources#Breaking_news" title="Wikipedia:Identifying reliable sources">
++      unreliable
++     </a>
++     . The
++     <a class="external text" href="//en.wikipedia.org/w/index.php?title=Osama_bin_Laden&amp;action=history">
++      last updates
++     </a>
++     to this section
++     <a href="/wiki/Wikipedia:Risk_disclaimer" title="Wikipedia:Risk disclaimer">
++      may not reflect
++     </a>
++     the most current information.
++     <small class="hide-when-compact">
++      <i>
++       (
++       <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
++        Learn how and when to remove this template message
++       </a>
++       )
++      </i>
++     </small>
++    </span>
++   </ins>
++  </td>
++ </tr>
++</table>
++<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
++ <tr>
++  <td class="mbox-image">
++  </td>
++  <td class="mbox-text plainlist">
++   <ins>
++    Wikinews has related news:
++    <i>
++     <b>
++      <a class="extiw" href="https://en.wikinews.org/wiki/Osama_bin_Laden_dead,_report_US_officials" title="wikinews:Osama bin Laden dead, report US officials">
++       Osama bin Laden dead, report US officials
++      </a>
++     </b>
++    </i>
++   </ins>
++  </td>
++ </tr>
++</table>
++<p>
++ <ins>
++  On May 1, 2011, it was reported that bin Laden was killed during a U.S. military action.
++ DNA from bin Laden's body, compared with DNA samples on record from his dead sister, confirmed bin Laden's identity. The body was recovered by the US military and is currently in its custody.
++ </ins>
++</p>
++<p>
++ <ins>
++  On May 1, 2011, President Obama addresses the nation following earlier confirmation by US officials that Osama bin Laden had been killed in a covert operation in
++  <a href="/wiki/Islamabad" title="Islamabad">
++   Islamabad
++  </a>
++  , Pakistan.
++ .
++ </ins>
++</p>
++<del>
++ 2, 2011, the White House declared that bin Laden was dead.
++</del>
++<h2>
+@@ -1755 +1995 @@
+-<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
++<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+@@ -1813 +2053 @@
+-</div>
++</div>
+\ No newline at end of file

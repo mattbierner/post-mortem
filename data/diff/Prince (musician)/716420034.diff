@@ -1,0 +1,179 @@
+--- 716414662
++++ 716420034
+@@ -5 +5,8 @@
+- (born June 7, 1958), known by his
++ <ins>
++  (June 7, 1958 – April 21, 2016)
++ ,
++ </ins>
++ <del>
++  (born June 7, 1958),
++ </del>
++ known by his
+@@ -12 +19,29 @@
+- , is an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
++ ,
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an American singer, songwriter, multi-instrumentalist and
++ <ins>
++  actor, serving as
++ </ins>
++ <del>
++  actor and has been
++ </del>
++ a major figure in popular music for over three decades. Prince
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ renowned as an innovator and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely known for his eclectic work, flamboyant stage presence, and wide
+@@ -16 +51,8 @@
+- . He is widely regarded as the pioneer of
++ . He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely regarded as the pioneer of
+@@ -214,0 +257,5 @@
++ <ins>
++  He died at his Paisley Park recording studio and home in Chanhassen, Minnesota, near Minneapolis, on April 21, 2016, after suffering flu like symptoms for several weeks.
++ </ins>
++</p>
++<p>
+@@ -2779,2 +2826,8 @@
+- <span class="mw-headline" id="2013.E2.80.93present:_3rdeyegirl_and_return_to_Warner_Bros.">
+-  2013–present: 3rdeyegirl and return to Warner Bros.
++ <span class="mw-headline" id="2013.E2.80.932016:_3rdeyegirl_and_return_to_Warner_Bros.">
++  <ins>
++   2013–2016:
++  </ins>
++  <del>
++   2013–present:
++  </del>
++  3rdeyegirl and return to Warner Bros.
+@@ -2878 +2931,8 @@
+- His latest album
++ His
++ <ins>
++  final
++ </ins>
++ <del>
++  latest
++ </del>
++ album
+@@ -3021 +3081,5 @@
+- Prince has used pseudonyms to separate himself from the music (either his own or that of others) for which he has had input; "I was just getting tired of seeing my name," he said, "If you give away an idea, you still own that idea. In fact, giving it away strengthens it. Why do people feel they have to take credit for everything they do? Ego, that's the only reason."
++ Prince
++ <del>
++  has
++ </del>
++ used pseudonyms to separate himself from the music (either his own or that of others) for which he has had input; "I was just getting tired of seeing my name," he said, "If you give away an idea, you still own that idea. In fact, giving it away strengthens it. Why do people feel they have to take credit for everything they do? Ego, that's the only reason."
+@@ -3170 +3234,8 @@
+- Prince resides near
++ Prince
++ <ins>
++  resided
++ </ins>
++ <del>
++  resides
++ </del>
++ near
+@@ -3270 +3341,15 @@
+- Prince has reportedly needed double hip-replacement surgery since 2005 but won't undergo the operation unless it is a
++ Prince has reportedly needed double hip-replacement surgery since 2005 but
++ <ins>
++  wouldn't
++ </ins>
++ <del>
++  won't
++ </del>
++ undergo the operation unless it
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a
+@@ -3279 +3364,8 @@
+- The condition is rumored to be aggravated by repeated onstage dancing in high-heeled boots.
++ The condition
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ rumored to be aggravated by repeated onstage dancing in high-heeled boots.
+@@ -3283 +3375,8 @@
+- Prince is a
++ Prince
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a
+@@ -3322 +3421,8 @@
+- In 2016, Prince announced that he is writing a memoir, tentatively titled
++ In 2016, Prince announced that he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ writing a memoir, tentatively titled
+@@ -3326 +3431,0 @@
+- .
+@@ -3328 +3433,27 @@
+-<h2>
++<p>
++ <ins>
++  .
++ </ins>
++</p>
++<h3>
++ <ins>
++  <span class="mw-headline" id="Illness_and_death">
++   Illness and death
++  </span>
++ </ins>
++</h3>
++<p>
++ <ins>
++  On April 15, 2016, Prince's private plane was forced to land in Illinois to seek medical treatment for flu-like symptoms. He performed in concert one day later.
++ </ins>
++</p>
++<ins>
++ On April 21, 2016, Prince died at the age of 57. He was found unresponsive within his home in
++</ins>
++<ins>
++ <a class="mw-redirect" href="/wiki/Chanhassen" title="Chanhassen">
++  Chanhassen
++ </a>
++</ins>
++  .
++ <h2>
+@@ -4240 +4371 @@
+-</ul>
++</ul>
+\ No newline at end of file

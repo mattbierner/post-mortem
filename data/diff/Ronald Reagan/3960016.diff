@@ -1,0 +1,832 @@
+--- 3955334
++++ 3960016
+@@ -2 +1,0 @@
+- <br/>
+@@ -6 +5,6 @@
+- (born
++ <ins>
++  (
++ </ins>
++ <del>
++  (born
++ </del>
+@@ -13,0 +18,10 @@
++ <ins>
++  -
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  ,
++  <a href="/wiki/2004" title="2004">
++   2004
++  </a>
++ </ins>
+@@ -46,5 +60,15 @@
+- before entering politics. He is the longest-lived person to have served as President, as well as the oldest elected President (69 years, 349 days). He is the only
+- <a href="/wiki/Divorce" title="Divorce">
+-  divorced
+- </a>
+- person to be elected President, and the only President to have married a pregnant woman.
++ before entering politics. He
++ <ins>
++  lived longer than any other President (93 years, 119 days) and was
++ </ins>
++ <del>
++  is the longest-lived person to have served as President, as well as
++ </del>
++ the oldest elected President (69 years, 349 days).
++ <del>
++  He is the only
++  <a href="/wiki/Divorce" title="Divorce">
++   divorced
++  </a>
++  person to be elected President, and the only President to have married a pregnant woman.
++ </del>
+@@ -106 +130 @@
+- <a class="mw-disambig" href="/wiki/Rock_River" title="Rock River">
++ <a class="mw-redirect" href="/wiki/Rock_River_(Illinois)" title="Rock River (Illinois)">
+@@ -110,0 +135,14 @@
++<div class="thumb tleft">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reagan_family.jpg" title="File:Reagan family.jpg">
++    File:Reagan family.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Ronald and Neil Reagan, Parents Jack and Nelle Reagan (c. 1916-17)
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -128 +166,8 @@
+- . Child of an
++ .
++ <ins>
++  The child
++ </ins>
++ <del>
++  Child
++ </del>
++ of an
+@@ -192 +237,5 @@
+- he played the role of George "The Gipper" Gipp in the film
++ he played the role of
++ <a href="/wiki/George_Gipp" title="George Gipp">
++  George "The Gipper" Gipp
++ </a>
++ in the film
+@@ -244 +293,5 @@
+- officer in the U.S. Army in
++ officer in the
++ <a class="mw-redirect" href="/wiki/U.S._Army" title="U.S. Army">
++  U.S. Army
++ </a>
++ in
+@@ -252 +305,5 @@
+- he was activated and was assigned to the First Motion Picture Unit in the
++ he was activated and was assigned to the
++ <a href="/wiki/First_Motion_Picture_Unit" title="First Motion Picture Unit">
++  First Motion Picture Unit
++ </a>
++ in the
+@@ -261,0 +319,43 @@
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Nancy_and_Ronald_Reagan.jpg" title="File:Nancy and Ronald Reagan.jpg">
++    File:Nancy and Ronald Reagan.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Nancy and Ronald Reagan married in 1952. Nancy became a powerful background figure in Reagan's rise and roles as governor and president.
++   </ins>
++  </div>
++ </div>
++</div>
++<p>
++ <ins>
++  Reagan married actress
++  <a href="/wiki/Jane_Wyman" title="Jane Wyman">
++   Jane Wyman
++  </a>
++  in 1940. They had a daughter,
++  <a href="/wiki/Maureen_Reagan" title="Maureen Reagan">
++   Maureen
++  </a>
++  in 1941, adopted a son
++  <a href="/wiki/Michael_Reagan" title="Michael Reagan">
++   Michael
++  </a>
++  in 1946, and had a daughter born four months prematurely in 1947 who lived but one day. They divorced in 1948. He is the only President who has been divorced. Reagan remarried in 1952 to actress
++  <a href="/wiki/Nancy_Reagan" title="Nancy Reagan">
++   Nancy Davis
++  </a>
++  ; they had two children
++  <a href="/wiki/Ron_Reagan" title="Ron Reagan">
++   Ron
++  </a>
++  and
++  <a class="mw-redirect" href="/wiki/Patti_Reagan" title="Patti Reagan">
++   Patti
++  </a>
++  . Nancy was pregnant with a child at the time, making Reagan the only President to have married a pregnant woman.
++ </ins>
++</p>
+@@ -285,0 +386,32 @@
++ <ins>
++  <span class="mw-headline" id="Personality">
++   Personality
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  Both opponents and supporters have noted his "sunny optimism", which was welcomed by many in comparison to his somewhat dour and serious (although often smiling) presidential predecessor.
++ </ins>
++</p>
++<h2>
++ <ins>
++  <span class="mw-headline" id="Executive_.22Style.22">
++   Executive "Style"
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  His style of relating to others has often been described as avuncular (in the demeanor of an uncle, one not responsible for discipline but who can provide well meaning guidence). A
++  <a href="/wiki/Saturday_Night_Live" title="Saturday Night Live">
++   Saturday Night Live
++  </a>
++  skit lampooned this as superficial, being merely a cover for a calculating, engaged, and somewhat ruthless person. His presidential style was in many ways similar to that of the current president,
++  <a href="/wiki/George_W._Bush" title="George W. Bush">
++   George W. Bush
++  </a>
++  , with a reliance upon trusted associates to whom are delegated a great amount of authority and trust, in contrast to the "hands on" authority exercised by some other presidents, particularly those who have earlier been military commanders.
++ </ins>
++</p>
++<h2>
+@@ -292,3 +424,5 @@
+-  <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Nancy_and_Ronald_Reagan.jpg" title="File:Nancy and Ronald Reagan.jpg">
+-   File:Nancy and Ronald Reagan.jpg
+-  </a>
++  <del>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Nancy_and_Ronald_Reagan.jpg" title="File:Nancy and Ronald Reagan.jpg">
++    File:Nancy and Ronald Reagan.jpg
++   </a>
++  </del>
+@@ -296 +430,3 @@
+-   Nancy and Ronald Reagan married in 1952. Nancy became a powerful background figure in Reagan's rise and roles as governor and president.
++   <del>
++    Nancy and Ronald Reagan married in 1952. Nancy became a powerful background figure in Reagan's rise and roles as governor and president.
++   </del>
+@@ -324,5 +460,9 @@
+- (SAG), aligning himself with Senator
+- <a href="/wiki/Joseph_McCarthy" title="Joseph McCarthy">
+-  Joseph McCarthy
+- </a>
+- and cooperating with the
++ (SAG),
++ <del>
++  aligning himself with Senator
++  <a href="/wiki/Joseph_McCarthy" title="Joseph McCarthy">
++   Joseph McCarthy
++  </a>
++  and
++ </del>
++ cooperating with the
+@@ -387,0 +528,7 @@
++ <ins>
++  Much of this landslide is attributed to the then named "
++  <a class="new" href="/w/index.php?title=Regan_Democrat&amp;action=edit&amp;redlink=1" title="Regan Democrat (page does not exist)">
++   Regan Democrat
++  </a>
++  ", a newly emerged but mostly unorganized political force.
++ </ins>
+@@ -492,0 +640,22 @@
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reaganhiro.jpg" title="File:Reaganhiro.jpg">
++    File:Reaganhiro.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Emperor
++    <a href="/wiki/Hirohito" title="Hirohito">
++     Hirohito
++    </a>
++    of
++    <a href="/wiki/Japan" title="Japan">
++     Japan
++    </a>
++    meeting with Reagan.
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -539 +708 @@
+-  <a href="/wiki/Taiwan" title="Taiwan">
++  <a class="mw-redirect" href="/wiki/Republic_of_China" title="Republic of China">
+@@ -595,19 +764,6 @@
+-  <a href="/wiki/Strike_action" title="Strike action">
+-   struck
+-  </a>
+- </li>
+-</ul>
+-<h3>
+- <span class="mw-headline" id="Reaganomics">
+-  Reaganomics
+- </span>
+-</h3>
+-<div class="thumb tright">
+- <div class="thumbinner" style="width:182px;">
+-  <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reaganhiro.jpg" title="File:Reaganhiro.jpg">
+-   File:Reaganhiro.jpg
+-  </a>
+-  <div class="thumbcaption">
+-   Emperor
+-   <a href="/wiki/Hirohito" title="Hirohito">
+-    Hirohito
++  <ins>
++   went on
++  </ins>
++  <ins>
++   <a href="/wiki/Strike_action" title="Strike action">
++    strike
+@@ -615 +771,24 @@
+-   meeting with President Reagan.
++  </ins>
++  <h3>
++   <ins>
++    <span class="mw-headline" id="Reaganomics">
++     Reaganomics
++    </span>
++   </ins>
++  </h3>
++  <div class="thumb tright">
++   <div class="thumbinner" style="width:302px;">
++    <div class="thumbcaption">
++     <div class="magnify">
++     </div>
++     <ins>
++      President Reagan signs the
++     </ins>
++     <ins>
++      <a href="/wiki/Tax_Reform_Act_of_1986" title="Tax Reform Act of 1986">
++       Tax Reform Act of 1986
++      </a>
++      on the South Lawn.
++     </ins>
++    </div>
++   </div>
+@@ -617,2 +796,32 @@
+- </div>
+-</div>
++  <del>
++   <a href="/wiki/Strike_action" title="Strike action">
++    struck
++   </a>
++  </del>
++  <h3>
++   <del>
++    <span class="mw-headline" id="Reaganomics">
++     Reaganomics
++    </span>
++   </del>
++  </h3>
++  <div class="thumb tright">
++   <div class="thumbinner" style="width:182px;">
++    <del>
++     <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reaganhiro.jpg" title="File:Reaganhiro.jpg">
++      File:Reaganhiro.jpg
++     </a>
++    </del>
++    <div class="thumbcaption">
++     <del>
++      Emperor
++      <a href="/wiki/Hirohito" title="Hirohito">
++       Hirohito
++      </a>
++      meeting with President Reagan.
++     </del>
++    </div>
++   </div>
++  </div>
++ </li>
++</ul>
+@@ -681,0 +891,11 @@
++<div class="thumb tright">
++ <div class="thumbinner" style="width:302px;">
++  <div class="thumbcaption">
++   <div class="magnify">
++   </div>
++   <ins>
++    Reagan, left, in one-on-one discussions with Mikhail Gorbachev, the General Secretary of the Communist Party of the USSR from 1985 to 1991.
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -695 +915,12 @@
+- an "Evil Empire" and later in his presidency while speaking in front of the
++ an
++ <ins>
++  "
++  <a href="/wiki/Evil_empire" title="Evil empire">
++   evil empire
++  </a>
++  "
++ </ins>
++ <del>
++  "Evil Empire"
++ </del>
++ and later in his presidency while speaking in front of the
+@@ -707,3 +937,0 @@
+-  <a class="image" href="/wiki/File:Reagan_and_Gorbachev_hold_discussions.jpg">
+-   <img alt="" class="thumbimage" data-file-height="505" data-file-width="750" height="202" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Reagan_and_Gorbachev_hold_discussions.jpg/300px-Reagan_and_Gorbachev_hold_discussions.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Reagan_and_Gorbachev_hold_discussions.jpg/450px-Reagan_and_Gorbachev_hold_discussions.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Reagan_and_Gorbachev_hold_discussions.jpg/600px-Reagan_and_Gorbachev_hold_discussions.jpg 2x" width="300"/>
+-  </a>
+@@ -712,2 +939,0 @@
+-    <a class="internal" href="/wiki/File:Reagan_and_Gorbachev_hold_discussions.jpg" title="Enlarge">
+-    </a>
+@@ -715 +941,3 @@
+-   President Reagan, left, in one-on-one discussions with USSR President Gorbachev, right.
++   <del>
++    President Reagan, left, in one-on-one discussions with USSR President Gorbachev, right.
++   </del>
+@@ -756,0 +985,18 @@
++<div class="thumb tleft">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Reagan_thatcher.jpg" title="File:Reagan thatcher.jpg">
++    File:Reagan thatcher.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    Reagan and UK Prime Minister Margaret Thatcher in
++    <a href="/wiki/Camp_David" title="Camp David">
++     Camp David
++    </a>
++    .
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -895 +1141 @@
+-<h3>
++<h2>
+@@ -899 +1145,6 @@
+-</h3>
++</h2>
++<p>
++ <ins>
++  During his California governership, Regan actively dismantled the public mental health hospital system, proposing that it be replaced by supportive community based housing and treatment. The first objective was effectively accomplished, but the community replacement facilities were never adequately funded, neither by Regan nor his successors, leading to current California problems with homeless "street people", and an overfilling of jails and penitentaries with people who would be better served with the earlier hospital system.
++ </ins>
++</p>
+@@ -921,0 +1173,11 @@
++<div class="thumb tright">
++ <div class="thumbinner" style="width:222px;">
++  <div class="thumbcaption">
++   <div class="magnify">
++   </div>
++   <ins>
++    Reagan was a Chicago Cubs radio broadcaster in the mid-1930s for an Iowa station. He made several guest trips back to the radio booth, both during and after his presidency.
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -925 +1187,7 @@
+-  US Marines
++  <ins>
++   U.S.
++  </ins>
++  <del>
++   US
++  </del>
++  Marines
+@@ -978 +1246,7 @@
+- surgery which caused further worries about his health.
++ surgery which caused further worries about his
++ <ins>
++  health, but which significantly raised the public awareness of this "silent killer."
++ </ins>
++ <del>
++  health.
++ </del>
+@@ -1027,3 +1301,5 @@
+-  <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres37-41.jpg" title="File:Pres37-41.jpg">
+-   File:Pres37-41.jpg
+-  </a>
++  <del>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres37-41.jpg" title="File:Pres37-41.jpg">
++    File:Pres37-41.jpg
++   </a>
++  </del>
+@@ -1031 +1307,3 @@
+-   (Left to right:) Presidents Gerald Ford, Richard Nixon, George H. W. Bush, Ronald Reagan, and Jimmy Carter at the dedication of the Reagan Presidential Library.
++   <del>
++    (Left to right:) Presidents Gerald Ford, Richard Nixon, George H. W. Bush, Ronald Reagan, and Jimmy Carter at the dedication of the Reagan Presidential Library.
++   </del>
+@@ -1092 +1370,9 @@
+- in the form of a personal letter. His ailing health was further destabilized by a fall in 2001, which shattered part of his hip and rendered him virtually immobile. By
++ in the form of a personal letter.
++ <ins>
++  A tragic anecdote told of this time is of his removing from a friend's aquarium a ceramic model of the
++  <a href="/wiki/White_House" title="White House">
++   White House
++  </a>
++  . It is said that he said "I know this is important, but I don't know why".
++ </ins>
++ His ailing health was further destabilized by a fall in 2001, which shattered part of his hip and rendered him virtually immobile. By
+@@ -1097,0 +1384,14 @@
++<div class="thumb tright">
++ <div class="thumbinner" style="width:182px;">
++  <ins>
++   <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres37-41.jpg" title="File:Pres37-41.jpg">
++    File:Pres37-41.jpg
++   </a>
++  </ins>
++  <div class="thumbcaption">
++   <ins>
++    (Left to right:) Presidents Gerald Ford, Richard Nixon, George H. W. Bush, Ronald Reagan, and Jimmy Carter at the dedication of the Reagan Presidential Library, 1991.
++   </ins>
++  </div>
++ </div>
++</div>
+@@ -1164,0 +1465,42 @@
++</p>
++<p>
++ <ins>
++  Reagan passed away at his home in
++  <a class="mw-redirect" href="/wiki/Los_Angeles,_California" title="Los Angeles, California">
++   Los Angeles
++  </a>
++  on
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  ,
++  <a href="/wiki/2004" title="2004">
++   2004
++  </a>
++  at 1:09 PM local time. He died of
++  <a href="/wiki/Pneumonia" title="Pneumonia">
++   pneumonia
++  </a>
++  , the
++  <a href="/wiki/White_House" title="White House">
++   White House
++  </a>
++  said, with at least two of his children and his wife, Nancy, beside his bed. Flags across the country were lowered to half-staff. He was survived by his wife
++  <a href="/wiki/Nancy_Reagan" title="Nancy Reagan">
++   Nancy Reagan
++  </a>
++  and his children:
++  <a href="/wiki/Michael_Reagan" title="Michael Reagan">
++   Michael
++  </a>
++  , Patti Davis, and
++  <a href="/wiki/Ron_Reagan" title="Ron Reagan">
++   Ron
++  </a>
++  .
++ </ins>
++</p>
++<ins>
++ Dying at 93 years of age, Reagan holds the record for the longest-living President in American history, the previous record being
++</ins>
++<del>
+@@ -1169 +1511,3 @@
+- , Reagan turned 93, continuing his record as the longest-living president in American history. The previous record had been 90 years and 247 days, held by
++ , Reagan turned 93, continuing his record as the longest-living president in American history. The previous record had been
++</del>
++ 90 years and 247 days, held by
+@@ -1171,2 +1515,2 @@
+-  John Adams
+- </a>
++ John Adams
++</a>
+@@ -1175,2 +1519,2 @@
+-  October 12
+- </a>
++ October 12
++</a>
+@@ -1179,3 +1523,283 @@
+-  2001
+- </a>
+- . In June of 2004 the
++ 2001
++</a>
++ .
++ <h2>
++ <ins>
++  <span class="mw-headline" id="Quotations">
++   Quotations
++  </span>
++ </ins>
++</h2>
++<ul>
++ <li>
++  <ins>
++   "My fellow Americans, I am pleased to tell you today that I have signed legislation that will outlaw Russia forever. We begin bombing in five minutes." (overheard during a microphone test)
++  </ins>
++ </li>
++</ul>
++<ul>
++ <li>
++  <ins>
++   "How do you tell a communist? Well, it?s someone who reads Marx and Lenin. And how do you tell an anti-communist? It?s someone who understands Marx and Lenin."
++  </ins>
++ </li>
++</ul>
++<h2>
++ <ins>
++  <span class="mw-headline" id="Cabinet">
++   Cabinet
++  </span>
++ </ins>
++</h2>
++<div class="thumb tright">
++ <div class="thumbinner" style="width:302px;">
++  <div class="thumbcaption">
++   <div class="magnify">
++   </div>
++   <ins>
++    President Reagan and his Cabinet in the Oval Office (Feb. 4, 1981)
++   </ins>
++  </div>
++ </div>
++</div>
++<ul>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_State" title="United States Secretary of State">
++    Secretary of State
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Alexander_M._Haig" title="Alexander M. Haig">
++    Alexander M. Haig
++   </a>
++   (1981-82),
++   <a href="/wiki/George_P._Shultz" title="George P. Shultz">
++    George P. Shultz
++   </a>
++   (1982-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Defense" title="United States Secretary of Defense">
++    Secretary of Defense
++   </a>
++   -
++   <a href="/wiki/Caspar_Weinberger" title="Caspar Weinberger">
++    Caspar Weinberger
++   </a>
++   (1981-87),
++   <a class="mw-redirect" href="/wiki/Frank_C._Carlucci" title="Frank C. Carlucci">
++    Frank C. Carlucci
++   </a>
++   (1987-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_the_Treasury" title="United States Secretary of the Treasury">
++    Secretary of the Treasury
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Donald_T._Regan" title="Donald T. Regan">
++    Donald T. Regan
++   </a>
++   (1981-1985),
++   <a href="/wiki/James_Baker" title="James Baker">
++    James Baker
++   </a>
++   (1985-88),
++   <a href="/wiki/Nicholas_F._Brady" title="Nicholas F. Brady">
++    Nicholas F. Brady
++   </a>
++   (1988-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Attorney_General" title="United States Attorney General">
++    Attorney General
++   </a>
++   -
++   <a href="/wiki/William_French_Smith" title="William French Smith">
++    William French Smith
++   </a>
++   (1981-85),
++   <a href="/wiki/Edwin_Meese" title="Edwin Meese">
++    Edwin Meese III
++   </a>
++   (1985-88),
++   <a class="mw-redirect" href="/wiki/Richard_L._Thornburgh" title="Richard L. Thornburgh">
++    Richard L. Thornburgh
++   </a>
++   (1988-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_the_Interior" title="United States Secretary of the Interior">
++    Secretary of the Interior
++   </a>
++   -
++   <a href="/wiki/James_G._Watt" title="James G. Watt">
++    James G. Watt
++   </a>
++   (1981-83),
++   <a class="mw-redirect" href="/wiki/William_P._Clark" title="William P. Clark">
++    William P. Clark
++   </a>
++   (1983-85),
++   <a href="/wiki/Donald_P._Hodel" title="Donald P. Hodel">
++    Donald P. Hodel
++   </a>
++   (1985-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Agriculture" title="United States Secretary of Agriculture">
++    Secretary of Agriculture
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/John_R._Block" title="John R. Block">
++    John R. Block
++   </a>
++   (1981-86),
++   <a class="mw-redirect" href="/wiki/Richard_E._Lyng" title="Richard E. Lyng">
++    Richard E. Lyng
++   </a>
++   (1986-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Commerce" title="United States Secretary of Commerce">
++    Secretary of Commerce
++   </a>
++   -
++   <a class="mw-disambig" href="/wiki/Malcolm_Baldrige" title="Malcolm Baldrige">
++    Malcolm Baldrige
++   </a>
++   (1981-87),
++   <a class="mw-redirect" href="/wiki/C._William_Verity" title="C. William Verity">
++    C. William Verity
++   </a>
++   (1987-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Labor" title="United States Secretary of Labor">
++    Secretary of Labor
++   </a>
++   -
++   <a href="/wiki/Raymond_J._Donovan" title="Raymond J. Donovan">
++    Raymond J. Donovan
++   </a>
++   (1981-85),
++   <a class="mw-redirect" href="/wiki/William_E._Brock" title="William E. Brock">
++    William E. Brock
++   </a>
++   (1985-87),
++   <a class="mw-redirect" href="/wiki/Ann_Dore_McLaughlin" title="Ann Dore McLaughlin">
++    Ann Dore McLaughlin
++   </a>
++   (1987-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Health_and_Human_Services" title="United States Secretary of Health and Human Services">
++    Secretary of Health and Human Services
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Richard_S._Schweiker" title="Richard S. Schweiker">
++    Richard S. Schweiker
++   </a>
++   (1981-83),
++   <a class="mw-redirect" href="/wiki/Margaret_M._Heckler" title="Margaret M. Heckler">
++    Margaret M. Heckler
++   </a>
++   (1983-85),
++   <a href="/wiki/Otis_R._Bowen" title="Otis R. Bowen">
++    Otis R. Bowen
++   </a>
++   (1985-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Housing_and_Urban_Development" title="United States Secretary of Housing and Urban Development">
++    Secretary of Housing and Urban Development
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Samuel_R._Pierce" title="Samuel R. Pierce">
++    Samuel R. Pierce
++   </a>
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Transportation" title="United States Secretary of Transportation">
++    Secretary of Transportation
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Andrew_L._Lewis,_Jr." title="Andrew L. Lewis, Jr.">
++    Andrew L. Lewis, Jr.
++   </a>
++   (1981-83),
++   <a href="/wiki/Elizabeth_Dole" title="Elizabeth Dole">
++    Elizabeth Dole
++   </a>
++   (1983-87),
++   <a href="/wiki/James_H._Burnley_IV" title="James H. Burnley IV">
++    James H. Burnley IV
++   </a>
++   (1987-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Energy" title="United States Secretary of Energy">
++    Secretary of Energy
++   </a>
++   -
++   <a href="/wiki/James_B._Edwards" title="James B. Edwards">
++    James B. Edwards
++   </a>
++   (1981-82),
++   <a href="/wiki/Donald_P._Hodel" title="Donald P. Hodel">
++    Donald P. Hodel
++   </a>
++   (1982-85),
++   <a href="/wiki/John_S._Herrington" title="John S. Herrington">
++    John S. Herrington
++   </a>
++   (1985-89)
++  </ins>
++ </li>
++ <li>
++  <ins>
++   <a href="/wiki/United_States_Secretary_of_Education" title="United States Secretary of Education">
++    Secretary of Education
++   </a>
++   -
++   <a class="mw-redirect" href="/wiki/Terrel_H._Bell" title="Terrel H. Bell">
++    Terrel H. Bell
++   </a>
++   (1981-85),
++   <a class="mw-redirect" href="/wiki/William_J._Bennett" title="William J. Bennett">
++    William J. Bennett
++   </a>
++   (1985-88),
++   <a class="mw-redirect" href="/wiki/Lauro_F._Cavazos" title="Lauro F. Cavazos">
++    Lauro F. Cavazos
++   </a>
++   (1988-89)
++  </ins>
++ </li>
++</ul>
++<del>
++ In June of 2004 the
++</del>
++<del>
+@@ -1186 +1810 @@
+-</p>
++</del>
+@@ -1188,3 +1812,5 @@
+- <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg" title="File:Pres38-42.jpg">
+-  Presidents Bill Clinton, George Bush, Ronald Reagan, Jimmy Carter, Gerald Ford, and their wives at the funeral of President Richard Nixon on April 27, 1994.
+- </a>
++ <del>
++  <a class="new" href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Pres38-42.jpg" title="File:Pres38-42.jpg">
++   Presidents Bill Clinton, George Bush, Ronald Reagan, Jimmy Carter, Gerald Ford, and their wives at the funeral of President Richard Nixon on April 27, 1994.
++  </a>
++ </del>
+@@ -1193,5 +1819,7 @@
+- On
+- <a href="/wiki/June_5" title="June 5">
+-  June 5
+- </a>
+- , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
++ <del>
++  On
++  <a href="/wiki/June_5" title="June 5">
++   June 5
++  </a>
++  , 2004 it became known that Reagans health had deteriorated and that he is in months or even weeks from death.
++ </del>
+@@ -1249 +1877 @@
+-</ul>
++</ul>
+\ No newline at end of file

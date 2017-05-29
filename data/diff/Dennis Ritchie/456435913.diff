@@ -1,0 +1,566 @@
+--- 453910145
++++ 456435913
+@@ -5,5 +5,21 @@
+- (username:
+- <b>
+-  dmr
+- </b>
+- , born September 9, 1941) is an American
++ <ins>
++  (b. September 9, 1941; found dead October 12, 2011),
++ commonly known by his
++  <a href="/wiki/User_(computing)" title="User (computing)">
++   username
++  </a>
++  <b>
++   <tt>
++    dmr
++   </tt>
++  </b>
++  , was
++ </ins>
++ <del>
++  (username:
++  <b>
++   dmr
++  </b>
++  , born September 9, 1941) is
++ </del>
++ an American
+@@ -13,21 +29,44 @@
+- notable for developing
+- <a href="/wiki/C_(programming_language)" title="C (programming language)">
+-  C
+- </a>
+- and for having influence on other
+- <a class="mw-redirect" href="/wiki/Programming_languages" title="Programming languages">
+-  programming languages
+- </a>
+- , as well as
+- <a class="mw-redirect" href="/wiki/Operating_systems" title="Operating systems">
+-  operating systems
+- </a>
+- such as
+- <a href="/wiki/Multics" title="Multics">
+-  Multics
+- </a>
+- and
+- <a href="/wiki/Unix" title="Unix">
+-  Unix
+- </a>
+- . He received the
++ <ins>
++  who "helped shape the digital era."
++ He created the
++  <a href="/wiki/C_(programming_language)" title="C (programming language)">
++   C programming language
++  </a>
++  and, with long-time colleague,
++  <a href="/wiki/Ken_Thompson" title="Ken Thompson">
++   Ken Thompson
++  </a>
++  , the
++  <a href="/wiki/Unix" title="Unix">
++   UNIX
++  </a>
++  <a href="/wiki/Operating_system" title="Operating system">
++   operating system
++  </a>
++  .
++ Ritchie and Thompson
++ </ins>
++ <del>
++  notable for developing
++  <a href="/wiki/C_(programming_language)" title="C (programming language)">
++   C
++  </a>
++  and for having influence on other
++  <a class="mw-redirect" href="/wiki/Programming_languages" title="Programming languages">
++   programming languages
++  </a>
++  , as well as
++  <a class="mw-redirect" href="/wiki/Operating_systems" title="Operating systems">
++   operating systems
++  </a>
++  such as
++  <a href="/wiki/Multics" title="Multics">
++   Multics
++  </a>
++  and
++  <a href="/wiki/Unix" title="Unix">
++   Unix
++  </a>
++  . He
++ </del>
++ received the
+@@ -37 +76,19 @@
+- in 1983 and the
++ <ins>
++  from the
++  <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">
++   ACM
++  </a>
++  in 1983, the
++  <a href="/wiki/IEEE_Richard_W._Hamming_Medal" title="IEEE Richard W. Hamming Medal">
++   Hamming Medal
++  </a>
++  from the
++  <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">
++   IEEE
++  </a>
++  in 1990
++ </ins>
++ <del>
++  in 1983
++ </del>
++ and the
+@@ -41 +98,11 @@
+- 1998 on April 21, 1999. Ritchie was the head of
++ <ins>
++  from
++  <a href="/wiki/Bill_Clinton" title="Bill Clinton">
++   President Clinton
++  </a>
++  in
++ </ins>
++ <del>
++  1998 on April 21,
++ </del>
++ 1999. Ritchie was the head of
+@@ -48,0 +116,9 @@
++ <ins>
++  The 'R' of the
++ </ins>
++ <ins>
++  <a class="mw-redirect" href="/wiki/The_C_Programming_Language_(book)" title="The C Programming Language (book)">
++   K&amp;R C
++  </a>
++  book stands for his name.
++ </ins>
+@@ -55,3 +131,5 @@
+- <span class="mw-headline" id="Background">
+-  Background
+- </span>
++ <ins>
++  <span class="mw-headline" id="Background">
++   Background
++  </span>
++ </ins>
+@@ -59,0 +138,42 @@
++ <ins>
++  Ritchie was born in
++  <a href="/wiki/Bronxville,_New_York" title="Bronxville, New York">
++   Bronxville, New York
++  </a>
++  . His father was Alistair E. Ritchie, a longtime
++  <a href="/wiki/Bell_Labs" title="Bell Labs">
++   Bell Labs
++  </a>
++  scientist and co-author of
++  <i>
++   The Design of Switching Circuits
++  </i>
++  on
++  <a href="/wiki/Switching_circuit_theory" title="Switching circuit theory">
++   switching circuit theory
++  </a>
++  . He moved with his family to
++  <a href="/wiki/Summit,_New_Jersey" title="Summit, New Jersey">
++   Summit, New Jersey
++  </a>
++  , as a child, where he graduated from
++  <a href="/wiki/Summit_High_School_(New_Jersey)" title="Summit High School (New Jersey)">
++   Summit High School
++  </a>
++  .
++ </ins>
++</p>
++<p>
++</p>
++<p>
++</p>
++<p>
++</p>
++<h2>
++ <del>
++  <span class="mw-headline" id="Background">
++   Background
++  </span>
++ </del>
++</h2>
++<del>
+@@ -60,0 +181,2 @@
++</del>
++<del>
+@@ -64,0 +187,2 @@
++</del>
++<del>
+@@ -68 +192,3 @@
+- , Ritchie graduated from
++ ,
++</del>
++ Ritchie graduated from
+@@ -70,2 +196,2 @@
+-  Harvard University
+- </a>
++ Harvard University
++</a>
+@@ -74,2 +200,2 @@
+-  degrees
+- </a>
++ degrees
++</a>
+@@ -78,2 +204,2 @@
+-  physics
+- </a>
++ physics
++</a>
+@@ -82,7 +208,12 @@
+-  applied mathematics
+- </a>
+- . In 1967, he began working at the
+- <a href="/wiki/Bell_Labs" title="Bell Labs">
+-  Bell Labs
+- </a>
+- Computing Sciences Research Center, and in 1968, he received a Ph.D. from Harvard under the supervision of
++ applied mathematics
++</a>
++ . In 1967, he began working at the Bell Labs <del>
++ Link: /wiki/Bell_Labs
++</del>
++ Computing Sciences Research Center, and in 1968, he received a <ins>
++ PhD
++</ins>
++<del>
++ Ph.D.
++</del>
++ from Harvard under the supervision of
+@@ -90,2 +221,6 @@
+-  Patrick C. Fischer
+- </a>
++ Patrick C. Fischer
++</a>
++<ins>
++ , his doctoral dissertation being "Program Structure and Computational Complexity".
++</ins>
++<del>
+@@ -93 +228 @@
+-</p>
++</del>
+@@ -122 +257,30 @@
+- Ritchie is best known as the creator of the C programming language and a key developer of the Unix operating system, and as co-author of the definitive book on C,
++ Ritchie
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ best known as the creator of the
++ <a href="/wiki/C_(programming_language)" title="C (programming language)">
++  C programming language
++ </a>
++ <del>
++  and
++ </del>
++ a key developer of the
++ <ins>
++  <a href="/wiki/Unix" title="Unix">
++   UNIX
++  </a>
++ </ins>
++ <del>
++  Unix
++ </del>
++ operating system, and
++ <ins>
++  co-author of
++ </ins>
++ <del>
++  as co-author of the definitive book on C,
++ </del>
+@@ -124 +288,3 @@
+-  The C Programming Language
++  <i>
++   The C Programming Language
++  </i>
+@@ -134,0 +301,7 @@
++ <ins>
++  Ritchie worked together with
++  <a href="/wiki/Ken_Thompson" title="Ken Thompson">
++   Ken Thompson
++  </a>
++  , the scientist credited with writing the original Unix; one of Ritchie's most important contributions to Unix was its porting to different machines and platforms.
++ </ins>
+@@ -137,9 +310,22 @@
+- Ritchie's invention of C and his role in the development of
+- <a href="/wiki/Unix" title="Unix">
+-  Unix
+- </a>
+- alongside
+- <a class="mw-redirect" href="/wiki/Ken_Thompson_(programmer)" title="Ken Thompson (programmer)">
+-  Ken Thompson
+- </a>
+- have placed him as an important pioneer of modern computing. The C language is still widely used today in application and
++ <del>
++  Ritchie's invention of C and his role in the development of
++  <a href="/wiki/Unix" title="Unix">
++   Unix
++  </a>
++  alongside
++  <a class="mw-redirect" href="/wiki/Ken_Thompson_(programmer)" title="Ken Thompson (programmer)">
++   Ken Thompson
++  </a>
++  have placed him as an important pioneer of modern computing.
++ </del>
++ The C language is
++ <del>
++  still
++ </del>
++ widely used today in
++ <ins>
++  application,
++ </ins>
++ <del>
++  application and
++ </del>
+@@ -148,0 +335,6 @@
++ <ins>
++  , and
++  <a href="/wiki/Embedded_system" title="Embedded system">
++   embedded system
++  </a>
++ </ins>
+@@ -150,4 +342,13 @@
+- <a href="/wiki/Unix" title="Unix">
+-  Unix
+- </a>
+- has also been influential, establishing concepts and principles that are now well-established precepts of computing.
++ <ins>
++  UNIX
++ </ins>
++ <del>
++  <a href="/wiki/Unix" title="Unix">
++   Unix
++  </a>
++ </del>
++ has also been influential, establishing concepts and principles that are now
++ <del>
++  well-established
++ </del>
++ precepts of computing.
+@@ -160 +361,8 @@
+- in 1988 for "development of the 'C' programming language and for co-development of the UNIX operating system."
++ in 1988 for "development of the
++ <ins>
++  "C"
++ </ins>
++ <del>
++  'C'
++ </del>
++ programming language and for co-development of the UNIX operating system."
+@@ -173 +381,4 @@
+-   Thompson (left) and Ritchie (center) receiving the National Medal of Technology from President
++   <a href="/wiki/Ken_Thompson" title="Ken Thompson">
++    Thompson
++   </a>
++   (left) and Ritchie (center) receiving the National Medal of Technology from President
+@@ -177 +388,6 @@
+-   .
++   <ins>
++    in 1999.
++   </ins>
++   <del>
++    .
++   </del>
+@@ -188,3 +404,8 @@
+- <a class="mw-redirect" href="/wiki/Ken_Thompson_(programmer)" title="Ken Thompson (programmer)">
+-  Ken Thompson
+- </a>
++ <ins>
++  Thompson
++ </ins>
++ <del>
++  <a class="mw-redirect" href="/wiki/Ken_Thompson_(programmer)" title="Ken Thompson (programmer)">
++   Ken Thompson
++  </a>
++ </del>
+@@ -206 +427,5 @@
+- In 1990, both Ritchie and Ken Thompson received the
++ In 1990, both Ritchie and
++ <del>
++  Ken
++ </del>
++ Thompson received the
+@@ -230 +455,14 @@
+- for co-inventing the UNIX operating system and the C programming language which together have led to enormous advances in computer hardware, software, and networking systems and stimulated growth of an entire industry, thereby enhancing American leadership in the Information Age.
++ for co-inventing the UNIX operating system and the C programming language
++ <ins>
++  which, according to the citation for the medal, "led
++ </ins>
++ <del>
++  which together have led
++ </del>
++ to enormous advances in computer hardware, software, and networking systems and stimulated growth of an entire industry, thereby enhancing American leadership in the Information
++ <ins>
++  Age".
++ </ins>
++ <del>
++  Age.
++ </del>
+@@ -238,5 +476,18 @@
+- In 2011 Dennis Ritchie, along with
+- <a href="/wiki/Ken_Thompson" title="Ken Thompson">
+-  Ken Thompson
+- </a>
+- , was awarded the
++ In
++ <ins>
++  2011,
++ </ins>
++ <del>
++  2011 Dennis
++ </del>
++ Ritchie, along with
++ <ins>
++  Thompson,
++ </ins>
++ <del>
++  <a href="/wiki/Ken_Thompson" title="Ken Thompson">
++   Ken Thompson
++  </a>
++  ,
++ </del>
++ was awarded the
+@@ -246 +497,8 @@
+- for the pioneering work in the development of Unix operating system.
++ for
++ <ins>
++  his
++ </ins>
++ <del>
++  the pioneering
++ </del>
++ work in the development of Unix operating system.
+@@ -249,3 +507,5 @@
+- <span class="mw-headline" id="Nicknames">
+-  Nicknames
+- </span>
++ <ins>
++  <span class="mw-headline" id="Death_and_legacy">
++   Death and legacy
++  </span>
++ </ins>
+@@ -254,5 +514,24 @@
+- Dennis Ritchie is often referred to as "
+- <b>
+-  dmr
+- </b>
+- " (his Bell Labs email address) in technical discussion groups.
++ <ins>
++  Ritchie was found dead on October 12, 2011, at the age of 70 at his home in
++  <a href="/wiki/Berkeley_Heights,_New_Jersey" title="Berkeley Heights, New Jersey">
++   Berkeley Heights, New Jersey
++  </a>
++  , where he lived alone.
++ First news of his death came from his former colleague,
++  <a href="/wiki/Rob_Pike" title="Rob Pike">
++   Rob Pike
++  </a>
++  .
++ The cause and exact time of death have not been disclosed.
++ He had been in frail health for several years following treatment for prostate cancer and heart disease.
++ His death came a week after the death of
++  <a href="/wiki/Steve_Jobs" title="Steve Jobs">
++   Steve Jobs
++  </a>
++  ; although Ritchie's death did not receive as much media coverage,
++ computer historians such as
++  <a href="/wiki/Paul_E._Ceruzzi" title="Paul E. Ceruzzi">
++   Paul E. Ceruzzi
++  </a>
++  said his influence was comparable.
++ </ins>
+@@ -261,3 +540,28 @@
+- <span class="mw-headline" id="Bibliography">
+-  Bibliography
+- </span>
++ <ins>
++  <span class="mw-headline" id="Notable_books">
++   Notable books
++  </span>
++ </ins>
++</h2>
++<h2>
++ <del>
++  <span class="mw-headline" id="Nicknames">
++   Nicknames
++  </span>
++ </del>
++</h2>
++<p>
++ <del>
++  Dennis Ritchie is often referred to as "
++  <b>
++   dmr
++  </b>
++  " (his Bell Labs email address) in technical discussion groups.
++ </del>
++</p>
++<h2>
++ <del>
++  <span class="mw-headline" id="Bibliography">
++   Bibliography
++  </span>
++ </del>
+@@ -277 +581 @@
+-  <a class="mw-disambig" href="/wiki/K%26R" title="K&amp;R">
++  <a href="/wiki/The_C_Programming_Language" title="The C Programming Language">
+@@ -295,0 +600,31 @@
++<table class="plainlinks metadata ambox ambox-move" role="presentation">
++ <tr>
++  <td class="mbox-image">
++   <div style="width:52px">
++   </div>
++  </td>
++  <td class="mbox-text">
++   <ins>
++    <span class="mbox-text-span">
++     This section
++     <b>
++      is a candidate to be
++      <a class="extiw" href="https://meta.wikimedia.org/wiki/Help:Transwiki" title="m:Help:Transwiki">
++       copied
++      </a>
++      to
++      <a class="extiw" href="https://en.wikiquote.org/wiki/Main_Page" title="q:Main Page">
++       Wikiquote
++      </a>
++      using the
++      <a href="/wiki/Wikipedia:Transwiki_log" title="Wikipedia:Transwiki log">
++       Transwiki
++      </a>
++      process
++     </b>
++     .
++    </span>
++   </ins>
++  </td>
++ </tr>
++</table>
+@@ -310 +645,3 @@
+-  "We really didn't buy it thinking we'd have this enormous investment."
++  <ins>
++   C has "the power of assembly language and the convenience of... assembly language."
++  </ins>
+@@ -312 +649,8 @@
+-</ul>
++ <div style="clear:both;">
++ </div>
++ <li>
++  <del>
++   "We really didn't buy it thinking we'd have this enormous investment."
++  </del>
++ </li>
++</ul>
+\ No newline at end of file

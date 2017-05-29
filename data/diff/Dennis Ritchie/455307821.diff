@@ -1,0 +1,47 @@
+--- 453910145
++++ 455307821
+@@ -5,5 +5,11 @@
+- (username:
+- <b>
+-  dmr
+- </b>
+- , born September 9, 1941) is an American
++ <ins>
++  (September 9, 1941 - October 12, 2011) was
++ </ins>
++ <del>
++  (username:
++  <b>
++   dmr
++  </b>
++  , born September 9, 1941) is
++ </del>
++ an American
+@@ -312 +318,25 @@
+-</ul>
++ <li>
++  <ins>
++   "Here's your
++   <a href="/wiki/RK05" title="RK05">
++    rk05
++   </a>
++   . Love, Dennis."
++  </ins>
++ </li>
++ <h2>
++  <ins>
++   <span class="mw-headline" id="Death">
++    Death
++   </span>
++  </ins>
++ </h2>
++ <p>
++  <ins>
++   He died the weekend of the 8th Oct 2011. As per Rob Pikes report @
++   <a class="external free" href="https://plus.google.com/u/0/101960720994009339267/posts/ENuEDDYfvKP?hl=en" rel="nofollow">
++    https://plus.google.com/u/0/101960720994009339267/posts/ENuEDDYfvKP?hl=en
++   </a>
++  </ins>
++ </p>
++</ul>
+\ No newline at end of file

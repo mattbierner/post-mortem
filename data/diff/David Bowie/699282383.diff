@@ -1,0 +1,558 @@
+--- 699199631
++++ 699282383
+@@ -1,0 +2,7 @@
++ <ins>
++  <b>
++   David Robert Jones
++  </b>
++  (8 January 1947 – 10 January 2016),
++ known professionally as
++ </ins>
+@@ -31 +38,6 @@
+- ;
++ <ins>
++  ),
++ was
++ </ins>
++ <del>
++  ;
+@@ -33,4 +45,20 @@
+- <b>
+-  David Robert Jones
+- </b>
+- , 8 January 1947) is an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie has been a figure in popular music for over four decades, and is known as an innovator, particularly for his work in the 1970s. His
++  <b>
++   David Robert Jones
++  </b>
++  , 8 January 1947) is
++ </del>
++ an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie
++ <ins>
++  was
++ </ins>
++ <del>
++  has been
++ </del>
++ a figure in popular music for over four decades, and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ known as an innovator, particularly for his work in the 1970s. His
+@@ -40,3 +68,17 @@
+- appearance was an iconic element of his image, particularly in the 1970s and 1980s.
+-</p>
+-<p>
++ appearance was an iconic element of his
++ <ins>
++  image principally
++ </ins>
++ <del>
++  image, particularly
++ </del>
++ in the 1970s and 1980s.
++</p>
++<p>
++ <ins>
++  Born and raised in
++  <a href="/wiki/South_London" title="South London">
++   South London
++  </a>
++  , Bowie developed an early interest in music although his attempts to succeed as a pop star during much of the 1960s were frustrated.
++ </ins>
+@@ -47 +89,7 @@
+- " in July 1969, reached the top five of the
++ <ins>
++  ",
++ </ins>
++ <del>
++  " in July 1969,
++ </del>
++ reached the top five of the
+@@ -51 +99,7 @@
+- . After a three-year period of experimentation, he re-emerged in 1972 during the
++ <ins>
++  after its release in July 1969.
++ </ins>
++ <del>
++  .
++ </del>
++ After a three-year period of experimentation, he re-emerged in 1972 during the
+@@ -72 +126,7 @@
+- . Bowie's impact at that time, as described by biographer David Buckley, "challenged the core belief of the rock music of its day" and "created perhaps the biggest cult in popular culture."
++ . Bowie's impact at that time, as described by biographer David Buckley, "challenged the core belief of the rock music of its day" and "created perhaps the biggest cult in popular
++ <ins>
++  culture".
++ </ins>
++ <del>
++  culture."
++ </del>
+@@ -160 +220,8 @@
+- . He has not toured since the 2003–2004
++ . He
++ <ins>
++  stopped touring after his
++ </ins>
++ <del>
++  has not toured since the
++ </del>
++ 2003–2004
+@@ -164,7 +231,18 @@
+- and has not performed live since 2006. Bowie's latest studio album,
+- <i>
+-  <a class="mw-redirect" href="/wiki/Blackstar_(David_Bowie_album)" title="Blackstar (David Bowie album)">
+-   Blackstar
+-  </a>
+- </i>
+- , was released on 8 January 2016, his 69th birthday.
++ <ins>
++  , and last performed live at a charity event in 2006. Bowie released the studio album
++  <i>
++   <a class="mw-redirect" href="/wiki/Blackstar_(David_Bowie_album)" title="Blackstar (David Bowie album)">
++    Blackstar
++   </a>
++  </i>
++ </ins>
++ <del>
++  and has not performed live since 2006. Bowie's latest studio album,
++  <i>
++   <a class="mw-redirect" href="/wiki/Blackstar_(David_Bowie_album)" title="Blackstar (David Bowie album)">
++    Blackstar
++   </a>
++  </i>
++  , was released
++ </del>
++ on 8 January 2016, his 69th
+@@ -173 +251,10 @@
+- David Buckley says of Bowie: "His influence has been unique in popular culture—he has permeated and altered more lives than any comparable figure."
++ <ins>
++  birthday, just two days before his death from liver cancer.
++David Buckley said
++ </ins>
++ <del>
++  birthday.
++David Buckley says
++ </del>
++</p>
++ of Bowie: "His influence has been unique in popular culture—he has permeated and altered more lives than any comparable figure."
+@@ -176,2 +263,2 @@
+-  100 Greatest Britons
+- </a>
++ 100 Greatest Britons
++</a>
+@@ -179 +266,2 @@
+- In the UK, he has been awarded nine Platinum album certifications, eleven Gold and eight Silver, and in the US, five Platinum and seven Gold certifications. In 2004,
++ In the UK, he has been awarded nine Platinum album certifications, eleven Gold and eight Silver, and in the US, five Platinum and seven Gold certifications. <del>
++ In 2004,
+@@ -185 +273,3 @@
+- ranked him 39th on their list of the "100 Greatest Artists of All Time" and 23rd on their list of the best singers of all time. He was inducted into the
++ ranked him 39th on their list of the "100 Greatest Artists of All Time" and 23rd on their list of the best singers of all time.
++</del>
++ He was inducted into the
+@@ -187,2 +277,2 @@
+-  Rock and Roll Hall of Fame
+- </a>
++ Rock and Roll Hall of Fame
++</a>
+@@ -189,0 +280 @@
++ <p>
+@@ -192,0 +284,9 @@
++<h2>
++ <del>
++  <span class="mw-headline" id="Biography">
++   Biography
++  </span>
++ </del>
++</h2>
++<p>
++</p>
+@@ -196,5 +295,0 @@
+- <span class="mw-headline" id="Biography">
+-  Biography
+- </span>
+-</h2>
+-<h3>
+@@ -204 +299 @@
+-</h3>
++</h2>
+@@ -217 +312,5 @@
+- . The family lived at 40 Stansfield Road, located near the border of the south London areas of Brixton and
++ . The family lived at 40 Stansfield Road,
++ <del>
++  located
++ </del>
++ near the border of the south London areas of Brixton and
+@@ -305 +404,7 @@
+- It was an unusual technical school, as biographer Christopher Sandford writes:
++ It was an unusual technical school, as biographer Christopher Sandford
++ <ins>
++  wrote:
++ </ins>
++ <del>
++  writes:
++ </del>
+@@ -364,0 +470,7 @@
++<h2>
++ <ins>
++  <span class="mw-headline" id="Career">
++   Career
++  </span>
++ </ins>
++</h2>
+@@ -1336,2 +1448,6 @@
+- <span class="mw-headline" id="1976.E2.80.9379:_The_Berlin_era">
+-  1976–79: The Berlin era
++ <span class="mw-headline" id="1976.E2.80.9379:_Berlin_era">
++  1976–79:
++  <del>
++   The
++  </del>
++  Berlin era
+@@ -1383 +1499,7 @@
+-   where David Bowie lived 1976–1978
++   where
++   <ins>
++    Bowie lived from 1976 to 1978
++   </ins>
++   <del>
++    David Bowie lived 1976–1978
++   </del>
+@@ -1707 +1829 @@
+- <a class="mw-redirect" href="/wiki/New_Romantic" title="New Romantic">
++ <a href="/wiki/New_Romanticism" title="New Romanticism">
+@@ -2279 +2401,8 @@
+-   Bowie on-stage with
++   Bowie
++   <ins>
++    on stage
++   </ins>
++   <del>
++    on-stage
++   </del>
++   with
+@@ -2287 +2416,7 @@
+-   in 2002.
++   in
++   <ins>
++    2002
++   </ins>
++   <del>
++    2002.
++   </del>
+@@ -2550,2 +2685,7 @@
+- <span class="mw-headline" id="2013.E2.80.93present:_The_Next_Day_and_Blackstar">
+-  2013–present:
++ <span class="mw-headline" id="2013.E2.80.932016:_The_Next_Day_and_Blackstar">
++  <ins>
++   2013–2016:
++  </ins>
++  <del>
++   2013–present:
++  </del>
+@@ -2643 +2783,5 @@
+- " has created some controversy, initially being removed from YouTube for
++ "
++ <del>
++  has
++ </del>
++ created some controversy, initially being removed from YouTube for
+@@ -2656,6 +2800,30 @@
+- , Bowie has ruled out ever giving an interview again, with producer Visconti agreeing with the interviewer's suggestion that he is now Bowie's "voice on earth". Visconti also revealed to
+- <i>
+-  The Times
+- </i>
+- that Bowie has no intention of going on tour, noting that all "he wants to do is make records."
+- An exhibition of Bowie artifacts, called "David Bowie Is," was shown at the
++ , Bowie
++ <del>
++  has
++ </del>
++ ruled out ever giving an interview
++ <ins>
++  again.
++ </ins>
++ <del>
++  again, with producer Visconti agreeing with the interviewer's suggestion that he is now Bowie's "voice on earth". Visconti also revealed to
++  <i>
++   The Times
++  </i>
++  that Bowie has no intention of going on tour, noting that all "he wants to do is make records."
++ </del>
++ An exhibition of Bowie
++ <ins>
++  artefacts,
++ </ins>
++ <del>
++  artifacts,
++ </del>
++ called "David Bowie
++ <ins>
++  Is",
++ </ins>
++ <del>
++  Is,"
++ </del>
++ was shown at the
+@@ -2730,4 +2898,10 @@
+- <i>
+-  David Bowie is
+- </i>
+- ’ exhibition at the
++ <ins>
++  "David Bowie is"
++ </ins>
++ <del>
++  <i>
++   David Bowie is
++  </i>
++  ’
++ </del>
++ exhibition at the
+@@ -2747 +2921,8 @@
+- The show's director, Johan Renck, said of Bowie, "His first response was precise, engaged and curious. The piece of music he laid before us embodied every aspect of our characters and the series itself - dark, brooding, beautiful and sentimental (in the best possible incarnation of this word). All along, the man inspired and intrigued me and as the process passed, I was overwhelmed with his generosity. I still can't fathom what actually happened." The theme that will be used for
++ The show's director, Johan Renck, said of Bowie, "His first response was precise, engaged and curious. The piece of music he laid before us embodied every aspect of our characters and the series itself - dark, brooding, beautiful and sentimental (in the best possible incarnation of this word). All along, the man inspired and intrigued me and as the process passed, I was overwhelmed with his generosity. I still can't fathom what actually happened." The theme that
++ <ins>
++  was
++ </ins>
++ <del>
++  will be
++ </del>
++ used for
+@@ -2751 +2932,7 @@
+- will also be the title track for his January 2016 release
++ <ins>
++  was also
++ </ins>
++ <del>
++  will also be
++ </del>
++ the title track for his January 2016 release
+@@ -2754 +2941,4 @@
+-   Blackstar (★)
++   Blackstar
++   <del>
++    (★)
++   </del>
+@@ -2766 +2956,4 @@
+- may be the oddest work yet from [Bowie],”
++ may be the oddest work yet from
++ <ins>
++  Bowie”.
++ </ins>
+@@ -2767,0 +2961,21 @@
++<h3>
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h3>
++<p>
++ <ins>
++  On 10 January 2016, two days after releasing the album
++  <i>
++   <a class="mw-redirect" href="/wiki/Blackstar_(David_Bowie_album)" title="Blackstar (David Bowie album)">
++    Blackstar
++   </a>
++  </i>
++  on his 69th birthday, Bowie died from cancer. He had been diagnosed with the illness eighteen months earlier.
++ </ins>
++</p>
++<del>
++ [Bowie],”
++</del>
+@@ -3157 +3371,9 @@
+- From the time of his earliest recordings in the 1960s, Bowie has employed a wide variety of musical styles. His early compositions and performances were strongly influenced by not only rock and rollers like
++ From the time of his earliest recordings in the 1960s, Bowie
++ <del>
++  has
++ </del>
++ employed a wide variety of musical styles. His early compositions and performances were strongly influenced by
++ <del>
++  not only
++ </del>
++ rock and rollers like
+@@ -3165 +3387,7 @@
+- but also the wider world of show business. He particularly strove to emulate the British musical theatre singer-songwriter and actor
++ <ins>
++  , and
++ </ins>
++ <del>
++  but
++ </del>
++ also the wider world of show business. He particularly strove to emulate the British musical theatre singer-songwriter and actor
+@@ -3208 +3436,15 @@
+- Bowie is known as a multi-instrumentalist. In addition to his playing of guitar, keyboards, harmonica and saxophone, he plays stylophone,
++ Bowie
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ known as a multi-instrumentalist. In addition to his playing of guitar, keyboards, harmonica and saxophone, he
++ <ins>
++  played
++ </ins>
++ <del>
++  plays
++ </del>
++ stylophone,
+@@ -3387 +3629,8 @@
+- The couple resides primarily in New York City and London.
++ The couple
++ <ins>
++  resided
++ </ins>
++ <del>
++  resides
++ </del>
++ primarily in New York City and London.
+@@ -3395 +3644,8 @@
+- Regarding his religion, in 2005 he said, "Questioning my spiritual life has always been germane to what I was writing. Always." He added that he is bothered by being "not quite an atheist".
++ Regarding his religion, in 2005 he said, "Questioning my spiritual life has always been germane to what I was writing. Always." He added that he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ bothered by being "not quite an atheist".
+@@ -3402 +3658 @@
+- interview "What I've Learned", he stated, "I'm in awe of the universe, but I don't necessarily believe there's an intelligence or agent behind it. I do have a passion for the visual in religious rituals, though, even though they may be completely empty and bereft of substance. The incense is powerful and provocative, whether Buddhist or Catholic."
++ interview "What I've Learned", he stated, "I'm in awe of the universe, but I don't necessarily believe there's an intelligence or agent behind it. I do have a passion for the visual in religious rituals, though, even though they may be completely empty and bereft of substance. The incense is powerful and provocative, whether Buddhist or
+@@ -3405 +3661,13 @@
+- Bowie has shown an interest in
++ <ins>
++  <a class="mw-redirect" href="/wiki/Roman_Catholic" title="Roman Catholic">
++   Catholic
++  </a>
++  ."
++Bowie showed
++ </ins>
++ <del>
++  Catholic."
++Bowie has shown
++ </del>
++</p>
++ an interest in
+@@ -3407,3 +3675,9 @@
+-  Buddhism
+- </a>
+- since 1967. He frequently studied in London under the
++ Buddhism
++</a>
++<ins>
++ that began in
++</ins>
++<del>
++ since
++</del>
++ 1967. He frequently studied in London under the
+@@ -3411,8 +3685,8 @@
+-  Tibetan
+- </a>
+- <a href="/wiki/Lama" title="Lama">
+-  Lama
+- </a>
+- <a href="/wiki/Chime_Rinpoche" title="Chime Rinpoche">
+-  Chime Rinpoche
+- </a>
++ Tibetan
++</a>
++<a href="/wiki/Lama" title="Lama">
++ Lama
++</a>
++<a href="/wiki/Chime_Rinpoche" title="Chime Rinpoche">
++ Chime Rinpoche
++</a>
+@@ -3421,2 +3695,2 @@
+-  '
+- </span>
++ '
++</span>
+@@ -3426,4 +3700,4 @@
+-  <a href="/wiki/David_Bowie_(1967_album)" title="David Bowie (1967 album)">
+-   David Bowie
+-  </a>
+- </i>
++ <a href="/wiki/David_Bowie_(1967_album)" title="David Bowie (1967 album)">
++  David Bowie
++ </a>
++</i>
+@@ -3432,8 +3706,14 @@
+-  Crazy wisdom
+- </a>
+- <a href="/wiki/Tulku" title="Tulku">
+-  Tulku
+- </a>
+- <a href="/wiki/Ch%C3%B6gyam_Trungpa" title="Chögyam Trungpa">
+-  Chögyam Trungpa
+- </a>
++ <ins>
++  crazy
++ </ins>
++ <del>
++  Crazy
++ </del>
++ wisdom
++</a>
++<a href="/wiki/Tulku" title="Tulku">
++ Tulku
++</a>
++<a href="/wiki/Ch%C3%B6gyam_Trungpa" title="Chögyam Trungpa">
++ Chögyam Trungpa
++</a>
+@@ -3441,2 +3721 @@
+-</p>
+-<h3>
++ <h3>
+@@ -3479 +3758,5 @@
+- In 1990, British rock band Queen and artist David Bowie filed a lawsuit against
++ In 1990, British rock band Queen and
++ <del>
++  artist David
++ </del>
++ Bowie filed a lawsuit against
+@@ -3554 +3837,12 @@
+- Throughout his career he has sold an estimated 140 million albums. In the United Kingdom, he has been awarded 9 Platinum, 11 Gold and 8 Silver albums, and in the United States, 5 Platinum and 7 Gold.
++ Throughout his career he
++ <del>
++  has
++ </del>
++ sold an estimated 140 million albums. In the United Kingdom, he
++ <ins>
++  was
++ </ins>
++ <del>
++  has been
++ </del>
++ awarded 9 Platinum, 11 Gold and 8 Silver albums, and in the United States, 5 Platinum and 7 Gold.
+@@ -3756 +4050,6 @@
+-   (1993)
++   <ins>
++    (1992)
++   </ins>
++   <del>
++    (1993)
++   </del>
+@@ -3952,0 +4252,13 @@
++  <ins>
++   <i>
++    <a href="/wiki/Twin_Peaks:_Fire_Walk_with_Me" title="Twin Peaks: Fire Walk with Me">
++     Twin Peaks: Fire Walk with Me
++    </a>
++   </i>
++   (1991) as
++   <a class="mw-redirect" href="/wiki/Phillip_Jeffries" title="Phillip Jeffries">
++    Phillip Jeffries
++   </a>
++  </ins>
++ </li>
++ <li>
+@@ -4106 +4418 @@
+-</ul>
++</ul>
+\ No newline at end of file

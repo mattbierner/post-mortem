@@ -1,0 +1,95 @@
+[
+  {
+    "comment": "",
+    "parentid": 727218945,
+    "parsedcomment": "",
+    "revid": 728456637,
+    "timestamp": "2016-07-05T15:27:36Z",
+    "user": "SPQRobin"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 728456637,
+    "parsedcomment": "",
+    "revid": 758614739,
+    "timestamp": "2017-01-06T14:32:26Z",
+    "user": "193.191.208.195"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 758614739,
+    "parsedcomment": "",
+    "revid": 758614773,
+    "timestamp": "2017-01-06T14:32:44Z",
+    "user": "193.191.208.195"
+  },
+  {
+    "anon": "",
+    "comment": "Factual change based on multiple sources (http://www.lesoir.be/1409723/article/economie/2017-01-06/luc-coene-ex-gouverneur-banque-nationale-belgique-est-decede on 6 Jan 2016; http://www.nieuwsblad.be/cnt/dmf20170106_02660559 on 6 Jan 2016 )",
+    "parentid": 758614773,
+    "parsedcomment": "Factual change based on multiple sources (http://www.lesoir.be/1409723/article/economie/2017-01-06/luc-coene-ex-gouverneur-banque-nationale-belgique-est-decede on 6 Jan 2016; http://www.nieuwsblad.be/cnt/dmf20170106_02660559 on 6 Jan 2016 )",
+    "revid": 758617106,
+    "timestamp": "2017-01-06T14:52:55Z",
+    "user": "193.53.48.42"
+  },
+  {
+    "anon": "",
+    "comment": "Grammatical improvements",
+    "parentid": 758617106,
+    "parsedcomment": "Grammatical improvements",
+    "revid": 758617411,
+    "timestamp": "2017-01-06T14:55:19Z",
+    "user": "193.53.48.42"
+  },
+  {
+    "comment": "",
+    "parentid": 758617411,
+    "parsedcomment": "",
+    "revid": 758632414,
+    "timestamp": "2017-01-06T16:49:50Z",
+    "user": "Connormah"
+  },
+  {
+    "comment": "<ref></ref>",
+    "parentid": 758632414,
+    "parsedcomment": "&lt;ref&gt;&lt;/ref&gt;",
+    "revid": 758633427,
+    "timestamp": "2017-01-06T16:57:47Z",
+    "user": "Lotje"
+  },
+  {
+    "comment": "-[[Category:Living people]]; +[[Category:2017 deaths]] using [[WP:HC|HotCat]]",
+    "parentid": 758633427,
+    "parsedcomment": "-<a href=\"/wiki/Category:Living_people\" title=\"Category:Living people\">Category:Living people</a>; +<a href=\"/wiki/Category:2017_deaths\" title=\"Category:2017 deaths\">Category:2017 deaths</a> using <a href=\"/wiki/Wikipedia:HC\" class=\"mw-redirect\" title=\"Wikipedia:HC\">HotCat</a>",
+    "revid": 758642946,
+    "timestamp": "2017-01-06T18:10:49Z",
+    "user": "Snickers2686"
+  },
+  {
+    "comment": "/* Career */",
+    "minor": "",
+    "parentid": 758642946,
+    "parsedcomment": "<a href=\"/wiki/Luc_Coene#Career\" title=\"Luc Coene\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Career</span></span>",
+    "revid": 758670448,
+    "timestamp": "2017-01-06T21:11:34Z",
+    "user": "Morgenhund"
+  },
+  {
+    "comment": "",
+    "parentid": 758670448,
+    "parsedcomment": "",
+    "revid": 758756330,
+    "timestamp": "2017-01-07T11:33:21Z",
+    "user": "Tripleca\u00f1a"
+  },
+  {
+    "comment": "Reference cleanup",
+    "parentid": 758756330,
+    "parsedcomment": "Reference cleanup",
+    "revid": 758765079,
+    "timestamp": "2017-01-07T13:10:39Z",
+    "user": "Adog104"
+  }
+]

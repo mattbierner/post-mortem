@@ -1,0 +1,76 @@
+--- 753656269
++++ 753724080
+@@ -5 +5,8 @@
+- (born July 18, 1921), (
++ <ins>
++  (July 18, 1921 – December 8, 2016
++ ),
++ </ins>
++ <del>
++  (born July 18, 1921),
++ </del>
++ (
+@@ -13 +20,7 @@
+- , Ret.), is a former
++ , Ret.),
++ <ins>
++  was an American
++ </ins>
++ <del>
++  is a former
++ </del>
+@@ -27 +40,4 @@
+-  United States senator
++  United States Senator
++  Link: /wiki/United_States_Senate from
++ Ohio
++  Link: /wiki/Ohio  senator
+@@ -124 +140,7 @@
+- on January 3, 2015, Glenn became the oldest living former United States Senator.
++ on January 3, 2015, Glenn became the oldest living former United States
++ <ins>
++  Senator, and has now died at 95.
++ </ins>
++ <del>
++  Senator.
++ </del>
+@@ -1058 +1080,5 @@
+- on October 29, 1998, becoming, at age 77, the oldest person to go into space as a
++ on October 29, 1998,
++ <del>
++  becoming, at age 77, the oldest person to go into space
++ </del>
++ as a
+@@ -1072 +1098,7 @@
+- mission. According to
++ <ins>
++  mission, becoming, at age 77, the oldest person to go into space.
++ </ins>
++ <del>
++  mission.
++ </del>
++ According to
+@@ -1149 +1181,7 @@
+- . Today Glenn holds an adjunct professorship at the Glenn School.
++ <ins>
++  , and Glenn held
++ </ins>
++ <del>
++  . Today Glenn holds
++ </del>
++ an adjunct professorship at the Glenn School.
+@@ -1417 +1455 @@
+- <span class="mw-headline" id="Illness">
++ <span class="mw-headline" id="Illness_and_death">
+@@ -1418,0 +1457,3 @@
++  <ins>
++   and death
++  </ins>
+@@ -1431,0 +1473,3 @@
++ <ins>
++  Glenn died December 8, 2016 at the Ohio State University Wexner Medical Center in Columbus, Ohio.
++ </ins>
+@@ -2322 +2366 @@
+-</ul>
++</ul>
+\ No newline at end of file

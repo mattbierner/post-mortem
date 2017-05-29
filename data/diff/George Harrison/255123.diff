@@ -1,0 +1,184 @@
+--- 255117
++++ 255123
+@@ -2,4 +2,13 @@
+- <b>
+-  George Harrison
+- </b>
+- is a popular songwriter and musician, best known as a member of
++ <ins>
++  <b>
++   George Harrison
++  </b>
++  was
++ </ins>
++ <del>
++  <b>
++   George Harrison
++  </b>
++  is
++ </del>
++ a popular songwriter and musician, best known as a member of
+@@ -27 +36,22 @@
+- , he went to a "smart school" but was a phenomenally bad student, sitting alone in the corner. He met
++ , he
++ <ins>
++  attended
++ </ins>
++ <del>
++  went to
++ </del>
++ a "smart school" but was
++ <ins>
++  regarded as a poor student, and colleagues described him as one who would "sit
++ </ins>
++ <del>
++  a phenomenally bad student, sitting
++ </del>
++ alone in the
++ <ins>
++  corner".
++ </ins>
++ <del>
++  corner.
++ </del>
++ He met
+@@ -31 +61,28 @@
+- in the mid 1950's and played lead guitar in the band, then called the Quarry Men, that eventually became the Beatles. During the height of the Beatles' popularity, he was often characterized as the "quiet Beatle", noted for his introspective manner and his growing interest in Indian mysticism. He acquired interest in playing the
++ in the mid 1950's and played lead guitar in the
++ <ins>
++  band (initially
++ </ins>
++ <del>
++  band, then
++ </del>
++ called the Quarry
++ <ins>
++  Men)
++ </ins>
++ <del>
++  Men,
++ </del>
++ that eventually became the Beatles.
++</p>
++<p>
++ <br/>
++</p>
++<p>
++ During the height of the Beatles' popularity, he was often characterized as the "quiet Beatle", noted for his introspective manner and his growing interest in Indian mysticism.
++ <ins>
++  In the mid 1960's he began
++ </ins>
++ <del>
++  He acquired interest in
++ </del>
++ playing the
+@@ -123 +180,15 @@
+- ). He has also been involved in film production, backing the
++ ). He
++ <ins>
++  was also
++ </ins>
++ <del>
++  has also been
++ </del>
++ involved in film
++ <ins>
++  production through his Handmade Films company, providing financial backing for
++ </ins>
++ <del>
++  production, backing
++ </del>
++ the
+@@ -131 +202,8 @@
+- as well as the indie production
++ as well as the
++ <ins>
++  independent
++ </ins>
++ <del>
++  indie
++ </del>
++ production
+@@ -141,4 +219,26 @@
+- Throughout the 1990's, Harrison, a former smoker, has faced a continuing battle with cancer and an attempt on his life by a crazed fan.
+-</p>
+-<p>
+- <br/>
++ Throughout the 1990's, Harrison, a former smoker,
++ <ins>
++  endured an (eventually fatal)
++ </ins>
++ <del>
++  has faced a continuing
++ </del>
++ battle with
++ <a href="/wiki/Cancer" title="Cancer">
++  cancer
++ </a>
++ <del>
++  and an
++ </del>
++ attempt on his life by a crazed
++</p>
++<p>
++ <ins>
++  fan who stabbed him at his home in
++ </ins>
++ <ins>
++  <a class="mw-redirect" href="/wiki/Henley_on_Thames" title="Henley on Thames">
++   Henley on Thames
++  </a>
++  , puncturing his lung.
++ </ins>
+@@ -147 +246,0 @@
+- Harrison has married twice and has one child with his second wife.
+@@ -148,0 +248,44 @@
++<ins>
++ Harrison had
++</ins>
++<del>
++ fan.
++</del>
++<p>
++</p>
++<del>
++ Harrison has
++</del>
++  married twice and <ins>
++ had
++</ins>
++<del>
++ has
++</del>
++ one child with his second wife. <ins>
++ He passed away at the home of a friend in
++</ins>
++<ins>
++ <a href="/wiki/Los_Angeles" title="Los Angeles">
++  Los Angeles
++ </a>
++ ,
++</ins>
++<ins>
++ <a href="/wiki/California" title="California">
++  California
++ </a>
++ on Thursday,
++</ins>
++<ins>
++ <a href="/wiki/November_29" title="November 29">
++  November 29
++ </a>
++ ,
++</ins>
++<ins>
++ <a href="/wiki/2001" title="2001">
++  2001
++ </a>
++ , at the age of 58.
++</ins>
+@@ -150,2 +293 @@
+- <br/>
+-</p>
++</p>
+\ No newline at end of file

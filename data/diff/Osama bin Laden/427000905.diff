@@ -1,0 +1,184 @@
+--- 426997211
++++ 427000905
+@@ -19 +19,8 @@
+- ; born March 10, 1957) is a member of the wealthy
++ ;
++ <ins>
++  March 10, 1957 – approximately April 24, 2011 with death announced and confirmed on May 1, 2011) was
++ </ins>
++ <del>
++  born March 10, 1957) is
++ </del>
++ a member of the wealthy
+@@ -52 +59,10 @@
+- Bin Laden is on the American
++ <ins>
++  On May 1, 2011, U.S. officials announced that bin Laden was dead
++ and that the United States was in possession of his corpse.
++Bin Laden was
++ </ins>
++</p>
++<del>
++ Bin Laden is
++</del>
++ on the American
+@@ -54,2 +70,2 @@
+-  Federal Bureau of Investigation
+- </a>
++ Federal Bureau of Investigation
++</a>
+@@ -58,2 +74,2 @@
+-  Ten Most Wanted Fugitives
+- </a>
++ Ten Most Wanted Fugitives
++</a>
+@@ -62,2 +78,2 @@
+-  Most Wanted Terrorists
+- </a>
++ Most Wanted Terrorists
++</a>
+@@ -66,2 +82,2 @@
+-  1998 US embassy bombings
+- </a>
++ 1998 US embassy bombings
++</a>
+@@ -69,3 +85,9 @@
+-</p>
+-<p>
+- Since 2001, Osama bin Laden and his organization have been major targets of the U.S.
++ <p>
++ Since 2001, Osama bin Laden and his organization
++ <ins>
++  had
++ </ins>
++ <del>
++  have
++ </del>
++ been major targets of the U.S.
+@@ -75 +97,8 @@
+- . Bin Laden and fellow al-Qaeda leaders are believed to be hiding near the border of
++ . Bin Laden and fellow al-Qaeda leaders
++ <ins>
++  were
++ </ins>
++ <del>
++  are
++ </del>
++ believed to be hiding near the border of
+@@ -297 +326,8 @@
+- Bin Laden believes that the restoration of
++ Bin Laden
++ <ins>
++  believed
++ </ins>
++ <del>
++  believes
++ </del>
++ that the restoration of
+@@ -352 +388,8 @@
+- Probably the most infamous part of Bin Laden's ideology is that civilians, including women and children, are legitimate targets of jihad.
++ Probably the most infamous part of Bin Laden's ideology
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ that civilians, including women and children, are legitimate targets of jihad.
+@@ -365,2 +408,16 @@
+- bin Laden opposes music on religious grounds,
+- and his attitude towards technology is mixed. He is interested in "earth-moving machinery and
++ bin Laden
++ <ins>
++  opposed
++ </ins>
++ <del>
++  opposes
++ </del>
++ music on religious grounds,
++ and his attitude towards technology is mixed. He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ interested in "earth-moving machinery and
+@@ -370 +427,8 @@
+- of plants" on the one hand, but rejects "chilled water" on the other.
++ of plants" on the one hand, but
++ <ins>
++  rejected
++ </ins>
++ <del>
++  rejects
++ </del>
++ "chilled water" on the other.
+@@ -1390,0 +1455,8 @@
++<div class="hatnote navigation-not-searchable" role="note">
++ <ins>
++  Main article:
++  <a href="/wiki/Death_of_Osama_bin_Laden" title="Death of Osama bin Laden">
++   Death of Osama bin Laden
++  </a>
++ </ins>
++</div>
+@@ -1572,0 +1645,13 @@
++<p>
++ <ins>
++  <b>
++   May 2011
++  </b>
++  <i>
++   <a href="/wiki/The_New_York_Times" title="The New York Times">
++    The New York Times
++   </a>
++  </i>
++  announced Osama Bin Laden has been killed.
++ </ins>
++</p>
+@@ -1703 +1788,4 @@
+- On May 2, 2011, the White House declared that bin Laden was dead.
++ On May
++ <ins>
++  1, 2011, rumors abounded in the wake of an impromptu presidential press conference that bin Laden was caught and killed.
++ </ins>
+@@ -1705,0 +1794,34 @@
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  In April 2011, it was reported that bin Laden was killed during a US military action.
++ DNA from bin Laden's body, compared with DNA samples on record from his dead sister, confirmed bin Laden's identity. The body was recovered by the US military and is currently in its custody.
++  <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
++   [
++   <i>
++    <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
++     citation needed
++    </a>
++   </i>
++   ]
++  </sup>
++ </ins>
++</p>
++<p>
++ <ins>
++  On May 1st, 2011, US officials confirmed that Osama bin Laden had been killed in a covert operation in
++  <a href="/wiki/Islamabad" title="Islamabad">
++   Islamabad
++  </a>
++  Pakistan.
++ </ins>
++</p>
++<del>
++ 2, 2011, the White House declared that bin Laden was dead.
++</del>
++<h2>
+@@ -1813 +1935 @@
+-</div>
++</div>
+\ No newline at end of file

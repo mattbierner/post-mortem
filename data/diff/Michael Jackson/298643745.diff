@@ -1,0 +1,83 @@
+--- 298631851
++++ 298643745
+@@ -5 +5,8 @@
+- (born August 29, 1958) is an American recording artist, entertainer, and businessman. The seventh child of the
++ <ins>
++  (August 29, 1958–June 25, 2009
++ ) was
++ </ins>
++ <del>
++  (born August 29, 1958) is
++ </del>
++ an American recording artist, entertainer, and businessman. The seventh child of the
+@@ -119 +126,5 @@
+- Jackson has donated and raised millions of dollars for beneficial causes through his
++ Jackson
++ <del>
++  has
++ </del>
++ donated and raised millions of dollars for beneficial causes through his
+@@ -178,0 +190,5 @@
++ <ins>
++  After being taken to the hospital in a coma, Jackson was reportedly pronounced dead on June 25, 2009.
++ </ins>
++</p>
++<p>
+@@ -2064,4 +2080,9 @@
+- <a href="/wiki/TMZ" title="TMZ">
+-  TMZ
+- </a>
+- reported that Jackson has been rushed to the hospital and has suffered
++ <ins>
++  Jackson was hospitalized after suffering a
++ </ins>
++ <del>
++  <a href="/wiki/TMZ" title="TMZ">
++   TMZ
++  </a>
++  reported that Jackson has been rushed to the hospital and has suffered
++ </del>
+@@ -2071,13 +2092,26 @@
+- .
+- <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
+-  Paramedics
+- </a>
+- administered
+- <a class="mw-redirect" href="/wiki/CPR" title="CPR">
+-  CPR
+- </a>
+- in the
+- <a href="/wiki/Ambulance" title="Ambulance">
+-  ambulance
+- </a>
+- and a family member says that he is in "really bad shape.".
++ <ins>
++  , and died shortly after
++ . Family members reported that he was
++ </ins>
++ <del>
++  .
++  <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
++   Paramedics
++  </a>
++  administered
++  <a class="mw-redirect" href="/wiki/CPR" title="CPR">
++   CPR
++  </a>
++  in the
++  <a href="/wiki/Ambulance" title="Ambulance">
++   ambulance
++  </a>
++  and a family member says that he is
++ </del>
++ in "really bad
++ <ins>
++  shape" and "not doing well."
++ </ins>
++ <del>
++  shape.".
++ </del>
+@@ -3120 +3154 @@
+-</ul>
++</ul>
+\ No newline at end of file

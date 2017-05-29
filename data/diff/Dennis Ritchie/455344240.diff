@@ -1,0 +1,75 @@
+--- 453910145
++++ 455344240
+@@ -9 +9,9 @@
+- , born September 9, 1941) is an American
++ ,
++ <ins>
++  September 8, 1941 — October 8/9, 2011
++ ) was
++ </ins>
++ <del>
++  born September 9, 1941) is
++ </del>
++ an American
+@@ -122 +130,8 @@
+- Ritchie is best known as the creator of the C programming language and a key developer of the Unix operating system, and as co-author of the definitive book on C,
++ Ritchie
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ best known as the creator of the C programming language and a key developer of the Unix operating system, and as co-author of the definitive book on C,
+@@ -145 +160,7 @@
+- have placed him as an important pioneer of modern computing. The C language is still widely used today in application and
++ <ins>
++  has
++ </ins>
++ <del>
++  have
++ </del>
++ placed him as an important pioneer of modern computing. The C language is still widely used today in application and
+@@ -295,0 +317,38 @@
++<table class="plainlinks metadata ambox ambox-move" role="presentation">
++ <tr>
++  <td class="mbox-image">
++   <div style="width:52px">
++   </div>
++  </td>
++  <td class="mbox-text">
++   <ins>
++    <span class="mbox-text-span">
++     This page
++     <b>
++      is a candidate to be
++      <a class="extiw" href="https://meta.wikimedia.org/wiki/Help:Transwiki" title="m:Help:Transwiki">
++       copied
++      </a>
++      to
++      <a class="extiw" href="https://en.wikiquote.org/wiki/Main_Page" title="q:Main Page">
++       Wikiquote
++      </a>
++      using the
++      <a href="/wiki/Wikipedia:Transwiki_log" title="Wikipedia:Transwiki log">
++       Transwiki
++      </a>
++      process
++     </b>
++     .
++     <span class="hide-when-compact">
++      If the page can be
++      <a class="mw-redirect" href="/wiki/Wikipedia:How_to_edit_a_page" title="Wikipedia:How to edit a page">
++       expanded
++      </a>
++      into an encyclopedic article, rather than a list of quotations, please do so and remove this message.
++     </span>
++    </span>
++   </ins>
++  </td>
++ </tr>
++</table>
+@@ -312 +371 @@
+-</ul>
++</ul>
+\ No newline at end of file

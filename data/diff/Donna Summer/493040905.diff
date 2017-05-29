@@ -1,0 +1,15 @@
+--- 493040889
++++ 493040905
+@@ -6 +6,7 @@
+- is an American singer/songwriter who gained prominence during the
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an American singer/songwriter who gained prominence during the
+@@ -2391 +2397 @@
+-</ul>
++</ul>
+\ No newline at end of file

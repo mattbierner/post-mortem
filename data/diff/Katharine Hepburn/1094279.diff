@@ -1,0 +1,40 @@
+--- 1094270
++++ 1094279
+@@ -2,4 +2,12 @@
+- <b>
+-  Katharine Hepburn
+- </b>
+- (born
++ <ins>
++  <b>
++   Katharine Hepburn
++  </b>
++  (
++ </ins>
++ <del>
++  <b>
++   Katharine Hepburn
++  </b>
++  (born
++ </del>
+@@ -13 +21,15 @@
+- ) is a notable
++ <ins>
++  -
++  <a href="/wiki/June_29" title="June 29">
++   June 29
++  </a>
++  ,
++  <a href="/wiki/2003" title="2003">
++   2003
++  </a>
++  ) was
++ </ins>
++ <del>
++  ) is
++ </del>
++ a notable
+@@ -486 +508 @@
+-</ul>
++</ul>
+\ No newline at end of file

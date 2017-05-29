@@ -1,0 +1,138 @@
+--- 716414662
++++ 716417784
+@@ -5 +5,8 @@
+- (born June 7, 1958), known by his
++ <ins>
++  (June 7, 1958 – April 21, 2016)
++ ,
++ </ins>
++ <del>
++  (born June 7, 1958),
++ </del>
++ known by his
+@@ -12 +19,22 @@
+- , is an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
++ ,
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ renowned as an innovator and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely known for his eclectic work, flamboyant stage presence, and wide
+@@ -16 +44,8 @@
+- . He is widely regarded as the pioneer of
++ . He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely regarded as the pioneer of
+@@ -214,0 +250,5 @@
++ <ins>
++  He died at his Paisley Park recording studio and home in Chanhassen, Minnesota, near Minneapolis, on April 21,2016, after suffering flu like symptoms for several weeks.
++ </ins>
++</p>
++<p>
+@@ -1145,2 +1185,3 @@
+-  <a href="/wiki/Like_a_Prayer_(album)" title="Like a Prayer (album)">
+-   Like a Prayer
++  <a class="new" href="/w/index.php?title=Like_a_Loud_Fart_(album)&amp;action=edit&amp;redlink=1" title="Like a Loud Fart (album) (page does not exist)">
++   Like a Loud Fart
++   Link: /w/index.php?title=Like_a_Loud_Fart_(album)&amp;action=edit&amp;redlink=1 Prayer
+@@ -1150,2 +1191,3 @@
+- <a href="/wiki/Like_a_Prayer_(song)" title="Like a Prayer (song)">
+-  Like a Prayer
++ <a class="new" href="/w/index.php?title=Like_a_Loud_Fart_(song)&amp;action=edit&amp;redlink=1" title="Like a Loud Fart (song) (page does not exist)">
++  Like a Loud Fart
++  Link: /w/index.php?title=Like_a_Loud_Fart_(song)&amp;action=edit&amp;redlink=1 Prayer
+@@ -3170 +3212,8 @@
+- Prince resides near
++ Prince
++ <ins>
++  resided
++ </ins>
++ <del>
++  resides
++ </del>
++ near
+@@ -3270 +3319,15 @@
+- Prince has reportedly needed double hip-replacement surgery since 2005 but won't undergo the operation unless it is a
++ Prince has reportedly needed double hip-replacement surgery since 2005 but
++ <ins>
++  wouldn't
++ </ins>
++ <del>
++  won't
++ </del>
++ undergo the operation unless it
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a
+@@ -3279 +3342,8 @@
+- The condition is rumored to be aggravated by repeated onstage dancing in high-heeled boots.
++ The condition
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ rumored to be aggravated by repeated onstage dancing in high-heeled boots.
+@@ -3283 +3353,8 @@
+- Prince is a
++ Prince
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a
+@@ -3322 +3399,8 @@
+- In 2016, Prince announced that he is writing a memoir, tentatively titled
++ In 2016, Prince announced that he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ writing a memoir, tentatively titled
+@@ -3327,0 +3412,12 @@
++<h3>
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h3>
++<p>
++ <ins>
++  On April 21, 2016, Prince died, due to flu-like symptoms.
++ </ins>
++</p>
+@@ -4240 +4336 @@
+-</ul>
++</ul>
+\ No newline at end of file

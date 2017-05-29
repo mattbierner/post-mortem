@@ -1,0 +1,16 @@
+--- 716414662
++++ 716414868
+@@ -5 +5,8 @@
+- (born June 7, 1958), known by his
++ (born June 7,
++ <ins>
++  1958 - April 21, 2016),
++ </ins>
++ <del>
++  1958),
++ </del>
++ known by his
+@@ -4240 +4247 @@
+-</ul>
++</ul>
+\ No newline at end of file

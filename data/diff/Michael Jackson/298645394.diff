@@ -1,0 +1,151 @@
+--- 298631851
++++ 298645394
+@@ -5 +5,8 @@
+- (born August 29, 1958) is an American recording artist, entertainer, and businessman. The seventh child of the
++ <ins>
++  (August 29, 1958 – June 25, 2009
++ ) was
++ </ins>
++ <del>
++  (born August 29, 1958) is
++ </del>
++ an American recording artist, entertainer, and businessman. The seventh child of the
+@@ -119 +126,5 @@
+- Jackson has donated and raised millions of dollars for beneficial causes through his
++ Jackson
++ <del>
++  has
++ </del>
++ donated and raised millions of dollars for beneficial causes through his
+@@ -178,0 +190,5 @@
++ <ins>
++  After being taken to the hospital in a coma, Jackson was reportedly pronounced dead on June 25, 2009.
++ </ins>
++</p>
++<p>
+@@ -221 +237,8 @@
+- he is the seventh of nine children. His siblings are
++ he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ the seventh of nine children. His siblings are
+@@ -926 +949,8 @@
+- ; the latter is in
++ ; the latter
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ in
+@@ -930 +960,8 @@
+- in Jackson's case, and both illnesses make him sensitive to sunlight. The treatments he uses for his condition further lighten his skin tone, and, with the application of pancake makeup to even out blotches, he can appear very pale.
++ in Jackson's case, and both illnesses
++ <ins>
++  made
++ </ins>
++ <del>
++  make
++ </del>
++ him sensitive to sunlight. The treatments he uses for his condition further lighten his skin tone, and, with the application of pancake makeup to even out blotches, he can appear very pale.
+@@ -1950,2 +1987,6 @@
+- <span class="mw-headline" id="2008_onward:_Milestones.2C_real_estate_and_return_to_live_performance">
+-  2008 onward: Milestones, real estate and return to live performance
++ <span class="mw-headline" id="2008_onward:_Milestones.2C_real_estate_and_planned_return_to_live_performance">
++  2008 onward: Milestones, real estate and
++  <ins>
++   planned
++  </ins>
++  return to live performance
+@@ -2043 +2084,8 @@
+- From July 13, 2009 to March 6, 2010, Jackson is scheduled to perform
++ From July 13, 2009 to March 6, 2010, Jackson
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ scheduled to perform
+@@ -2064,4 +2112,9 @@
+- <a href="/wiki/TMZ" title="TMZ">
+-  TMZ
+- </a>
+- reported that Jackson has been rushed to the hospital and has suffered
++ <ins>
++  Jackson was hospitalized after suffering a
++ </ins>
++ <del>
++  <a href="/wiki/TMZ" title="TMZ">
++   TMZ
++  </a>
++  reported that Jackson has been rushed to the hospital and has suffered
++ </del>
+@@ -2072,12 +2125,26 @@
+- <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
+-  Paramedics
+- </a>
+- administered
+- <a class="mw-redirect" href="/wiki/CPR" title="CPR">
+-  CPR
+- </a>
+- in the
+- <a href="/wiki/Ambulance" title="Ambulance">
+-  ambulance
+- </a>
+- and a family member says that he is in "really bad shape.".
++ <ins>
++  Family members reported that he was
++ </ins>
++ <del>
++  <a class="mw-redirect" href="/wiki/Paramedics" title="Paramedics">
++   Paramedics
++  </a>
++  administered
++  <a class="mw-redirect" href="/wiki/CPR" title="CPR">
++   CPR
++  </a>
++  in the
++  <a href="/wiki/Ambulance" title="Ambulance">
++   ambulance
++  </a>
++  and a family member says that he is
++ </del>
++ in "really bad
++ <ins>
++  shape" and "not doing well."
++ Jackson died shortly after
++ .
++ </ins>
++ <del>
++  shape.".
++ </del>
+@@ -2881 +2948,8 @@
+- He is a double-inductee of the
++ He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a double-inductee of the
+@@ -2925 +2999,8 @@
+- He is characterized as "an unstoppable juggernaut, possessed of all the tools to dominate the charts seemingly at will: an instantly identifiable voice, eye-popping dance moves, stunning musical versatility and loads of sheer star power".
++ He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ characterized as "an unstoppable juggernaut, possessed of all the tools to dominate the charts seemingly at will: an instantly identifiable voice, eye-popping dance moves, stunning musical versatility and loads of sheer star power".
+@@ -3120 +3201 @@
+-</ul>
++</ul>
+\ No newline at end of file

@@ -1,0 +1,14 @@
+--- 426997211
++++ 426997770
+@@ -1703 +1703,3 @@
+- On May 2, 2011, the White House declared that bin Laden was dead.
++ <del>
++  On May 2, 2011, the White House declared that bin Laden was dead.
++ </del>
+@@ -1813,0 +1816,5 @@
++<p>
++ <ins>
++  i hate chohee
++ </ins>
++</p>
+\ No newline at end of file

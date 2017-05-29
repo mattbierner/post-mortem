@@ -1,0 +1,40 @@
+--- 426997211
++++ 426997441
+@@ -19 +19,8 @@
+- ; born March 10, 1957) is a member of the wealthy
++ ; born March 10,
++ <ins>
++  1957, died May 1, 2011)
++ </ins>
++ <del>
++  1957)
++ </del>
++ is a member of the wealthy
+@@ -1572,0 +1580,8 @@
++<p>
++ <ins>
++  <b>
++   May 2011
++  </b>
++  : Reports of Bin Ladin's death have hit the news.
++ </ins>
++</p>
+@@ -1749,0 +1765,14 @@
++<p>
++</p>
++<h2>
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  The White House reported bin Laden dead on May 1st, 2011.
++ </ins>
++</p>
+@@ -1813 +1842 @@
+-</div>
++</div>
+\ No newline at end of file

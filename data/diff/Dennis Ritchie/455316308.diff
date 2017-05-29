@@ -1,0 +1,16 @@
+--- 453910145
++++ 455316308
+@@ -9 +9,8 @@
+- , born September 9, 1941) is an American
++ ,
++ <ins>
++  September 9, 1941 — October 9, 2011) was
++ </ins>
++ <del>
++  born September 9, 1941) is
++ </del>
++ an American
+@@ -312 +319 @@
+-</ul>
++</ul>
+\ No newline at end of file

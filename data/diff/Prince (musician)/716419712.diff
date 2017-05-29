@@ -1,0 +1,382 @@
+--- 716414662
++++ 716419712
+@@ -5 +5,8 @@
+- (born June 7, 1958), known by his
++ <ins>
++  (June 7, 1958 – April 21, 2016)
++ ,
++ </ins>
++ <del>
++  (born June 7, 1958),
++ </del>
++ known by his
+@@ -12 +19,29 @@
+- , is an American singer, songwriter, multi-instrumentalist and actor and has been a major figure in popular music for over three decades. Prince is renowned as an innovator and is widely known for his eclectic work, flamboyant stage presence, and wide
++ ,
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an American singer, songwriter, multi-instrumentalist and
++ <ins>
++  actor, serving as
++ </ins>
++ <del>
++  actor and has been
++ </del>
++ a major figure in popular music for over three decades. Prince
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ renowned as an innovator and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely known for his eclectic work, flamboyant stage presence, and wide
+@@ -16 +51,8 @@
+- . He is widely regarded as the pioneer of
++ . He
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ widely regarded as the pioneer of
+@@ -214,0 +257,5 @@
++ <ins>
++  He died at his Paisley Park recording studio and home in Chanhassen, Minnesota, near Minneapolis, on April 21, 2016, after suffering flu like symptoms for several weeks.
++ </ins>
++</p>
++<p>
+@@ -224,9 +271,15 @@
+- Prince was born in
+- <a href="/wiki/Minneapolis" title="Minneapolis">
+-  Minneapolis
+- </a>
+- , Minnesota, the son of Mattie Della (Shaw) and
+- <a href="/wiki/John_L._Nelson" title="John L. Nelson">
+-  John Lewis Nelson
+- </a>
+- .
++ Prince was born
++ <del>
++  in
++ </del>
++ <del>
++  <a href="/wiki/Minneapolis" title="Minneapolis">
++   Minneapolis
++  </a>
++  , Minnesota, the son of Mattie Della (Shaw) and
++ </del>
++ <del>
++  <a href="/wiki/John_L._Nelson" title="John L. Nelson">
++   John Lewis Nelson
++  </a>
++  .
+@@ -235,16 +288,4 @@
+- <a href="/wiki/Louisiana" title="Louisiana">
+-  Louisiana
+- </a>
+- , with all four of his grandparents hailing from that state.
+- Prince's father was a pianist and songwriter and his mother was a
+- <a href="/wiki/Jazz" title="Jazz">
+-  jazz
+- </a>
+- singer. Prince was named after his father, whose
+- <a href="/wiki/Stage_name" title="Stage name">
+-  stage name
+- </a>
+- was Prince Rogers, and who performed with a jazz group called the Prince Rogers Trio. In a 1991 interview with
+- <i>
+-  <a href="/wiki/A_Current_Affair_(U.S._TV_series)" title="A Current Affair (U.S. TV series)">
+-   A Current Affair
++ </del>
++ <del>
++  <a href="/wiki/Louisiana" title="Louisiana">
++   Louisiana
+@@ -252,2 +293,22 @@
+- </i>
+- , Prince's father said, "I named my son Prince because I wanted him to do everything I wanted to do".
++  , with all four of his grandparents hailing from that state.
++ Prince's father was a pianist and songwriter and his mother was a
++ </del>
++ <del>
++  <a href="/wiki/Jazz" title="Jazz">
++   jazz
++  </a>
++  singer. Prince was named after his father, whose
++ </del>
++ <del>
++  <a href="/wiki/Stage_name" title="Stage name">
++   stage name
++  </a>
++  was Prince Rogers, and who performed with a jazz group called the Prince Rogers Trio. In a 1991 interview with
++ </del>
++ <del>
++  <i>
++   <a href="/wiki/A_Current_Affair_(U.S._TV_series)" title="A Current Affair (U.S. TV series)">
++    A Current Affair
++   </a>
++  </i>
++  , Prince's father said, "I named my son Prince because I wanted him to do everything I wanted to do".
+@@ -254,0 +316 @@
++ </del>
+@@ -257,13 +319,15 @@
+- In a
+- <a class="mw-redirect" href="/wiki/Public_Broadcasting_Service" title="Public Broadcasting Service">
+-  PBS
+- </a>
+- interview, Prince told
+- <a href="/wiki/Tavis_Smiley" title="Tavis Smiley">
+-  Tavis Smiley
+- </a>
+- that he was "born
+- <a href="/wiki/Epilepsy" title="Epilepsy">
+-  epileptic
+- </a>
+- " and "used to have seizures" when he was young. During the interview, he also said: "My mother told me one day I walked in to her and said, 'Mom, I'm not going to be sick anymore,' and she said, 'Why?' and I said, 'Because an angel told me so'."
++ <del>
++  In a
++  <a class="mw-redirect" href="/wiki/Public_Broadcasting_Service" title="Public Broadcasting Service">
++   PBS
++  </a>
++  interview, Prince told
++  <a href="/wiki/Tavis_Smiley" title="Tavis Smiley">
++   Tavis Smiley
++  </a>
++  that he was "born
++  <a href="/wiki/Epilepsy" title="Epilepsy">
++   epileptic
++  </a>
++  " and "used to have seizures" when he was young. During the interview, he also said: "My mother told me one day I walked in to her and said, 'Mom, I'm not going to be sick anymore,' and she said, 'Why?' and I said, 'Because an angel told me so'."
++ </del>
+@@ -272 +336,2 @@
+- Prince's sister Tika Evene (usually called Tyka) was born in 1960.
++ <del>
++  Prince's sister Tika Evene (usually called Tyka) was born in 1960.
+@@ -277,4 +342,5 @@
+- <a href="/wiki/Andr%C3%A9_Cymone" title="André Cymone">
+-  André Cymone
+- </a>
+- .
++  <a href="/wiki/Andr%C3%A9_Cymone" title="André Cymone">
++   André Cymone
++  </a>
++  .
++ </del>
+@@ -283,41 +349,42 @@
+- Prince and Anderson joined Prince's cousin Charles Smith in a band called Grand Central while they were attending Minneapolis's Central High School. Smith was later replaced by
+- <a href="/wiki/Morris_Day" title="Morris Day">
+-  Morris Day
+- </a>
+- on the drums. Prince played piano and guitar for the band, which performed at clubs and parties in the Minneapolis area. Grand Central later changed its name to Champagne and started playing original music influenced by
+- <a href="/wiki/Sly_and_the_Family_Stone" title="Sly and the Family Stone">
+-  Sly and the Family Stone
+- </a>
+- ,
+- <a href="/wiki/James_Brown" title="James Brown">
+-  James Brown
+- </a>
+- ,
+- <a href="/wiki/Earth,_Wind_%26_Fire" title="Earth, Wind &amp; Fire">
+-  Earth, Wind &amp; Fire
+- </a>
+- ,
+- <a href="/wiki/Miles_Davis" title="Miles Davis">
+-  Miles Davis
+- </a>
+- ,
+- <a href="/wiki/George_Clinton_(musician)" title="George Clinton (musician)">
+-  George Clinton
+- </a>
+- and
+- <a href="/wiki/Parliament-Funkadelic" title="Parliament-Funkadelic">
+-  Parliament-Funkadelic
+- </a>
+- ,
+- <a href="/wiki/Carlos_Santana" title="Carlos Santana">
+-  Carlos Santana
+- </a>
+- ,
+- <a href="/wiki/Jimi_Hendrix" title="Jimi Hendrix">
+-  Jimi Hendrix
+- </a>
+- , and
+- <a href="/wiki/Todd_Rundgren" title="Todd Rundgren">
+-  Todd Rundgren
+- </a>
+- .
++ <del>
++  Prince and Anderson joined Prince's cousin Charles Smith in a band called Grand Central while they were attending Minneapolis's Central High School. Smith was later replaced by
++  <a href="/wiki/Morris_Day" title="Morris Day">
++   Morris Day
++  </a>
++  on the drums. Prince played piano and guitar for the band, which performed at clubs and parties in the Minneapolis area. Grand Central later changed its name to Champagne and started playing original music influenced by
++  <a href="/wiki/Sly_and_the_Family_Stone" title="Sly and the Family Stone">
++   Sly and the Family Stone
++  </a>
++  ,
++  <a href="/wiki/James_Brown" title="James Brown">
++   James Brown
++  </a>
++  ,
++  <a href="/wiki/Earth,_Wind_%26_Fire" title="Earth, Wind &amp; Fire">
++   Earth, Wind &amp; Fire
++  </a>
++  ,
++  <a href="/wiki/Miles_Davis" title="Miles Davis">
++   Miles Davis
++  </a>
++  ,
++  <a href="/wiki/George_Clinton_(musician)" title="George Clinton (musician)">
++   George Clinton
++  </a>
++  and
++  <a href="/wiki/Parliament-Funkadelic" title="Parliament-Funkadelic">
++   Parliament-Funkadelic
++  </a>
++  ,
++  <a href="/wiki/Carlos_Santana" title="Carlos Santana">
++   Carlos Santana
++  </a>
++  ,
++  <a href="/wiki/Jimi_Hendrix" title="Jimi Hendrix">
++   Jimi Hendrix
++  </a>
++  , and
++  <a href="/wiki/Todd_Rundgren" title="Todd Rundgren">
++   Todd Rundgren
++  </a>
++  .
+@@ -325,4 +392,5 @@
+- <a href="/wiki/Little_Richard" title="Little Richard">
+-  Little Richard
+- </a>
+- .
++  <a href="/wiki/Little_Richard" title="Little Richard">
++   Little Richard
++  </a>
++  .
++ </del>
+@@ -331,5 +399,7 @@
+- Prince also played basketball in high school, and continued to play it for recreation as an adult, which later inspired a famous
+- <a href="/wiki/Dave_Chappelle" title="Dave Chappelle">
+-  Dave Chappelle
+- </a>
+- sketch.
++ <del>
++  Prince also played basketball in high school, and continued to play it for recreation as an adult, which later inspired a famous
++  <a href="/wiki/Dave_Chappelle" title="Dave Chappelle">
++   Dave Chappelle
++  </a>
++  sketch.
++ </del>
+@@ -2779,2 +2849,8 @@
+- <span class="mw-headline" id="2013.E2.80.93present:_3rdeyegirl_and_return_to_Warner_Bros.">
+-  2013–present: 3rdeyegirl and return to Warner Bros.
++ <span class="mw-headline" id="2013.E2.80.932016:_3rdeyegirl_and_return_to_Warner_Bros.">
++  <ins>
++   2013–2016:
++  </ins>
++  <del>
++   2013–present:
++  </del>
++  3rdeyegirl and return to Warner Bros.
+@@ -2878 +2954,8 @@
+- His latest album
++ His
++ <ins>
++  final
++ </ins>
++ <del>
++  latest
++ </del>
++ album
+@@ -3170 +3253,8 @@
+- Prince resides near
++ Prince
++ <ins>
++  resided
++ </ins>
++ <del>
++  resides
++ </del>
++ near
+@@ -3270 +3360,15 @@
+- Prince has reportedly needed double hip-replacement surgery since 2005 but won't undergo the operation unless it is a
++ Prince has reportedly needed double hip-replacement surgery since 2005 but
++ <ins>
++  wouldn't
++ </ins>
++ <del>
++  won't
++ </del>
++ undergo the operation unless it
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a
+@@ -3279 +3383,8 @@
+- The condition is rumored to be aggravated by repeated onstage dancing in high-heeled boots.
++ The condition
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ rumored to be aggravated by repeated onstage dancing in high-heeled boots.
+@@ -3283 +3394,8 @@
+- Prince is a
++ Prince
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a
+@@ -3322 +3440,8 @@
+- In 2016, Prince announced that he is writing a memoir, tentatively titled
++ In 2016, Prince announced that he
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ writing a memoir, tentatively titled
+@@ -3327,0 +3453,17 @@
++<h3>
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h3>
++<p>
++ <ins>
++  On April 21, 2016, Prince died at the age of 57. He was found unresponsive within his home in
++  <a class="mw-redirect" href="/wiki/Chanhassen" title="Chanhassen">
++   Chanhassen
++  </a>
++  .
++ He suffered flu-like symptoms prior to death.
++ </ins>
++</p>
+@@ -4240 +4382 @@
+-</ul>
++</ul>
+\ No newline at end of file

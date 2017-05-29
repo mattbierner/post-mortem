@@ -1,0 +1,30 @@
+--- 699199631
++++ 699258527
+@@ -36 +36,22 @@
+- , 8 January 1947) is an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie has been a figure in popular music for over four decades, and is known as an innovator, particularly for his work in the 1970s. His
++ , 8 January 1947)
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie
++ <ins>
++  was
++ </ins>
++ <del>
++  has been
++ </del>
++ a figure in popular music for over four decades, and
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ known as an innovator, particularly for his work in the 1970s. His
+@@ -4106 +4127 @@
+-</ul>
++</ul>
+\ No newline at end of file

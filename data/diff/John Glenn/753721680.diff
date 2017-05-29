@@ -1,0 +1,36 @@
+--- 753656269
++++ 753721680
+@@ -5 +5,7 @@
+- (born July 18, 1921), (
++ <ins>
++  (July 18, 1921 – December 8, 2016),
++ </ins>
++ <del>
++  (born July 18, 1921),
++ </del>
++ (
+@@ -13 +19,8 @@
+- , Ret.), is a former
++ , Ret.),
++ <ins>
++  was
++ </ins>
++ <del>
++  is
++ </del>
++ a former
+@@ -1417 +1430 @@
+- <span class="mw-headline" id="Illness">
++ <span class="mw-headline" id="Illness_and_death">
+@@ -1418,0 +1432,3 @@
++  <ins>
++   and death
++  </ins>
+@@ -1431,0 +1448,3 @@
++ <ins>
++  Glenn died December 8, 2016 at the Ohio State University Wexner Medical Center in Columbus, Ohio.
++ </ins>
+@@ -2322 +2341 @@
+-</ul>
++</ul>
+\ No newline at end of file

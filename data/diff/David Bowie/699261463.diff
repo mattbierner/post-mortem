@@ -1,0 +1,87 @@
+--- 699199631
++++ 699261463
+@@ -36 +36,9 @@
+- , 8 January 1947) is an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie has been a figure in popular music for over four decades, and is known as an innovator, particularly for his work in the 1970s. His
++ , 8 January
++ <ins>
++  1947 – 10 January 2016
++ ) was
++ </ins>
++ <del>
++  1947) is
++ </del>
++ an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter, and actor. Bowie has been a figure in popular music for over four decades, and is known as an innovator, particularly for his work in the 1970s. His
+@@ -160 +168,8 @@
+- . He has not toured since the 2003–2004
++ . He
++ <ins>
++  stopped touring after his
++ </ins>
++ <del>
++  has not toured since the
++ </del>
++ 2003–2004
+@@ -164 +179,7 @@
+- and has not performed live since 2006. Bowie's latest studio album,
++ <ins>
++  , last performing live in
++ </ins>
++ <del>
++  and has not performed live since
++ </del>
++ 2006. Bowie's latest studio album,
+@@ -170 +191,7 @@
+- , was released on 8 January 2016, his 69th birthday.
++ , was released on 8 January 2016, his 69th
++ <ins>
++  birthday, just two days before his death.
++ </ins>
++ <del>
++  birthday.
++ </del>
+@@ -1336,2 +1363,6 @@
+- <span class="mw-headline" id="1976.E2.80.9379:_The_Berlin_era">
+-  1976–79: The Berlin era
++ <span class="mw-headline" id="1976.E2.80.9379:_Berlin_era">
++  1976–79:
++  <del>
++   The
++  </del>
++  Berlin era
+@@ -2550,2 +2581,7 @@
+- <span class="mw-headline" id="2013.E2.80.93present:_The_Next_Day_and_Blackstar">
+-  2013–present:
++ <span class="mw-headline" id="2013.E2.80.932016:_The_Next_Day_and_Blackstar">
++  <ins>
++   2013–2016:
++  </ins>
++  <del>
++   2013–present:
++  </del>
+@@ -3387 +3423,8 @@
+- The couple resides primarily in New York City and London.
++ The couple
++ <ins>
++  resided
++ </ins>
++ <del>
++  resides
++ </del>
++ primarily in New York City and London.
+@@ -3494,0 +3538,12 @@
++ <ins>
++  <span class="mw-headline" id="Death">
++   Death
++  </span>
++ </ins>
++</h2>
++<p>
++ <ins>
++  Bowie died on 10 January 2016 from cancer. He was 69 years old.
++ </ins>
++</p>
++<h2>
+@@ -4106 +4161 @@
+-</ul>
++</ul>
+\ No newline at end of file

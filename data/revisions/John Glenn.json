@@ -1,0 +1,3913 @@
+[
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753654031,
+    "parsedcomment": "",
+    "revid": 753656269,
+    "timestamp": "2016-12-08T13:41:38Z",
+    "user": "75.90.25.53"
+  },
+  {
+    "comment": "",
+    "parentid": 753656269,
+    "parsedcomment": "",
+    "revid": 753720457,
+    "timestamp": "2016-12-08T20:24:27Z",
+    "user": "SDedalus"
+  },
+  {
+    "comment": "",
+    "parentid": 753720457,
+    "parsedcomment": "",
+    "revid": 753720665,
+    "timestamp": "2016-12-08T20:25:36Z",
+    "user": "SDedalus"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753720665,
+    "parsedcomment": "",
+    "revid": 753720670,
+    "timestamp": "2016-12-08T20:25:39Z",
+    "user": "2601:45:8102:9E8:71CA:3CF6:4DE2:4434"
+  },
+  {
+    "comment": "adding details re death",
+    "parentid": 753720670,
+    "parsedcomment": "adding details re death",
+    "revid": 753720863,
+    "timestamp": "2016-12-08T20:26:38Z",
+    "user": "Merrilee"
+  },
+  {
+    "comment": "past tense",
+    "parentid": 753720863,
+    "parsedcomment": "past tense",
+    "revid": 753720995,
+    "timestamp": "2016-12-08T20:27:19Z",
+    "user": "Merrilee"
+  },
+  {
+    "comment": "/* top */ proper MOS",
+    "parentid": 753720995,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> proper MOS</span>",
+    "revid": 753721158,
+    "timestamp": "2016-12-08T20:28:12Z",
+    "user": "CaradhrasAiguo"
+  },
+  {
+    "comment": "/* top */ per Columbus media outlet cite below",
+    "parentid": 753721158,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> per Columbus media outlet cite below</span>",
+    "revid": 753721425,
+    "timestamp": "2016-12-08T20:29:32Z",
+    "user": "CaradhrasAiguo"
+  },
+  {
+    "anon": "",
+    "comment": "Added recent death template -- sigh",
+    "parentid": 753721425,
+    "parsedcomment": "Added recent death template -- sigh",
+    "revid": 753721556,
+    "timestamp": "2016-12-08T20:30:10Z",
+    "user": "2606:A000:4C0C:E200:5135:6CE4:504C:B276"
+  },
+  {
+    "comment": "/* Illness */",
+    "parentid": 753721556,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness</span></span>",
+    "revid": 753721565,
+    "timestamp": "2016-12-08T20:30:13Z",
+    "user": "Connormah"
+  },
+  {
+    "comment": "",
+    "parentid": 753721565,
+    "parsedcomment": "",
+    "revid": 753721680,
+    "timestamp": "2016-12-08T20:30:52Z",
+    "user": "Jamieruns"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753721680,
+    "parsedcomment": "",
+    "revid": 753721780,
+    "timestamp": "2016-12-08T20:31:21Z",
+    "user": "71.51.187.158"
+  },
+  {
+    "comment": "Reverted 1 edit by [[Special:Contributions/71.51.187.158|71.51.187.158]] ([[User talk:71.51.187.158|talk]]) to last revision by Jamieruns. ([[WP:TW|TW]])",
+    "minor": "",
+    "parentid": 753721780,
+    "parsedcomment": "Reverted 1 edit by <a href=\"/wiki/Special:Contributions/71.51.187.158\" title=\"Special:Contributions/71.51.187.158\">71.51.187.158</a> (<a href=\"/wiki/User_talk:71.51.187.158\" title=\"User talk:71.51.187.158\">talk</a>) to last revision by Jamieruns. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 753721881,
+    "timestamp": "2016-12-08T20:31:54Z",
+    "user": "CaradhrasAiguo"
+  },
+  {
+    "comment": "",
+    "parentid": 753721881,
+    "parsedcomment": "",
+    "revid": 753721920,
+    "timestamp": "2016-12-08T20:32:04Z",
+    "user": "JackofOz"
+  },
+  {
+    "anon": "",
+    "comment": "John Glenn just died so I updated t to say he died",
+    "parentid": 753721920,
+    "parsedcomment": "John Glenn just died so I updated t to say he died",
+    "revid": 753722037,
+    "timestamp": "2016-12-08T20:32:39Z",
+    "user": "2607:FB90:26C:27D7:B8A6:9C77:EFB3:2F76"
+  },
+  {
+    "comment": "Undid revision 753721680 by [[Special:Contributions/Jamieruns|Jamieruns]] ([[User talk:Jamieruns|talk]]): per [[WP:MOS|MOS]]",
+    "parentid": 753722037,
+    "parsedcomment": "Undid revision 753721680 by <a href=\"/wiki/Special:Contributions/Jamieruns\" title=\"Special:Contributions/Jamieruns\">Jamieruns</a> (<a href=\"/w/index.php?title=User_talk:Jamieruns&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:Jamieruns (page does not exist)\">talk</a>): per <a href=\"/wiki/Wikipedia:MOS\" class=\"mw-redirect\" title=\"Wikipedia:MOS\">MOS</a>",
+    "revid": 753722100,
+    "timestamp": "2016-12-08T20:32:54Z",
+    "user": "CaradhrasAiguo"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753722100,
+    "parsedcomment": "",
+    "revid": 753722253,
+    "timestamp": "2016-12-08T20:33:42Z",
+    "user": "2601:19C:4802:BA94:942C:223F:416E:250B"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753722253,
+    "parsedcomment": "",
+    "revid": 753722283,
+    "timestamp": "2016-12-08T20:33:52Z",
+    "user": "67.85.227.124"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753722283,
+    "parsedcomment": "",
+    "revid": 753722292,
+    "timestamp": "2016-12-08T20:33:55Z",
+    "user": "71.220.34.91"
+  },
+  {
+    "comment": "Reverted to revision 753722100 by [[Special:Contributions/CaradhrasAiguo|CaradhrasAiguo]] ([[User talk:CaradhrasAiguo|talk]]). ([[WP:TW|TW]])",
+    "parentid": 753722292,
+    "parsedcomment": "Reverted to revision 753722100 by <a href=\"/wiki/Special:Contributions/CaradhrasAiguo\" title=\"Special:Contributions/CaradhrasAiguo\">CaradhrasAiguo</a> (<a href=\"/wiki/User_talk:CaradhrasAiguo\" title=\"User talk:CaradhrasAiguo\">talk</a>). (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 753722358,
+    "timestamp": "2016-12-08T20:34:13Z",
+    "user": "CaradhrasAiguo"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753722358,
+    "parsedcomment": "",
+    "revid": 753722387,
+    "timestamp": "2016-12-08T20:34:21Z",
+    "user": "104.1.109.39"
+  },
+  {
+    "comment": "Reverted edits by [[Special:Contribs/104.1.109.39|104.1.109.39]] ([[User talk:104.1.109.39|talk]]) to last version by CaradhrasAiguo",
+    "minor": "",
+    "parentid": 753722387,
+    "parsedcomment": "Reverted edits by <a href=\"/wiki/Special:Contributions/104.1.109.39\" title=\"Special:Contributions/104.1.109.39\">104.1.109.39</a> (<a href=\"/w/index.php?title=User_talk:104.1.109.39&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:104.1.109.39 (page does not exist)\">talk</a>) to last version by CaradhrasAiguo",
+    "revid": 753722483,
+    "timestamp": "2016-12-08T20:34:49Z",
+    "user": "Rory096"
+  },
+  {
+    "comment": "-[[Category:Living people]]; +[[Category:2016 deaths]] using [[WP:HC|HotCat]]",
+    "parentid": 753722483,
+    "parsedcomment": "-<a href=\"/wiki/Category:Living_people\" title=\"Category:Living people\">Category:Living people</a>; +<a href=\"/wiki/Category:2016_deaths\" title=\"Category:2016 deaths\">Category:2016 deaths</a> using <a href=\"/wiki/Wikipedia:HC\" class=\"mw-redirect\" title=\"Wikipedia:HC\">HotCat</a>",
+    "revid": 753722556,
+    "timestamp": "2016-12-08T20:35:14Z",
+    "user": "CaradhrasAiguo"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753722556,
+    "parsedcomment": "",
+    "revid": 753722617,
+    "timestamp": "2016-12-08T20:35:30Z",
+    "user": "117.199.88.28"
+  },
+  {
+    "anon": "",
+    "comment": "Death",
+    "parentid": 753722617,
+    "parsedcomment": "Death",
+    "revid": 753722757,
+    "timestamp": "2016-12-08T20:36:12Z",
+    "user": "2600:8807:6004:C400:71B7:7217:95A9:70D6"
+  },
+  {
+    "comment": "/* Public affairs institute */ update",
+    "parentid": 753722757,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Public_affairs_institute\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Public affairs institute: </span> update</span>",
+    "revid": 753722792,
+    "timestamp": "2016-12-08T20:36:22Z",
+    "user": "Randy Kryn"
+  },
+  {
+    "comment": "/* top */ update spouse field",
+    "parentid": 753722792,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> update spouse field</span>",
+    "revid": 753722811,
+    "timestamp": "2016-12-08T20:36:28Z",
+    "user": "CaradhrasAiguo"
+  },
+  {
+    "comment": "Undid revision 753722757 by [[Special:Contributions/2600:8807:6004:C400:71B7:7217:95A9:70D6|2600:8807:6004:C400:71B7:7217:95A9:70D6]] ([[User talk:2600:8807:6004:C400:71B7:7217:95A9:70D6|talk]]): first sentence",
+    "parentid": 753722811,
+    "parsedcomment": "Undid revision 753722757 by <a href=\"/wiki/Special:Contributions/2600:8807:6004:C400:71B7:7217:95A9:70D6\" title=\"Special:Contributions/2600:8807:6004:C400:71B7:7217:95A9:70D6\">2600:8807:6004:C400:71B7:7217:95A9:70D6</a> (<a href=\"/w/index.php?title=User_talk:2600:8807:6004:C400:71B7:7217:95A9:70D6&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:2600:8807:6004:C400:71B7:7217:95A9:70D6 (page does not exist)\">talk</a>): first sentence",
+    "revid": 753722897,
+    "timestamp": "2016-12-08T20:36:50Z",
+    "user": "CaradhrasAiguo"
+  },
+  {
+    "anon": "",
+    "comment": "Added content",
+    "parentid": 753722897,
+    "parsedcomment": "Added content",
+    "revid": 753722913,
+    "timestamp": "2016-12-08T20:36:56Z",
+    "user": "2607:FB90:26C:27D7:B8A6:9C77:EFB3:2F76"
+  },
+  {
+    "comment": "Reverted 1 edit by [[Special:Contributions/2607:FB90:26C:27D7:B8A6:9C77:EFB3:2F76|2607:FB90:26C:27D7:B8A6:9C77:EFB3:2F76]] ([[User talk:2607:FB90:26C:27D7:B8A6:9C77:EFB3:2F76|talk]]): No notes. ([[WP:TW|TW]])",
+    "parentid": 753722913,
+    "parsedcomment": "Reverted 1 edit by <a href=\"/wiki/Special:Contributions/2607:FB90:26C:27D7:B8A6:9C77:EFB3:2F76\" title=\"Special:Contributions/2607:FB90:26C:27D7:B8A6:9C77:EFB3:2F76\">2607:FB90:26C:27D7:B8A6:9C77:EFB3:2F76</a> (<a href=\"/w/index.php?title=User_talk:2607:FB90:26C:27D7:B8A6:9C77:EFB3:2F76&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:2607:FB90:26C:27D7:B8A6:9C77:EFB3:2F76 (page does not exist)\">talk</a>): No notes. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 753723065,
+    "timestamp": "2016-12-08T20:37:34Z",
+    "user": "Hume42"
+  },
+  {
+    "anon": "",
+    "comment": "/* Early life, education and military service */",
+    "parentid": 753723065,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life.2C_education_and_military_service\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life, education and military service</span></span>",
+    "revid": 753723168,
+    "timestamp": "2016-12-08T20:38:00Z",
+    "user": "74.105.155.221"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753723168,
+    "parsedcomment": "",
+    "revid": 753723199,
+    "timestamp": "2016-12-08T20:38:08Z",
+    "user": "65.95.72.94"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753723199,
+    "parsedcomment": "",
+    "revid": 753723246,
+    "timestamp": "2016-12-08T20:38:19Z",
+    "user": "117.199.88.28"
+  },
+  {
+    "comment": "/* Image gallery */ add italics",
+    "parentid": 753723246,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Image_gallery\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Image gallery: </span> add italics</span>",
+    "revid": 753723323,
+    "timestamp": "2016-12-08T20:38:38Z",
+    "user": "Randy Kryn"
+  },
+  {
+    "comment": "Undid revision 753723168 by [[Special:Contributions/74.105.155.221|74.105.155.221]] ([[User talk:74.105.155.221|talk]]): this belongs in \"early life\"?",
+    "parentid": 753723323,
+    "parsedcomment": "Undid revision 753723168 by <a href=\"/wiki/Special:Contributions/74.105.155.221\" title=\"Special:Contributions/74.105.155.221\">74.105.155.221</a> (<a href=\"/w/index.php?title=User_talk:74.105.155.221&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:74.105.155.221 (page does not exist)\">talk</a>): this belongs in &quot;early life&quot;?",
+    "revid": 753723342,
+    "timestamp": "2016-12-08T20:38:43Z",
+    "user": "CaradhrasAiguo"
+  },
+  {
+    "comment": "/* External links */",
+    "parentid": 753723342,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links</span></span>",
+    "revid": 753723356,
+    "timestamp": "2016-12-08T20:38:48Z",
+    "user": "McArthur Parkette"
+  },
+  {
+    "anon": "",
+    "comment": "Undid revision 753723246 by [[Special:Contributions/117.199.88.28|117.199.88.28]] ([[User talk:117.199.88.28|talk]])",
+    "parentid": 753723356,
+    "parsedcomment": "Undid revision 753723246 by <a href=\"/wiki/Special:Contributions/117.199.88.28\" title=\"Special:Contributions/117.199.88.28\">117.199.88.28</a> (<a href=\"/wiki/User_talk:117.199.88.28\" title=\"User talk:117.199.88.28\">talk</a>)",
+    "revid": 753723374,
+    "timestamp": "2016-12-08T20:38:51Z",
+    "user": "128.40.9.164"
+  },
+  {
+    "comment": "Reverted to revision 753723065 by [[Special:Contributions/Hume42|Hume42]] ([[User talk:Hume42|talk]]): Rv NPOV. ([[WP:TW|TW]])",
+    "parentid": 753723374,
+    "parsedcomment": "Reverted to revision 753723065 by <a href=\"/wiki/Special:Contributions/Hume42\" title=\"Special:Contributions/Hume42\">Hume42</a> (<a href=\"/wiki/User_talk:Hume42\" title=\"User talk:Hume42\">talk</a>): Rv NPOV. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 753723436,
+    "timestamp": "2016-12-08T20:39:12Z",
+    "user": "Oshwah"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753723436,
+    "parsedcomment": "",
+    "revid": 753723511,
+    "timestamp": "2016-12-08T20:39:36Z",
+    "user": "134.174.182.79"
+  },
+  {
+    "comment": "/* top */ customary disambiguation from state upper chambers",
+    "parentid": 753723511,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> customary disambiguation from state upper chambers</span>",
+    "revid": 753723633,
+    "timestamp": "2016-12-08T20:40:19Z",
+    "user": "CaradhrasAiguo"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753723633,
+    "parsedcomment": "",
+    "revid": 753723671,
+    "timestamp": "2016-12-08T20:40:30Z",
+    "user": "74.105.119.86"
+  },
+  {
+    "comment": "/* External links */ add italics",
+    "parentid": 753723671,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> add italics</span>",
+    "revid": 753723720,
+    "timestamp": "2016-12-08T20:40:46Z",
+    "user": "Randy Kryn"
+  },
+  {
+    "comment": "/* top */ Correcting date in infobox.",
+    "minor": "",
+    "parentid": 753723720,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> Correcting date in infobox.</span>",
+    "revid": 753723773,
+    "timestamp": "2016-12-08T20:40:58Z",
+    "user": "Dstumme"
+  },
+  {
+    "comment": "",
+    "parentid": 753723773,
+    "parsedcomment": "",
+    "revid": 753723821,
+    "timestamp": "2016-12-08T20:41:11Z",
+    "user": "Tktru"
+  },
+  {
+    "comment": "Adding ref",
+    "parentid": 753723821,
+    "parsedcomment": "Adding ref",
+    "revid": 753723917,
+    "timestamp": "2016-12-08T20:41:38Z",
+    "user": "Oshwah"
+  },
+  {
+    "anon": "",
+    "comment": "Fixed misplaced modifier about him being oldest person in space (modifier indicated that he was the oldest person ON THAT MISSION; he was, but the intent is that he was the oldest person ever in space)",
+    "parentid": 753723917,
+    "parsedcomment": "Fixed misplaced modifier about him being oldest person in space (modifier indicated that he was the oldest person ON THAT MISSION; he was, but the intent is that he was the oldest person ever in space)",
+    "revid": 753723943,
+    "timestamp": "2016-12-08T20:41:46Z",
+    "user": "209.99.8.164"
+  },
+  {
+    "comment": "Protected \"[[John Glenn]]\": Persistent [[WP:Vandalism|vandalism]] ([Edit=Require autoconfirmed or confirmed access] (expires 20:41, 9 December 2016 (UTC)))",
+    "minor": "",
+    "parentid": 753723943,
+    "parsedcomment": "Protected &quot;<a href=\"/wiki/John_Glenn\" title=\"John Glenn\">John Glenn</a>&quot;: Persistent <a href=\"/wiki/Wikipedia:Vandalism\" title=\"Wikipedia:Vandalism\">vandalism</a> ([Edit=Require autoconfirmed or confirmed access] (expires 20:41, 9 December 2016 (UTC)))",
+    "revid": 753723987,
+    "timestamp": "2016-12-08T20:41:59Z",
+    "user": "Oshwah"
+  },
+  {
+    "comment": "Adding {{pp-vandalism}} ([[WP:TW|TW]])",
+    "parentid": 753723987,
+    "parsedcomment": "Adding {{pp-vandalism}} (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 753724017,
+    "timestamp": "2016-12-08T20:42:07Z",
+    "user": "Oshwah"
+  },
+  {
+    "comment": "/* External links */",
+    "parentid": 753724017,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links</span></span>",
+    "revid": 753724080,
+    "timestamp": "2016-12-08T20:42:29Z",
+    "user": "McArthur Parkette"
+  },
+  {
+    "comment": "/* Personal life */ update",
+    "parentid": 753724080,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> update</span>",
+    "revid": 753724209,
+    "timestamp": "2016-12-08T20:43:08Z",
+    "user": "Randy Kryn"
+  },
+  {
+    "comment": "/* External links */",
+    "parentid": 753724209,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links</span></span>",
+    "revid": 753724245,
+    "timestamp": "2016-12-08T20:43:20Z",
+    "user": "McArthur Parkette"
+  },
+  {
+    "comment": "/* Personal life */",
+    "parentid": 753724245,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life</span></span>",
+    "revid": 753724567,
+    "timestamp": "2016-12-08T20:44:55Z",
+    "user": "Brianga"
+  },
+  {
+    "comment": "Superfluous.",
+    "parentid": 753724567,
+    "parsedcomment": "Superfluous.",
+    "revid": 753724654,
+    "timestamp": "2016-12-08T20:45:28Z",
+    "user": "Blaylockjam10"
+  },
+  {
+    "comment": "Filled in 2 bare reference(s) with [[:en:WP:REFILL|reFill]] ()",
+    "parentid": 753724654,
+    "parsedcomment": "Filled in 2 bare reference(s) with <a href=\"/wiki/Wikipedia:REFILL\" class=\"mw-redirect\" title=\"Wikipedia:REFILL\">reFill</a> ()",
+    "revid": 753724792,
+    "timestamp": "2016-12-08T20:46:17Z",
+    "user": "Steve03Mills"
+  },
+  {
+    "comment": "/* Illness and death */",
+    "parentid": 753724792,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death</span></span>",
+    "revid": 753724918,
+    "timestamp": "2016-12-08T20:46:54Z",
+    "user": "Brianga"
+  },
+  {
+    "comment": "/* Illness and death */",
+    "parentid": 753724918,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death</span></span>",
+    "revid": 753725028,
+    "timestamp": "2016-12-08T20:47:21Z",
+    "user": "Brianga"
+  },
+  {
+    "comment": "/* Illness and death */",
+    "parentid": 753725028,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death</span></span>",
+    "revid": 753725215,
+    "timestamp": "2016-12-08T20:48:18Z",
+    "user": "Brianga"
+  },
+  {
+    "comment": "Past tense following death.",
+    "parentid": 753725215,
+    "parsedcomment": "Past tense following death.",
+    "revid": 753725279,
+    "timestamp": "2016-12-08T20:48:39Z",
+    "user": "Thereppy"
+  },
+  {
+    "comment": "WP:LEDECITE.",
+    "parentid": 753725279,
+    "parsedcomment": "WP:LEDECITE.",
+    "revid": 753725330,
+    "timestamp": "2016-12-08T20:48:52Z",
+    "user": "Connormah"
+  },
+  {
+    "comment": "/* Korean War */",
+    "parentid": 753725330,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 753725495,
+    "timestamp": "2016-12-08T20:49:46Z",
+    "user": "What cat?"
+  },
+  {
+    "comment": "/* Image gallery */ add italics to space capsule (italicized entry)",
+    "parentid": 753725495,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Image_gallery\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Image gallery: </span> add italics to space capsule (italicized entry)</span>",
+    "revid": 753725584,
+    "timestamp": "2016-12-08T20:50:11Z",
+    "user": "Randy Kryn"
+  },
+  {
+    "comment": "unnecessary in lede per MOS",
+    "parentid": 753725584,
+    "parsedcomment": "unnecessary in lede per MOS",
+    "revid": 753725636,
+    "timestamp": "2016-12-08T20:50:30Z",
+    "user": "Connormah"
+  },
+  {
+    "comment": "",
+    "parentid": 753725636,
+    "parsedcomment": "",
+    "revid": 753725805,
+    "timestamp": "2016-12-08T20:51:35Z",
+    "user": "Connormah"
+  },
+  {
+    "comment": "/* External links */ Obituary: John Glenn",
+    "parentid": 753725805,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> Obituary: John Glenn</span>",
+    "revid": 753725885,
+    "timestamp": "2016-12-08T20:52:06Z",
+    "user": "Drappel"
+  },
+  {
+    "comment": "",
+    "minor": "",
+    "parentid": 753725885,
+    "parsedcomment": "",
+    "revid": 753725929,
+    "timestamp": "2016-12-08T20:52:20Z",
+    "user": "Blaylockjam10"
+  },
+  {
+    "comment": "hatnote above maintenance tag per [[WP:HNP]]",
+    "parentid": 753725929,
+    "parsedcomment": "hatnote above maintenance tag per <a href=\"/wiki/Wikipedia:HNP\" class=\"mw-redirect\" title=\"Wikipedia:HNP\">WP:HNP</a>",
+    "revid": 753726742,
+    "timestamp": "2016-12-08T20:58:13Z",
+    "user": "Mz7"
+  },
+  {
+    "comment": "/* Personal life */ +reference needed",
+    "parentid": 753726742,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> +reference needed</span>",
+    "revid": 753726755,
+    "timestamp": "2016-12-08T20:58:19Z",
+    "user": "AHeneen"
+  },
+  {
+    "comment": "/* Personal life */",
+    "minor": "",
+    "parentid": 753726755,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life</span></span>",
+    "revid": 753727007,
+    "timestamp": "2016-12-08T21:00:30Z",
+    "user": "Koavf"
+  },
+  {
+    "comment": "[[WP:TRIVIA]]",
+    "parentid": 753727007,
+    "parsedcomment": "<a href=\"/wiki/Wikipedia:TRIVIA\" class=\"mw-redirect\" title=\"Wikipedia:TRIVIA\">WP:TRIVIA</a>",
+    "revid": 753727105,
+    "timestamp": "2016-12-08T21:01:15Z",
+    "user": "Koavf"
+  },
+  {
+    "comment": "",
+    "minor": "",
+    "parentid": 753727105,
+    "parsedcomment": "",
+    "revid": 753727152,
+    "timestamp": "2016-12-08T21:01:37Z",
+    "user": "Hydrargyrum"
+  },
+  {
+    "comment": "/* Personal life */ Adding a bit about his sitcom career",
+    "parentid": 753727152,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> Adding a bit about his sitcom career</span>",
+    "revid": 753727294,
+    "timestamp": "2016-12-08T21:02:47Z",
+    "user": "Neutron"
+  },
+  {
+    "comment": "/* World War II */ +CN",
+    "parentid": 753727294,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> +CN</span>",
+    "revid": 753727610,
+    "timestamp": "2016-12-08T21:05:08Z",
+    "user": "Ad Orientem"
+  },
+  {
+    "comment": "/* Korean War */ +CN",
+    "parentid": 753727610,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> +CN</span>",
+    "revid": 753727712,
+    "timestamp": "2016-12-08T21:05:49Z",
+    "user": "Ad Orientem"
+  },
+  {
+    "comment": "/* Test pilot */ +CN",
+    "parentid": 753727712,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Test_pilot\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Test pilot: </span> +CN</span>",
+    "revid": 753727824,
+    "timestamp": "2016-12-08T21:06:38Z",
+    "user": "Ad Orientem"
+  },
+  {
+    "comment": "",
+    "parentid": 753727824,
+    "parsedcomment": "",
+    "revid": 753727863,
+    "timestamp": "2016-12-08T21:06:53Z",
+    "user": "725edwards"
+  },
+  {
+    "comment": "/* NASA career */ +CN",
+    "parentid": 753727863,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> +CN</span>",
+    "revid": 753728020,
+    "timestamp": "2016-12-08T21:08:04Z",
+    "user": "Ad Orientem"
+  },
+  {
+    "comment": "/* Test pilot */ added citations for test pilot era",
+    "parentid": 753728020,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Test_pilot\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Test pilot: </span> added citations for test pilot era</span>",
+    "revid": 753728069,
+    "timestamp": "2016-12-08T21:08:22Z",
+    "user": "Fuzheado"
+  },
+  {
+    "comment": "/* Korean War */ cite added",
+    "parentid": 753728069,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> cite added</span>",
+    "revid": 753728123,
+    "timestamp": "2016-12-08T21:08:52Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* U.S. Senate */ +CN",
+    "parentid": 753728123,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#U.S._Senate\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">U.S. Senate: </span> +CN</span>",
+    "revid": 753728175,
+    "timestamp": "2016-12-08T21:09:13Z",
+    "user": "Ad Orientem"
+  },
+  {
+    "comment": "/* Presidential politics */ +CN",
+    "parentid": 753728175,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Presidential_politics\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Presidential politics: </span> +CN</span>",
+    "revid": 753728261,
+    "timestamp": "2016-12-08T21:09:57Z",
+    "user": "Ad Orientem"
+  },
+  {
+    "comment": "/* Korean War */ cite added",
+    "parentid": 753728261,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> cite added</span>",
+    "revid": 753728411,
+    "timestamp": "2016-12-08T21:11:01Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "Correct punctuation",
+    "minor": "",
+    "parentid": 753728411,
+    "parsedcomment": "Correct punctuation",
+    "revid": 753728489,
+    "timestamp": "2016-12-08T21:11:32Z",
+    "user": "Craigrottman"
+  },
+  {
+    "comment": "template cleanup",
+    "minor": "",
+    "parentid": 753728489,
+    "parsedcomment": "template cleanup",
+    "revid": 753728547,
+    "timestamp": "2016-12-08T21:11:58Z",
+    "user": "Hydrargyrum"
+  },
+  {
+    "comment": "no longer interesting",
+    "minor": "",
+    "parentid": 753728547,
+    "parsedcomment": "no longer interesting",
+    "revid": 753728862,
+    "timestamp": "2016-12-08T21:14:35Z",
+    "user": "Frank"
+  },
+  {
+    "comment": "template cleanup",
+    "parentid": 753728862,
+    "parsedcomment": "template cleanup",
+    "revid": 753728957,
+    "timestamp": "2016-12-08T21:15:19Z",
+    "user": "Hydrargyrum"
+  },
+  {
+    "comment": "fix publisher (GBooks is wrong, see the book scan)",
+    "parentid": 753728957,
+    "parsedcomment": "fix publisher (GBooks is wrong, see the book scan)",
+    "revid": 753729252,
+    "timestamp": "2016-12-08T21:17:46Z",
+    "user": "The ed17"
+  },
+  {
+    "comment": "/* World War II */ cite added",
+    "parentid": 753729252,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> cite added</span>",
+    "revid": 753729337,
+    "timestamp": "2016-12-08T21:18:31Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* See also */ clear",
+    "parentid": 753729337,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#See_also\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">See also: </span> clear</span>",
+    "revid": 753729416,
+    "timestamp": "2016-12-08T21:19:10Z",
+    "user": "The ed17"
+  },
+  {
+    "comment": "",
+    "parentid": 753729416,
+    "parsedcomment": "",
+    "revid": 753729429,
+    "timestamp": "2016-12-08T21:19:18Z",
+    "user": "725edwards"
+  },
+  {
+    "comment": "/* Personal life */ reworded caption",
+    "parentid": 753729429,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> reworded caption</span>",
+    "revid": 753729435,
+    "timestamp": "2016-12-08T21:19:22Z",
+    "user": "Anthony22"
+  },
+  {
+    "comment": "wiki syntax",
+    "minor": "",
+    "parentid": 753729435,
+    "parsedcomment": "wiki syntax",
+    "revid": 753729511,
+    "timestamp": "2016-12-08T21:19:57Z",
+    "user": "Hydrargyrum"
+  },
+  {
+    "comment": "/* NASA career */ cite added",
+    "parentid": 753729511,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> cite added</span>",
+    "revid": 753729654,
+    "timestamp": "2016-12-08T21:20:57Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Return to space */ +reference",
+    "parentid": 753729654,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Return_to_space\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Return to space: </span> +reference</span>",
+    "revid": 753729797,
+    "timestamp": "2016-12-08T21:22:00Z",
+    "user": "AHeneen"
+  },
+  {
+    "comment": "",
+    "minor": "",
+    "parentid": 753729797,
+    "parsedcomment": "",
+    "revid": 753729816,
+    "timestamp": "2016-12-08T21:22:09Z",
+    "user": "JasonAQuest"
+  },
+  {
+    "comment": "/* Illness and death */",
+    "minor": "",
+    "parentid": 753729816,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death</span></span>",
+    "revid": 753729823,
+    "timestamp": "2016-12-08T21:22:12Z",
+    "user": "Hydrargyrum"
+  },
+  {
+    "comment": "\"The\" is an official part of the name. Undid revision 753729823 by [[Special:Contributions/Hydrargyrum|Hydrargyrum]] ([[User talk:Hydrargyrum|talk]])",
+    "parentid": 753729823,
+    "parsedcomment": "&quot;The&quot; is an official part of the name. Undid revision 753729823 by <a href=\"/wiki/Special:Contributions/Hydrargyrum\" title=\"Special:Contributions/Hydrargyrum\">Hydrargyrum</a> (<a href=\"/wiki/User_talk:Hydrargyrum\" title=\"User talk:Hydrargyrum\">talk</a>)",
+    "revid": 753730005,
+    "timestamp": "2016-12-08T21:23:32Z",
+    "user": "MartinezMD"
+  },
+  {
+    "comment": "added missing title",
+    "parentid": 753730005,
+    "parsedcomment": "added missing title",
+    "revid": 753730157,
+    "timestamp": "2016-12-08T21:24:46Z",
+    "user": "MartinezMD"
+  },
+  {
+    "comment": "/* NASA career */ cite added using brand new search engine called \"Google\"",
+    "parentid": 753730157,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> cite added using brand new search engine called &quot;Google&quot;</span>",
+    "revid": 753730287,
+    "timestamp": "2016-12-08T21:25:46Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "fix ref",
+    "minor": "",
+    "parentid": 753730287,
+    "parsedcomment": "fix ref",
+    "revid": 753730638,
+    "timestamp": "2016-12-08T21:28:35Z",
+    "user": "Hydrargyrum"
+  },
+  {
+    "comment": "/* Personal life */ Clarifying description of Glenn's sitcom role",
+    "parentid": 753730638,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> Clarifying description of Glenn&#039;s sitcom role</span>",
+    "revid": 753730769,
+    "timestamp": "2016-12-08T21:29:36Z",
+    "user": "Neutron"
+  },
+  {
+    "comment": "/* World War II */ start tagging to help the short-sighted",
+    "parentid": 753730769,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> start tagging to help the short-sighted</span>",
+    "revid": 753730839,
+    "timestamp": "2016-12-08T21:30:20Z",
+    "user": "The Rambling Man"
+  },
+  {
+    "comment": "/* Personal life */ Further rewording",
+    "parentid": 753730839,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> Further rewording</span>",
+    "revid": 753730856,
+    "timestamp": "2016-12-08T21:30:28Z",
+    "user": "Neutron"
+  },
+  {
+    "comment": "/* NASA career */ tags to help the short-sighted",
+    "parentid": 753730856,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> tags to help the short-sighted</span>",
+    "revid": 753730899,
+    "timestamp": "2016-12-08T21:30:47Z",
+    "user": "The Rambling Man"
+  },
+  {
+    "comment": "this doesn't seem significant any longer",
+    "parentid": 753730899,
+    "parsedcomment": "this doesn&#039;t seem significant any longer",
+    "revid": 753730949,
+    "timestamp": "2016-12-08T21:31:10Z",
+    "user": "Brianga"
+  },
+  {
+    "comment": "/* U.S. Senate */ tag to help the short-sighted",
+    "parentid": 753730949,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#U.S._Senate\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">U.S. Senate: </span> tag to help the short-sighted</span>",
+    "revid": 753731033,
+    "timestamp": "2016-12-08T21:31:50Z",
+    "user": "The Rambling Man"
+  },
+  {
+    "comment": "Reverted 1 edit by [[Special:Contributions/Brianga|Brianga]] ([[User talk:Brianga|talk]]): It has past tense, it's fine. ([[WP:TW|TW]])",
+    "parentid": 753731033,
+    "parsedcomment": "Reverted 1 edit by <a href=\"/wiki/Special:Contributions/Brianga\" title=\"Special:Contributions/Brianga\">Brianga</a> (<a href=\"/wiki/User_talk:Brianga\" title=\"User talk:Brianga\">talk</a>): It has past tense, it&#039;s fine. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 753731050,
+    "timestamp": "2016-12-08T21:31:56Z",
+    "user": "What cat?"
+  },
+  {
+    "comment": "/* Savings and loan scandal */ tag",
+    "parentid": 753731050,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Savings_and_loan_scandal\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Savings and loan scandal: </span> tag</span>",
+    "revid": 753731057,
+    "timestamp": "2016-12-08T21:32:03Z",
+    "user": "The Rambling Man"
+  },
+  {
+    "comment": "/* Issues */ tag",
+    "parentid": 753731057,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Issues\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Issues: </span> tag</span>",
+    "revid": 753731104,
+    "timestamp": "2016-12-08T21:32:21Z",
+    "user": "The Rambling Man"
+  },
+  {
+    "comment": "/* Personal life */ tag",
+    "parentid": 753731104,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> tag</span>",
+    "revid": 753731163,
+    "timestamp": "2016-12-08T21:32:46Z",
+    "user": "The Rambling Man"
+  },
+  {
+    "comment": "maybe reword it a little",
+    "parentid": 753731163,
+    "parsedcomment": "maybe reword it a little",
+    "revid": 753731184,
+    "timestamp": "2016-12-08T21:32:55Z",
+    "user": "What cat?"
+  },
+  {
+    "comment": "/* Awards and honors */ tag",
+    "parentid": 753731184,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> tag</span>",
+    "revid": 753731229,
+    "timestamp": "2016-12-08T21:33:09Z",
+    "user": "The Rambling Man"
+  },
+  {
+    "comment": "/* Political career */ cites added",
+    "parentid": 753731229,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Political_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Political career: </span> cites added</span>",
+    "revid": 753731332,
+    "timestamp": "2016-12-08T21:33:57Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Public affairs institute */  - remove \"The\" from OSU, as per WP:COMMONNAME",
+    "parentid": 753731332,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Public_affairs_institute\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Public affairs institute: </span>  - remove &quot;The&quot; from OSU, as per WP:COMMONNAME</span>",
+    "revid": 753731510,
+    "timestamp": "2016-12-08T21:35:24Z",
+    "user": "Fuzheado"
+  },
+  {
+    "comment": "/* Early life, education and military service */ ref named",
+    "parentid": 753731510,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life.2C_education_and_military_service\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life, education and military service: </span> ref named</span>",
+    "revid": 753731581,
+    "timestamp": "2016-12-08T21:36:02Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* U.S. Senate */ tags",
+    "parentid": 753731581,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#U.S._Senate\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">U.S. Senate: </span> tags</span>",
+    "revid": 753731663,
+    "timestamp": "2016-12-08T21:36:37Z",
+    "user": "The Rambling Man"
+  },
+  {
+    "comment": "/* World War II */ cite added",
+    "parentid": 753731663,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> cite added</span>",
+    "revid": 753731677,
+    "timestamp": "2016-12-08T21:36:42Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Illness and death */ - remove \"The\" from OSU, as per WP:COMMONNAME",
+    "parentid": 753731677,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> - remove &quot;The&quot; from OSU, as per WP:COMMONNAME</span>",
+    "revid": 753731710,
+    "timestamp": "2016-12-08T21:36:59Z",
+    "user": "Fuzheado"
+  },
+  {
+    "comment": "/* Illness and death */ Adding re death",
+    "parentid": 753731710,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> Adding re death</span>",
+    "revid": 753731972,
+    "timestamp": "2016-12-08T21:38:58Z",
+    "user": "Neutron"
+  },
+  {
+    "comment": "/* NASA career */ cites added",
+    "parentid": 753731972,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> cites added</span>",
+    "revid": 753732100,
+    "timestamp": "2016-12-08T21:39:57Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "fix missing >!",
+    "parentid": 753732100,
+    "parsedcomment": "fix missing &gt;!",
+    "revid": 753732685,
+    "timestamp": "2016-12-08T21:44:30Z",
+    "user": "Fuzheado"
+  },
+  {
+    "comment": "/* U.S. Senate */ cite added",
+    "parentid": 753732685,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#U.S._Senate\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">U.S. Senate: </span> cite added</span>",
+    "revid": 753732859,
+    "timestamp": "2016-12-08T21:45:48Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* U.S. Senate */ cite added",
+    "parentid": 753732859,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#U.S._Senate\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">U.S. Senate: </span> cite added</span>",
+    "revid": 753733417,
+    "timestamp": "2016-12-08T21:49:42Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* U.S. Senate */ cited",
+    "parentid": 753733417,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#U.S._Senate\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">U.S. Senate: </span> cited</span>",
+    "revid": 753733518,
+    "timestamp": "2016-12-08T21:50:24Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Presidential politics */ trim excess",
+    "parentid": 753733518,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Presidential_politics\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Presidential politics: </span> trim excess</span>",
+    "revid": 753733598,
+    "timestamp": "2016-12-08T21:51:07Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Korean War */ cite added",
+    "parentid": 753733598,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> cite added</span>",
+    "revid": 753733901,
+    "timestamp": "2016-12-08T21:53:23Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Savings and loan scandal */ tightened",
+    "parentid": 753733901,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Savings_and_loan_scandal\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Savings and loan scandal: </span> tightened</span>",
+    "revid": 753734094,
+    "timestamp": "2016-12-08T21:54:46Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Savings and loan scandal */ trim excess",
+    "parentid": 753734094,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Savings_and_loan_scandal\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Savings and loan scandal: </span> trim excess</span>",
+    "revid": 753734170,
+    "timestamp": "2016-12-08T21:55:27Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Presidential politics */ cite added",
+    "parentid": 753734170,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Presidential_politics\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Presidential politics: </span> cite added</span>",
+    "revid": 753734517,
+    "timestamp": "2016-12-08T21:57:20Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Issues */ trimmed excess",
+    "parentid": 753734517,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Issues\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Issues: </span> trimmed excess</span>",
+    "revid": 753734674,
+    "timestamp": "2016-12-08T21:58:11Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Issues */ add NNPA of 1978 cite",
+    "parentid": 753734674,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Issues\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Issues: </span> add NNPA of 1978 cite</span>",
+    "revid": 753734834,
+    "timestamp": "2016-12-08T21:59:04Z",
+    "user": "Fuzheado"
+  },
+  {
+    "comment": "/* Personal life */ trimmed excess",
+    "parentid": 753734834,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> trimmed excess</span>",
+    "revid": 753734872,
+    "timestamp": "2016-12-08T21:59:19Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Awards and honors */ mostly sourced; incline cites needed for others we can't locate",
+    "parentid": 753734872,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> mostly sourced; incline cites needed for others we can&#039;t locate</span>",
+    "revid": 753735137,
+    "timestamp": "2016-12-08T22:00:51Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Issues */ add cite for ranking minority member",
+    "parentid": 753735137,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Issues\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Issues: </span> add cite for ranking minority member</span>",
+    "revid": 753735365,
+    "timestamp": "2016-12-08T22:02:00Z",
+    "user": "Fuzheado"
+  },
+  {
+    "comment": "/* Issues */ remove unfounded allegation, not supported by source",
+    "parentid": 753735365,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Issues\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Issues: </span> remove unfounded allegation, not supported by source</span>",
+    "revid": 753735777,
+    "timestamp": "2016-12-08T22:04:26Z",
+    "user": "Fuzheado"
+  },
+  {
+    "comment": "/* U.S. Senate */ +announcement of retirement",
+    "parentid": 753735777,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#U.S._Senate\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">U.S. Senate: </span> +announcement of retirement</span>",
+    "revid": 753736555,
+    "timestamp": "2016-12-08T22:08:51Z",
+    "user": "AHeneen"
+  },
+  {
+    "comment": "/* Awards and honors */ seemingly removed without action",
+    "parentid": 753736555,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> seemingly removed without action</span>",
+    "revid": 753738060,
+    "timestamp": "2016-12-08T22:18:03Z",
+    "user": "The Rambling Man"
+  },
+  {
+    "comment": "/* Presidential politics */ tag",
+    "parentid": 753738060,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Presidential_politics\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Presidential politics: </span> tag</span>",
+    "revid": 753738128,
+    "timestamp": "2016-12-08T22:18:29Z",
+    "user": "The Rambling Man"
+  },
+  {
+    "comment": "per Talk page",
+    "parentid": 753738128,
+    "parsedcomment": "per Talk page",
+    "revid": 753738313,
+    "timestamp": "2016-12-08T22:19:29Z",
+    "user": "MartinezMD"
+  },
+  {
+    "comment": "fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]",
+    "minor": "",
+    "parentid": 753738313,
+    "parsedcomment": "fixed <a href=\"/wiki/MOS:DASH\" class=\"mw-redirect\" title=\"MOS:DASH\">dashes</a> using a <a href=\"/wiki/User:GregU/dashes.js\" title=\"User:GregU/dashes.js\">script</a>",
+    "revid": 753738368,
+    "timestamp": "2016-12-08T22:19:44Z",
+    "user": "The Rambling Man"
+  },
+  {
+    "comment": "/* External links */ Rest in Peace.",
+    "minor": "",
+    "parentid": 753738368,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> Rest in Peace.</span>",
+    "revid": 753739572,
+    "timestamp": "2016-12-08T22:26:39Z",
+    "user": "MB298"
+  },
+  {
+    "comment": "/* Presidential politics */ fix missing citation",
+    "parentid": 753739572,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Presidential_politics\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Presidential politics: </span> fix missing citation</span>",
+    "revid": 753740138,
+    "timestamp": "2016-12-08T22:30:54Z",
+    "user": "Jehochman"
+  },
+  {
+    "comment": "mdy",
+    "parentid": 753740138,
+    "parsedcomment": "mdy",
+    "revid": 753742303,
+    "timestamp": "2016-12-08T22:43:52Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "mdy",
+    "parentid": 753742303,
+    "parsedcomment": "mdy",
+    "revid": 753742817,
+    "timestamp": "2016-12-08T22:46:34Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "/* Awards and honors */ add BBC cite",
+    "parentid": 753742817,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> add BBC cite</span>",
+    "revid": 753744298,
+    "timestamp": "2016-12-08T22:54:36Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Awards and honors */ cite added",
+    "parentid": 753744298,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> cite added</span>",
+    "revid": 753744542,
+    "timestamp": "2016-12-08T22:56:18Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Awards and honors */ cite added",
+    "parentid": 753744542,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> cite added</span>",
+    "revid": 753744903,
+    "timestamp": "2016-12-08T22:59:12Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Personal life */ fix ref",
+    "parentid": 753744903,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> fix ref</span>",
+    "revid": 753745036,
+    "timestamp": "2016-12-08T23:00:20Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "/* Awards and honors */ cite added",
+    "parentid": 753745036,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> cite added</span>",
+    "revid": 753745125,
+    "timestamp": "2016-12-08T23:00:57Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "mdy",
+    "parentid": 753745125,
+    "parsedcomment": "mdy",
+    "revid": 753745151,
+    "timestamp": "2016-12-08T23:01:13Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "/* Awards and honors */ unsourced",
+    "parentid": 753745151,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> unsourced</span>",
+    "revid": 753745353,
+    "timestamp": "2016-12-08T23:02:45Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "mdy",
+    "parentid": 753745353,
+    "parsedcomment": "mdy",
+    "revid": 753745396,
+    "timestamp": "2016-12-08T23:03:03Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "/* Awards and honors */ Cites added. Inline cites needed for any others",
+    "parentid": 753745396,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> Cites added. Inline cites needed for any others</span>",
+    "revid": 753745809,
+    "timestamp": "2016-12-08T23:06:11Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Return to space */",
+    "parentid": 753745809,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Return_to_space\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Return to space</span></span>",
+    "revid": 753747029,
+    "timestamp": "2016-12-08T23:15:54Z",
+    "user": "Harryjones422"
+  },
+  {
+    "comment": "mdy",
+    "parentid": 753747029,
+    "parsedcomment": "mdy",
+    "revid": 753747163,
+    "timestamp": "2016-12-08T23:16:52Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "needs a source for that addition. Undid revision 753747029 by [[Special:Contributions/Harryjones422|Harryjones422]] ([[User talk:Harryjones422|talk]])",
+    "parentid": 753747163,
+    "parsedcomment": "needs a source for that addition. Undid revision 753747029 by <a href=\"/wiki/Special:Contributions/Harryjones422\" title=\"Special:Contributions/Harryjones422\">Harryjones422</a> (<a href=\"/wiki/User_talk:Harryjones422\" title=\"User talk:Harryjones422\">talk</a>)",
+    "revid": 753747171,
+    "timestamp": "2016-12-08T23:16:56Z",
+    "user": "MartinezMD"
+  },
+  {
+    "comment": "/* NASA career */ fix ref",
+    "parentid": 753747171,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> fix ref</span>",
+    "revid": 753748449,
+    "timestamp": "2016-12-08T23:24:28Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "/* Awards and honors */ Past tense",
+    "minor": "",
+    "parentid": 753748449,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> Past tense</span>",
+    "revid": 753748664,
+    "timestamp": "2016-12-08T23:25:32Z",
+    "user": "Strawberry4Ever"
+  },
+  {
+    "comment": "/* Personal life */ Link to airport article",
+    "parentid": 753748664,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> Link to airport article</span>",
+    "revid": 753748793,
+    "timestamp": "2016-12-08T23:26:21Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* Personal life */",
+    "parentid": 753748793,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life</span></span>",
+    "revid": 753749372,
+    "timestamp": "2016-12-08T23:29:23Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* Awards and honors */",
+    "parentid": 753749372,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors</span></span>",
+    "revid": 753749509,
+    "timestamp": "2016-12-08T23:30:09Z",
+    "user": "Elisfkc"
+  },
+  {
+    "comment": "/* top */ tightened for more general summary",
+    "parentid": 753749509,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> tightened for more general summary</span>",
+    "revid": 753749524,
+    "timestamp": "2016-12-08T23:30:15Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Awards and honors */",
+    "parentid": 753749524,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors</span></span>",
+    "revid": 753749629,
+    "timestamp": "2016-12-08T23:30:53Z",
+    "user": "Elisfkc"
+  },
+  {
+    "comment": "/* Personal life */",
+    "parentid": 753749629,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life</span></span>",
+    "revid": 753749722,
+    "timestamp": "2016-12-08T23:31:22Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "Sort categories",
+    "minor": "",
+    "parentid": 753749722,
+    "parsedcomment": "Sort categories",
+    "revid": 753749882,
+    "timestamp": "2016-12-08T23:32:05Z",
+    "user": "Strawberry4Ever"
+  },
+  {
+    "comment": "/* Personal life */",
+    "parentid": 753749882,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life</span></span>",
+    "revid": 753750244,
+    "timestamp": "2016-12-08T23:33:51Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* top */ trimmed factoid not in article",
+    "parentid": 753750244,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> trimmed factoid not in article</span>",
+    "revid": 753751004,
+    "timestamp": "2016-12-08T23:39:04Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* top */ tightened excess",
+    "parentid": 753751004,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> tightened excess</span>",
+    "revid": 753751476,
+    "timestamp": "2016-12-08T23:42:39Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Early life, education and military service */ add",
+    "parentid": 753751476,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life.2C_education_and_military_service\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life, education and military service: </span> add</span>",
+    "revid": 753752673,
+    "timestamp": "2016-12-08T23:52:12Z",
+    "user": "All Hallow's Wraith"
+  },
+  {
+    "comment": "/* Early life, education and military service */",
+    "minor": "",
+    "parentid": 753752673,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life.2C_education_and_military_service\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life, education and military service</span></span>",
+    "revid": 753752703,
+    "timestamp": "2016-12-08T23:52:22Z",
+    "user": "All Hallow's Wraith"
+  },
+  {
+    "comment": "/* top */ tightened for general summary",
+    "parentid": 753752703,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> tightened for general summary</span>",
+    "revid": 753752822,
+    "timestamp": "2016-12-08T23:53:16Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "proper citations",
+    "parentid": 753752822,
+    "parsedcomment": "proper citations",
+    "revid": 753753928,
+    "timestamp": "2016-12-09T00:00:43Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "/* Awards and honors */ add cite",
+    "parentid": 753753928,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> add cite</span>",
+    "revid": 753757160,
+    "timestamp": "2016-12-09T00:22:30Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Personal life */ Proper citations",
+    "parentid": 753757160,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> Proper citations</span>",
+    "revid": 753757332,
+    "timestamp": "2016-12-09T00:23:41Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "/* top */ expand details",
+    "parentid": 753757332,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> expand details</span>",
+    "revid": 753757693,
+    "timestamp": "2016-12-09T00:26:09Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Illness and death */ add",
+    "parentid": 753757693,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> add</span>",
+    "revid": 753757989,
+    "timestamp": "2016-12-09T00:28:14Z",
+    "user": "Connormah"
+  },
+  {
+    "comment": "proper citation",
+    "parentid": 753757989,
+    "parsedcomment": "proper citation",
+    "revid": 753758168,
+    "timestamp": "2016-12-09T00:29:31Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "asin",
+    "parentid": 753758168,
+    "parsedcomment": "asin",
+    "revid": 753758320,
+    "timestamp": "2016-12-09T00:30:23Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "fix citation with wikilink embedded in URL title",
+    "parentid": 753758320,
+    "parsedcomment": "fix citation with wikilink embedded in URL title",
+    "revid": 753758488,
+    "timestamp": "2016-12-09T00:31:31Z",
+    "user": "Gilo1969"
+  },
+  {
+    "comment": "/* Presidential politics */ added citation, minor edits to other citation",
+    "parentid": 753758488,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Presidential_politics\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Presidential politics: </span> added citation, minor edits to other citation</span>",
+    "revid": 753758505,
+    "timestamp": "2016-12-09T00:31:38Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "fix ref",
+    "parentid": 753758505,
+    "parsedcomment": "fix ref",
+    "revid": 753759188,
+    "timestamp": "2016-12-09T00:37:03Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "/* Personal life */ fixed citation issues and cleaned up area that was broken by an incomplete edit earlier",
+    "parentid": 753759188,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> fixed citation issues and cleaned up area that was broken by an incomplete edit earlier</span>",
+    "revid": 753760128,
+    "timestamp": "2016-12-09T00:44:21Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Personal life */ fixed cs1 error",
+    "parentid": 753760128,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> fixed cs1 error</span>",
+    "revid": 753760255,
+    "timestamp": "2016-12-09T00:45:16Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "fixed",
+    "parentid": 753760255,
+    "parsedcomment": "fixed",
+    "revid": 753760476,
+    "timestamp": "2016-12-09T00:46:52Z",
+    "user": "MartinezMD"
+  },
+  {
+    "comment": "/* Illness and death */ fixed cs1 error",
+    "parentid": 753760476,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> fixed cs1 error</span>",
+    "revid": 753760567,
+    "timestamp": "2016-12-09T00:47:30Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* NASA career */",
+    "parentid": 753760567,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career</span></span>",
+    "revid": 753763315,
+    "timestamp": "2016-12-09T01:10:58Z",
+    "user": "Grassynoel"
+  },
+  {
+    "comment": "Reverted edits by [[Special:Contribs/Grassynoel|Grassynoel]] ([[User talk:Grassynoel|talk]]) to last version by Kees08",
+    "minor": "",
+    "parentid": 753763315,
+    "parsedcomment": "Reverted edits by <a href=\"/wiki/Special:Contributions/Grassynoel\" title=\"Special:Contributions/Grassynoel\">Grassynoel</a> (<a href=\"/wiki/User_talk:Grassynoel\" title=\"User talk:Grassynoel\">talk</a>) to last version by Kees08",
+    "revid": 753764747,
+    "timestamp": "2016-12-09T01:23:46Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "+ref for \"City of Light\"",
+    "parentid": 753764747,
+    "parsedcomment": "+ref for &quot;City of Light&quot;",
+    "revid": 753764819,
+    "timestamp": "2016-12-09T01:24:17Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* Illness and death */ rm redlink",
+    "parentid": 753764819,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> rm redlink</span>",
+    "revid": 753765442,
+    "timestamp": "2016-12-09T01:29:36Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* Illness and death */ +\"The\" to OSU",
+    "parentid": 753765442,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> +&quot;The&quot; to OSU</span>",
+    "revid": 753765492,
+    "timestamp": "2016-12-09T01:30:08Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* Public affairs institute */",
+    "parentid": 753765492,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Public_affairs_institute\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Public affairs institute</span></span>",
+    "revid": 753765573,
+    "timestamp": "2016-12-09T01:30:46Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* Personal life */ [[WP:OVERLINK]]",
+    "parentid": 753765573,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> <a href=\"/wiki/Wikipedia:OVERLINK\" class=\"mw-redirect\" title=\"Wikipedia:OVERLINK\">WP:OVERLINK</a></span>",
+    "revid": 753765697,
+    "timestamp": "2016-12-09T01:31:56Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* Illness and death */ [[WP:OVERLINK]], rm redundancy",
+    "parentid": 753765697,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> <a href=\"/wiki/Wikipedia:OVERLINK\" class=\"mw-redirect\" title=\"Wikipedia:OVERLINK\">WP:OVERLINK</a>, rm redundancy</span>",
+    "revid": 753765947,
+    "timestamp": "2016-12-09T01:34:06Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* Illness and death */",
+    "parentid": 753765947,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death</span></span>",
+    "revid": 753766064,
+    "timestamp": "2016-12-09T01:35:11Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* Personal life */ tightened",
+    "parentid": 753766064,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> tightened</span>",
+    "revid": 753766297,
+    "timestamp": "2016-12-09T01:37:24Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Illness and death */ add details",
+    "parentid": 753766297,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> add details</span>",
+    "revid": 753766383,
+    "timestamp": "2016-12-09T01:38:07Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* U.S. Senate */ fix grammar, clarify antecedent",
+    "minor": "",
+    "parentid": 753766383,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#U.S._Senate\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">U.S. Senate: </span> fix grammar, clarify antecedent</span>",
+    "revid": 753766590,
+    "timestamp": "2016-12-09T01:40:13Z",
+    "user": "Paleolith"
+  },
+  {
+    "comment": "/* Personal life */ copy edit",
+    "parentid": 753766590,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> copy edit</span>",
+    "revid": 753767269,
+    "timestamp": "2016-12-09T01:46:16Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Personal life */ expand",
+    "parentid": 753767269,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> expand</span>",
+    "revid": 753768750,
+    "timestamp": "2016-12-09T01:59:00Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Personal life */ add details",
+    "parentid": 753768750,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> add details</span>",
+    "revid": 753770119,
+    "timestamp": "2016-12-09T02:10:45Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Personal life */ add details",
+    "parentid": 753770119,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> add details</span>",
+    "revid": 753772279,
+    "timestamp": "2016-12-09T02:30:12Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Awards and honors */ in case readers didn't know",
+    "parentid": 753772279,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> in case readers didn&#039;t know</span>",
+    "revid": 753773009,
+    "timestamp": "2016-12-09T02:37:14Z",
+    "user": "ESAD-Hooker"
+  },
+  {
+    "comment": "fix refs",
+    "parentid": 753773009,
+    "parsedcomment": "fix refs",
+    "revid": 753773393,
+    "timestamp": "2016-12-09T02:41:27Z",
+    "user": "Kiraroshi1976"
+  },
+  {
+    "comment": "/* Illness and death */ tightened",
+    "parentid": 753773393,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> tightened</span>",
+    "revid": 753775908,
+    "timestamp": "2016-12-09T03:04:54Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Personal life */ ce",
+    "parentid": 753775908,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> ce</span>",
+    "revid": 753777028,
+    "timestamp": "2016-12-09T03:14:07Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "linked",
+    "parentid": 753777028,
+    "parsedcomment": "linked",
+    "revid": 753777664,
+    "timestamp": "2016-12-09T03:19:42Z",
+    "user": "MartinezMD"
+  },
+  {
+    "comment": "tweaked; tagged",
+    "parentid": 753777664,
+    "parsedcomment": "tweaked; tagged",
+    "revid": 753779268,
+    "timestamp": "2016-12-09T03:32:57Z",
+    "user": "Rms125a@hotmail.com"
+  },
+  {
+    "comment": "updated",
+    "parentid": 753779268,
+    "parsedcomment": "updated",
+    "revid": 753779747,
+    "timestamp": "2016-12-09T03:37:22Z",
+    "user": "Rms125a@hotmail.com"
+  },
+  {
+    "comment": "Dating maintenance tags: {{Cn}}",
+    "minor": "",
+    "parentid": 753779747,
+    "parsedcomment": "Dating maintenance tags: {{Cn}}",
+    "revid": 753781867,
+    "timestamp": "2016-12-09T03:58:13Z",
+    "user": "AnomieBOT"
+  },
+  {
+    "comment": "/* Awards and honors */ trim unsourced minor detail",
+    "parentid": 753781867,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> trim unsourced minor detail</span>",
+    "revid": 753782050,
+    "timestamp": "2016-12-09T03:59:52Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Illness and death */ No source detailed his treatments, or that they were for a \"variety of ailments\".",
+    "parentid": 753782050,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> No source detailed his treatments, or that they were for a &quot;variety of ailments&quot;.</span>",
+    "revid": 753783153,
+    "timestamp": "2016-12-09T04:09:40Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* Illness and death */",
+    "parentid": 753783153,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death</span></span>",
+    "revid": 753783309,
+    "timestamp": "2016-12-09T04:10:56Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* NASA career */ add image",
+    "parentid": 753783309,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> add image</span>",
+    "revid": 753783620,
+    "timestamp": "2016-12-09T04:13:48Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* NASA career */ link",
+    "parentid": 753783620,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> link</span>",
+    "revid": 753784007,
+    "timestamp": "2016-12-09T04:17:28Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Return to space */ add image",
+    "parentid": 753784007,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Return_to_space\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Return to space: </span> add image</span>",
+    "revid": 753785310,
+    "timestamp": "2016-12-09T04:29:50Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* NASA career */ add source",
+    "parentid": 753785310,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> add source</span>",
+    "revid": 753787835,
+    "timestamp": "2016-12-09T04:55:58Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "",
+    "parentid": 753787835,
+    "parsedcomment": "",
+    "revid": 753787950,
+    "timestamp": "2016-12-09T04:57:06Z",
+    "user": "GoodDay"
+  },
+  {
+    "comment": "/* NASA career */ tightened",
+    "parentid": 753787950,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> tightened</span>",
+    "revid": 753788042,
+    "timestamp": "2016-12-09T04:58:12Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* NASA career */ sp",
+    "minor": "",
+    "parentid": 753788042,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> sp</span>",
+    "revid": 753788152,
+    "timestamp": "2016-12-09T04:59:30Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* NASA career */ add details",
+    "parentid": 753788152,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> add details</span>",
+    "revid": 753790245,
+    "timestamp": "2016-12-09T05:21:12Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* External links */ rm dubious links, links that plagaraize nasa sources, and links without information that could be found in other links",
+    "parentid": 753790245,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> rm dubious links, links that plagaraize nasa sources, and links without information that could be found in other links</span>",
+    "revid": 753790463,
+    "timestamp": "2016-12-09T05:23:23Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* References */ add notes section",
+    "parentid": 753790463,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#References\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">References: </span> add notes section</span>",
+    "revid": 753791829,
+    "timestamp": "2016-12-09T05:36:21Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "rv empty section",
+    "parentid": 753791829,
+    "parsedcomment": "rv empty section",
+    "revid": 753791922,
+    "timestamp": "2016-12-09T05:37:13Z",
+    "user": "Rms125a@hotmail.com"
+  },
+  {
+    "comment": "add image",
+    "parentid": 753791922,
+    "parsedcomment": "add image",
+    "revid": 753792038,
+    "timestamp": "2016-12-09T05:38:00Z",
+    "user": "Tobby72"
+  },
+  {
+    "comment": "/* External links */ c/e",
+    "parentid": 753792038,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> c/e</span>",
+    "revid": 753792197,
+    "timestamp": "2016-12-09T05:39:12Z",
+    "user": "Rms125a@hotmail.com"
+  },
+  {
+    "comment": "/* Personal life */ Glenn was only in space twice, 36 years apart, so \"one of his final space voyages\" is misleading. If it wasn't his first, it was his second.",
+    "parentid": 753792197,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> Glenn was only in space twice, 36 years apart, so &quot;one of his final space voyages&quot; is misleading. If it wasn&#039;t his first, it was his second.</span>",
+    "revid": 753793006,
+    "timestamp": "2016-12-09T05:46:22Z",
+    "user": "Edison"
+  },
+  {
+    "comment": "/* NASA career */ tightened",
+    "parentid": 753793006,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> tightened</span>",
+    "revid": 753793425,
+    "timestamp": "2016-12-09T05:50:01Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Illness and death */ c/e",
+    "parentid": 753793425,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> c/e</span>",
+    "revid": 753793645,
+    "timestamp": "2016-12-09T05:51:51Z",
+    "user": "Rms125a@hotmail.com"
+  },
+  {
+    "comment": "/* Illness and death */ c/e",
+    "parentid": 753793645,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> c/e</span>",
+    "revid": 753793697,
+    "timestamp": "2016-12-09T05:52:22Z",
+    "user": "Rms125a@hotmail.com"
+  },
+  {
+    "comment": "/* References */ added notes section",
+    "parentid": 753793697,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#References\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">References: </span> added notes section</span>",
+    "revid": 753793850,
+    "timestamp": "2016-12-09T05:53:48Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Early life, education and military service */ Geo-context; these aren't in opposite ends of the state",
+    "parentid": 753793850,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life.2C_education_and_military_service\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life, education and military service: </span> Geo-context; these aren&#039;t in opposite ends of the state</span>",
+    "revid": 753793946,
+    "timestamp": "2016-12-09T05:54:46Z",
+    "user": "Nyttend"
+  },
+  {
+    "comment": "/* See also */ moving link up for better spacing",
+    "parentid": 753793946,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#See_also\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">See also: </span> moving link up for better spacing</span>",
+    "revid": 753794095,
+    "timestamp": "2016-12-09T05:56:02Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Awards and honors */ moved link",
+    "parentid": 753794095,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> moved link</span>",
+    "revid": 753794168,
+    "timestamp": "2016-12-09T05:56:44Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "[[WP:CHECKWIKI]] error fix.  Broken bracket.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -, replaced: {{Reflist|colwidth=30em}} \u2192 {{Reflist|30em}}",
+    "minor": "",
+    "parentid": 753794168,
+    "parsedcomment": "<a href=\"/wiki/Wikipedia:CHECKWIKI\" class=\"mw-redirect\" title=\"Wikipedia:CHECKWIKI\">WP:CHECKWIKI</a> error fix.  Broken bracket.  Do <a href=\"/wiki/Wikipedia:GENFIXES\" class=\"mw-redirect\" title=\"Wikipedia:GENFIXES\">general fixes</a> if a problem exists. -, replaced: {{Reflist|colwidth=30em}} \u2192 {{Reflist|30em}}",
+    "revid": 753794448,
+    "timestamp": "2016-12-09T05:59:17Z",
+    "user": "BG19bot"
+  },
+  {
+    "comment": "/* NASA career */ tightened",
+    "parentid": 753794448,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> tightened</span>",
+    "revid": 753794498,
+    "timestamp": "2016-12-09T05:59:41Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Early life, education and military service */ Photo; I uploaded the photo 5-1/2 years ago, but I'm surprised that I never put it here",
+    "parentid": 753794498,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life.2C_education_and_military_service\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life, education and military service: </span> Photo; I uploaded the photo 5-1/2 years ago, but I&#039;m surprised that I never put it here</span>",
+    "revid": 753794693,
+    "timestamp": "2016-12-09T06:01:46Z",
+    "user": "Nyttend"
+  },
+  {
+    "comment": "/* NASA career */ copy edit",
+    "parentid": 753794693,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> copy edit</span>",
+    "revid": 753795205,
+    "timestamp": "2016-12-09T06:06:10Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* External links */ that video is mentioned above already; the youtube video uploaded is probably a copyright vio.",
+    "parentid": 753795205,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> that video is mentioned above already; the youtube video uploaded is probably a copyright vio.</span>",
+    "revid": 753796292,
+    "timestamp": "2016-12-09T06:17:18Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Return to space */ reorder (first state what happened, then offer interpretations) / [[WP:WEASEL]] (\"It was noted\" by Glenn himself) / quote or rest of cited ref says nothing about this control subject thing, replace with things that he actually said",
+    "parentid": 753796292,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Return_to_space\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Return to space: </span> reorder (first state what happened, then offer interpretations) / <a href=\"/wiki/Wikipedia:WEASEL\" class=\"mw-redirect\" title=\"Wikipedia:WEASEL\">WP:WEASEL</a> (&quot;It was noted&quot; by Glenn himself) / quote or rest of cited ref says nothing about this control subject thing, replace with things that he actually said</span>",
+    "revid": 753796830,
+    "timestamp": "2016-12-09T06:23:34Z",
+    "user": "HaeB"
+  },
+  {
+    "comment": "/* NASA career */ add details to notes",
+    "parentid": 753796830,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> add details to notes</span>",
+    "revid": 753797020,
+    "timestamp": "2016-12-09T06:25:37Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "Repairing 2 and tagging 7 external links using [[w:WP:CHECKLINKS|Checklinks]]",
+    "parentid": 753797020,
+    "parsedcomment": "Repairing 2 and tagging 7 external links using <a href=\"/wiki/Wikipedia:CHECKLINKS\" class=\"mw-redirect\" title=\"Wikipedia:CHECKLINKS\">Checklinks</a>",
+    "revid": 753797700,
+    "timestamp": "2016-12-09T06:33:45Z",
+    "user": "Fuzheado"
+  },
+  {
+    "comment": "/* NASA career */ small expansion of NASA portion",
+    "parentid": 753797700,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> small expansion of NASA portion</span>",
+    "revid": 753803820,
+    "timestamp": "2016-12-09T07:52:13Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* NASA career */ fixed cs1 date error",
+    "minor": "",
+    "parentid": 753803820,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> fixed cs1 date error</span>",
+    "revid": 753803857,
+    "timestamp": "2016-12-09T07:52:48Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* External links */ rm, now in inline citations",
+    "parentid": 753803857,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> rm, now in inline citations</span>",
+    "revid": 753803895,
+    "timestamp": "2016-12-09T07:53:13Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Illness and death */ add tributes",
+    "parentid": 753803895,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Illness_and_death\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Illness and death: </span> add tributes</span>",
+    "revid": 753814592,
+    "timestamp": "2016-12-09T10:05:54Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "-+ image",
+    "parentid": 753814592,
+    "parsedcomment": "-+ image",
+    "revid": 753817235,
+    "timestamp": "2016-12-09T10:36:39Z",
+    "user": "Jan Arkesteijn"
+  },
+  {
+    "comment": "Took out detail not about John Glenn.",
+    "parentid": 753817235,
+    "parsedcomment": "Took out detail not about John Glenn.",
+    "revid": 753817293,
+    "timestamp": "2016-12-09T10:37:34Z",
+    "user": "1313Mockingbird"
+  },
+  {
+    "comment": "/* Tributes */",
+    "parentid": 753817293,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Tributes\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Tributes</span></span>",
+    "revid": 753820437,
+    "timestamp": "2016-12-09T11:15:40Z",
+    "user": "AmbroseRPM"
+  },
+  {
+    "comment": "/* top */ dab link",
+    "minor": "",
+    "parentid": 753820437,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> dab link</span>",
+    "revid": 753821777,
+    "timestamp": "2016-12-09T11:31:55Z",
+    "user": "Widefox"
+  },
+  {
+    "comment": "unneeded",
+    "parentid": 753821777,
+    "parsedcomment": "unneeded",
+    "revid": 753837122,
+    "timestamp": "2016-12-09T13:43:04Z",
+    "user": "Kablammo"
+  },
+  {
+    "comment": "/* NASA career */ inserted a paragraph on some testing that glenn did for nasa and cited it",
+    "parentid": 753837122,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> inserted a paragraph on some testing that glenn did for nasa and cited it</span>",
+    "revid": 753839886,
+    "timestamp": "2016-12-09T14:08:07Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* External links */ rm link that is now in the inline citations",
+    "parentid": 753839886,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> rm link that is now in the inline citations</span>",
+    "revid": 753839992,
+    "timestamp": "2016-12-09T14:08:55Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* NASA career */ adding access date and refname",
+    "minor": "",
+    "parentid": 753839992,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> adding access date and refname</span>",
+    "revid": 753840239,
+    "timestamp": "2016-12-09T14:11:06Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* NASA career */ oops...that was a link to a book i'm buying. fixed!",
+    "parentid": 753840239,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> oops...that was a link to a book i&#039;m buying. fixed!</span>",
+    "revid": 753840515,
+    "timestamp": "2016-12-09T14:13:33Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* NASA career */ added information of his participation pre-astronaut selection",
+    "parentid": 753840515,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> added information of his participation pre-astronaut selection</span>",
+    "revid": 753841198,
+    "timestamp": "2016-12-09T14:18:53Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "Added links.",
+    "minor": "",
+    "parentid": 753841198,
+    "parsedcomment": "Added links.",
+    "revid": 753842277,
+    "timestamp": "2016-12-09T14:27:22Z",
+    "user": "Aa508186"
+  },
+  {
+    "comment": "/* U.S. Senate */ Tag missing information",
+    "parentid": 753842277,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#U.S._Senate\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">U.S. Senate: </span> Tag missing information</span>",
+    "revid": 753846313,
+    "timestamp": "2016-12-09T14:57:21Z",
+    "user": "JustinTime55"
+  },
+  {
+    "comment": "",
+    "parentid": 753846313,
+    "parsedcomment": "",
+    "revid": 753860822,
+    "timestamp": "2016-12-09T16:32:48Z",
+    "user": "LunarPhyla"
+  },
+  {
+    "comment": "Undid revision 753860822 by [[Special:Contributions/LunarPhyla|LunarPhyla]] ([[User talk:LunarPhyla|talk]])",
+    "parentid": 753860822,
+    "parsedcomment": "Undid revision 753860822 by <a href=\"/wiki/Special:Contributions/LunarPhyla\" title=\"Special:Contributions/LunarPhyla\">LunarPhyla</a> (<a href=\"/wiki/User_talk:LunarPhyla\" title=\"User talk:LunarPhyla\">talk</a>)",
+    "revid": 753861432,
+    "timestamp": "2016-12-09T16:36:31Z",
+    "user": "Lenin and McCarthy"
+  },
+  {
+    "comment": "/* top */ copy edit",
+    "parentid": 753861432,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> copy edit</span>",
+    "revid": 753866767,
+    "timestamp": "2016-12-09T17:13:01Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* top */ copy edit",
+    "parentid": 753866767,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> copy edit</span>",
+    "revid": 753867281,
+    "timestamp": "2016-12-09T17:15:56Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "The previous one to die is far less relevant now that they are all dead.",
+    "parentid": 753867281,
+    "parsedcomment": "The previous one to die is far less relevant now that they are all dead.",
+    "revid": 753869387,
+    "timestamp": "2016-12-09T17:27:22Z",
+    "user": "Tdadamemd sioz"
+  },
+  {
+    "comment": "straighten quote marks for consistency per MOS",
+    "parentid": 753869387,
+    "parsedcomment": "straighten quote marks for consistency per MOS",
+    "revid": 753882734,
+    "timestamp": "2016-12-09T18:34:02Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "/* Personal life */ format refs per CITEVAR",
+    "parentid": 753882734,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> format refs per CITEVAR</span>",
+    "revid": 753883227,
+    "timestamp": "2016-12-09T18:36:31Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "/* Tributes */ expand",
+    "parentid": 753883227,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Tributes\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Tributes: </span> expand</span>",
+    "revid": 753884149,
+    "timestamp": "2016-12-09T18:41:02Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "Format more refs per CITEVAR",
+    "parentid": 753884149,
+    "parsedcomment": "Format more refs per CITEVAR",
+    "revid": 753884184,
+    "timestamp": "2016-12-09T18:41:12Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "/* NASA career */ format citations per CITEVAR",
+    "parentid": 753884184,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> format citations per CITEVAR</span>",
+    "revid": 753885372,
+    "timestamp": "2016-12-09T18:46:55Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "/* Political career */ format citations per CITEVAR",
+    "parentid": 753885372,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Political_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Political career: </span> format citations per CITEVAR</span>",
+    "revid": 753885760,
+    "timestamp": "2016-12-09T18:48:34Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "/* Tributes */ add image",
+    "parentid": 753885760,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Tributes\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Tributes: </span> add image</span>",
+    "revid": 753885838,
+    "timestamp": "2016-12-09T18:48:53Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Awards and honors */ format citations per CITEVAR",
+    "parentid": 753885838,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> format citations per CITEVAR</span>",
+    "revid": 753886832,
+    "timestamp": "2016-12-09T18:53:36Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "/* Tributes */ format citations per CITEVAR",
+    "parentid": 753886832,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Tributes\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Tributes: </span> format citations per CITEVAR</span>",
+    "revid": 753887245,
+    "timestamp": "2016-12-09T18:55:34Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "Fix empty citation, unnamed or unsupported parameter, or invalid parameter value; see [[Help:CS1 errors]]",
+    "parentid": 753887245,
+    "parsedcomment": "Fix empty citation, unnamed or unsupported parameter, or invalid parameter value; see <a href=\"/wiki/Help:CS1_errors\" title=\"Help:CS1 errors\">Help:CS1 errors</a>",
+    "revid": 753887398,
+    "timestamp": "2016-12-09T18:56:13Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "/* NASA career */ fix title per source",
+    "parentid": 753887398,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> fix title per source</span>",
+    "revid": 753887569,
+    "timestamp": "2016-12-09T18:57:01Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "/* U.S. Senate */ fix cite",
+    "parentid": 753887569,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#U.S._Senate\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">U.S. Senate: </span> fix cite</span>",
+    "revid": 753887716,
+    "timestamp": "2016-12-09T18:57:46Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "Fix empty citation, unnamed or unsupported parameter, or invalid parameter value; see [[Help:CS1 errors]]",
+    "parentid": 753887716,
+    "parsedcomment": "Fix empty citation, unnamed or unsupported parameter, or invalid parameter value; see <a href=\"/wiki/Help:CS1_errors\" title=\"Help:CS1 errors\">Help:CS1 errors</a>",
+    "revid": 753887766,
+    "timestamp": "2016-12-09T18:58:02Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "Fix empty citation, unnamed or unsupported parameter, or invalid parameter value; see [[Help:CS1 errors]]",
+    "parentid": 753887766,
+    "parsedcomment": "Fix empty citation, unnamed or unsupported parameter, or invalid parameter value; see <a href=\"/wiki/Help:CS1_errors\" title=\"Help:CS1 errors\">Help:CS1 errors</a>",
+    "revid": 753887945,
+    "timestamp": "2016-12-09T18:58:52Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "/* U.S. Senate */ format citations per CITEVAR",
+    "parentid": 753887945,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#U.S._Senate\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">U.S. Senate: </span> format citations per CITEVAR</span>",
+    "revid": 753888492,
+    "timestamp": "2016-12-09T19:01:32Z",
+    "user": "Jonesey95"
+  },
+  {
+    "comment": "Formatting infobox/succession boxes.",
+    "parentid": 753888492,
+    "parsedcomment": "Formatting infobox/succession boxes.",
+    "revid": 753889699,
+    "timestamp": "2016-12-09T19:07:27Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "",
+    "minor": "",
+    "parentid": 753889699,
+    "parsedcomment": "",
+    "revid": 753891351,
+    "timestamp": "2016-12-09T19:15:32Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "",
+    "parentid": 753891351,
+    "parsedcomment": "",
+    "revid": 753891700,
+    "timestamp": "2016-12-09T19:17:20Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "/* Issues */ Per source. Wasn't a special/select committee but a permanent investigative subcommittee of the Governmental Affairs Committee, the former chaired by Collins and the latter chair by Thompson",
+    "parentid": 753891700,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Issues\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Issues: </span> Per source. Wasn&#039;t a special/select committee but a permanent investigative subcommittee of the Governmental Affairs Committee, the former chaired by Collins and the latter chair by Thompson</span>",
+    "revid": 753893872,
+    "timestamp": "2016-12-09T19:28:12Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "not needed. he was admitted because he was ill.",
+    "parentid": 753893872,
+    "parsedcomment": "not needed. he was admitted because he was ill.",
+    "revid": 753898444,
+    "timestamp": "2016-12-09T19:49:32Z",
+    "user": "MartinezMD"
+  },
+  {
+    "comment": "",
+    "parentid": 753898444,
+    "parsedcomment": "",
+    "revid": 753928216,
+    "timestamp": "2016-12-09T22:07:53Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "",
+    "parentid": 753928216,
+    "parsedcomment": "",
+    "revid": 753928432,
+    "timestamp": "2016-12-09T22:08:54Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "Removing protection templates from unprotected page",
+    "minor": "",
+    "parentid": 753928432,
+    "parsedcomment": "Removing protection templates from unprotected page",
+    "revid": 753929074,
+    "timestamp": "2016-12-09T22:12:20Z",
+    "user": "MusikBot"
+  },
+  {
+    "comment": "Rearraged text for improved cohesion.",
+    "minor": "",
+    "parentid": 753929074,
+    "parsedcomment": "Rearraged text for improved cohesion.",
+    "revid": 753931975,
+    "timestamp": "2016-12-09T22:26:34Z",
+    "user": "Lemccbr"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753931975,
+    "parsedcomment": "",
+    "revid": 753945103,
+    "timestamp": "2016-12-09T23:45:49Z",
+    "user": "68.231.244.52"
+  },
+  {
+    "comment": "Reverted edits by [[Special:Contributions/68.231.244.52|68.231.244.52]] ([[User talk:68.231.244.52|talk]]) ([[WP:HG|HG]]) (3.1.22)",
+    "minor": "",
+    "parentid": 753945103,
+    "parsedcomment": "Reverted edits by <a href=\"/wiki/Special:Contributions/68.231.244.52\" title=\"Special:Contributions/68.231.244.52\">68.231.244.52</a> (<a href=\"/wiki/User_talk:68.231.244.52\" title=\"User talk:68.231.244.52\">talk</a>) (<a href=\"/wiki/Wikipedia:HG\" class=\"mw-redirect\" title=\"Wikipedia:HG\">HG</a>) (3.1.22)",
+    "revid": 753945156,
+    "timestamp": "2016-12-09T23:46:08Z",
+    "user": "Oshwah"
+  },
+  {
+    "comment": "/* External links */",
+    "parentid": 753945156,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links</span></span>",
+    "revid": 753948769,
+    "timestamp": "2016-12-10T00:05:40Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "/* External links */ Whoops, wrong section",
+    "parentid": 753948769,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> Whoops, wrong section</span>",
+    "revid": 753949639,
+    "timestamp": "2016-12-10T00:10:02Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "",
+    "parentid": 753949639,
+    "parsedcomment": "",
+    "revid": 753960890,
+    "timestamp": "2016-12-10T01:14:33Z",
+    "user": "Titan2151"
+  },
+  {
+    "comment": "Reverted 1 edit by [[Special:Contributions/Titan2151|Titan2151]] ([[User talk:Titan2151|talk]]): Completely unnecessary. ([[WP:TW|TW]])",
+    "parentid": 753960890,
+    "parsedcomment": "Reverted 1 edit by <a href=\"/wiki/Special:Contributions/Titan2151\" title=\"Special:Contributions/Titan2151\">Titan2151</a> (<a href=\"/wiki/User_talk:Titan2151\" title=\"User talk:Titan2151\">talk</a>): Completely unnecessary. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 753962392,
+    "timestamp": "2016-12-10T01:23:01Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "Boldly changed citations for page numbers from [[Template:Rp]] to less intrusive and more understandable [[Template:Sfn]]. Revert if contentious.",
+    "parentid": 753962392,
+    "parsedcomment": "Boldly changed citations for page numbers from <a href=\"/wiki/Template:Rp\" title=\"Template:Rp\">Template:Rp</a> to less intrusive and more understandable <a href=\"/wiki/Template:Sfn\" title=\"Template:Sfn\">Template:Sfn</a>. Revert if contentious.",
+    "revid": 753964674,
+    "timestamp": "2016-12-10T01:39:18Z",
+    "user": "AlexEng"
+  },
+  {
+    "comment": "",
+    "minor": "",
+    "parentid": 753964674,
+    "parsedcomment": "",
+    "revid": 753969375,
+    "timestamp": "2016-12-10T02:27:29Z",
+    "user": "PootisHeavy"
+  },
+  {
+    "comment": "",
+    "parentid": 753969375,
+    "parsedcomment": "",
+    "revid": 753969594,
+    "timestamp": "2016-12-10T02:29:56Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "",
+    "parentid": 753969594,
+    "parsedcomment": "",
+    "revid": 753969695,
+    "timestamp": "2016-12-10T02:31:11Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* top */ adjust per the body of the article",
+    "parentid": 753969695,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> adjust per the body of the article</span>",
+    "revid": 753969952,
+    "timestamp": "2016-12-10T02:34:14Z",
+    "user": "AustralianRupert"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 753969952,
+    "parsedcomment": "",
+    "revid": 753979129,
+    "timestamp": "2016-12-10T04:13:11Z",
+    "user": "67.10.167.124"
+  },
+  {
+    "comment": "/* Early life, education and military service */",
+    "parentid": 753979129,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life.2C_education_and_military_service\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life, education and military service</span></span>",
+    "revid": 753984759,
+    "timestamp": "2016-12-10T05:21:26Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "VMO-155",
+    "parentid": 753984759,
+    "parsedcomment": "VMO-155",
+    "revid": 753986533,
+    "timestamp": "2016-12-10T05:44:09Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "clarify that \"it\" refers to the squadron here",
+    "parentid": 753986533,
+    "parsedcomment": "clarify that &quot;it&quot; refers to the squadron here",
+    "revid": 753988722,
+    "timestamp": "2016-12-10T06:09:53Z",
+    "user": "AustralianRupert"
+  },
+  {
+    "comment": "fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]",
+    "minor": "",
+    "parentid": 753988722,
+    "parsedcomment": "fixed <a href=\"/wiki/MOS:DASH\" class=\"mw-redirect\" title=\"MOS:DASH\">dashes</a> using a <a href=\"/wiki/User:GregU/dashes.js\" title=\"User:GregU/dashes.js\">script</a>",
+    "revid": 753988750,
+    "timestamp": "2016-12-10T06:10:20Z",
+    "user": "AustralianRupert"
+  },
+  {
+    "comment": "",
+    "minor": "",
+    "parentid": 753988750,
+    "parsedcomment": "",
+    "revid": 754002957,
+    "timestamp": "2016-12-10T09:18:05Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "",
+    "parentid": 754002957,
+    "parsedcomment": "",
+    "revid": 754003010,
+    "timestamp": "2016-12-10T09:18:47Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "Undid revision 754003010 by [[Special:Contributions/Therequiembellishere|Therequiembellishere]] ([[User talk:Therequiembellishere|talk]])",
+    "minor": "",
+    "parentid": 754003010,
+    "parsedcomment": "Undid revision 754003010 by <a href=\"/wiki/Special:Contributions/Therequiembellishere\" title=\"Special:Contributions/Therequiembellishere\">Therequiembellishere</a> (<a href=\"/wiki/User_talk:Therequiembellishere\" title=\"User talk:Therequiembellishere\">talk</a>)",
+    "revid": 754003055,
+    "timestamp": "2016-12-10T09:19:20Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "Didn't become VMF-155 until January 1945",
+    "parentid": 754003055,
+    "parsedcomment": "Didn&#039;t become VMF-155 until January 1945",
+    "revid": 754012829,
+    "timestamp": "2016-12-10T10:54:43Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754012829,
+    "parsedcomment": "",
+    "revid": 754016482,
+    "timestamp": "2016-12-10T11:35:17Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754016482,
+    "parsedcomment": "",
+    "revid": 754018719,
+    "timestamp": "2016-12-10T11:56:12Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "anon": "",
+    "comment": "/* Early life */",
+    "parentid": 754018719,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life</span></span>",
+    "revid": 754018759,
+    "timestamp": "2016-12-10T11:56:39Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "comment": "/* World War II */ Adding/removing wikilink(s)",
+    "parentid": 754018759,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> Adding/removing wikilink(s)</span>",
+    "revid": 754020344,
+    "timestamp": "2016-12-10T12:16:12Z",
+    "user": "Keith-264"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754020344,
+    "parsedcomment": "",
+    "revid": 754020523,
+    "timestamp": "2016-12-10T12:18:11Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754020523,
+    "parsedcomment": "",
+    "revid": 754020633,
+    "timestamp": "2016-12-10T12:19:11Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "comment": "/* Further reading */ Adding/improving reference(s)",
+    "parentid": 754020633,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Further_reading\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Further reading: </span> Adding/improving reference(s)</span>",
+    "revid": 754021252,
+    "timestamp": "2016-12-10T12:25:20Z",
+    "user": "Keith-264"
+  },
+  {
+    "comment": "/* Further reading */",
+    "minor": "",
+    "parentid": 754021252,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Further_reading\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Further reading</span></span>",
+    "revid": 754021377,
+    "timestamp": "2016-12-10T12:26:22Z",
+    "user": "Keith-264"
+  },
+  {
+    "comment": "/* Notes */",
+    "minor": "",
+    "parentid": 754021377,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Notes\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Notes</span></span>",
+    "revid": 754021457,
+    "timestamp": "2016-12-10T12:27:08Z",
+    "user": "Keith-264"
+  },
+  {
+    "comment": "/* top */ Adding/removing wikilink(s)",
+    "parentid": 754021457,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> Adding/removing wikilink(s)</span>",
+    "revid": 754021624,
+    "timestamp": "2016-12-10T12:28:58Z",
+    "user": "Keith-264"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754021624,
+    "parsedcomment": "",
+    "revid": 754022804,
+    "timestamp": "2016-12-10T12:39:51Z",
+    "user": "96.245.103.53"
+  },
+  {
+    "comment": "Corrected political party.",
+    "parentid": 754022804,
+    "parsedcomment": "Corrected political party.",
+    "revid": 754025836,
+    "timestamp": "2016-12-10T13:09:19Z",
+    "user": "TheShadowKnows"
+  },
+  {
+    "anon": "",
+    "comment": "/* NASA career */ Some little grammar things.",
+    "parentid": 754025836,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> Some little grammar things.</span>",
+    "revid": 754049527,
+    "timestamp": "2016-12-10T15:59:18Z",
+    "user": "217.197.187.33"
+  },
+  {
+    "anon": "",
+    "comment": "History knows Glenn was the second, not third American in space. Edit to correct a factual innacuracy.",
+    "parentid": 754049527,
+    "parsedcomment": "History knows Glenn was the second, not third American in space. Edit to correct a factual innacuracy.",
+    "revid": 754050582,
+    "timestamp": "2016-12-10T16:06:57Z",
+    "user": "86.177.238.5"
+  },
+  {
+    "anon": "",
+    "comment": "amend my previous incorrect edit",
+    "parentid": 754050582,
+    "parsedcomment": "amend my previous incorrect edit",
+    "revid": 754051249,
+    "timestamp": "2016-12-10T16:11:56Z",
+    "user": "86.177.238.5"
+  },
+  {
+    "comment": "/* Personal life */ fix",
+    "minor": "",
+    "parentid": 754051249,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> fix</span>",
+    "revid": 754064054,
+    "timestamp": "2016-12-10T17:33:49Z",
+    "user": "Light show"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754064054,
+    "parsedcomment": "",
+    "revid": 754069387,
+    "timestamp": "2016-12-10T18:06:50Z",
+    "user": "47.184.111.78"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754069387,
+    "parsedcomment": "",
+    "revid": 754069427,
+    "timestamp": "2016-12-10T18:07:04Z",
+    "user": "47.184.111.78"
+  },
+  {
+    "comment": "/* NASA career */ sectioning nasa career",
+    "parentid": 754069427,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> sectioning nasa career</span>",
+    "revid": 754075520,
+    "timestamp": "2016-12-10T18:47:45Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Awards and honors */ added award",
+    "parentid": 754075520,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> added award</span>",
+    "revid": 754076910,
+    "timestamp": "2016-12-10T18:56:50Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* External links */ incorporated in in-line citations",
+    "parentid": 754076910,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> incorporated in in-line citations</span>",
+    "revid": 754076958,
+    "timestamp": "2016-12-10T18:57:08Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* External links */ deleting deadlinks to galleries",
+    "parentid": 754076958,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> deleting deadlinks to galleries</span>",
+    "revid": 754077058,
+    "timestamp": "2016-12-10T18:58:01Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* External links */ deleting link to encyclopedia",
+    "parentid": 754077058,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> deleting link to encyclopedia</span>",
+    "revid": 754077094,
+    "timestamp": "2016-12-10T18:58:18Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Awards and honors */ add ref name",
+    "minor": "",
+    "parentid": 754077094,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> add ref name</span>",
+    "revid": 754078511,
+    "timestamp": "2016-12-10T19:09:09Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Project Mercury */ added information on his flight and cited it.",
+    "parentid": 754078511,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Project_Mercury\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Project Mercury: </span> added information on his flight and cited it.</span>",
+    "revid": 754079644,
+    "timestamp": "2016-12-10T19:16:15Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* NASA career */ added some info. plan on rewriting project mercury section so it talks about his involvement and the launch in a more chronological fashion",
+    "parentid": 754079644,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> added some info. plan on rewriting project mercury section so it talks about his involvement and the launch in a more chronological fashion</span>",
+    "revid": 754082864,
+    "timestamp": "2016-12-10T19:36:27Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* External links */ rm, now in inline citations",
+    "parentid": 754082864,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#External_links\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">External links: </span> rm, now in inline citations</span>",
+    "revid": 754082950,
+    "timestamp": "2016-12-10T19:36:59Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* World War II */ added source",
+    "parentid": 754082950,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> added source</span>",
+    "revid": 754085284,
+    "timestamp": "2016-12-10T19:51:32Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Early life, education and military service */ copy edits",
+    "parentid": 754085284,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life.2C_education_and_military_service\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life, education and military service: </span> copy edits</span>",
+    "revid": 754086435,
+    "timestamp": "2016-12-10T19:58:01Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* World War II */ ce",
+    "parentid": 754086435,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> ce</span>",
+    "revid": 754087577,
+    "timestamp": "2016-12-10T20:04:47Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Korean War */ added source",
+    "parentid": 754087577,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> added source</span>",
+    "revid": 754087731,
+    "timestamp": "2016-12-10T20:05:57Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "Already in source - moved to external links",
+    "parentid": 754087731,
+    "parsedcomment": "Already in source - moved to external links",
+    "revid": 754087951,
+    "timestamp": "2016-12-10T20:07:37Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "Undid revision 754087951 by [[Special:Contributions/Hawkeye7|Hawkeye7]] ([[User talk:Hawkeye7|talk]])inline ref needed, used multiple times",
+    "parentid": 754087951,
+    "parsedcomment": "Undid revision 754087951 by <a href=\"/wiki/Special:Contributions/Hawkeye7\" title=\"Special:Contributions/Hawkeye7\">Hawkeye7</a> (<a href=\"/wiki/User_talk:Hawkeye7\" title=\"User talk:Hawkeye7\">talk</a>)inline ref needed, used multiple times",
+    "revid": 754088847,
+    "timestamp": "2016-12-10T20:13:44Z",
+    "user": "Light show"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754088847,
+    "parsedcomment": "",
+    "revid": 754092377,
+    "timestamp": "2016-12-10T20:38:58Z",
+    "user": "2001:569:7A17:BF00:F545:4436:C836:9132"
+  },
+  {
+    "comment": "/* Project Mercury */ added cited details",
+    "parentid": 754092377,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Project_Mercury\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Project Mercury: </span> added cited details</span>",
+    "revid": 754092764,
+    "timestamp": "2016-12-10T20:41:47Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "",
+    "parentid": 754092764,
+    "parsedcomment": "",
+    "revid": 754092796,
+    "timestamp": "2016-12-10T20:41:59Z",
+    "user": "CosmorianDestiny"
+  },
+  {
+    "comment": "Added links; Added in tributes section President obamas half staff order until John Glenn's interment.",
+    "parentid": 754092796,
+    "parsedcomment": "Added links; Added in tributes section President obamas half staff order until John Glenn&#039;s interment.",
+    "revid": 754093891,
+    "timestamp": "2016-12-10T20:50:40Z",
+    "user": "CosmorianDestiny"
+  },
+  {
+    "comment": "",
+    "parentid": 754093891,
+    "parsedcomment": "",
+    "revid": 754094385,
+    "timestamp": "2016-12-10T20:54:18Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "",
+    "parentid": 754094385,
+    "parsedcomment": "",
+    "revid": 754094627,
+    "timestamp": "2016-12-10T20:56:04Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "/* Personal life */ add details",
+    "parentid": 754094627,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life: </span> add details</span>",
+    "revid": 754094666,
+    "timestamp": "2016-12-10T20:56:23Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Military career */ Korean War",
+    "parentid": 754094666,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Military_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Military career: </span> Korean War</span>",
+    "revid": 754097928,
+    "timestamp": "2016-12-10T21:18:32Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "Fix broken links",
+    "parentid": 754097928,
+    "parsedcomment": "Fix broken links",
+    "revid": 754098479,
+    "timestamp": "2016-12-10T21:21:46Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* top */",
+    "parentid": 754098479,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top</span></span>",
+    "revid": 754098875,
+    "timestamp": "2016-12-10T21:24:29Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* World War II */ added source",
+    "parentid": 754098875,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> added source</span>",
+    "revid": 754100405,
+    "timestamp": "2016-12-10T21:35:07Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Personal life */",
+    "parentid": 754100405,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life</span></span>",
+    "revid": 754103236,
+    "timestamp": "2016-12-10T21:51:52Z",
+    "user": "Thereallaurak12345"
+  },
+  {
+    "comment": "Reverted edits by [[Special:Contribs/Thereallaurak12345|Thereallaurak12345]] ([[User talk:Thereallaurak12345|talk]]) to last version by Light show",
+    "minor": "",
+    "parentid": 754103236,
+    "parsedcomment": "Reverted edits by <a href=\"/wiki/Special:Contributions/Thereallaurak12345\" title=\"Special:Contributions/Thereallaurak12345\">Thereallaurak12345</a> (<a href=\"/wiki/User_talk:Thereallaurak12345\" title=\"User talk:Thereallaurak12345\">talk</a>) to last version by Light show",
+    "revid": 754103483,
+    "timestamp": "2016-12-10T21:53:11Z",
+    "user": "General Ization"
+  },
+  {
+    "comment": "/* World War II */ Reformat bare naked URL",
+    "parentid": 754103483,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> Reformat bare naked URL</span>",
+    "revid": 754103685,
+    "timestamp": "2016-12-10T21:54:41Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* top */",
+    "parentid": 754103685,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top</span></span>",
+    "revid": 754105229,
+    "timestamp": "2016-12-10T22:04:35Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "North China",
+    "parentid": 754105229,
+    "parsedcomment": "North China",
+    "revid": 754106012,
+    "timestamp": "2016-12-10T22:08:58Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* Selection */ expanded and cited. adjusted wording of footnote, since some of that should be in the article imo.",
+    "parentid": 754106012,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Selection\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Selection: </span> expanded and cited. adjusted wording of footnote, since some of that should be in the article imo.</span>",
+    "revid": 754106177,
+    "timestamp": "2016-12-10T22:10:08Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* World War II */ North China",
+    "parentid": 754106177,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> North China</span>",
+    "revid": 754106257,
+    "timestamp": "2016-12-10T22:10:37Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* Project Mercury */ added in some training info and sectioned out project mercury section",
+    "parentid": 754106257,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Project_Mercury\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Project Mercury: </span> added in some training info and sectioned out project mercury section</span>",
+    "revid": 754108770,
+    "timestamp": "2016-12-10T22:24:51Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Friendship 7 flight= */",
+    "minor": "",
+    "parentid": 754108770,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight.3D\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight=</span></span>",
+    "revid": 754108821,
+    "timestamp": "2016-12-10T22:25:12Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* NASA career */ moved some info around, plan on expanding training section now-ish",
+    "parentid": 754108821,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> moved some info around, plan on expanding training section now-ish</span>",
+    "revid": 754109461,
+    "timestamp": "2016-12-10T22:28:42Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* NASA career */ adding main article link",
+    "minor": "",
+    "parentid": 754109461,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> adding main article link</span>",
+    "revid": 754109986,
+    "timestamp": "2016-12-10T22:31:49Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Project Mercury */ combining sentences into paragraph",
+    "minor": "",
+    "parentid": 754109986,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Project_Mercury\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Project Mercury: </span> combining sentences into paragraph</span>",
+    "revid": 754110468,
+    "timestamp": "2016-12-10T22:34:53Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Korean War */ moved detail to notes",
+    "parentid": 754110468,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> moved detail to notes</span>",
+    "revid": 754112179,
+    "timestamp": "2016-12-10T22:42:57Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Korean War */ copy edit",
+    "parentid": 754112179,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> copy edit</span>",
+    "revid": 754112412,
+    "timestamp": "2016-12-10T22:44:09Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Friendship 7 flight */ moved around a lot of information; added some; cited it.",
+    "parentid": 754112412,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> moved around a lot of information; added some; cited it.</span>",
+    "revid": 754112438,
+    "timestamp": "2016-12-10T22:44:19Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Korean War */ added excess details to notes",
+    "parentid": 754112438,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> added excess details to notes</span>",
+    "revid": 754112936,
+    "timestamp": "2016-12-10T22:46:40Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Korean War */ added excess details to notes",
+    "parentid": 754112936,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> added excess details to notes</span>",
+    "revid": 754113958,
+    "timestamp": "2016-12-10T22:51:52Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* World War II */ tightened",
+    "parentid": 754113958,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> tightened</span>",
+    "revid": 754114709,
+    "timestamp": "2016-12-10T22:55:24Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Test pilot */ And that's it for me",
+    "parentid": 754114709,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Test_pilot\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Test pilot: </span> And that&#039;s it for me</span>",
+    "revid": 754115823,
+    "timestamp": "2016-12-10T22:59:17Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* World War II */ copy edit",
+    "parentid": 754115823,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> copy edit</span>",
+    "revid": 754116068,
+    "timestamp": "2016-12-10T22:59:59Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Test pilot */",
+    "parentid": 754116068,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Test_pilot\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Test pilot</span></span>",
+    "revid": 754116088,
+    "timestamp": "2016-12-10T23:00:03Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* Friendship 7 flight */ rm right stuff portion. it has been portayed in many more movies than that, if we keep it in we need to add the rest. chucked in a ton of info, going to copy-edit myself now",
+    "parentid": 754116088,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> rm right stuff portion. it has been portayed in many more movies than that, if we keep it in we need to add the rest. chucked in a ton of info, going to copy-edit myself now</span>",
+    "revid": 754116284,
+    "timestamp": "2016-12-10T23:00:37Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Korean War */",
+    "parentid": 754116284,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 754116773,
+    "timestamp": "2016-12-10T23:02:38Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* Notes */ ce",
+    "parentid": 754116773,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Notes\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Notes: </span> ce</span>",
+    "revid": 754117182,
+    "timestamp": "2016-12-10T23:04:27Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* World War II */",
+    "parentid": 754117182,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II</span></span>",
+    "revid": 754117346,
+    "timestamp": "2016-12-10T23:05:01Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* Friendship 7 flight */ ce first section",
+    "parentid": 754117346,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> ce first section</span>",
+    "revid": 754117597,
+    "timestamp": "2016-12-10T23:05:56Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* World War II */ -comma",
+    "parentid": 754117597,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> -comma</span>",
+    "revid": 754117608,
+    "timestamp": "2016-12-10T23:06:00Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* Friendship 7 flight */ ce second half",
+    "parentid": 754117608,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> ce second half</span>",
+    "revid": 754118005,
+    "timestamp": "2016-12-10T23:08:15Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* Military career */ Restore lost text",
+    "parentid": 754118005,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Military_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Military career: </span> Restore lost text</span>",
+    "revid": 754118083,
+    "timestamp": "2016-12-10T23:08:55Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* Notes */ rm stray character",
+    "parentid": 754118083,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Notes\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Notes: </span> rm stray character</span>",
+    "revid": 754118192,
+    "timestamp": "2016-12-10T23:09:45Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* Korean War */",
+    "parentid": 754118192,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 754118397,
+    "timestamp": "2016-12-10T23:10:52Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* Resignation */ added in some info on resignation reason",
+    "parentid": 754118397,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Resignation\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Resignation: </span> added in some info on resignation reason</span>",
+    "revid": 754118514,
+    "timestamp": "2016-12-10T23:11:48Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* World War II */ moved detail to notes - see talk",
+    "parentid": 754118514,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> moved detail to notes - see talk</span>",
+    "revid": 754118958,
+    "timestamp": "2016-12-10T23:15:41Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Korean War */ moved more trivia to notes - per talk",
+    "parentid": 754118958,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> moved more trivia to notes - per talk</span>",
+    "revid": 754119293,
+    "timestamp": "2016-12-10T23:17:53Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Korean War */ tightened; moved excess detail to notes",
+    "parentid": 754119293,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> tightened; moved excess detail to notes</span>",
+    "revid": 754119787,
+    "timestamp": "2016-12-10T23:21:22Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Military career */ Promoted colonel",
+    "parentid": 754119787,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Military_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Military career: </span> Promoted colonel</span>",
+    "revid": 754120186,
+    "timestamp": "2016-12-10T23:24:19Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* Korean War */",
+    "parentid": 754120186,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 754122528,
+    "timestamp": "2016-12-10T23:39:04Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* World War II */ moved detail to notes",
+    "parentid": 754122528,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> moved detail to notes</span>",
+    "revid": 754123054,
+    "timestamp": "2016-12-10T23:42:55Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* World War II */ tightened",
+    "parentid": 754123054,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> tightened</span>",
+    "revid": 754123279,
+    "timestamp": "2016-12-10T23:44:40Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Korean War */ new topic para",
+    "minor": "",
+    "parentid": 754123279,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> new topic para</span>",
+    "revid": 754123397,
+    "timestamp": "2016-12-10T23:45:40Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Korean War */ tightened",
+    "parentid": 754123397,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> tightened</span>",
+    "revid": 754123588,
+    "timestamp": "2016-12-10T23:47:19Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Korean War */ ce",
+    "parentid": 754123588,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> ce</span>",
+    "revid": 754123838,
+    "timestamp": "2016-12-10T23:49:00Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Test pilot */ rephrased OR",
+    "parentid": 754123838,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Test_pilot\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Test pilot: </span> rephrased OR</span>",
+    "revid": 754125046,
+    "timestamp": "2016-12-10T23:58:13Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Test pilot */ ce",
+    "minor": "",
+    "parentid": 754125046,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Test_pilot\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Test pilot: </span> ce</span>",
+    "revid": 754125367,
+    "timestamp": "2016-12-11T00:00:34Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "Reverted edits by [[Special:Contribs/Light show|Light show]] ([[User talk:Light show|talk]]) to last version by Hawkeye7",
+    "minor": "",
+    "parentid": 754125367,
+    "parsedcomment": "Reverted edits by <a href=\"/wiki/Special:Contributions/Light_show\" title=\"Special:Contributions/Light show\">Light show</a> (<a href=\"/wiki/User_talk:Light_show\" title=\"User talk:Light show\">talk</a>) to last version by Hawkeye7",
+    "revid": 754126291,
+    "timestamp": "2016-12-11T00:06:52Z",
+    "user": "Hawkeye7"
+  },
+  {
+    "comment": "/* Test pilot */ tightened excessive details to notes",
+    "parentid": 754126291,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Test_pilot\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Test pilot: </span> tightened excessive details to notes</span>",
+    "revid": 754126528,
+    "timestamp": "2016-12-11T00:08:39Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Friendship 7 flight */ added notes for details in linked main articles",
+    "parentid": 754126528,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> added notes for details in linked main articles</span>",
+    "revid": 754127115,
+    "timestamp": "2016-12-11T00:12:50Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Friendship 7 flight */ put excess details in notes; linked articles have all the flight figures",
+    "parentid": 754127115,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> put excess details in notes; linked articles have all the flight figures</span>",
+    "revid": 754127567,
+    "timestamp": "2016-12-11T00:16:06Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Friendship 7 flight */ ce",
+    "parentid": 754127567,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> ce</span>",
+    "revid": 754127796,
+    "timestamp": "2016-12-11T00:17:36Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "Undid revision 754126291 by [[Special:Contributions/Hawkeye7|Hawkeye7]] ([[User talk:Hawkeye7|talk]])Mass changes to multiple edits should be discussed.",
+    "parentid": 754127796,
+    "parsedcomment": "Undid revision 754126291 by <a href=\"/wiki/Special:Contributions/Hawkeye7\" title=\"Special:Contributions/Hawkeye7\">Hawkeye7</a> (<a href=\"/wiki/User_talk:Hawkeye7\" title=\"User talk:Hawkeye7\">talk</a>)Mass changes to multiple edits should be discussed.",
+    "revid": 754128215,
+    "timestamp": "2016-12-11T00:20:31Z",
+    "user": "Light show"
+  },
+  {
+    "anon": "",
+    "comment": "/* Korean War */",
+    "parentid": 754128215,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 754128515,
+    "timestamp": "2016-12-11T00:22:44Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754128515,
+    "parsedcomment": "",
+    "revid": 754128631,
+    "timestamp": "2016-12-11T00:23:50Z",
+    "user": "174.79.144.248"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754128631,
+    "parsedcomment": "",
+    "revid": 754128799,
+    "timestamp": "2016-12-11T00:25:14Z",
+    "user": "174.79.144.248"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754128799,
+    "parsedcomment": "",
+    "revid": 754128867,
+    "timestamp": "2016-12-11T00:25:48Z",
+    "user": "174.79.144.248"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754128867,
+    "parsedcomment": "",
+    "revid": 754128982,
+    "timestamp": "2016-12-11T00:26:46Z",
+    "user": "174.79.144.248"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754128982,
+    "parsedcomment": "",
+    "revid": 754129122,
+    "timestamp": "2016-12-11T00:27:44Z",
+    "user": "174.79.144.248"
+  },
+  {
+    "comment": "Reverted 5 edits by [[Special:Contributions/174.79.144.248|174.79.144.248]] ([[User talk:174.79.144.248|talk]]): No rationales for multiple edits. ([[WP:TW|TW]])",
+    "parentid": 754129122,
+    "parsedcomment": "Reverted 5 edits by <a href=\"/wiki/Special:Contributions/174.79.144.248\" title=\"Special:Contributions/174.79.144.248\">174.79.144.248</a> (<a href=\"/w/index.php?title=User_talk:174.79.144.248&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:174.79.144.248 (page does not exist)\">talk</a>): No rationales for multiple edits. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 754130203,
+    "timestamp": "2016-12-11T00:36:08Z",
+    "user": "Light show"
+  },
+  {
+    "anon": "",
+    "comment": "/* Early life and education */",
+    "parentid": 754130203,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life_and_education\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life and education</span></span>",
+    "revid": 754130223,
+    "timestamp": "2016-12-11T00:36:16Z",
+    "user": "107.77.206.20"
+  },
+  {
+    "anon": "",
+    "comment": "/* Korean War */",
+    "parentid": 754130223,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 754130229,
+    "timestamp": "2016-12-11T00:36:19Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "anon": "",
+    "comment": "/* Korean War */",
+    "parentid": 754130229,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 754130328,
+    "timestamp": "2016-12-11T00:37:07Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "anon": "",
+    "comment": "/* Korean War */",
+    "parentid": 754130328,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 754130417,
+    "timestamp": "2016-12-11T00:37:25Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "anon": "",
+    "comment": "/* Korean War */",
+    "parentid": 754130417,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 754130512,
+    "timestamp": "2016-12-11T00:38:06Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "anon": "",
+    "comment": "/* Korean War */",
+    "parentid": 754130512,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 754130602,
+    "timestamp": "2016-12-11T00:38:44Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "anon": "",
+    "comment": "/* Early life and education */",
+    "parentid": 754130602,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life_and_education\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life and education</span></span>",
+    "revid": 754130700,
+    "timestamp": "2016-12-11T00:39:32Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754130700,
+    "parsedcomment": "",
+    "revid": 754130790,
+    "timestamp": "2016-12-11T00:40:16Z",
+    "user": "178.148.49.131"
+  },
+  {
+    "comment": "Reverted 7 edits by [[Special:Contributions/178.148.49.131|178.148.49.131]] ([[User talk:178.148.49.131|talk]]): No rationales. ([[WP:TW|TW]])",
+    "parentid": 754130790,
+    "parsedcomment": "Reverted 7 edits by <a href=\"/wiki/Special:Contributions/178.148.49.131\" title=\"Special:Contributions/178.148.49.131\">178.148.49.131</a> (<a href=\"/wiki/User_talk:178.148.49.131\" title=\"User talk:178.148.49.131\">talk</a>): No rationales. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 754131688,
+    "timestamp": "2016-12-11T00:47:10Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Friendship 7 flight */ trimmed excess",
+    "parentid": 754131688,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> trimmed excess</span>",
+    "revid": 754132189,
+    "timestamp": "2016-12-11T00:51:21Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Military career */ formatting cite",
+    "parentid": 754132189,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Military_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Military career: </span> formatting cite</span>",
+    "revid": 754133398,
+    "timestamp": "2016-12-11T00:59:38Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Military career */ formatted cites",
+    "parentid": 754133398,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Military_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Military career: </span> formatted cites</span>",
+    "revid": 754133814,
+    "timestamp": "2016-12-11T01:02:11Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "Reverted to revision 754133398 by [[Special:Contributions/Light show|Light show]] ([[User talk:Light show|talk]]): Fixed gamed edits. ([[WP:TW|TW]])",
+    "parentid": 754133814,
+    "parsedcomment": "Reverted to revision 754133398 by <a href=\"/wiki/Special:Contributions/Light_show\" title=\"Special:Contributions/Light show\">Light show</a> (<a href=\"/wiki/User_talk:Light_show\" title=\"User talk:Light show\">talk</a>): Fixed gamed edits. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 754134715,
+    "timestamp": "2016-12-11T01:10:15Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "formatting",
+    "parentid": 754134715,
+    "parsedcomment": "formatting",
+    "revid": 754135072,
+    "timestamp": "2016-12-11T01:13:29Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Military career */ ce",
+    "parentid": 754135072,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Military_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Military career: </span> ce</span>",
+    "revid": 754135486,
+    "timestamp": "2016-12-11T01:16:53Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Military career */ formatting",
+    "parentid": 754135486,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Military_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Military career: </span> formatting</span>",
+    "revid": 754135900,
+    "timestamp": "2016-12-11T01:20:31Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Test pilot */ format",
+    "parentid": 754135900,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Test_pilot\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Test pilot: </span> format</span>",
+    "revid": 754136046,
+    "timestamp": "2016-12-11T01:21:50Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Test pilot */ formatting",
+    "parentid": 754136046,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Test_pilot\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Test pilot: </span> formatting</span>",
+    "revid": 754136310,
+    "timestamp": "2016-12-11T01:24:13Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Korean War */ ce",
+    "parentid": 754136310,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War: </span> ce</span>",
+    "revid": 754136404,
+    "timestamp": "2016-12-11T01:25:11Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* World War II */ ce",
+    "parentid": 754136404,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span> ce</span>",
+    "revid": 754136692,
+    "timestamp": "2016-12-11T01:27:43Z",
+    "user": "Light show"
+  },
+  {
+    "anon": "",
+    "comment": "removed false information",
+    "parentid": 754136692,
+    "parsedcomment": "removed false information",
+    "revid": 754137937,
+    "timestamp": "2016-12-11T01:39:37Z",
+    "user": "75.118.130.124"
+  },
+  {
+    "comment": "Trimmed paragraph 4 to highlight 1998 event and remove redundancy",
+    "minor": "",
+    "parentid": 754137937,
+    "parsedcomment": "Trimmed paragraph 4 to highlight 1998 event and remove redundancy",
+    "revid": 754142376,
+    "timestamp": "2016-12-11T02:16:09Z",
+    "user": "Martindo"
+  },
+  {
+    "anon": "",
+    "comment": "/* Korean War */",
+    "parentid": 754142376,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 754149313,
+    "timestamp": "2016-12-11T03:12:57Z",
+    "user": "108.51.235.104"
+  },
+  {
+    "comment": "ANY limit to pure blindness and stupidity? Graph called JHG both major and LTC at same time -- nonsense even without naked contradiction of 1959 LTC promo date. Descr. of stars & clusters was simply *total nonsense*, past space here to describe.",
+    "parentid": 754149313,
+    "parsedcomment": "ANY limit to pure blindness and stupidity? Graph called JHG both major and LTC at same time -- nonsense even without naked contradiction of 1959 LTC promo date. Descr. of stars &amp; clusters was simply *total nonsense*, past space here to describe.",
+    "revid": 754150347,
+    "timestamp": "2016-12-11T03:21:56Z",
+    "user": "Markwpowell64"
+  },
+  {
+    "comment": "",
+    "parentid": 754150347,
+    "parsedcomment": "",
+    "revid": 754175699,
+    "timestamp": "2016-12-11T07:18:28Z",
+    "user": "Therequiembellishere"
+  },
+  {
+    "comment": "raising to redirect",
+    "parentid": 754175699,
+    "parsedcomment": "raising to redirect",
+    "revid": 754190472,
+    "timestamp": "2016-12-11T09:33:54Z",
+    "user": "Buckshot06"
+  },
+  {
+    "comment": "/* Military career */ correction - full two years would have been June 1946",
+    "parentid": 754190472,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Military_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Military career: </span> correction - full two years would have been June 1946</span>",
+    "revid": 754191142,
+    "timestamp": "2016-12-11T09:38:37Z",
+    "user": "Buckshot06"
+  },
+  {
+    "comment": "[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]]",
+    "minor": "",
+    "parentid": 754191142,
+    "parsedcomment": "<a href=\"/wiki/Wikipedia:CHECKWIKI\" class=\"mw-redirect\" title=\"Wikipedia:CHECKWIKI\">WP:CHECKWIKI</a> error fixes using <a href=\"/wiki/Wikipedia:AWB\" class=\"mw-redirect\" title=\"Wikipedia:AWB\">AWB</a>",
+    "revid": 754198535,
+    "timestamp": "2016-12-11T10:40:31Z",
+    "user": "Yobot"
+  },
+  {
+    "anon": "",
+    "comment": "/* Training */ Fixed typo",
+    "parentid": 754198535,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Training\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Training: </span> Fixed typo</span>",
+    "revid": 754208955,
+    "timestamp": "2016-12-11T12:18:20Z",
+    "user": "174.1.236.46"
+  },
+  {
+    "comment": "/* Training */Typo fix",
+    "parentid": 754208955,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Training\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Training: </span>Typo fix</span>",
+    "revid": 754218182,
+    "timestamp": "2016-12-11T13:34:39Z",
+    "user": "DRosenbach"
+  },
+  {
+    "anon": "",
+    "comment": "/* Korean War */",
+    "parentid": 754218182,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Korean_War\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Korean War</span></span>",
+    "revid": 754233641,
+    "timestamp": "2016-12-11T15:30:30Z",
+    "user": "2600:8805:5800:F500:9C9D:6AB3:CBF8:A317"
+  },
+  {
+    "comment": "/* top */ , [[MOS:FLAG#Do not emphasize nationality without good reason|Do not emphasize nationality without good reason]]",
+    "parentid": 754233641,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#top\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">top: </span> , <a href=\"/wiki/MOS:FLAG#Do_not_emphasize_nationality_without_good_reason\" class=\"mw-redirect\" title=\"MOS:FLAG\">Do not emphasize nationality without good reason</a></span>",
+    "revid": 754246782,
+    "timestamp": "2016-12-11T17:08:09Z",
+    "user": "Mlpearc Phone"
+  },
+  {
+    "comment": "/* NASA career */ add italics to capsule names, factual correction",
+    "parentid": 754246782,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#NASA_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">NASA career: </span> add italics to capsule names, factual correction</span>",
+    "revid": 754249912,
+    "timestamp": "2016-12-11T17:29:02Z",
+    "user": "Randy Kryn"
+  },
+  {
+    "comment": "/* Return to space */ expanded return to space section",
+    "parentid": 754249912,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Return_to_space\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Return to space: </span> expanded return to space section</span>",
+    "revid": 754365950,
+    "timestamp": "2016-12-12T07:34:50Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "[[WP:CHECKWIKI]] error fix. Broken bracket problem. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. -, [[WP:AWB/T|typo(s) fixed]]: 4 hour \u2192 4-hour, a interservice \u2192 an interservice using [[Project:AWB|AWB]]",
+    "parentid": 754365950,
+    "parsedcomment": "<a href=\"/wiki/Wikipedia:CHECKWIKI\" class=\"mw-redirect\" title=\"Wikipedia:CHECKWIKI\">WP:CHECKWIKI</a> error fix. Broken bracket problem. Do <a href=\"/wiki/Wikipedia:GENFIXES\" class=\"mw-redirect\" title=\"Wikipedia:GENFIXES\">general fixes</a> and cleanup if needed. -, <a href=\"/wiki/Wikipedia:AWB/T\" class=\"mw-redirect\" title=\"Wikipedia:AWB/T\">typo(s) fixed</a>: 4 hour \u2192 4-hour, a interservice \u2192 an interservice using <a href=\"/wiki/Wikipedia:AWB\" class=\"mw-redirect\" title=\"Wikipedia:AWB\">AWB</a>",
+    "revid": 754372104,
+    "timestamp": "2016-12-12T08:42:38Z",
+    "user": "Bgwhite"
+  },
+  {
+    "anon": "",
+    "comment": "/* Early life and education */ Fixed conflicting information, clarity.",
+    "parentid": 754372104,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life_and_education\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life and education: </span> Fixed conflicting information, clarity.</span>",
+    "revid": 754372725,
+    "timestamp": "2016-12-12T08:49:09Z",
+    "user": "47.137.122.164"
+  },
+  {
+    "anon": "",
+    "comment": "/* Early life and education */ Redundant information consolidated then elliminated",
+    "parentid": 754372725,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Early_life_and_education\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Early life and education: </span> Redundant information consolidated then elliminated</span>",
+    "revid": 754372933,
+    "timestamp": "2016-12-12T08:51:37Z",
+    "user": "47.137.122.164"
+  },
+  {
+    "comment": "[[WP:CHECKWIKI]] error fix. Broken bracket problem. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. - using [[Project:AWB|AWB]]",
+    "parentid": 754372933,
+    "parsedcomment": "<a href=\"/wiki/Wikipedia:CHECKWIKI\" class=\"mw-redirect\" title=\"Wikipedia:CHECKWIKI\">WP:CHECKWIKI</a> error fix. Broken bracket problem. Do <a href=\"/wiki/Wikipedia:GENFIXES\" class=\"mw-redirect\" title=\"Wikipedia:GENFIXES\">general fixes</a> and cleanup if needed. - using <a href=\"/wiki/Wikipedia:AWB\" class=\"mw-redirect\" title=\"Wikipedia:AWB\">AWB</a>",
+    "revid": 754374563,
+    "timestamp": "2016-12-12T09:10:06Z",
+    "user": "Bgwhite"
+  },
+  {
+    "comment": "/* World War II */Added a hyphen to anti-aircraft.",
+    "parentid": 754374563,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#World_War_II\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">World War II: </span>Added a hyphen to anti-aircraft.</span>",
+    "revid": 754412437,
+    "timestamp": "2016-12-12T14:27:54Z",
+    "user": "Firemists"
+  },
+  {
+    "anon": "",
+    "comment": "/* Friendship 7 flight */ removing divisive content of no value",
+    "parentid": 754412437,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> removing divisive content of no value</span>",
+    "revid": 754427308,
+    "timestamp": "2016-12-12T16:11:15Z",
+    "user": "98.191.171.114"
+  },
+  {
+    "comment": "Reverted 1 edit by [[Special:Contributions/98.191.171.114|98.191.171.114]] ([[User talk:98.191.171.114|talk]]): Restore sourced content. ([[WP:TW|TW]])",
+    "parentid": 754427308,
+    "parsedcomment": "Reverted 1 edit by <a href=\"/wiki/Special:Contributions/98.191.171.114\" title=\"Special:Contributions/98.191.171.114\">98.191.171.114</a> (<a href=\"/w/index.php?title=User_talk:98.191.171.114&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:98.191.171.114 (page does not exist)\">talk</a>): Restore sourced content. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 754428978,
+    "timestamp": "2016-12-12T16:22:06Z",
+    "user": "General Ization"
+  },
+  {
+    "anon": "",
+    "comment": "/* Military career */",
+    "parentid": 754428978,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Military_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Military career</span></span>",
+    "revid": 754438672,
+    "timestamp": "2016-12-12T17:31:51Z",
+    "user": "209.147.23.18"
+  },
+  {
+    "comment": "Undid revision 754438672 by [[Special:Contributions/209.147.23.18|209.147.23.18]] ([[User talk:209.147.23.18|talk]])",
+    "parentid": 754438672,
+    "parsedcomment": "Undid revision 754438672 by <a href=\"/wiki/Special:Contributions/209.147.23.18\" title=\"Special:Contributions/209.147.23.18\">209.147.23.18</a> (<a href=\"/wiki/User_talk:209.147.23.18\" title=\"User talk:209.147.23.18\">talk</a>)",
+    "revid": 754441312,
+    "timestamp": "2016-12-12T17:50:15Z",
+    "user": "Fdewaele"
+  },
+  {
+    "comment": "/* Awards and honors */ Wording",
+    "parentid": 754441312,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Awards_and_honors\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Awards and honors: </span> Wording</span>",
+    "revid": 754450784,
+    "timestamp": "2016-12-12T18:54:03Z",
+    "user": "Joey1niner"
+  },
+  {
+    "comment": "/* Friendship 7 flight */ trimmed [[wp:synth|synth]] commentary.",
+    "parentid": 754450784,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> trimmed <a href=\"/wiki/Wikipedia:Synth\" class=\"mw-redirect\" title=\"Wikipedia:Synth\">synth</a> commentary.</span>",
+    "revid": 754451794,
+    "timestamp": "2016-12-12T19:01:04Z",
+    "user": "Light show"
+  },
+  {
+    "comment": "/* Personal life */",
+    "parentid": 754451794,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Personal_life\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Personal life</span></span>",
+    "revid": 754463660,
+    "timestamp": "2016-12-12T20:19:19Z",
+    "user": "Lakeshake"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754463660,
+    "parsedcomment": "",
+    "revid": 754485870,
+    "timestamp": "2016-12-12T22:42:53Z",
+    "user": "68.101.0.41"
+  },
+  {
+    "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/68.101.0.41|68.101.0.41]] ([[User talk:68.101.0.41|talk]]). ([[WP:TW|TW]])",
+    "parentid": 754485870,
+    "parsedcomment": "Reverted <a href=\"/wiki/Wikipedia:AGF\" class=\"mw-redirect\" title=\"Wikipedia:AGF\">good faith</a> edits by <a href=\"/wiki/Special:Contributions/68.101.0.41\" title=\"Special:Contributions/68.101.0.41\">68.101.0.41</a> (<a href=\"/wiki/User_talk:68.101.0.41\" title=\"User talk:68.101.0.41\">talk</a>). (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revid": 754492894,
+    "timestamp": "2016-12-12T23:30:57Z",
+    "user": "Kees08"
+  },
+  {
+    "anon": "",
+    "comment": "/* Military career */",
+    "parentid": 754492894,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Military_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Military career</span></span>",
+    "revid": 754497800,
+    "timestamp": "2016-12-13T00:06:39Z",
+    "user": "172.127.157.33"
+  },
+  {
+    "comment": "Undid revision 754497800 by [[Special:Contributions/172.127.157.33|172.127.157.33]] ([[User talk:172.127.157.33|talk]])",
+    "parentid": 754497800,
+    "parsedcomment": "Undid revision 754497800 by <a href=\"/wiki/Special:Contributions/172.127.157.33\" title=\"Special:Contributions/172.127.157.33\">172.127.157.33</a> (<a href=\"/w/index.php?title=User_talk:172.127.157.33&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:172.127.157.33 (page does not exist)\">talk</a>)",
+    "revid": 754498009,
+    "timestamp": "2016-12-13T00:08:22Z",
+    "user": "Shellwood"
+  },
+  {
+    "anon": "",
+    "comment": "/* Return to space */Fixed typo",
+    "parentid": 754498009,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Return_to_space\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Return to space: </span>Fixed typo</span>",
+    "revid": 754511919,
+    "timestamp": "2016-12-13T01:50:22Z",
+    "user": "2601:545:C000:AC88:74D8:CA91:82BB:28EF"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754511919,
+    "parsedcomment": "",
+    "revid": 754524676,
+    "timestamp": "2016-12-13T03:34:32Z",
+    "user": "217.248.37.185"
+  },
+  {
+    "comment": "/* Friendship 7 flight */ added some info",
+    "parentid": 754524676,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> added some info</span>",
+    "revid": 754533023,
+    "timestamp": "2016-12-13T04:41:21Z",
+    "user": "Kees08"
+  },
+  {
+    "comment": "/* ''Friendship 7'' flight */[[WP:CHECKWIKI]] error fix.  Broken bracket.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -",
+    "minor": "",
+    "parentid": 754533023,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#.27.27Friendship_7.27.27_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">&#039;&#039;Friendship 7&#039;&#039; flight: </span><a href=\"/wiki/Wikipedia:CHECKWIKI\" class=\"mw-redirect\" title=\"Wikipedia:CHECKWIKI\">WP:CHECKWIKI</a> error fix.  Broken bracket.  Do <a href=\"/wiki/Wikipedia:GENFIXES\" class=\"mw-redirect\" title=\"Wikipedia:GENFIXES\">general fixes</a> if a problem exists. -</span>",
+    "revid": 754540831,
+    "timestamp": "2016-12-13T05:59:53Z",
+    "user": "BG19bot"
+  },
+  {
+    "comment": "[[WP:CHECKWIKI]] error fix. Broken bracket problem. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. - using [[Project:AWB|AWB]]",
+    "parentid": 754540831,
+    "parsedcomment": "<a href=\"/wiki/Wikipedia:CHECKWIKI\" class=\"mw-redirect\" title=\"Wikipedia:CHECKWIKI\">WP:CHECKWIKI</a> error fix. Broken bracket problem. Do <a href=\"/wiki/Wikipedia:GENFIXES\" class=\"mw-redirect\" title=\"Wikipedia:GENFIXES\">general fixes</a> and cleanup if needed. - using <a href=\"/wiki/Wikipedia:AWB\" class=\"mw-redirect\" title=\"Wikipedia:AWB\">AWB</a>",
+    "revid": 754543609,
+    "timestamp": "2016-12-13T06:26:23Z",
+    "user": "Bgwhite"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754543609,
+    "parsedcomment": "",
+    "revid": 754563349,
+    "timestamp": "2016-12-13T09:35:26Z",
+    "user": "129.215.171.13"
+  },
+  {
+    "anon": "",
+    "comment": "Fixed typo",
+    "parentid": 754563349,
+    "parsedcomment": "Fixed typo",
+    "revid": 754594658,
+    "timestamp": "2016-12-13T14:01:33Z",
+    "user": "216.12.41.72"
+  },
+  {
+    "comment": "He never landed on moon",
+    "parentid": 754594658,
+    "parsedcomment": "He never landed on moon",
+    "revid": 754594853,
+    "timestamp": "2016-12-13T14:03:08Z",
+    "user": "Spparky"
+  },
+  {
+    "comment": "Fixed vandalism w/o removing a good sentence",
+    "minor": "",
+    "parentid": 754594853,
+    "parsedcomment": "Fixed vandalism w/o removing a good sentence",
+    "revid": 754602146,
+    "timestamp": "2016-12-13T15:00:14Z",
+    "user": "JustinTime55"
+  },
+  {
+    "comment": "/* Friendship 7 flight */ Correct grammar (forgotten word)",
+    "minor": "",
+    "parentid": 754602146,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Friendship_7_flight\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Friendship 7 flight: </span> Correct grammar (forgotten word)</span>",
+    "revid": 754602550,
+    "timestamp": "2016-12-13T15:02:35Z",
+    "user": "JustinTime55"
+  },
+  {
+    "anon": "",
+    "comment": "/* Return to space */ Minor grammatical correction (added an apostrophe in \"flight's\")",
+    "parentid": 754602550,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Return_to_space\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Return to space: </span> Minor grammatical correction (added an apostrophe in &quot;flight&#039;s&quot;)</span>",
+    "revid": 754613551,
+    "timestamp": "2016-12-13T16:13:03Z",
+    "user": "2604:6000:1110:20D3:551:BCF8:62A2:B82C"
+  },
+  {
+    "comment": "/* Public appearances and ceremonies */ fix dead link",
+    "parentid": 754613551,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Public_appearances_and_ceremonies\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Public appearances and ceremonies: </span> fix dead link</span>",
+    "revid": 754770912,
+    "timestamp": "2016-12-14T11:50:43Z",
+    "user": "Kges1901"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754770912,
+    "parsedcomment": "",
+    "revid": 754797898,
+    "timestamp": "2016-12-14T15:46:44Z",
+    "user": "192.43.65.193"
+  },
+  {
+    "anon": "",
+    "comment": "",
+    "parentid": 754797898,
+    "parsedcomment": "",
+    "revid": 754798035,
+    "timestamp": "2016-12-14T15:47:49Z",
+    "user": "192.43.65.193"
+  },
+  {
+    "comment": "Rvv",
+    "minor": "",
+    "parentid": 754798035,
+    "parsedcomment": "Rvv",
+    "revid": 754805691,
+    "timestamp": "2016-12-14T16:33:06Z",
+    "user": "JustinTime55"
+  },
+  {
+    "anon": "",
+    "comment": "Add missing link",
+    "parentid": 754805691,
+    "parsedcomment": "Add missing link",
+    "revid": 754820081,
+    "timestamp": "2016-12-14T18:11:10Z",
+    "user": "185.133.75.158"
+  },
+  {
+    "comment": "Undid revision 754820081 by [[Special:Contributions/185.133.75.158|185.133.75.158]] ([[User talk:185.133.75.158|talk]]) Not missing; [[WP:REPEATLINK]]",
+    "minor": "",
+    "parentid": 754820081,
+    "parsedcomment": "Undid revision 754820081 by <a href=\"/wiki/Special:Contributions/185.133.75.158\" title=\"Special:Contributions/185.133.75.158\">185.133.75.158</a> (<a href=\"/w/index.php?title=User_talk:185.133.75.158&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:185.133.75.158 (page does not exist)\">talk</a>) Not missing; <a href=\"/wiki/Wikipedia:REPEATLINK\" class=\"mw-redirect\" title=\"Wikipedia:REPEATLINK\">WP:REPEATLINK</a>",
+    "revid": 754851891,
+    "timestamp": "2016-12-14T21:12:03Z",
+    "user": "JustinTime55"
+  },
+  {
+    "comment": "/* Military career */ changing link from [[major]] to [[Major (United States)]]",
+    "parentid": 754851891,
+    "parsedcomment": "<a href=\"/wiki/John_Glenn#Military_career\" title=\"John Glenn\">\u2192</a>\u200e<span dir=\"auto\"><span class=\"autocomment\">Military career: </span> changing link from <a href=\"/wiki/Major\" title=\"Major\">major</a> to <a href=\"/wiki/Major_(United_States)\" title=\"Major (United States)\">Major (United States)</a></span>",
+    "revid": 754941597,
+    "timestamp": "2016-12-15T09:56:24Z",
+    "user": "TomStar81"
+  }
+]

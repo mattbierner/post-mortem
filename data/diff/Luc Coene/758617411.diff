@@ -1,0 +1,43 @@
+--- 728456637
++++ 758617411
+@@ -9 +9,8 @@
+- , 11 March 1947) is a
++ , 11 March
++ <ins>
++  1947- died 5 January 2017) was
++ </ins>
++ <del>
++  1947) is
++ </del>
++ a
+@@ -13,5 +20,21 @@
+- economist and has been from April 2011 till March 2015 Governor of the
+- <a href="/wiki/National_Bank_of_Belgium" title="National Bank of Belgium">
+-  National Bank of Belgium
+- </a>
+- (NBB).
++ <ins>
++  economist. He was Governor of the
++  <a href="/wiki/National_Bank_of_Belgium" title="National Bank of Belgium">
++   National Bank of Belgium
++  </a>
++  (NBB)
++ </ins>
++ <del>
++  economist and has been
++ </del>
++ from April 2011
++ <ins>
++  until March 2015 .
++ </ins>
++ <del>
++  till March 2015 Governor of the
++  <a href="/wiki/National_Bank_of_Belgium" title="National Bank of Belgium">
++   National Bank of Belgium
++  </a>
++  (NBB).
++ </del>
+@@ -137 +160 @@
+-</ul>
++</ul>
+\ No newline at end of file
