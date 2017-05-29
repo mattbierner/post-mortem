@@ -26215,7 +26215,7 @@ var Timeline = (function (_super) {
             }
         }
         var center = timestamp
-            ? React.createElement("span", { className: 'timeline-time', "data-date-long": timestamp.format('MMMM Do YYYY, h:mm:ss a'), "data-date-short": timestamp.format('MMM D, YYYY, H:mm:ssq') })
+            ? React.createElement("span", { className: 'timeline-time', "data-date-long": timestamp.format('MMMM Do YYYY, h:mm:ss a'), "data-date-short": timestamp.format('MMM D, YYYY, H:mm:ss') })
             : '';
         return React.createElement("div", { className: 'timeline' },
             React.createElement("div", { className: 'timeline-content', onMouseDown: this.onMouseDown.bind(this), onMouseUp: this.onMouseUp.bind(this), onMouseMove: this.onMouseMove.bind(this) },

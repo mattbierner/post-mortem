@@ -232,7 +232,7 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
         const center = timestamp
             ? <span className='timeline-time'
                 data-date-long={timestamp.format('MMMM Do YYYY, h:mm:ss a')}
-                data-date-short={timestamp.format('MMM D, YYYY, H:mm:ssq')} />
+                data-date-short={timestamp.format('MMM D, YYYY, H:mm:ss')} />
             : ''
 
         return <div className='timeline'>

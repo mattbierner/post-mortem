@@ -1,3 +1,3 @@
-WIP
+gh-pages branch for website
 
-https://en.wikipedia.org/wiki/Special:ApiSandbox#action=query&format=json&prop=revisions&titles=Main+Page&rvprop=content&rvlimit=100
+See http://github.com/mattbierner/post-mortem for information about the project and scripts used to generate source data
