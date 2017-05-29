@@ -1,14 +1,11 @@
-# Post Mortem
-
-
-**Links**
+![Post Mortem](assets/logo.png)
 
 - [Site](https://mattbierner.github.io/post-mortem/)
 - [Post](http://blog.mattbierner.com/post-mortem)
 
 
 # About
-*Post Mortem* is a small project that examines how a person's Wikipedia page changes in the week or following their death. My initial interest was in the transaction from present to past tense, but it is also interesting to look at how shared knowledge evolves following an event. 
+*Post Mortem* is a small project that examines how a person's Wikipedia page changes in the week following their death. My initial interest was in the transaction from present to past tense, but it is also interesting to look at how shared knowledge evolves following an event. 
 
 The site allows you to explore data for 12 people, everyone from George Harrison—who died less than a year after Wikipedia started—to Luc Coene—an Belgian economist who died in January 2017 and whose name I picked at random.
 
