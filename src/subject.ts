@@ -1,6 +1,6 @@
 import * as moment from 'moment'
-
-import XMLHttpRequestPromise = require('xhr-promise');
+import XMLHttpRequestPromise = require('xhr-promise')
+import { APIROOT } from './config'
 
 interface RevisionData {
     comment: string
@@ -16,20 +16,21 @@ const loadSubjectJson = (name: string): Promise<Revision[]> => {
     const xhr = new (XMLHttpRequestPromise as any)();
     return xhr.send({
         method: 'GET',
-        url: `./data/revisions/${name}.json`,
+        url: `${APIROOT}/data/revisions/${name}.json`,
     }).then((response: any) => {
-        const revisions: Array<Revision> = response.responseText.map((x: RevisionData): Revision => {
-            const timestamp = moment(x.timestamp)
-            return {
-                comment: x.comment,
-                parentid: x.parentid,
-                parsedcomment: x.parsedcomment,
-                revid: x.revid,
-                user: x.user,
-                timestamp: timestamp,
-                delta: 0
-            }
-        });
+        const revisions: Array<Revision> = JSON.parse(response.responseText)
+            .map((x: RevisionData): Revision => {
+                const timestamp = moment(x.timestamp)
+                return {
+                    comment: x.comment,
+                    parentid: x.parentid,
+                    parsedcomment: x.parsedcomment,
+                    revid: x.revid,
+                    user: x.user,
+                    timestamp: timestamp,
+                    delta: 0
+                }
+            });
 
         return revisions;
     })

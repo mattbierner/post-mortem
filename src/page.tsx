@@ -3,9 +3,10 @@ import styled from 'styled-components';
 import XMLHttpRequestPromise = require('xhr-promise');
 import * as diff from 'diff'
 import { Subject } from './subject';
+import { APIROOT } from './config';
+
 
 const page = require('raw-loader!./page.html');
-
 
 
 const getContent = (url: string): Promise<string> => {
@@ -22,11 +23,11 @@ const getContent = (url: string): Promise<string> => {
 }
 
 const getBaseContent = (subject: Subject): Promise<string> =>
-    getContent(`./data/content/${subject.name}/${subject.base.revid}.html`);
+    getContent(`${APIROOT}/data/content/${subject.name}/${subject.base.revid}.html`);
 
 
 const getDiffContent = (subject: Subject, revision: string): Promise<string> =>
-    getContent(`./data/diff/${subject.name}/${revision}.diff`);
+    getContent(`${APIROOT}/data/diff/${subject.name}/${revision}.diff`);
 
 
 const applyPatch = (patch: diff.IUniDiff, input: string): string => {
