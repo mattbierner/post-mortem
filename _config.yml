@@ -1,0 +1,9 @@
+exclude:
+  data/
+  node_modules/
+  src/
+  LICENSE
+  package.json
+  README.md
+  tsconfig.json
+  webpack.config.js
