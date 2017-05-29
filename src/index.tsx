@@ -119,9 +119,9 @@ class Index extends React.Component<null, IndexState> {
                         <img className='logo' alt='Post Mortem' src='assets/logo.svg' />
                         <div>
                             <nav>
-                                <a href="#">About</a>
-                                <a href="#">Source</a>
-                                <a href="#">Post</a>
+                                <a href="https://github.com/mattbierner/post-mortem#about">About</a>
+                                <a href="https://github.com/mattbierner/post-mortem">Source</a>
+                                <a href="http://blog.mattbierner.com/post-mortem">Post</a>
                             </nav>
                             <SubjectSelector
                                 subjects={this.state.subjectInfo}
