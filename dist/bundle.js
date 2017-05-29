@@ -25829,7 +25829,7 @@ var Page = (function (_super) {
     };
     Page.prototype.render = function () {
         var _this = this;
-        return (React.createElement("div", { className: 'wrapper main-content', style: { flex: 1 } },
+        return (React.createElement("div", { className: 'wrapper main-content', style: { flex: 1, display: 'flex' } },
             React.createElement("article", { className: 'page' },
                 React.createElement("iframe", { sandbox: 'allow-scripts allow-same-origin', frameBorder: '0', style: { flex: 1 }, srcDoc: page, ref: function (element) { _this._iframe = element; }, onLoad: this.onLoad.bind(this) }),
                 React.createElement("div", { className: 'loading', style: { display: this.state.loading ? 'block' : 'none' } },

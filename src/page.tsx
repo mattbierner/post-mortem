@@ -124,7 +124,7 @@ export default class Page extends React.Component<PageProps, PageState> {
 
     render() {
         return (
-            <div className='wrapper main-content' style={{ flex: 1 }}>
+            <div className='wrapper main-content' style={{ flex: 1, display: 'flex' }}>
                 <article className='page'>
                     <iframe
                         sandbox='allow-scripts allow-same-origin'
