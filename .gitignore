@@ -33,3 +33,4 @@ data/content
 data/raw
 *.pyc
 .vscode/.ropeproject
+dist/
