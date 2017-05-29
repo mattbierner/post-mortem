@@ -67,7 +67,7 @@ a:hover {
     }
 }
 
-@media only screen and (max-width: 850px)  {
+@media only screen and (max-width: 850px), screen and (max-height: 500px)  {
     .wrapper {
         padding-left: 0;
         max-width: 600px;

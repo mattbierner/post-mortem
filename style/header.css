@@ -50,7 +50,7 @@ header select {
     display: inline-block;
 }
 
-@media only screen and (max-width: 850px)  {
+@media only screen and (max-width: 850px), screen and (max-height: 500px)  {
     .left-content > * {
         width: 100%;
         position: initial;
@@ -68,7 +68,7 @@ header select {
     }
 }
 
-@media only screen and (max-width: 600px)  {
+@media only screen and (max-width: 600px), screen and (max-height: 500px)  {
 
     header .logo {
         height: 100px;

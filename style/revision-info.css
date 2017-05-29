@@ -37,7 +37,7 @@
     padding: 2em 0;
 }
 
-@media only screen and (max-width: 850px)  {
+@media only screen and (max-width: 850px), screen and (max-height: 500px) {
     .revision-info {
         font-size: 0.8em;
     }
