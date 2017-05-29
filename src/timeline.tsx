@@ -2,21 +2,27 @@ import * as React from 'react'
 import * as ReactDOM from 'react-dom'
 import * as moment from 'moment'
 const rwc = require('random-weighted-choice')
+const randomcolor = require('randomcolor')
 
 import { Subject, Revision } from './subject'
 import Controls from "./controls";
 
 const SPAN = 1000 * 60 * 60 * 24 * 7
 
-class MarkerPositioner {
+const toRgb = (entry: number) =>
+    [(entry & 0xff0000) >> 16, (entry & 0x00ff00) >> 8, entry & 0x0000ff]
+
+class MarkerPlacer {
 
     private positions: Map<number, number>;
+    private colors: Map<number, string>;
 
     constructor(revisions: Revision[]) {
         this.positions = new Map()
+        this.colors = new Map()
 
-        const step = 5
-        const count = 5
+        const step = 2
+        const count = 12
         const table = []
         table.push({ weight: count + 1, id: 0 })
         for (let i = 1; i <= count; ++i) {
@@ -27,24 +33,35 @@ class MarkerPositioner {
         for (const r of revisions) {
             const d = rwc(table)
             this.positions.set(r.revid, d)
+            this.colors.set(r.revid, randomcolor({
+                luminosity: 'light',
+                hue: 'blue',
+                format: 'rgba',
+                alpha: 0.70
+            }))
         }
     }
 
-    get(revision: Revision) {
+    getPosition(revision: Revision): number {
         return this.positions.get(revision.revid) || 0
+    }
+
+    getColor(revision: Revision): string {
+        return this.colors.get(revision.revid)
     }
 }
 
 class RevisionMarker extends React.Component<{
     revision: Revision,
     isCurrent: boolean,
-    positioner: MarkerPositioner
+    positioner: MarkerPlacer
 }, null> {
     render() {
         const style: any = {
             position: 'absolute',
             left: this.props.revision.delta / SPAN * 100 + '%',
-            marginTop: this.props.positioner.get(this.props.revision) + 'px'
+            marginTop: this.props.positioner.getPosition(this.props.revision) + 'px',
+            background: this.props.positioner.getColor(this.props.revision)
         }
         return <li
             className={'revision-marker ' + (this.props.isCurrent ? 'current-revision' : '')}
@@ -128,7 +145,7 @@ interface TimelineState {
 export default class Timeline extends React.Component<TimelineProps, TimelineState> {
     private revisionMarkers: any[];
 
-    private positioner?: MarkerPositioner
+    private positioner?: MarkerPlacer
 
     constructor(props: TimelineProps) {
         super()
@@ -138,7 +155,7 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
         }
 
         if (props.subject) {
-            this.positioner = new MarkerPositioner(props.subject.revisions)
+            this.positioner = new MarkerPlacer(props.subject.revisions)
 
             this.updateRevisionMarkers(props.subject)
         }
@@ -146,7 +163,7 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
 
     componentWillReceiveProps(newProps: TimelineProps) {
         if (newProps.subject !== this.props.subject) {
-            this.positioner = new MarkerPositioner(newProps.subject.revisions)
+            this.positioner = new MarkerPlacer(newProps.subject.revisions)
             this.updateRevisionMarkers(newProps.subject)
         }
     }
@@ -204,16 +221,18 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
         let currentRevision: any = ''
         if (this.props.subject && !isNaN(this.props.revisionIndex)) {
             const revision = this.props.subject.revisions[this.props.revisionIndex]
-            currentRevision = <RevisionMarker
-                revision={revision}
-                isCurrent={true}
-                positioner={this.positioner} />
+            if (revision) {
+                currentRevision = <RevisionMarker
+                    revision={revision}
+                    isCurrent={true}
+                    positioner={this.positioner} />
+            }
         }
 
         const center = timestamp
             ? <span className='timeline-time'
                 data-date-long={timestamp.format('MMMM Do YYYY, h:mm:ss a')}
-                data-date-short={timestamp.format('MMM D, YYYY, H:mm:ss')} />
+                data-date-short={timestamp.format('MMM D, YYYY, H:mm:ssq')} />
             : ''
 
         return <div className='timeline'>

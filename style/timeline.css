@@ -31,19 +31,18 @@
     list-style: none;
 }
 
-.revision-marker:before {
-    content: '';
+.revision-marker {
     display: block;
     width: 10px;
     height: 10px;
     margin-left: -5px;
     margin-top: -5px;
     border-radius: 99px;
-    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.2);
 }
 
-.revision-marker.current-revision:before {
-    background: #FF7697;
+.revision-marker.current-revision {
+    background: #FF7697 !important;
     z-index: 10;
 }
 
