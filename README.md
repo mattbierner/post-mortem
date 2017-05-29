@@ -1,4 +1,6 @@
-![Post Mortem](assets/logo.png)
+<div align="center">
+    <img title="Post Mortem" src="assets/logo.png" />
+</div>
 
 - [Site](https://mattbierner.github.io/post-mortem/)
 - [Post](http://blog.mattbierner.com/post-mortem)
