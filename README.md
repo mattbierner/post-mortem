@@ -32,6 +32,34 @@ A few points I found it interesting to look at:
 
 Only the main contents of the page are shown. Changes to references or to the info box are not included. This means that not every revision may result in a change to displayed page contents.
 
+# Code
+The `master` branch contains the python scripts used to collect the Wikipedia data and generate the diffs while the `gh-pages` branch has the code used for the website
+
+### Generating Diff Data
+A set of python scripts that:
+
+- Get basic revision info for the week following a person's death
+- Download and scrub the wikipedia page html to only include main content
+- Generate diffs from each revision against the original contents
+
+To get started, run:
+
+```bash
+pip install
+```
+
+The `main.py` scripts does all the above steps automatically. 
+
+```
+python scripts/main.py --name "Donna Summer" --base 493040889 --first 493040905 --outdir ./data/
+```
+
+- `name` - Title of the wikipedia page to collect data from
+- `base` - Starting revision. This should be the first revision before the person's death is reported. Used as the baseline for the diffs
+- `first` - First revision that reports that person's death. A weeks worth of revisions will be collecting from this point
+- `outdir` - File to write results to 
+
+The main generated data of interest are in `OUTDIR/revisions/` which is a json file of basic revision data and `OUTDIR/diff/` which contains diff files of each revision against `base`
 
 
 # License
