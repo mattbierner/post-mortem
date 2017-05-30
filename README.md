@@ -1,11 +1,12 @@
 <div align="center">
-    <img title="Post Mortem" src="assets/logo.png" />
+    <img title="Post Mortem" src="documentation/bowie.gif" />
 </div>
 
-<div align="center">
-    <p><a href="https://mattbierner.github.io/post-mortem/">Site</a></p>
-    <p><a href="http://blog.mattbierner.com/post-mortem">Post</a></p>
-</div>
+
+**Links**
+
+- [Site](https://mattbierner.github.io/post-mortem/)
+- [Post](http://blog.mattbierner.com/post-mortem)
 
 
 # About
