@@ -88,7 +88,7 @@ class Index extends React.Component<null, IndexState> {
 
         this.setState({
             revision: previous ? '' + previous.revid : undefined,
-            revisionIndex: previous ? i : undefined
+            revisionIndex: previous ? subject.revisions.length - 1 : undefined
         })
     }
 
@@ -109,7 +109,6 @@ class Index extends React.Component<null, IndexState> {
             progress: revision.delta / SPAN
         })
     }
-
 
     render() {
         return (

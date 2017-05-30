@@ -34290,7 +34290,7 @@ var Index = (function (_super) {
         }
         this.setState({
             revision: previous ? '' + previous.revid : undefined,
-            revisionIndex: previous ? i : undefined
+            revisionIndex: previous ? subject.revisions.length - 1 : undefined
         });
     };
     Index.prototype.onChangeRevision = function (index) {
