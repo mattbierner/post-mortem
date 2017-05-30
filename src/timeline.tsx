@@ -181,34 +181,52 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
 
     private onMouseDown(event: any) {
         if (this.state.dragging)
-            return;
+            return
         this.setState({ dragging: true })
-        const progress = this.getProgressFromMouseEvent(event);
-        this.props.onDrag(progress);
+        const progress = this.getProgressFromMouseEvent(event)
+        this.props.onDrag(progress)
     }
 
     private onMouseUp(event: React.MouseEvent<Timeline>) {
         if (!this.state.dragging)
-            return;
-        this.setState({ dragging: false });
-        const progress = this.getProgressFromMouseEvent(event);
-        this.props.onDrag(progress);
+            return
+        this.setState({ dragging: false })
+        const progress = this.getProgressFromMouseEvent(event)
+        this.props.onDrag(progress)
     }
 
     private onMouseMove(event: React.MouseEvent<Timeline>) {
         if (!this.state.dragging)
-            return;
-        event.stopPropagation();
-        event.nativeEvent.stopImmediatePropagation();
+            return
+        event.stopPropagation()
+        event.nativeEvent.stopImmediatePropagation()
 
-        const progress = this.getProgressFromMouseEvent(event);
-        this.props.onDrag(progress);
+        const progress = this.getProgressFromMouseEvent(event)
+        this.props.onDrag(progress)
+    }
+
+    private onTouch(event: React.TouchEvent<Timeline>) {
+        if (event.touches.length) {
+            event.stopPropagation()
+            event.nativeEvent.stopImmediatePropagation()
+
+            const progress = this.getProgressFromTouchEvent(event)
+            this.props.onDrag(progress)
+        }
     }
 
     private getProgressFromMouseEvent(event: React.MouseEvent<Timeline>) {
+        return this.getProgressFromEvent(event.pageX)
+    }
+
+    private getProgressFromTouchEvent(event: React.TouchEvent<Timeline>) {
+        return this.getProgressFromEvent(event.touches[0].pageX)
+    }
+
+    private getProgressFromEvent(x: number) {
         const node = ReactDOM.findDOMNode(this).getElementsByClassName('timeline-content')[0];
         const rect = node.getBoundingClientRect();
-        const progress = Math.max(0, Math.min(1.0, (event.pageX - rect.left) / rect.width));
+        const progress = Math.max(0, Math.min(1.0, (x - rect.left) / rect.width));
         return progress
     }
 
@@ -239,7 +257,10 @@ export default class Timeline extends React.Component<TimelineProps, TimelineSta
             <div className='timeline-content'
                 onMouseDown={this.onMouseDown.bind(this)}
                 onMouseUp={this.onMouseUp.bind(this)}
-                onMouseMove={this.onMouseMove.bind(this)}>
+                onMouseMove={this.onMouseMove.bind(this)}
+                onTouchStart={this.onTouch.bind(this)}
+                onTouchMove={this.onTouch.bind(this)}
+                onTouchEnd={this.onTouch.bind(this)}>
                 <TimelineTicks duration={SPAN} />
                 <ol>
                     {this.revisionMarkers}

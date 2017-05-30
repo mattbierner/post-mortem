@@ -26207,10 +26207,24 @@ var Timeline = (function (_super) {
         var progress = this.getProgressFromMouseEvent(event);
         this.props.onDrag(progress);
     };
+    Timeline.prototype.onTouch = function (event) {
+        if (event.touches.length) {
+            event.stopPropagation();
+            event.nativeEvent.stopImmediatePropagation();
+            var progress = this.getProgressFromTouchEvent(event);
+            this.props.onDrag(progress);
+        }
+    };
     Timeline.prototype.getProgressFromMouseEvent = function (event) {
+        return this.getProgressFromEvent(event.pageX);
+    };
+    Timeline.prototype.getProgressFromTouchEvent = function (event) {
+        return this.getProgressFromEvent(event.touches[0].pageX);
+    };
+    Timeline.prototype.getProgressFromEvent = function (x) {
         var node = ReactDOM.findDOMNode(this).getElementsByClassName('timeline-content')[0];
         var rect = node.getBoundingClientRect();
-        var progress = Math.max(0, Math.min(1.0, (event.pageX - rect.left) / rect.width));
+        var progress = Math.max(0, Math.min(1.0, (x - rect.left) / rect.width));
         return progress;
     };
     Timeline.prototype.render = function () {
@@ -26229,7 +26243,7 @@ var Timeline = (function (_super) {
             ? React.createElement("span", { className: 'timeline-time', "data-date-long": timestamp.format('MMMM Do YYYY, h:mm:ss a'), "data-date-short": timestamp.format('MMM D, YYYY, H:mm:ss') })
             : '';
         return React.createElement("div", { className: 'timeline' },
-            React.createElement("div", { className: 'timeline-content', onMouseDown: this.onMouseDown.bind(this), onMouseUp: this.onMouseUp.bind(this), onMouseMove: this.onMouseMove.bind(this) },
+            React.createElement("div", { className: 'timeline-content', onMouseDown: this.onMouseDown.bind(this), onMouseUp: this.onMouseUp.bind(this), onMouseMove: this.onMouseMove.bind(this), onTouchStart: this.onTouch.bind(this), onTouchMove: this.onTouch.bind(this), onTouchEnd: this.onTouch.bind(this) },
                 React.createElement(TimelineTicks, { duration: SPAN }),
                 React.createElement("ol", null,
                     this.revisionMarkers,
@@ -34586,7 +34600,7 @@ webpackContext.id = 214;
 /* 215 */
 /***/ (function(module, exports) {
 
-module.exports = "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"utf-8\">\n    <title>Page</title>\n    <base href=\"https://en.wikipedia.org\">\n\n    <link rel=\"stylesheet\" href=\"/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector\"\n    />\n    <link rel=\"stylesheet\" href=\"/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector\"\n    />\n\n\n    <style>\n        body {\n            background-color: transparent;\n            margin: 0 10px;\n        }\n\n        body>*:first-child {\n            margin-top: 30px\n        }\n\n        body>*:last-child {\n            margin-bottom: 60px;\n        }\n\n        ins {\n            background: #85f985;\n            text-decoration: none;\n        }\n\n        del {\n            background: #ff7697;\n            text-decoration: none;\n        }\n\n        @media only screen and (max-width: 850px) {\n            body>*:first-child {\n                margin-top: 8px;\n                ;\n            }\n        }\n    </style>\n    <script>\n        window.addEventListener('DOMContentLoaded', () => {\n            document.body.addEventListener('click', () => {\n                var node = event.target;\n                while (node) {\n                    if (node.tagName === \"A\" && node.href) {\n                        var baseElement = event.view.document.getElementsByTagName(\"base\")[0];\n                        if (node.getAttribute(\"href\") === \"#\") {\n                            event.view.scrollTo(0, 0);\n                        } else if (node.hash && (node.getAttribute(\"href\") === node.hash || (baseElement && node.href.indexOf(baseElement.href) >= 0))) {\n                            var scrollTarget = event.view.document.getElementById(node.hash.substr(1, node.hash.length - 1));\n                            if (scrollTarget) {\n                                scrollTarget.scrollIntoView();\n                            }\n                        } else {\n                            window.parent.open(node.href);\n                        }\n                        event.preventDefault();\n                        break;\n                    }\n                    node = node.parentNode;\n                }\n            })\n        })\n\n        window.addEventListener('message', (event) => {\n            if (!event.data) {\n                return\n            }\n\n            if (event.data.scrollTop) {\n                window.scrollTo(0, 0);\n            }\n\n            document.body.innerHTML = event.data.content\n        });\n    </script>\n</head>\n\n<body class=\"mw-body-content\">\n</body>\n\n</html>"
+module.exports = "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no\">\n    <title>Page</title>\n    <base href=\"https://en.wikipedia.org\">\n\n    <link rel=\"stylesheet\" href=\"/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector\"\n    />\n    <link rel=\"stylesheet\" href=\"/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector\"\n    />\n\n\n    <style>\n        body {\n            background-color: transparent;\n            margin: 0 10px;\n        }\n\n        body>*:first-child {\n            margin-top: 30px\n        }\n\n        body>*:last-child {\n            margin-bottom: 60px;\n        }\n\n        ins {\n            background: #85f985;\n            text-decoration: none;\n        }\n\n        del {\n            background: #ff7697;\n            text-decoration: none;\n        }\n\n        @media only screen and (max-width: 850px) {\n            body>*:first-child {\n                margin-top: 8px;\n                ;\n            }\n        }\n    </style>\n    <script>\n        window.addEventListener('DOMContentLoaded', () => {\n            document.body.addEventListener('click', () => {\n                var node = event.target;\n                while (node) {\n                    if (node.tagName === \"A\" && node.href) {\n                        var baseElement = event.view.document.getElementsByTagName(\"base\")[0];\n                        if (node.getAttribute(\"href\") === \"#\") {\n                            event.view.scrollTo(0, 0);\n                        } else if (node.hash && (node.getAttribute(\"href\") === node.hash || (baseElement && node.href.indexOf(baseElement.href) >= 0))) {\n                            var scrollTarget = event.view.document.getElementById(node.hash.substr(1, node.hash.length - 1));\n                            if (scrollTarget) {\n                                scrollTarget.scrollIntoView();\n                            }\n                        } else {\n                            window.parent.open(node.href);\n                        }\n                        event.preventDefault();\n                        break;\n                    }\n                    node = node.parentNode;\n                }\n            })\n        })\n\n        window.addEventListener('message', (event) => {\n            if (!event.data) {\n                return\n            }\n\n            if (event.data.scrollTop) {\n                window.scrollTo(0, 0);\n            }\n\n            document.body.innerHTML = event.data.content\n        });\n    </script>\n</head>\n\n<body class=\"mw-body-content\">\n</body>\n\n</html>"
 
 /***/ }),
 /* 216 */
